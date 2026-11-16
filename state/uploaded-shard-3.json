@@ -907932,6 +907932,32 @@
         "download_sec": 30.0,
         "upload_sec": 77.1
       }
+    },
+    {
+      "episode_id": 19935,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "Elena z Avaloru S02E06 - Věda jen pro vyvolené CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -26595881911078962,
+      "external_id": "5184484a7a2e1464",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e6-science-unfair-cs/5184484a7a2e1464",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31101885,
+      "size_bytes": 319620104,
+      "uploaded_at": "2026-11-16T23:45:55Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 18.5,
+        "upload_sec": 42.4
+      }
     }
   ],
   "pending_uploads": [
@@ -909036,22 +909062,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 19935,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 2,
-      "episode": 6,
-      "display_name": "Elena z Avaloru S02E06 - Věda jen pro vyvolené CZ Dabing",
-      "intent_id": "2036ceaed1284736aa4e400aec16f9a5",
-      "started_at": "2026-11-16T23:44:37Z",
-      "upload_account": "serialy",
-      "source_id": -26595881911078962,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s2e6-science-unfair-cs/5184484a7a2e1464",
-      "size_bytes": 319620104,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327078,5 +1327088,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T23:44:37Z"
+  "last_updated": "2026-11-16T23:45:55Z"
 }
