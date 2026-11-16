@@ -907750,6 +907750,58 @@
         "download_sec": 15.8,
         "upload_sec": 130.9
       }
+    },
+    {
+      "episode_id": 187586,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 22,
+      "episode_code": "S06E22",
+      "display_name": "Požárník Sam S06E22 - Letadélko CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -11658112703058587,
+      "external_id": "5c74323cba9f5",
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e22-cz-dabing-pro-deti/5c74323cba9f5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31095603,
+      "size_bytes": 345676764,
+      "uploaded_at": "2026-11-16T17:43:00Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 19.4,
+        "upload_sec": 48.9
+      }
+    },
+    {
+      "episode_id": 65210,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 54,
+      "episode_code": "S02E54",
+      "display_name": "Soy Luna S02E54 - 54. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -62238089463091276,
+      "external_id": "5c6e691141695",
+      "source_url": "https://prehraj.to/soy-luna-2x54/5c6e691141695",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31095663,
+      "size_bytes": 562734777,
+      "uploaded_at": "2026-11-16T17:45:51Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 30.6,
+        "upload_sec": 65.7
+      }
     }
   ],
   "pending_uploads": [
@@ -908838,6 +908890,22 @@
       "source_id": -21636228463674450,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e19-cz-dabing-pro-deti/5c743214f3007",
       "size_bytes": 345696274,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 187587,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 23,
+      "display_name": "Požárník Sam S06E23 - Švindlíř Norman CZ Dabing",
+      "intent_id": "91486196191745eb8900d4854fa4cf41",
+      "started_at": "2026-11-16T21:56:12Z",
+      "upload_account": "serialy",
+      "source_id": -57767018166248116,
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e23-cz-dabing-pro-deti/5c743251216e5",
+      "size_bytes": 340462666,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1326864,5 +1326932,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T17:38:12Z"
+  "last_updated": "2026-11-16T21:56:12Z"
 }
