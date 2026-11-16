@@ -909038,6 +909038,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 19935,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 6,
+      "display_name": "Elena z Avaloru S02E06 - Věda jen pro vyvolené CZ Dabing",
+      "intent_id": "2036ceaed1284736aa4e400aec16f9a5",
+      "started_at": "2026-11-16T23:44:37Z",
+      "upload_account": "serialy",
+      "source_id": -26595881911078962,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e6-science-unfair-cs/5184484a7a2e1464",
+      "size_bytes": 319620104,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327062,5 +1327078,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T23:43:45Z"
+  "last_updated": "2026-11-16T23:44:37Z"
 }
