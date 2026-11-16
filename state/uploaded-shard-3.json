@@ -907802,6 +907802,32 @@
         "download_sec": 30.6,
         "upload_sec": 65.7
       }
+    },
+    {
+      "episode_id": 187587,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 23,
+      "episode_code": "S06E23",
+      "display_name": "Požárník Sam S06E23 - Švindlíř Norman CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -57767018166248116,
+      "external_id": "5c743251216e5",
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e23-cz-dabing-pro-deti/5c743251216e5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31100271,
+      "size_bytes": 340462666,
+      "uploaded_at": "2026-11-16T21:57:25Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 68.3,
+        "upload_sec": 32.8
+      }
     }
   ],
   "pending_uploads": [
@@ -908890,22 +908916,6 @@
       "source_id": -21636228463674450,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e19-cz-dabing-pro-deti/5c743214f3007",
       "size_bytes": 345696274,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187587,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 6,
-      "episode": 23,
-      "display_name": "Požárník Sam S06E23 - Švindlíř Norman CZ Dabing",
-      "intent_id": "91486196191745eb8900d4854fa4cf41",
-      "started_at": "2026-11-16T21:56:12Z",
-      "upload_account": "serialy",
-      "source_id": -57767018166248116,
-      "source_url": "https://prehraj.to/pozarnik-sam-s06e23-cz-dabing-pro-deti/5c743251216e5",
-      "size_bytes": 340462666,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1326932,5 +1326942,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T21:56:12Z"
+  "last_updated": "2026-11-16T21:57:25Z"
 }
