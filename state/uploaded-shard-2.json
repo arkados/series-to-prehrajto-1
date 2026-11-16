@@ -907828,6 +907828,32 @@
         "download_sec": 68.3,
         "upload_sec": 32.8
       }
+    },
+    {
+      "episode_id": 187591,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 2,
+      "episode_code": "S07E02",
+      "display_name": "Požárník Sam S07E02 - Čichací pes na baterky CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -18953358832526565,
+      "external_id": "5c743fca35ffd",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e02-cz-dabing-pro-deti/5c743fca35ffd",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31100632,
+      "size_bytes": 345139415,
+      "uploaded_at": "2026-11-16T22:19:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.8,
+        "upload_sec": 38.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1326942,5 +1326968,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T22:14:14Z"
+  "last_updated": "2026-11-16T22:24:25Z"
 }
