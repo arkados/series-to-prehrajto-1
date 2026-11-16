@@ -907880,6 +907880,32 @@
         "download_sec": 12.4,
         "upload_sec": 42.1
       }
+    },
+    {
+      "episode_id": 65202,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 45,
+      "episode_code": "S02E45",
+      "display_name": "Soy Luna S02E45 - 45. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -36339424860393820,
+      "external_id": "d7e925e60a26f620",
+      "source_url": "https://prehraj.to/soy-luna-s2e45-episode-45-cs/d7e925e60a26f620",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31101110,
+      "size_bytes": 520781208,
+      "uploaded_at": "2026-11-16T22:47:04Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 187.6,
+        "upload_sec": 31.1
+      }
     }
   ],
   "pending_uploads": [
@@ -908970,6 +908996,22 @@
       "size_bytes": 345696274,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2363,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 5,
+      "display_name": "Elena z Avaloru S02E05 - Špeh v paláci CZ Dabing",
+      "intent_id": "6e89f69c94cf4705b429fdcaac0ab938",
+      "started_at": "2026-11-16T22:55:43Z",
+      "upload_account": "serialy",
+      "source_id": -10470971129138691,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
+      "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1326994,5 +1327036,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T22:40:09Z"
+  "last_updated": "2026-11-16T22:55:43Z"
 }
