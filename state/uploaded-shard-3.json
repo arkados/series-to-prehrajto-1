@@ -909012,6 +909012,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 65203,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 47,
+      "display_name": "Soy Luna S02E47 - 47. epizoda CZ Dabing",
+      "intent_id": "f9f0e8c0a3944200b7b392c85d2c6062",
+      "started_at": "2026-11-16T23:41:07Z",
+      "upload_account": "serialy",
+      "source_id": -64589259873820996,
+      "source_url": "https://prehraj.to/soy-luna-s2e47-episode-47-cs/82b4b9f51fd55836",
+      "size_bytes": 538611220,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327036,5 +1327052,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T22:55:43Z"
+  "last_updated": "2026-11-16T23:41:07Z"
 }
