@@ -910759,6 +910759,32 @@
         "download_sec": 398.9,
         "upload_sec": 25.3
       }
+    },
+    {
+      "episode_id": 141801,
+      "series_id": 4452,
+      "series_title": "Moje nesnesitelná puberťačka",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Moje nesnesitelná puberťačka S01E11 - 11. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -17629180506440383,
+      "external_id": "57ba21606fc75",
+      "source_url": "https://prehraj.to/moje-nesnesitelna-pubertacka-s01e11-czdab/57ba21606fc75",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31100993,
+      "size_bytes": 332008936,
+      "uploaded_at": "2026-11-16T22:40:09Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 712.1,
+        "upload_sec": 33.0
+      }
     }
   ],
   "pending_uploads": [
@@ -1329905,5 +1329931,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T22:24:25Z"
+  "last_updated": "2026-11-16T22:40:09Z"
 }
