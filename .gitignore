@@ -1,0 +1,25 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+.playwright-mcp/
+*.mp4
+*.mkv
+*.avi
+*.part
+audits/language-audit.jsonl
+audits/language-audit-latest.jsonl
+state/*.log
+.last-*
+.cache/
+.upload-checkpoints/
+
+# Local operating documentation and private access material
+README*
+AGENTS.md
+MIGRATION_HANDOFF.md
+docs/
+*.pem
+*.key
+access.json

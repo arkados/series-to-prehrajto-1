@@ -1,0 +1,23 @@
+name: ci
+on:
+  push:
+    branches: [main]
+    paths: ["src/**", "tests/**", ".github/workflows/**", "requirements*.txt", "config/**"]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest
+      - run: python -m pytest -q
+      - run: python src/audit_migration.py

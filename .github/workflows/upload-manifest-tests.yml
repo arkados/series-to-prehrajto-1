@@ -1,0 +1,107 @@
+name: upload-manifest-tests
+on:
+  pull_request:
+    paths:
+      - "src/build_upload_manifest.py"
+      - "src/download.py"
+      - "src/setup_whisper_runtime.py"
+      - "src/audio_sampling.py"
+      - "src/language_checks.py"
+      - "tests/test_audio_sampling.py"
+      - "requirements-whisper.txt"
+      - "src/sync_batch.py"
+      - "src/pick_next_episode.py"
+      - "src/source_download.py"
+      - "src/download_policy.py"
+      - "src/ops_status.py"
+      - "src/prehrajto_upload.py"
+      - "src/audit_language_sources.py"
+      - "src/prepare_episode_sources.py"
+      - "src/process_whisper_review_queue.py"
+      - "src/source_quality.py"
+      - "src/resolve_stream.py"
+      - "src/request_backoff.py"
+      - "src/source_transport.py"
+      - "src/check_source_transport.py"
+      - "tests/test_source_transport.py"
+      - "src/prehrajto_search.py"
+      - "src/merge_preparation_results.py"
+      - "tests/test_stream_size_probe.py"
+      - "tests/test_download_resume.py"
+      - "tests/test_source_download.py"
+      - "tests/test_upload_original_format.py"
+      - "tests/test_sync_complete_download.py"
+      - "tests/test_download_policy_upgrade.py"
+      - "tests/test_ops_status_stdlib.py"
+      - "tests/test_build_upload_manifest.py"
+      - "tests/test_source_discovery_recovery.py"
+      - "tests/test_preparation_upload_failures.py"
+      - "tests/test_prepared_plan_preservation.py"
+      - "tests/test_whisper_review_sizes.py"
+      - "tests/test_upload_recovery.py"
+      - "tests/test_review_recovery.py"
+      - "tests/test_resolver_failure_policy.py"
+      - "tests/test_prepare_episode_sources.py"
+      - ".github/workflows/upload-manifest-tests.yml"
+      - ".github/workflows/process-whisper-review.yml"
+      - ".github/workflows/prepare-manifest.yml"
+      - ".github/workflows/prepare-sources.yml"
+      - "src/upload_state_merge.py"
+      - "src/diagnostic_redaction.py"
+      - "src/ops_watchdog.py"
+      - "src/export_backlog.py"
+      - "tests/test_upload_checkpoints.py"
+      - "tests/test_checkpoint_contention.py"
+      - "tests/test_whisper_runtime.py"
+      - "tests/test_whisper_dependencies.py"
+      - ".github/workflows/audit-language.yml"
+      - ".github/workflows/external-subtitles.yml"
+      - "tests/test_export_backlog.py"
+      - "tests/test_pick_next_episode.py"
+      - "tests/test_upload_state_merge.py"
+      - "tests/test_ops_watchdog.py"
+      - ".github/workflows/sync.yml"
+  workflow_dispatch:
+    inputs:
+      live_transport:
+        description: "Read-only live source and search check from the runner"
+        type: boolean
+        default: false
+permissions:
+  contents: read
+jobs:
+  whisper-runtime:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install the packaged audio runtime
+        run: pip install -r requirements-whisper.txt
+      - name: Configure FFmpeg without apt
+        run: python src/setup_whisper_runtime.py
+      - name: Verify decoding, resampling and HTTPS protocol support
+        run: |
+          python -m unittest discover -s tests -p test_whisper_dependencies.py
+          python -m unittest discover -s tests -p test_audio_sampling.py
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest
+      - run: python -m pytest tests/test_download_resume.py tests/test_stream_size_probe.py tests/test_source_download.py tests/test_upload_original_format.py tests/test_sync_complete_download.py tests/test_download_policy_upgrade.py tests/test_ops_status_stdlib.py tests/test_build_upload_manifest.py tests/test_source_discovery_recovery.py tests/test_preparation_upload_failures.py tests/test_prepared_plan_preservation.py tests/test_prepare_episode_sources.py tests/test_merge_preparation_results.py tests/test_upload_recovery.py tests/test_whisper_review_sizes.py tests/test_review_recovery.py tests/test_resolver_failure_policy.py tests/test_upload_checkpoints.py tests/test_checkpoint_contention.py tests/test_whisper_runtime.py tests/test_audio_sampling.py tests/test_source_transport.py tests/test_prehrajto_search.py tests/test_export_backlog.py tests/test_pick_next_episode.py tests/test_upload_state_merge.py tests/test_ops_watchdog.py -q
+      - name: Verify live source transport from the runner
+        if: github.event_name == 'workflow_dispatch' && inputs.live_transport
+        timeout-minutes: 3
+        env:
+          CZ_PROXY_URL: ${{ secrets.CZ_PROXY_URL }}
+          CZ_PROXY_KEY: ${{ secrets.CZ_PROXY_KEY }}
+        run: >-
+          python src/check_source_transport.py
+          --detail-url https://prehraj.to/mr-plankton-s01e07-hd-cztitulky/67818d3661f1c
+          --query "Mr Plankton S01E06"

@@ -1,0 +1,9 @@
+{
+  "release": "migration-20261116",
+  "asset": "external-subtitle-state-final.zip",
+  "sha256": "4e33e31338113d02dc0f9e893dc38ab9d401c44e4326d0b58d7f4ca9c7b7b9fb",
+  "expires_at": "2026-11-23T22:00:00+00:00",
+  "source_repository": "Olbrasoft/series-to-prehrajto-2",
+  "source_run": 43782490023,
+  "source_artifact": 14188299108
+}
