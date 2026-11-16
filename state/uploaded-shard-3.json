@@ -907906,6 +907906,32 @@
         "download_sec": 187.6,
         "upload_sec": 31.1
       }
+    },
+    {
+      "episode_id": 65203,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 47,
+      "episode_code": "S02E47",
+      "display_name": "Soy Luna S02E47 - 47. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -64589259873820996,
+      "external_id": "82b4b9f51fd55836",
+      "source_url": "https://prehraj.to/soy-luna-s2e47-episode-47-cs/82b4b9f51fd55836",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31101844,
+      "size_bytes": 538611220,
+      "uploaded_at": "2026-11-16T23:43:45Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 30.0,
+        "upload_sec": 77.1
+      }
     }
   ],
   "pending_uploads": [
@@ -909010,22 +909036,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 65203,
-      "series_id": 1502,
-      "series_title": "Soy Luna",
-      "season": 2,
-      "episode": 47,
-      "display_name": "Soy Luna S02E47 - 47. epizoda CZ Dabing",
-      "intent_id": "f9f0e8c0a3944200b7b392c85d2c6062",
-      "started_at": "2026-11-16T23:41:07Z",
-      "upload_account": "serialy",
-      "source_id": -64589259873820996,
-      "source_url": "https://prehraj.to/soy-luna-s2e47-episode-47-cs/82b4b9f51fd55836",
-      "size_bytes": 538611220,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327052,5 +1327062,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T23:41:07Z"
+  "last_updated": "2026-11-16T23:43:45Z"
 }
