@@ -907854,6 +907854,32 @@
         "download_sec": 16.8,
         "upload_sec": 38.4
       }
+    },
+    {
+      "episode_id": 141803,
+      "series_id": 4452,
+      "series_title": "Moje nesnesitelná puberťačka",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Moje nesnesitelná puberťačka S01E09 - 9. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -42898337128011979,
+      "external_id": "57ba218f7c383",
+      "source_url": "https://prehraj.to/moje-nesnesitelna-pubertacka-s01e09-czdab/57ba218f7c383",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31100810,
+      "size_bytes": 331205536,
+      "uploaded_at": "2026-11-16T22:28:55Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.4,
+        "upload_sec": 42.1
+      }
     }
   ],
   "pending_uploads": [
@@ -908944,6 +908970,22 @@
       "size_bytes": 345696274,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 65202,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 45,
+      "display_name": "Soy Luna S02E45 - 45. epizoda CZ Dabing",
+      "intent_id": "a3b28146ef8d4d74b8729471ea0a7adc",
+      "started_at": "2026-11-16T22:45:51Z",
+      "upload_account": "serialy",
+      "source_id": -36339424860393820,
+      "source_url": "https://prehraj.to/soy-luna-s2e45-episode-45-cs/d7e925e60a26f620",
+      "size_bytes": 520781208,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1326968,5 +1327010,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T22:24:25Z"
+  "last_updated": "2026-11-16T22:45:51Z"
 }
