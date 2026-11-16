@@ -907958,6 +907958,32 @@
         "download_sec": 18.5,
         "upload_sec": 42.4
       }
+    },
+    {
+      "episode_id": 203583,
+      "series_id": 681,
+      "series_title": "Země gangů",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Země gangů S02E02 - 2. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -61689943321827764,
+      "external_id": "a1e5150ccb27040f",
+      "source_url": "https://prehraj.to/zeme-gangu-s02e02-cz-dabing-2160p-uhd-mkv/a1e5150ccb27040f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102085,
+      "size_bytes": 829607311,
+      "uploaded_at": "2026-11-16T23:59:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.6,
+        "upload_sec": 53.3
+      }
     }
   ],
   "pending_uploads": [
@@ -909062,22 +909088,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 203583,
-      "series_id": 681,
-      "series_title": "Země gangů",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Země gangů S02E02 - 2. epizoda CZ Dabing",
-      "intent_id": "76bcc48e7f394b9c883b799f8ceb78a2",
-      "started_at": "2026-11-16T23:57:48Z",
-      "upload_account": "serialy",
-      "source_id": -61689943321827764,
-      "source_url": "https://prehraj.to/zeme-gangu-s02e02-cz-dabing-2160p-uhd-mkv/a1e5150ccb27040f",
-      "size_bytes": 829607311,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327104,5 +1327114,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T23:57:48Z"
+  "last_updated": "2026-11-16T23:59:20Z"
 }
