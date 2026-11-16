@@ -16,6 +16,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from ops_status import main as build_status  # noqa: E402
 from upload_queue_status import upload_ready_rows  # noqa: E402
+from pick_next_episode import (  # noqa: E402
+    burned_source_ids, cooling_down_source_ids, episode_key, load_state,
+    uploaded_episode_ids, uploaded_episode_keys,
+)
 from subtitle_priority import hold_source_search  # noqa: E402
 from subtitle_queue_status import queue_status as subtitle_queue_status  # noqa: E402
 
@@ -101,12 +105,21 @@ def load_jsonl(path: Path) -> list[dict]:
 
 
 def prepared_episode_ids() -> set[int]:
+    state = load_state()
+    excluded_ids = uploaded_episode_ids(state)
+    excluded_keys = uploaded_episode_keys(state)
+    unavailable = burned_source_ids(state) | cooling_down_source_ids(state)
+    latest = {int(row["episode_id"]): row
+              for row in load_jsonl(REPO / "plans" / "prepared-episodes.jsonl")
+              if row.get("episode_id") is not None}
     return {
         int(row["episode_id"])
-        for row in load_jsonl(REPO / "plans" / "prepared-episodes.jsonl")
-        if row.get("episode_id") is not None
+        for row in latest.values()
+        if int(row["episode_id"]) not in excluded_ids
+        and episode_key(row) not in excluded_keys
         and row.get("upload_ready")
         and (row.get("selected_source") or {}).get("source_id") is not None
+        and int(row["selected_source"]["source_id"]) not in unavailable
     }
 
 
@@ -226,7 +239,9 @@ def main() -> int:
     upload_ready = len(upload_ready_rows(require_description=False))
     backlog_count = int(counts.get("backlog_episodes") or 0)
     manifest_ready = int(counts.get("manifest_upload_ready_episodes") or 0)
-    prepared_source_episodes = int(counts.get("prepared_source_episodes") or 0)
+    # Historical plans, including completed and failed episodes, cannot refill
+    # the upload window. Count only the remaining usable source reserve.
+    prepared_source_episodes = len(prepared_episode_ids())
     language_queue_sources = int(counts.get("language_queue_sources") or 0)
     unprepared_queue_episodes = unprepared_source_queue_episodes()
     pending_whisper = int(counts.get("language_pending_whisper_sources") or 0)

@@ -110,3 +110,28 @@ def test_paused_alternate_lookup_keeps_attachment_running(monkeypatch):
     monkeypatch.setattr(ops_watchdog, "recently_started", lambda *a: (_ for _ in ()).throw(AssertionError("Paused search needs no API check")))
     ops_watchdog.queue_subtitle_work({"actionable": 3, "alternate_pending": 2000}, active=set(), dry_run=False)
     assert calls == ["backfill-subtitles"]
+
+
+def test_source_reserve_excludes_completed_reserved_and_dead_sources(monkeypatch):
+    def row(eid, **changes):
+        return dict(episode_id=eid, series_id=1, season=1, episode=eid,
+                    upload_ready=True, selected_source={"source_id": eid}, **changes)
+
+    rows = [row(i) for i in range(1, 8)]
+    # A different database ID for the same completed episode is also excluded.
+    rows[5]["episode"] = 1
+    rows[6]["upload_ready"] = False
+    state = {"uploads": [row(1)], "pending_uploads": [row(2)],
+             "failed_attempts": [{"source_id": 3, "permanent": True}]}
+    monkeypatch.setattr(ops_watchdog, "load_state", lambda: state)
+    monkeypatch.setattr(ops_watchdog, "load_jsonl", lambda _: rows)
+    monkeypatch.setattr(ops_watchdog, "cooling_down_source_ids", lambda _: {4})
+    assert ops_watchdog.prepared_episode_ids() == {5}
+
+
+def test_latest_failed_plan_does_not_count_as_an_available_source(monkeypatch):
+    ready = dict(episode_id=1, series_id=1, season=1, episode=1,
+                 upload_ready=True, selected_source={"source_id": 1})
+    monkeypatch.setattr(ops_watchdog, "load_state", lambda: {"uploads": [], "failed_attempts": []})
+    monkeypatch.setattr(ops_watchdog, "load_jsonl", lambda _: [ready, {**ready, "upload_ready": False}])
+    assert ops_watchdog.prepared_episode_ids() == set()
