@@ -910681,6 +910681,32 @@
         "download_sec": 44.6,
         "upload_sec": 57.3
       }
+    },
+    {
+      "episode_id": 187588,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 24,
+      "episode_code": "S06E24",
+      "display_name": "Požárník Sam S06E24 - Normanova Archa CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -27279940265183244,
+      "external_id": "5c743261bd3a3",
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e24-cz-dabing-pro-deti/5c743261bd3a3",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31100547,
+      "size_bytes": 338923902,
+      "uploaded_at": "2026-11-16T22:14:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 257.8,
+        "upload_sec": 34.2
+      }
     }
   ],
   "pending_uploads": [
@@ -911801,22 +911827,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187588,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 6,
-      "episode": 24,
-      "display_name": "Požárník Sam S06E24 - Normanova Archa CZ Titulky",
-      "intent_id": "9c0f754fdd1d48e4a52f18313c5a93c5",
-      "started_at": "2026-11-16T22:13:11Z",
-      "upload_account": "primary",
-      "source_id": -27279940265183244,
-      "source_url": "https://prehraj.to/pozarnik-sam-s06e24-cz-dabing-pro-deti/5c743261bd3a3",
-      "size_bytes": 338923902,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1329843,5 +1329853,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T22:13:11Z"
+  "last_updated": "2026-11-16T22:14:14Z"
 }
