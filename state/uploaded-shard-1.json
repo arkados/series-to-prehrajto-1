@@ -910655,6 +910655,32 @@
         "download_sec": 15.4,
         "upload_sec": 51.7
       }
+    },
+    {
+      "episode_id": 2356,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "Elena z Avaloru S02E13 - Královský jarmark CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -35664195695184586,
+      "external_id": "c2500fe2a31fec3a",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e13-all-kingdoms-fair-cs/c2500fe2a31fec3a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31095572,
+      "size_bytes": 343125872,
+      "uploaded_at": "2026-11-16T17:41:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 44.6,
+        "upload_sec": 57.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1329801,5 +1329827,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-16T17:39:27Z"
+  "last_updated": "2026-11-16T17:45:51Z"
 }
