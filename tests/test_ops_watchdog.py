@@ -115,7 +115,9 @@ def test_paused_alternate_lookup_keeps_attachment_running(monkeypatch):
 def test_source_reserve_excludes_completed_reserved_and_dead_sources(monkeypatch):
     def row(eid, **changes):
         return dict(episode_id=eid, series_id=1, season=1, episode=eid,
-                    upload_ready=True, selected_source={"source_id": eid}, **changes)
+                    upload_ready=True, selected_source={"source_id": eid,
+                    "verdict": "PROBABLE_CZ_AUDIO", "filesize_bytes": 400 * 1024 * 1024,
+                    "source_url": f"https://video.example/{eid}"}, **changes)
 
     rows = [row(i) for i in range(1, 8)]
     # A different database ID for the same completed episode is also excluded.
@@ -135,3 +137,19 @@ def test_latest_failed_plan_does_not_count_as_an_available_source(monkeypatch):
     monkeypatch.setattr(ops_watchdog, "load_state", lambda: {"uploads": [], "failed_attempts": []})
     monkeypatch.setattr(ops_watchdog, "load_jsonl", lambda _: [ready, {**ready, "upload_ready": False}])
     assert ops_watchdog.prepared_episode_ids() == set()
+
+
+def test_reserve_obeys_size_proof_and_can_use_a_live_fallback(monkeypatch):
+    source = dict(source_id=1, verdict="CZ_AUDIO", filesize_bytes=400 * 1024 * 1024,
+                  source_url="https://video.example/1")
+    plan = dict(episode_id=1, series_id=1, season=1, episode=1,
+                upload_ready=True, selected_source=source)
+    monkeypatch.setattr(ops_watchdog, "load_state", lambda: {"uploads": [], "failed_attempts": []})
+    monkeypatch.setattr(ops_watchdog, "load_jsonl", lambda _: [plan])
+    assert ops_watchdog.prepared_episode_ids() == {1}
+    source["filesize_bytes"] = 10
+    assert ops_watchdog.prepared_episode_ids() == set()
+    source["filesize_bytes"] = None
+    assert ops_watchdog.prepared_episode_ids() == set()
+    plan["tested_sources"] = [{**source, "source_id": 2, "filesize_bytes": 400 * 1024 * 1024}]
+    assert ops_watchdog.prepared_episode_ids() == {1}

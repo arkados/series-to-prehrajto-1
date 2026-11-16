@@ -16,6 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from ops_status import main as build_status  # noqa: E402
 from upload_queue_status import upload_ready_rows  # noqa: E402
+from build_upload_manifest import upload_candidate_ids  # noqa: E402
 from pick_next_episode import (  # noqa: E402
     burned_source_ids, cooling_down_source_ids, episode_key, load_state,
     uploaded_episode_ids, uploaded_episode_keys,
@@ -112,15 +113,22 @@ def prepared_episode_ids() -> set[int]:
     latest = {int(row["episode_id"]): row
               for row in load_jsonl(REPO / "plans" / "prepared-episodes.jsonl")
               if row.get("episode_id") is not None}
-    return {
-        int(row["episode_id"])
-        for row in latest.values()
-        if int(row["episode_id"]) not in excluded_ids
-        and episode_key(row) not in excluded_keys
-        and row.get("upload_ready")
-        and (row.get("selected_source") or {}).get("source_id") is not None
-        and int(row["selected_source"]["source_id"]) not in unavailable
-    }
+    available = set()
+    for row in latest.values():
+        eid = int(row["episode_id"])
+        if eid in excluded_ids or episode_key(row) in excluded_keys:
+            continue
+        if not row.get("upload_ready") or not row.get("selected_source"):
+            continue
+        candidates = set(upload_candidate_ids(row, unavailable))
+        sources = [row["selected_source"], *(row.get("tested_sources") or [])]
+        if any(source and source.get("source_id") is not None
+               and int(source["source_id"]) in candidates
+               and (source.get("filesize_bytes") is not None
+                    or ((source.get("signals") or {}).get("provider_probe") or {}).get("streams"))
+               for source in sources):
+            available.add(eid)
+    return available
 
 
 def unprepared_source_queue_episodes() -> int:
