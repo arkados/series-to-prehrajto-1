@@ -910993,6 +910993,32 @@
         "download_sec": 16.2,
         "upload_sec": 63.3
       }
+    },
+    {
+      "episode_id": 2293,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "Elena z Avaloru S03E03 - Tatík šéfík CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -65712492097697690,
+      "external_id": "0d6226c7bdeda439",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e3-father-in-chief-cs/0d6226c7bdeda439",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31104158,
+      "size_bytes": 383753075,
+      "uploaded_at": "2026-11-17T01:20:57Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 20.4,
+        "upload_sec": 46.5
+      }
     }
   ],
   "pending_uploads": [
@@ -912115,6 +912141,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2292,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 2,
+      "display_name": "Elena z Avaloru S03E02 - Zachraňte slunečního ptáka CZ Dabing",
+      "intent_id": "4cc1de2190f341db8dd22c4245c10050",
+      "started_at": "2026-11-17T01:24:14Z",
+      "upload_account": "primary",
+      "source_id": -53174230336930339,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e2-to-save-a-sunbird-cs/88195edd52f29e99",
+      "size_bytes": 395052579,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330139,5 +1330181,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T01:08:38Z"
+  "last_updated": "2026-11-17T01:24:14Z"
 }
