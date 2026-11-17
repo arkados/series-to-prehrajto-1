@@ -2,37 +2,93 @@
   "counts": {
     "backlog_episodes": 108826,
     "manifest_upload_ready_episodes": 0,
-    "uploaded_episodes": 82828,
-    "prepared_source_episodes": 68046,
+    "uploaded_episodes": 82831,
+    "prepared_source_episodes": 68041,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 41,
+    "language_audited_sources": 44,
+    "language_whisper_attempted_sources": 44,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53564,
-    "whisper_review_pending_sources": 36394,
-    "upload_pending_checkpoints": 140,
-    "subtitle_followup_sources": 52203,
-    "subtitle_followup_pending_sources": 52203
+    "whisper_review_sources": 53562,
+    "whisper_review_pending_sources": 36390,
+    "upload_pending_checkpoints": 139,
+    "subtitle_followup_sources": 52205,
+    "subtitle_followup_pending_sources": 52205
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-17T23:31:12Z",
-      "databaseId": 44200072598,
+      "createdAt": "2026-11-17T23:42:18Z",
+      "databaseId": 44201679124,
       "headBranch": "main",
       "status": "in_progress",
-      "workflowName": "backfill-subtitles"
+      "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T23:38:26Z",
+      "databaseId": 44201129848,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-17T23:34:21Z",
+      "databaseId": 44200535539,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T23:32:41Z",
+      "databaseId": 44200287151,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T23:32:35Z",
+      "databaseId": 44200273145,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T23:32:10Z",
+      "databaseId": 44200214441,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T23:32:07Z",
+      "databaseId": 44200205659,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T23:31:12Z",
+      "databaseId": 44200072598,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T23:30:35Z",
       "databaseId": 44199976329,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -68,11 +124,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T23:27:32Z",
       "databaseId": 44199535107,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -92,11 +148,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-17T23:26:06Z",
       "databaseId": 44199329614,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T23:16:27Z",
-      "databaseId": 44197906004,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T23:14:27Z",
-      "databaseId": 44197603200,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-17T23:14:24Z",
-      "databaseId": 44197596942,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T23:14:20Z",
-      "databaseId": 44197588950,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T23:13:30Z",
-      "databaseId": 44197467982,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T23:12:58Z",
-      "databaseId": 44197383548,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T23:12:32Z",
-      "databaseId": 44197314771,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -203477,6 +203477,11 @@
         "video_id": 31131609
       },
       {
+        "episode_id": 94080,
+        "display_name": "Star Wars: Odboj S01E10 - 10. epizoda CZ Titulky",
+        "video_id": 31133270
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -388550,6 +388555,16 @@
         "episode_id": 183355,
         "display_name": "Tučňáci z Madagaskaru  S02E50 - Čtverylka s dvojníky CZ Dabing",
         "video_id": 31132712
+      },
+      {
+        "episode_id": 157818,
+        "display_name": "Strong Woman Do Bong Soon S01E15 - 15. epizoda CZ Titulky",
+        "video_id": 31133086
+      },
+      {
+        "episode_id": 94078,
+        "display_name": "Star Wars: Odboj S01E11 - 11. epizoda CZ Titulky",
+        "video_id": 31133252
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -591744,6 +591759,11 @@
         "video_id": 31131609
       },
       {
+        "episode_id": 94080,
+        "display_name": "Star Wars: Odboj S01E10 - 10. epizoda CZ Titulky",
+        "video_id": 31133270
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -776817,6 +776837,16 @@
         "episode_id": 183355,
         "display_name": "Tučňáci z Madagaskaru  S02E50 - Čtverylka s dvojníky CZ Dabing",
         "video_id": 31132712
+      },
+      {
+        "episode_id": 157818,
+        "display_name": "Strong Woman Do Bong Soon S01E15 - 15. epizoda CZ Titulky",
+        "video_id": 31133086
+      },
+      {
+        "episode_id": 94078,
+        "display_name": "Star Wars: Odboj S01E11 - 11. epizoda CZ Titulky",
+        "video_id": 31133252
       }
     ],
     "prepared_not_upload_ready": [
@@ -777978,17 +778008,18 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 2,
-    "ok": 40,
+    "stream_undersized": 2,
+    "sample_failed": 2,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35175,
+    "needs_whisper": 35167,
     "whisper_confirmed_cz": 3869,
-    "whisper_non_cz_needs_subtitles": 13301,
-    "whisper_failed": 1219
+    "whisper_non_cz_needs_subtitles": 13303,
+    "whisper_failed": 1223
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52203
+    "needs_subtitle_setup_after_prehrajto_processing": 52205
   }
 }
