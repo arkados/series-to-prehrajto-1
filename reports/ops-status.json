@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108901,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 82746,
-    "prepared_source_episodes": 68386,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 82747,
+    "prepared_source_episodes": 68374,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 46,
-    "language_whisper_attempted_sources": 44,
+    "language_audited_sources": 57,
+    "language_whisper_attempted_sources": 41,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53595,
     "whisper_review_pending_sources": 36416,
@@ -21,10 +21,42 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T11:34:58Z",
+      "databaseId": 44075317842,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T11:34:32Z",
+      "databaseId": 44075251278,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T11:31:00Z",
+      "databaseId": 44074708102,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T11:30:57Z",
+      "databaseId": 44074700359,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T11:29:36Z",
       "databaseId": 44074487450,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -116,11 +148,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T11:22:18Z",
       "databaseId": 44073410865,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -140,44 +172,12 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T11:20:23Z",
       "databaseId": 44073115230,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T11:19:05Z",
-      "databaseId": 44072913109,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T11:17:18Z",
-      "databaseId": 44072643924,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-17T11:17:15Z",
-      "databaseId": 44072636644,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T11:15:44Z",
-      "databaseId": 44072407657,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -203265,6 +203265,11 @@
         "episode_id": 187609,
         "display_name": "Požárník Sam S07E12 - Pořádný rachot CZ Dabing",
         "video_id": 31116680
+      },
+      {
+        "episode_id": 113277,
+        "display_name": "Sindibádova dobrodružství S01E01 - Sindibádův návrat, část 1 CZ Titulky",
+        "video_id": 31116969
       },
       {
         "episode_id": 114182,
@@ -591124,6 +591129,11 @@
         "video_id": 31116680
       },
       {
+        "episode_id": 113277,
+        "display_name": "Sindibádova dobrodružství S01E01 - Sindibádův návrat, část 1 CZ Titulky",
+        "video_id": 31116969
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -777158,8 +777168,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 2,
-    "ok": 43,
+    "disabled": 16,
+    "ok": 40,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
