@@ -910090,6 +910090,32 @@
         "download_sec": 165.1,
         "upload_sec": 44.9
       }
+    },
+    {
+      "episode_id": 101422,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Milionový lékař S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -65923468578205495,
+      "external_id": "565ef63591fe0",
+      "source_url": "https://prehraj.to/royal-pains-s01e03-cztit-v-obraze/565ef63591fe0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31127793,
+      "size_bytes": 338057236,
+      "uploaded_at": "2026-11-17T20:30:14Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 597.8,
+        "upload_sec": 41.3
+      }
     }
   ],
   "pending_uploads": [
@@ -911196,22 +911222,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 101422,
-      "series_id": 2468,
-      "series_title": "Milionový lékař",
-      "season": 1,
-      "episode": 3,
-      "display_name": "Milionový lékař S01E03 - 3. epizoda CZ Titulky",
-      "intent_id": "70ddb08f3652430c8ea36ba86e382566",
-      "started_at": "2026-11-17T20:28:53Z",
-      "upload_account": "serialy",
-      "source_id": -65923468578205495,
-      "source_url": "https://prehraj.to/royal-pains-s01e03-cztit-v-obraze/565ef63591fe0",
-      "size_bytes": 338057236,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329236,5 +1329246,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T20:28:53Z"
+  "last_updated": "2026-11-17T20:30:14Z"
 }
