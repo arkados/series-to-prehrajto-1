@@ -1,30 +1,86 @@
 {
   "counts": {
     "backlog_episodes": 108933,
-    "manifest_upload_ready_episodes": 8,
-    "uploaded_episodes": 82717,
-    "prepared_source_episodes": 68428,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 82725,
+    "prepared_source_episodes": 68431,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 52,
-    "language_whisper_attempted_sources": 52,
+    "language_audited_sources": 46,
+    "language_whisper_attempted_sources": 45,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53598,
-    "whisper_review_pending_sources": 36423,
+    "whisper_review_pending_sources": 36422,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52149,
-    "subtitle_followup_pending_sources": 52149
+    "subtitle_followup_sources": 52151,
+    "subtitle_followup_pending_sources": 52151
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T08:30:52Z",
+      "databaseId": 44047375311,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T08:30:06Z",
+      "databaseId": 44047257038,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T08:29:13Z",
+      "databaseId": 44047130087,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T08:23:24Z",
+      "databaseId": 44046307840,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T08:23:21Z",
+      "databaseId": 44046301584,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T08:23:18Z",
+      "databaseId": 44046295610,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T08:22:55Z",
+      "databaseId": 44046241456,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T08:21:55Z",
       "databaseId": 44046097219,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -36,11 +92,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-17T08:20:26Z",
       "databaseId": 44045891835,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -68,11 +124,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T08:13:32Z",
       "databaseId": 44044908510,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -92,11 +148,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T08:09:16Z",
       "databaseId": 44044304410,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T08:06:36Z",
-      "databaseId": 44043930720,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T08:06:30Z",
-      "databaseId": 44043918252,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-17T08:06:25Z",
-      "databaseId": 44043905009,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T08:06:05Z",
-      "databaseId": 44043861264,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T08:05:33Z",
-      "databaseId": 44043785304,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T08:04:57Z",
-      "databaseId": 44043697597,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "external-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T08:03:29Z",
-      "databaseId": 44043499936,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
     }
   ],
   "gaps": {
@@ -203192,6 +203192,26 @@
         "video_id": 31113587
       },
       {
+        "episode_id": 129436,
+        "display_name": "Juru Camp S02E02 - 2. epizoda CZ Titulky",
+        "video_id": 31113712
+      },
+      {
+        "episode_id": 129433,
+        "display_name": "Juru Camp S01E11 - 11. epizoda CZ Titulky",
+        "video_id": 31113738
+      },
+      {
+        "episode_id": 129444,
+        "display_name": "Juru Camp S02E11 - 11. epizoda CZ Titulky",
+        "video_id": 31113772
+      },
+      {
+        "episode_id": 129445,
+        "display_name": "Juru Camp S02E12 - 12. epizoda CZ Titulky",
+        "video_id": 31113824
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -387995,6 +388015,26 @@
         "episode_id": 129427,
         "display_name": "Juru Camp S01E03 - 3. epizoda CZ Titulky",
         "video_id": 31113489
+      },
+      {
+        "episode_id": 129434,
+        "display_name": "Juru Camp S01E12 - 12. epizoda CZ Titulky",
+        "video_id": 31113706
+      },
+      {
+        "episode_id": 129435,
+        "display_name": "Juru Camp S02E01 - 1. epizoda CZ Titulky",
+        "video_id": 31113722
+      },
+      {
+        "episode_id": 129446,
+        "display_name": "Juru Camp S02E13 - 13. epizoda CZ Titulky",
+        "video_id": 31113752
+      },
+      {
+        "episode_id": 129443,
+        "display_name": "Juru Camp S02E10 - 10. epizoda CZ Titulky",
+        "video_id": 31113782
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -590904,6 +590944,26 @@
         "video_id": 31113587
       },
       {
+        "episode_id": 129436,
+        "display_name": "Juru Camp S02E02 - 2. epizoda CZ Titulky",
+        "video_id": 31113712
+      },
+      {
+        "episode_id": 129433,
+        "display_name": "Juru Camp S01E11 - 11. epizoda CZ Titulky",
+        "video_id": 31113738
+      },
+      {
+        "episode_id": 129444,
+        "display_name": "Juru Camp S02E11 - 11. epizoda CZ Titulky",
+        "video_id": 31113772
+      },
+      {
+        "episode_id": 129445,
+        "display_name": "Juru Camp S02E12 - 12. epizoda CZ Titulky",
+        "video_id": 31113824
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -775707,6 +775767,26 @@
         "episode_id": 129427,
         "display_name": "Juru Camp S01E03 - 3. epizoda CZ Titulky",
         "video_id": 31113489
+      },
+      {
+        "episode_id": 129434,
+        "display_name": "Juru Camp S01E12 - 12. epizoda CZ Titulky",
+        "video_id": 31113706
+      },
+      {
+        "episode_id": 129435,
+        "display_name": "Juru Camp S02E01 - 1. epizoda CZ Titulky",
+        "video_id": 31113722
+      },
+      {
+        "episode_id": 129446,
+        "display_name": "Juru Camp S02E13 - 13. epizoda CZ Titulky",
+        "video_id": 31113752
+      },
+      {
+        "episode_id": 129443,
+        "display_name": "Juru Camp S02E10 - 10. epizoda CZ Titulky",
+        "video_id": 31113782
       }
     ],
     "prepared_not_upload_ready": [
@@ -776868,17 +776948,18 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 47,
-    "sample_failed": 4,
-    "resolve_failed": 1
+    "sample_failed": 5,
+    "ok": 9,
+    "disabled": 1,
+    "resolve_failed": 31
   },
   "whisper_review_statuses": {
     "needs_whisper": 35272,
     "whisper_confirmed_cz": 3873,
-    "whisper_non_cz_needs_subtitles": 13302,
-    "whisper_failed": 1151
+    "whisper_non_cz_needs_subtitles": 13303,
+    "whisper_failed": 1150
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52149
+    "needs_subtitle_setup_after_prehrajto_processing": 52151
   }
 }
