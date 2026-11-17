@@ -910858,6 +910858,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 101434,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 2,
+      "episode": 3,
+      "display_name": "Milionový lékař S02E03 - 3. epizoda CZ Titulky",
+      "intent_id": "70e1c503139c4c1ca528cff0202ec986",
+      "started_at": "2026-11-17T14:14:22Z",
+      "upload_account": "serialy",
+      "source_id": -28555111008999155,
+      "source_url": "https://prehraj.to/royal-pains-s02e03-cztit-v-obraze/565f04c356b81",
+      "size_bytes": 351221524,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328882,5 +1328898,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:57:42Z"
+  "last_updated": "2026-11-17T14:14:22Z"
 }
