@@ -909882,6 +909882,32 @@
         "download_sec": 17.4,
         "upload_sec": 30.7
       }
+    },
+    {
+      "episode_id": 141798,
+      "series_id": 4452,
+      "series_title": "Moje nesnesitelná puberťačka",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Moje nesnesitelná puberťačka S01E06 - 6. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -24802541094932985,
+      "external_id": "57ba1f6f9742f",
+      "source_url": "https://prehraj.to/moje-nesnesitelna-pubertacka-s01e06-czdab/57ba1f6f9742f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31121833,
+      "size_bytes": 332087646,
+      "uploaded_at": "2026-11-17T15:26:57Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 489.3,
+        "upload_sec": 42.6
+      }
     }
   ],
   "pending_uploads": [
@@ -910988,22 +911014,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 141798,
-      "series_id": 4452,
-      "series_title": "Moje nesnesitelná puberťačka",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Moje nesnesitelná puberťačka S01E06 - 6. epizoda CZ Dabing",
-      "intent_id": "d839512615db46178241d7d54a667e79",
-      "started_at": "2026-11-17T15:25:33Z",
-      "upload_account": "serialy",
-      "source_id": -24802541094932985,
-      "source_url": "https://prehraj.to/moje-nesnesitelna-pubertacka-s01e06-czdab/57ba1f6f9742f",
-      "size_bytes": 332087646,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329028,5 +1329038,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T15:25:33Z"
+  "last_updated": "2026-11-17T15:26:57Z"
 }
