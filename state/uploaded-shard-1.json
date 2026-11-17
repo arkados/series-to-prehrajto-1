@@ -911045,6 +911045,32 @@
         "download_sec": 21.8,
         "upload_sec": 34.3
       }
+    },
+    {
+      "episode_id": 2297,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 7,
+      "episode_code": "S03E07",
+      "display_name": "Elena z Avaloru S03E07 - Květy noci CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -26348529270349998,
+      "external_id": "5220368608f30d81",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e7-flower-of-light-cs/5220368608f30d81",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31105120,
+      "size_bytes": 449747591,
+      "uploaded_at": "2026-11-17T01:56:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.8,
+        "upload_sec": 62.2
+      }
     }
   ],
   "pending_uploads": [
@@ -912167,22 +912193,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2297,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 7,
-      "display_name": "Elena z Avaloru S03E07 - Květy noci CZ Dabing",
-      "intent_id": "e3091b0901984c0d96a04267acd7cfad",
-      "started_at": "2026-11-17T01:54:54Z",
-      "upload_account": "primary",
-      "source_id": -26348529270349998,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e7-flower-of-light-cs/5220368608f30d81",
-      "size_bytes": 449747591,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330207,5 +1330217,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T01:54:54Z"
+  "last_updated": "2026-11-17T01:56:56Z"
 }
