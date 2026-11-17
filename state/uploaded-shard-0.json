@@ -914195,6 +914195,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 87856,
+      "series_id": 2069,
+      "series_title": "Nutné k přežití",
+      "season": 4,
+      "episode": 3,
+      "display_name": "Nutné k přežití S04E03 - 3. epizoda CZ Dabing",
+      "intent_id": "5e68c383ac294e30a59af538c717c988",
+      "started_at": "2026-11-17T22:18:52Z",
+      "upload_account": "primary",
+      "source_id": -42678700966368240,
+      "source_url": "https://prehraj.to/man-vs-wild-4x3/5c4d3994be0ae",
+      "size_bytes": 399725602,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332219,5 +1332235,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T22:11:34Z"
+  "last_updated": "2026-11-17T22:18:52Z"
 }
