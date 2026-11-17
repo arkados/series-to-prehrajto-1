@@ -910052,6 +910052,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 132911,
+      "series_id": 3863,
+      "series_title": "Barva moci",
+      "season": 1,
+      "episode": 4,
+      "display_name": "Barva moci S01E04 - 4. epizoda CZ Titulky",
+      "intent_id": "fc3ed5b4ae2c422985fdf0f62eec617e",
+      "started_at": "2026-11-17T08:07:56Z",
+      "upload_account": "serialy",
+      "source_id": -50226175176530400,
+      "source_url": "https://prehraj.to/barva-moci-s01e04-cz-dab-2017-jad/5b69798ab261b",
+      "size_bytes": 354760438,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328076,5 +1328092,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T05:20:18Z"
+  "last_updated": "2026-11-17T08:07:56Z"
 }
