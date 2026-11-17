@@ -911019,6 +911019,32 @@
         "download_sec": 20.4,
         "upload_sec": 46.5
       }
+    },
+    {
+      "episode_id": 2292,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 2,
+      "episode_code": "S03E02",
+      "display_name": "Elena z Avaloru S03E02 - Zachraňte slunečního ptáka CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -53174230336930339,
+      "external_id": "88195edd52f29e99",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e2-to-save-a-sunbird-cs/88195edd52f29e99",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31104292,
+      "size_bytes": 395052579,
+      "uploaded_at": "2026-11-17T01:25:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.8,
+        "upload_sec": 34.3
+      }
     }
   ],
   "pending_uploads": [
@@ -912141,22 +912167,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2292,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 2,
-      "display_name": "Elena z Avaloru S03E02 - Zachraňte slunečního ptáka CZ Dabing",
-      "intent_id": "4cc1de2190f341db8dd22c4245c10050",
-      "started_at": "2026-11-17T01:24:14Z",
-      "upload_account": "primary",
-      "source_id": -53174230336930339,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e2-to-save-a-sunbird-cs/88195edd52f29e99",
-      "size_bytes": 395052579,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330181,5 +1330191,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T01:24:14Z"
+  "last_updated": "2026-11-17T01:25:40Z"
 }
