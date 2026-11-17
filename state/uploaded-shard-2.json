@@ -911092,6 +911092,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 113290,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Sindibádova dobrodružství S01E03 - Zvíře v kleci CZ Titulky",
+      "intent_id": "2224ddb0decb4e369df1ca09dbdad65d",
+      "started_at": "2026-11-17T16:59:13Z",
+      "upload_account": "serialy",
+      "source_id": -3064625803132927,
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e03/6186340cd73b5",
+      "size_bytes": 411912091,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1329116,5 +1329132,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T16:18:24Z"
+  "last_updated": "2026-11-17T16:59:13Z"
 }
