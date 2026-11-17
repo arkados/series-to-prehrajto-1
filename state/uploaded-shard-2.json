@@ -909674,6 +909674,32 @@
         "download_sec": 229.2,
         "upload_sec": 27.3
       }
+    },
+    {
+      "episode_id": 101430,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Milionový lékař S01E11 - 11. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -38897368913514019,
+      "external_id": "565f012984013",
+      "source_url": "https://prehraj.to/royal-pains-s01e11-cztit-v-obraze/565f012984013",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31119229,
+      "size_bytes": 346223956,
+      "uploaded_at": "2026-11-17T13:25:40Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.3,
+        "upload_sec": 42.4
+      }
     }
   ],
   "pending_uploads": [
@@ -910780,22 +910806,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 101430,
-      "series_id": 2468,
-      "series_title": "Milionový lékař",
-      "season": 1,
-      "episode": 11,
-      "display_name": "Milionový lékař S01E11 - 11. epizoda CZ Titulky",
-      "intent_id": "ae0da6e5ce204db2b2bcfc062f2aa8ad",
-      "started_at": "2026-11-17T13:23:55Z",
-      "upload_account": "serialy",
-      "source_id": -38897368913514019,
-      "source_url": "https://prehraj.to/royal-pains-s01e11-cztit-v-obraze/565f012984013",
-      "size_bytes": 346223956,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328820,5 +1328830,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:23:55Z"
+  "last_updated": "2026-11-17T13:25:40Z"
 }
