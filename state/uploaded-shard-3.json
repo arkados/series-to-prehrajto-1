@@ -908660,6 +908660,32 @@
         "download_sec": 20.0,
         "upload_sec": 34.0
       }
+    },
+    {
+      "episode_id": 107931,
+      "series_id": 2692,
+      "series_title": "Lina, postrach banditů",
+      "season": 4,
+      "episode": 10,
+      "episode_code": "S04E10",
+      "display_name": "Lina, postrach banditů S04E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -11443171889888439,
+      "external_id": "68c1d0e4cd39a",
+      "source_url": "https://prehraj.to/slayers-s04e10-cz-tit-lena/68c1d0e4cd39a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31108366,
+      "size_bytes": 434905481,
+      "uploaded_at": "2026-11-17T04:37:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.1,
+        "upload_sec": 45.1
+      }
     }
   ],
   "pending_uploads": [
@@ -909764,22 +909790,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 107931,
-      "series_id": 2692,
-      "series_title": "Lina, postrach banditů",
-      "season": 4,
-      "episode": 10,
-      "display_name": "Lina, postrach banditů S04E10 - 10. epizoda CZ Titulky",
-      "intent_id": "dd27437de3734aacb91e6c1271fa2026",
-      "started_at": "2026-11-17T04:36:25Z",
-      "upload_account": "serialy",
-      "source_id": -11443171889888439,
-      "source_url": "https://prehraj.to/slayers-s04e10-cz-tit-lena/68c1d0e4cd39a",
-      "size_bytes": 434905481,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327806,5 +1327816,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:36:25Z"
+  "last_updated": "2026-11-17T04:37:56Z"
 }
