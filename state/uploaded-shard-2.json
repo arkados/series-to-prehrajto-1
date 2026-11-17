@@ -910324,6 +910324,32 @@
         "download_sec": 16.5,
         "upload_sec": 30.8
       }
+    },
+    {
+      "episode_id": 124266,
+      "series_id": 3352,
+      "series_title": "Já, Victor",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Já, Victor S01E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -61431594440548637,
+      "external_id": "75b509d8bf78ca27",
+      "source_url": "https://prehraj.to/ja-victor-s1e1-welcome-to-creekwood-en/75b509d8bf78ca27",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31130700,
+      "size_bytes": 392504361,
+      "uploaded_at": "2026-11-17T22:11:34Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 14.9,
+        "upload_sec": 38.3
+      }
     }
   ],
   "pending_uploads": [
@@ -911428,22 +911454,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 124266,
-      "series_id": 3352,
-      "series_title": "Já, Victor",
-      "season": 1,
-      "episode": 1,
-      "display_name": "Já, Victor S01E01 - 1. epizoda CZ Titulky",
-      "intent_id": "1dd2067abeea4b0490f45783c8b688a8",
-      "started_at": "2026-11-17T22:10:13Z",
-      "upload_account": "serialy",
-      "source_id": -61431594440548637,
-      "source_url": "https://prehraj.to/ja-victor-s1e1-welcome-to-creekwood-en/75b509d8bf78ca27",
-      "size_bytes": 392504361,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1329470,5 +1329480,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T22:10:13Z"
+  "last_updated": "2026-11-17T22:11:34Z"
 }
