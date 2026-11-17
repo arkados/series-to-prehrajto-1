@@ -909310,6 +909310,32 @@
         "download_sec": 14.2,
         "upload_sec": 26.3
       }
+    },
+    {
+      "episode_id": 187598,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 8,
+      "episode_code": "S07E08",
+      "display_name": "Požárník Sam S07E08 - Je je jehňátko CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -637473767189173,
+      "external_id": "5c743fcf8ae9e",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e08-cz-dabing-pro-deti/5c743fcf8ae9e",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31116182,
+      "size_bytes": 341299904,
+      "uploaded_at": "2026-11-17T10:53:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.1,
+        "upload_sec": 33.0
+      }
     }
   ],
   "pending_uploads": [
@@ -910418,18 +910444,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 187598,
+      "episode_id": 187595,
       "series_id": 9724,
       "series_title": "Požárník Sam",
       "season": 7,
-      "episode": 8,
-      "display_name": "Požárník Sam S07E08 - Je je jehňátko CZ Dabing",
-      "intent_id": "43a06ccaa7b740d3bba58e3f7ad9b732",
-      "started_at": "2026-11-17T10:52:10Z",
+      "episode": 9,
+      "display_name": "Požárník Sam S07E09 - Mámin pomocníček CZ Dabing",
+      "intent_id": "4623ae98b663429ca9020227c150428f",
+      "started_at": "2026-11-17T10:52:35Z",
       "upload_account": "serialy",
-      "source_id": -637473767189173,
-      "source_url": "https://prehraj.to/pozarnik-sam-s07e08-cz-dabing-pro-deti/5c743fcf8ae9e",
-      "size_bytes": 341299904,
+      "source_id": -10909389211723387,
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e09-cz-dabing-pro-deti/5c743fcd44608",
+      "size_bytes": 337467198,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1328456,5 +1328482,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T10:52:10Z"
+  "last_updated": "2026-11-17T10:53:11Z"
 }
