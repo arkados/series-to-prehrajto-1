@@ -1,30 +1,62 @@
 {
   "counts": {
     "backlog_episodes": 108839,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82806,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82808,
     "prepared_source_episodes": 68199,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 48,
+    "language_audited_sources": 50,
     "language_whisper_attempted_sources": 47,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53581,
     "whisper_review_pending_sources": 36432,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52195,
     "subtitle_followup_pending_sources": 52195
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T19:18:12Z",
+      "databaseId": 44157114063,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T19:17:44Z",
+      "databaseId": 44157029558,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T19:11:44Z",
+      "databaseId": 44155942252,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T19:11:22Z",
+      "databaseId": 44155872859,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T19:10:26Z",
       "databaseId": 44155706872,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,11 +92,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-17T19:06:32Z",
       "databaseId": 44155005125,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -84,11 +116,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T19:04:15Z",
       "databaseId": 44154587763,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:46:50Z",
-      "databaseId": 44151509974,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-17T18:46:48Z",
-      "databaseId": 44151504052,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:46:45Z",
-      "databaseId": 44151497357,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:46:43Z",
-      "databaseId": 44151489328,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
     }
   ],
   "gaps": {
@@ -203437,6 +203437,11 @@
         "video_id": 31124691
       },
       {
+        "episode_id": 116948,
+        "display_name": "Avengers - Sjednocení S01E07 - Hyperion CZ Titulky",
+        "video_id": 31125738
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -388440,6 +388445,11 @@
         "episode_id": 115450,
         "display_name": "Rake S01E08 - 8. epizoda CZ Titulky",
         "video_id": 31123826
+      },
+      {
+        "episode_id": 101439,
+        "display_name": "Milionový lékař S02E09 - 9. epizoda CZ Titulky",
+        "video_id": 31125575
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -591594,6 +591604,11 @@
         "video_id": 31124691
       },
       {
+        "episode_id": 116948,
+        "display_name": "Avengers - Sjednocení S01E07 - Hyperion CZ Titulky",
+        "video_id": 31125738
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -776597,6 +776612,11 @@
         "episode_id": 115450,
         "display_name": "Rake S01E08 - 8. epizoda CZ Titulky",
         "video_id": 31123826
+      },
+      {
+        "episode_id": 101439,
+        "display_name": "Milionový lékař S02E09 - 9. epizoda CZ Titulky",
+        "video_id": 31125575
       }
     ],
     "prepared_not_upload_ready": [
@@ -777760,7 +777780,7 @@
   "language_whisper_statuses": {
     "sample_failed": 5,
     "ok": 41,
-    "disabled": 1,
+    "disabled": 3,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
