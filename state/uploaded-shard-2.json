@@ -907984,6 +907984,32 @@
         "download_sec": 33.6,
         "upload_sec": 53.3
       }
+    },
+    {
+      "episode_id": 169506,
+      "series_id": 7081,
+      "series_title": "Angel from Hell",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "Angel from Hell S01E13 - 13. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -27530580816716215,
+      "external_id": "5a902c8148df1",
+      "source_url": "https://prehraj.to/angel-from-hell-s01e13-believe-me-2/5a902c8148df1",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102189,
+      "size_bytes": 317343331,
+      "uploaded_at": "2026-11-17T00:05:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.3,
+        "upload_sec": 31.2
+      }
     }
   ],
   "pending_uploads": [
@@ -909090,22 +909116,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 169506,
-      "series_id": 7081,
-      "series_title": "Angel from Hell",
-      "season": 1,
-      "episode": 13,
-      "display_name": "Angel from Hell S01E13 - 13. epizoda CZ Titulky",
-      "intent_id": "531afa30ea1848cc944d46f74b71657d",
-      "started_at": "2026-11-17T00:04:25Z",
-      "upload_account": "serialy",
-      "source_id": -27530580816716215,
-      "source_url": "https://prehraj.to/angel-from-hell-s01e13-believe-me-2/5a902c8148df1",
-      "size_bytes": 317343331,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1327130,5 +1327140,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:04:25Z"
+  "last_updated": "2026-11-17T00:05:20Z"
 }
