@@ -911175,6 +911175,32 @@
         "download_sec": 15.4,
         "upload_sec": 42.1
       }
+    },
+    {
+      "episode_id": 2308,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 17,
+      "episode_code": "S03E17",
+      "display_name": "Elena z Avaloru S03E17 - Slavnost světel CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -25996348414226362,
+      "external_id": "197c8c677aec537c",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e17-festival-of-lights-cs/197c8c677aec537c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31106535,
+      "size_bytes": 379952021,
+      "uploaded_at": "2026-11-17T03:11:39Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 11.4,
+        "upload_sec": 46.8
+      }
     }
   ],
   "pending_uploads": [
@@ -912297,22 +912323,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2308,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 17,
-      "display_name": "Elena z Avaloru S03E17 - Slavnost světel CZ Dabing",
-      "intent_id": "017256bcfad247ce8407ce09dde2aa90",
-      "started_at": "2026-11-17T03:10:18Z",
-      "upload_account": "primary",
-      "source_id": -25996348414226362,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e17-festival-of-lights-cs/197c8c677aec537c",
-      "size_bytes": 379952021,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330337,5 +1330347,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T03:10:18Z"
+  "last_updated": "2026-11-17T03:11:39Z"
 }
