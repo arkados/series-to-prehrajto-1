@@ -1,19 +1,19 @@
 {
   "counts": {
     "backlog_episodes": 108839,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82805,
-    "prepared_source_episodes": 68229,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82806,
+    "prepared_source_episodes": 68237,
     "description_series": 60,
     "description_episodes": 753,
-    "description_errors": 42,
+    "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 49,
-    "language_whisper_attempted_sources": 42,
+    "language_audited_sources": 44,
+    "language_whisper_attempted_sources": 44,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53584,
-    "whisper_review_pending_sources": 36437,
+    "whisper_review_sources": 53583,
+    "whisper_review_pending_sources": 36436,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52193,
     "subtitle_followup_pending_sources": 52193
@@ -21,10 +21,42 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T18:45:46Z",
+      "databaseId": 44151323933,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T18:45:13Z",
+      "databaseId": 44151221138,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T18:42:05Z",
+      "databaseId": 44150669290,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T18:38:54Z",
+      "databaseId": 44150111852,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T18:37:35Z",
       "databaseId": 44149877806,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +84,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T18:31:28Z",
       "databaseId": 44148768187,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -68,19 +100,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T18:30:23Z",
       "databaseId": 44148561501,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-17T18:29:58Z",
       "databaseId": 44148481030,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -116,19 +148,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T18:24:37Z",
       "databaseId": 44147520667,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T18:24:33Z",
       "databaseId": 44147509879,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:20:14Z",
-      "databaseId": 44146727832,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-17T18:19:11Z",
-      "databaseId": 44146537740,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:18:42Z",
-      "databaseId": 44146452607,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:17:51Z",
-      "databaseId": 44146298606,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -203430,6 +203430,11 @@
         "episode_id": 113284,
         "display_name": "Sindibádova dobrodružství S01E06 - Malá čarodějka CZ Titulky",
         "video_id": 31124488
+      },
+      {
+        "episode_id": 116937,
+        "display_name": "Avengers - Sjednocení S01E26 - Poslední souboj CZ Dabing",
+        "video_id": 31124691
       },
       {
         "episode_id": 114182,
@@ -591584,6 +591589,11 @@
         "video_id": 31124488
       },
       {
+        "episode_id": 116937,
+        "display_name": "Avengers - Sjednocení S01E26 - Poslední souboj CZ Dabing",
+        "video_id": 31124691
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -777748,16 +777758,15 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 7,
-    "sample_failed": 2,
+    "sample_failed": 4,
     "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35249,
+    "needs_whisper": 35246,
     "whisper_confirmed_cz": 3852,
     "whisper_non_cz_needs_subtitles": 13295,
-    "whisper_failed": 1188
+    "whisper_failed": 1190
   },
   "subtitle_followup_statuses": {
     "needs_subtitle_setup_after_prehrajto_processing": 52193
