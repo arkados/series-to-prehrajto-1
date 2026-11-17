@@ -910286,6 +910286,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 129442,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 2,
+      "episode": 9,
+      "display_name": "Juru Camp S02E09 - 9. epizoda CZ Titulky",
+      "intent_id": "179df3c2e70f4174a744fbabaa230611",
+      "started_at": "2026-11-17T08:58:26Z",
+      "upload_account": "serialy",
+      "source_id": -17917234746672639,
+      "source_url": "https://prehraj.to/laid-back-camp-s2e9-winter-s-end-and-the-day-of-departure-ja/b81492741f7e1ad0",
+      "size_bytes": 538042128,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328310,5 +1328326,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:45:35Z"
+  "last_updated": "2026-11-17T08:58:26Z"
 }
