@@ -909830,6 +909830,32 @@
         "download_sec": 17.9,
         "upload_sec": 80.0
       }
+    },
+    {
+      "episode_id": 116955,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 20,
+      "episode_code": "S01E20",
+      "display_name": "Avengers - Sjednocení S01E20 - Den otce bohů CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -31020552100145178,
+      "external_id": "5ab5cafc35845",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e20-den-otce-bohu/5ab5cafc35845",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31121419,
+      "size_bytes": 328154781,
+      "uploaded_at": "2026-11-17T15:10:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.1,
+        "upload_sec": 33.6
+      }
     }
   ],
   "pending_uploads": [
@@ -910936,22 +910962,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 116955,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 1,
-      "episode": 20,
-      "display_name": "Avengers - Sjednocení S01E20 - Den otce bohů CZ Dabing",
-      "intent_id": "eb5c00331394417fa8ef4752b57577fe",
-      "started_at": "2026-11-17T15:08:42Z",
-      "upload_account": "serialy",
-      "source_id": -31020552100145178,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e20-den-otce-bohu/5ab5cafc35845",
-      "size_bytes": 328154781,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328976,5 +1328986,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T15:08:42Z"
+  "last_updated": "2026-11-17T15:10:34Z"
 }
