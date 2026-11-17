@@ -911201,6 +911201,32 @@
         "download_sec": 11.4,
         "upload_sec": 46.8
       }
+    },
+    {
+      "episode_id": 2309,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 19,
+      "episode_code": "S03E19",
+      "display_name": "Elena z Avaloru S03E19 - Obří kroky CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -55274889712943064,
+      "external_id": "81f431e55ef5a4f0",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e19-giant-steps-cs/81f431e55ef5a4f0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31107117,
+      "size_bytes": 399636587,
+      "uploaded_at": "2026-11-17T03:38:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.3,
+        "upload_sec": 49.6
+      }
     }
   ],
   "pending_uploads": [
@@ -912323,22 +912349,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2309,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 19,
-      "display_name": "Elena z Avaloru S03E19 - Obří kroky CZ Dabing",
-      "intent_id": "b2875256b54c468f9d26e77992a0958e",
-      "started_at": "2026-11-17T03:36:45Z",
-      "upload_account": "primary",
-      "source_id": -55274889712943064,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e19-giant-steps-cs/81f431e55ef5a4f0",
-      "size_bytes": 399636587,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330363,5 +1330373,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T03:36:45Z"
+  "last_updated": "2026-11-17T03:38:10Z"
 }
