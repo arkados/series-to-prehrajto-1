@@ -1,30 +1,94 @@
 {
   "counts": {
     "backlog_episodes": 108839,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82804,
-    "prepared_source_episodes": 68242,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 82805,
+    "prepared_source_episodes": 68229,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 44,
+    "language_audited_sources": 49,
     "language_whisper_attempted_sources": 42,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53583,
-    "whisper_review_pending_sources": 36436,
-    "upload_pending_checkpoints": 140,
+    "whisper_review_sources": 53584,
+    "whisper_review_pending_sources": 36437,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52193,
     "subtitle_followup_pending_sources": 52193
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T18:37:35Z",
+      "databaseId": 44149877806,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T18:36:43Z",
+      "databaseId": 44149724703,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T18:35:49Z",
+      "databaseId": 44149560315,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T18:31:34Z",
+      "databaseId": 44148787241,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T18:31:28Z",
+      "databaseId": 44148768187,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T18:30:26Z",
+      "databaseId": 44148573901,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T18:30:23Z",
+      "databaseId": 44148561501,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T18:29:58Z",
+      "databaseId": 44148481030,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T18:28:39Z",
       "databaseId": 44148242348,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -92,11 +156,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-17T18:19:11Z",
       "databaseId": 44146537740,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -108,76 +172,12 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T18:17:51Z",
       "databaseId": 44146298606,
       "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T18:16:54Z",
-      "databaseId": 44146131024,
-      "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:14:16Z",
-      "databaseId": 44145645621,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T18:13:48Z",
-      "databaseId": 44145560105,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:09:51Z",
-      "databaseId": 44144847762,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:09:45Z",
-      "databaseId": 44144830217,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:08:19Z",
-      "databaseId": 44144575850,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:03:39Z",
-      "databaseId": 44143733028,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T18:03:35Z",
-      "databaseId": 44143720401,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
     }
   ],
   "gaps": {
@@ -203425,6 +203425,11 @@
         "episode_id": 116961,
         "display_name": "Avengers - Sjednocení S02E06 - Nighthawk CZ Dabing",
         "video_id": 31124286
+      },
+      {
+        "episode_id": 113284,
+        "display_name": "Sindibádova dobrodružství S01E06 - Malá čarodějka CZ Titulky",
+        "video_id": 31124488
       },
       {
         "episode_id": 114182,
@@ -591574,6 +591579,11 @@
         "video_id": 31124286
       },
       {
+        "episode_id": 113284,
+        "display_name": "Sindibádova dobrodružství S01E06 - Malá čarodějka CZ Titulky",
+        "video_id": 31124488
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -777738,13 +777748,13 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 2,
+    "disabled": 7,
     "sample_failed": 2,
     "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35248,
+    "needs_whisper": 35249,
     "whisper_confirmed_cz": 3852,
     "whisper_non_cz_needs_subtitles": 13295,
     "whisper_failed": 1188
