@@ -911331,6 +911331,32 @@
         "download_sec": 16.5,
         "upload_sec": 41.9
       }
+    },
+    {
+      "episode_id": 107928,
+      "series_id": 2692,
+      "series_title": "Lina, postrach banditů",
+      "season": 4,
+      "episode": 7,
+      "episode_code": "S04E07",
+      "display_name": "Lina, postrach banditů S04E07 - 7. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -9295009246661613,
+      "external_id": "68c1cfef4a1c2",
+      "source_url": "https://prehraj.to/slayers-s04e07-cz-tit-lena/68c1cfef4a1c2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31107820,
+      "size_bytes": 466098094,
+      "uploaded_at": "2026-11-17T04:12:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.5,
+        "upload_sec": 40.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1330477,5 +1330503,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:07:56Z"
+  "last_updated": "2026-11-17T04:12:39Z"
 }
