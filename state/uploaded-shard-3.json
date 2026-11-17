@@ -910168,6 +910168,58 @@
         "download_sec": 537.4,
         "upload_sec": 32.8
       }
+    },
+    {
+      "episode_id": 157810,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Strong Woman Do Bong Soon S01E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -1506202871903860,
+      "external_id": "3e5efe66b80ae337",
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e6-happy-together-ko/3e5efe66b80ae337",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31128981,
+      "size_bytes": 672758530,
+      "uploaded_at": "2026-11-17T21:13:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 31.1,
+        "upload_sec": 100.4
+      }
+    },
+    {
+      "episode_id": 116942,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 22,
+      "episode_code": "S01E22",
+      "display_name": "Avengers - Sjednocení S01E22 - Strážci a Vesmírní rytíři CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -44056687157365614,
+      "external_id": "5a9dd598767a5",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e22-strazci-a-vesmirni-rytiri/5a9dd598767a5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31129260,
+      "size_bytes": 328204751,
+      "uploaded_at": "2026-11-17T21:24:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 529.0,
+        "upload_sec": 41.5
+      }
     }
   ],
   "pending_uploads": [
@@ -911272,6 +911324,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 87835,
+      "series_id": 2069,
+      "series_title": "Nutné k přežití",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Nutné k přežití S01E02 - 2. epizoda CZ Dabing",
+      "intent_id": "2d0c9f032efc4d92b86787b3cb69054d",
+      "started_at": "2026-11-17T21:26:43Z",
+      "upload_account": "serialy",
+      "source_id": -39730746983824940,
+      "source_url": "https://prehraj.to/man-vs-wild-1x2/5c2b46a9258ab",
+      "size_bytes": 315071778,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1329298,5 +1329366,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T21:07:57Z"
+  "last_updated": "2026-11-17T21:26:43Z"
 }
