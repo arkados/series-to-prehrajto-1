@@ -912427,6 +912427,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 113265,
+      "series_id": 2854,
+      "series_title": "Ultimate Force",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Ultimate Force S01E02 - 2. epizoda CZ Dabing",
+      "intent_id": "22eb1e3d0f8249198760108ded202688",
+      "started_at": "2026-11-17T04:06:26Z",
+      "upload_account": "primary",
+      "source_id": -25962621995479912,
+      "source_url": "https://prehraj.to/ultimate-force-s1e2-just-a-target-cs/5121806b28349fe6",
+      "size_bytes": 356074402,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330451,5 +1330467,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:05:21Z"
+  "last_updated": "2026-11-17T04:06:26Z"
 }
