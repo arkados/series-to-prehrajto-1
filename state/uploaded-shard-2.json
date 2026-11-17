@@ -910142,6 +910142,32 @@
         "download_sec": 15.8,
         "upload_sec": 37.8
       }
+    },
+    {
+      "episode_id": 116950,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Avengers - Sjednocení S02E09 - Temní Avengers CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -42774145171760759,
+      "external_id": "4707433689f8972e",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e9-temni-avengers-cs/4707433689f8972e",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31128382,
+      "size_bytes": 328041589,
+      "uploaded_at": "2026-11-17T20:50:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 537.4,
+        "upload_sec": 32.8
+      }
     }
   ],
   "pending_uploads": [
@@ -911248,22 +911274,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 116950,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 2,
-      "episode": 9,
-      "display_name": "Avengers - Sjednocení S02E09 - Temní Avengers CZ Dabing",
-      "intent_id": "e5575057b81d48caa54c615cb6326057",
-      "started_at": "2026-11-17T20:49:39Z",
-      "upload_account": "serialy",
-      "source_id": -42774145171760759,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e9-temni-avengers-cs/4707433689f8972e",
-      "size_bytes": 328041589,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329288,5 +1329298,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T20:49:39Z"
+  "last_updated": "2026-11-17T20:50:49Z"
 }
