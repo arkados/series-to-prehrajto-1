@@ -908452,6 +908452,32 @@
         "download_sec": 12.2,
         "upload_sec": 43.9
       }
+    },
+    {
+      "episode_id": 2303,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 13,
+      "episode_code": "S03E13",
+      "display_name": "Elena z Avaloru S03E13 - Král Skylar CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -66091294598478649,
+      "external_id": "309affcf6c86a5a8",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e13-king-skylar-cs/309affcf6c86a5a8",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31105907,
+      "size_bytes": 348536746,
+      "uploaded_at": "2026-11-17T02:38:44Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.3,
+        "upload_sec": 31.6
+      }
     }
   ],
   "pending_uploads": [
@@ -909556,22 +909582,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2303,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 13,
-      "display_name": "Elena z Avaloru S03E13 - Král Skylar CZ Dabing",
-      "intent_id": "4bfa9ffc31c6495590fe02ce7a71c438",
-      "started_at": "2026-11-17T02:37:03Z",
-      "upload_account": "serialy",
-      "source_id": -66091294598478649,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e13-king-skylar-cs/309affcf6c86a5a8",
-      "size_bytes": 348536746,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327598,5 +1327608,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T02:37:03Z"
+  "last_updated": "2026-11-17T02:38:44Z"
 }
