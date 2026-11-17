@@ -912813,6 +912813,32 @@
         "download_sec": 19.7,
         "upload_sec": 32.1
       }
+    },
+    {
+      "episode_id": 116956,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 25,
+      "episode_code": "S01E25",
+      "display_name": "Avengers - Sjednocení S01E25 - Exodus CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -68236401363687561,
+      "external_id": "5ab6f998adb39",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e25-exodus/5ab6f998adb39",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31124197,
+      "size_bytes": 328283864,
+      "uploaded_at": "2026-11-17T18:05:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.1,
+        "upload_sec": 24.4
+      }
     }
   ],
   "pending_uploads": [
@@ -913933,22 +913959,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 116956,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 1,
-      "episode": 25,
-      "display_name": "Avengers - Sjednocení S01E25 - Exodus CZ Dabing",
-      "intent_id": "679c9590e3644a6e84c167b84da6629c",
-      "started_at": "2026-11-17T18:03:43Z",
-      "upload_account": "primary",
-      "source_id": -68236401363687561,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e25-exodus/5ab6f998adb39",
-      "size_bytes": 328283864,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1331975,5 +1331985,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T18:03:43Z"
+  "last_updated": "2026-11-17T18:05:35Z"
 }
