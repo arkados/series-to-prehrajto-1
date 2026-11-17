@@ -1,19 +1,19 @@
 {
   "counts": {
     "backlog_episodes": 108901,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82769,
-    "prepared_source_episodes": 68342,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82771,
+    "prepared_source_episodes": 68348,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 46,
+    "language_audited_sources": 48,
     "language_whisper_attempted_sources": 46,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53592,
-    "whisper_review_pending_sources": 36422,
+    "whisper_review_pending_sources": 36424,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52171,
     "subtitle_followup_pending_sources": 52171
@@ -21,26 +21,74 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-17T13:22:42Z",
-      "databaseId": 44092121951,
+      "createdAt": "2026-11-17T13:27:51Z",
+      "databaseId": 44092969873,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-17T13:22:36Z",
-      "databaseId": 44092105780,
+      "createdAt": "2026-11-17T13:26:57Z",
+      "databaseId": 44092821996,
       "headBranch": "main",
       "status": "in_progress",
-      "workflowName": "sync"
+      "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T13:26:06Z",
+      "databaseId": 44092686109,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T13:24:59Z",
+      "databaseId": 44092498278,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T13:24:17Z",
+      "databaseId": 44092382673,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T13:23:30Z",
+      "databaseId": 44092249898,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T13:22:42Z",
+      "databaseId": 44092121951,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-17T13:22:36Z",
+      "databaseId": 44092105780,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T13:21:55Z",
       "databaseId": 44091989978,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -100,11 +148,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T13:12:10Z",
       "databaseId": 44090360618,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -127,54 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-17T13:11:49Z",
       "databaseId": 44090301322,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T13:10:22Z",
-      "databaseId": 44090067128,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-17T13:09:25Z",
-      "databaseId": 44089907857,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T13:06:56Z",
-      "databaseId": 44089509202,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T12:59:59Z",
-      "databaseId": 44088370367,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T12:59:39Z",
-      "databaseId": 44088322467,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T12:59:35Z",
-      "databaseId": 44088312096,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "process-whisper-review"
@@ -203327,6 +203327,11 @@
         "video_id": 31119109
       },
       {
+        "episode_id": 101429,
+        "display_name": "Milionový lékař S01E10 - 10. epizoda CZ Titulky",
+        "video_id": 31119217
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -388255,6 +388260,11 @@
         "episode_id": 89203,
         "display_name": "Lexx S03E13 - 13. epizoda CZ Dabing",
         "video_id": 31119157
+      },
+      {
+        "episode_id": 101430,
+        "display_name": "Milionový lékař S01E11 - 11. epizoda CZ Titulky",
+        "video_id": 31119229
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -591299,6 +591309,11 @@
         "video_id": 31119109
       },
       {
+        "episode_id": 101429,
+        "display_name": "Milionový lékař S01E10 - 10. epizoda CZ Titulky",
+        "video_id": 31119217
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -776227,6 +776242,11 @@
         "episode_id": 89203,
         "display_name": "Lexx S03E13 - 13. epizoda CZ Dabing",
         "video_id": 31119157
+      },
+      {
+        "episode_id": 101430,
+        "display_name": "Milionový lékař S01E11 - 11. epizoda CZ Titulky",
+        "video_id": 31119229
       }
     ],
     "prepared_not_upload_ready": [
@@ -777389,12 +777409,13 @@
   "language_verdicts": {},
   "language_whisper_statuses": {
     "sample_failed": 2,
+    "disabled": 2,
     "ok": 43,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35267,
-    "whisper_confirmed_cz": 3846,
+    "needs_whisper": 35269,
+    "whisper_confirmed_cz": 3844,
     "whisper_non_cz_needs_subtitles": 13324,
     "whisper_failed": 1155
   },
