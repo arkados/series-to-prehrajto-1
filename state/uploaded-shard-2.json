@@ -909466,6 +909466,58 @@
         "download_sec": 687.8,
         "upload_sec": 84.5
       }
+    },
+    {
+      "episode_id": 101423,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Milionový lékař S01E04 - 4. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -23766809078028659,
+      "external_id": "565ef7a289e5a",
+      "source_url": "https://prehraj.to/royal-pains-s01e04-cztit-v-obraze/565ef7a289e5a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31118233,
+      "size_bytes": 340345314,
+      "uploaded_at": "2026-11-17T12:29:57Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.3,
+        "upload_sec": 26.6
+      }
+    },
+    {
+      "episode_id": 89215,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Lexx S02E10 - 10. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -35179252930132938,
+      "external_id": "46cdd8471b998c3b",
+      "source_url": "https://prehraj.to/lexx-s02e10-probud-mrtveho-wake-the-dead/46cdd8471b998c3b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31118568,
+      "size_bytes": 366673920,
+      "uploaded_at": "2026-11-17T12:47:28Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 13.6,
+        "upload_sec": 28.5
+      }
     }
   ],
   "pending_uploads": [
@@ -910572,6 +910624,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 89234,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 2,
+      "episode": 7,
+      "display_name": "Lexx S02E07 - 7. epizoda CZ Dabing",
+      "intent_id": "0ad55fff63f44005b18826b6fc53545d",
+      "started_at": "2026-11-17T12:56:25Z",
+      "upload_account": "serialy",
+      "source_id": -9465751863368068,
+      "source_url": "https://prehraj.to/lexx-s02e07-laska-v-rozpuku-love-grows/d08a994c99018c89",
+      "size_bytes": 366977024,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328596,5 +1328664,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T12:21:49Z"
+  "last_updated": "2026-11-17T12:56:25Z"
 }
