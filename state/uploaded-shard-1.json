@@ -911985,6 +911985,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 170509,
+      "series_id": 7223,
+      "series_title": "American Playboy: The Hugh Hefner Story",
+      "season": 1,
+      "episode": 1,
+      "display_name": "American Playboy: The Hugh Hefner Story S01E01 - 1. epizoda CZ Titulky",
+      "intent_id": "4acefcfb28994f76a98089ccb2e92233",
+      "started_at": "2026-11-17T00:07:34Z",
+      "upload_account": "primary",
+      "source_id": -23700373072061101,
+      "source_url": "https://prehraj.to/american-playboy-the-hugh-hefner-story-s01e01/6821f266e1fa5",
+      "size_bytes": 355967525,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330009,5 +1330025,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:06:25Z"
+  "last_updated": "2026-11-17T00:07:34Z"
 }
