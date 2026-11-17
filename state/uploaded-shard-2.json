@@ -910272,6 +910272,32 @@
         "download_sec": 27.6,
         "upload_sec": 45.4
       }
+    },
+    {
+      "episode_id": 87850,
+      "series_id": 2069,
+      "series_title": "Nutné k přežití",
+      "season": 4,
+      "episode": 1,
+      "episode_code": "S04E01",
+      "display_name": "Nutné k přežití S04E01 - 1. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -63704957282687566,
+      "external_id": "5c45818fbcc88",
+      "source_url": "https://prehraj.to/man-vs-wild-4x1/5c45818fbcc88",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31130504,
+      "size_bytes": 367355370,
+      "uploaded_at": "2026-11-17T22:05:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 664.1,
+        "upload_sec": 38.8
+      }
     }
   ],
   "pending_uploads": [
@@ -911376,22 +911402,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 87850,
-      "series_id": 2069,
-      "series_title": "Nutné k přežití",
-      "season": 4,
-      "episode": 1,
-      "display_name": "Nutné k přežití S04E01 - 1. epizoda CZ Dabing",
-      "intent_id": "59b0a456d7534913a1a3ec0a453c1866",
-      "started_at": "2026-11-17T22:03:33Z",
-      "upload_account": "serialy",
-      "source_id": -63704957282687566,
-      "source_url": "https://prehraj.to/man-vs-wild-4x1/5c45818fbcc88",
-      "size_bytes": 367355370,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1329418,5 +1329428,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T22:03:33Z"
+  "last_updated": "2026-11-17T22:05:01Z"
 }
