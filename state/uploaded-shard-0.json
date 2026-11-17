@@ -914247,6 +914247,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 94080,
+      "series_id": 2238,
+      "series_title": "Star Wars: Odboj",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Star Wars: Odboj S01E10 - 10. epizoda CZ Titulky",
+      "intent_id": "9487bc96233b4562952725a5f7424f8e",
+      "started_at": "2026-11-17T23:34:33Z",
+      "upload_account": "primary",
+      "source_id": -38826188531599649,
+      "source_url": "https://prehraj.to/star-wars-odboj-s1e10-station-theta-black-en/f8cb102981798296",
+      "size_bytes": 327740644,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332271,5 +1332287,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T23:12:53Z"
+  "last_updated": "2026-11-17T23:34:33Z"
 }
