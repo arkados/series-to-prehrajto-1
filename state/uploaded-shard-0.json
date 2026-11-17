@@ -911851,6 +911851,32 @@
         "download_sec": 14.9,
         "upload_sec": 34.1
       }
+    },
+    {
+      "episode_id": 141800,
+      "series_id": 4452,
+      "series_title": "Moje nesnesitelná puberťačka",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Moje nesnesitelná puberťačka S01E08 - 8. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -40258559240690629,
+      "external_id": "57ba1f9dc291b",
+      "source_url": "https://prehraj.to/moje-nesnesitelna-pubertacka-s01e08-czdab/57ba1f9dc291b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31114709,
+      "size_bytes": 334940366,
+      "uploaded_at": "2026-11-17T09:18:03Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 50.8,
+        "upload_sec": 29.6
+      }
     }
   ],
   "pending_uploads": [
@@ -912972,22 +912998,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 141800,
-      "series_id": 4452,
-      "series_title": "Moje nesnesitelná puberťačka",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Moje nesnesitelná puberťačka S01E08 - 8. epizoda CZ Dabing",
-      "intent_id": "31da36e049fc446199b74977e1c7fe9c",
-      "started_at": "2026-11-17T09:16:33Z",
-      "upload_account": "primary",
-      "source_id": -40258559240690629,
-      "source_url": "https://prehraj.to/moje-nesnesitelna-pubertacka-s01e08-czdab/57ba1f9dc291b",
-      "size_bytes": 334940366,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1331013,5 +1331023,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T09:16:33Z"
+  "last_updated": "2026-11-17T09:18:03Z"
 }
