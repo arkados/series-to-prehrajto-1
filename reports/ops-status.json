@@ -1,15 +1,15 @@
 {
   "counts": {
     "backlog_episodes": 108839,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82811,
-    "prepared_source_episodes": 68135,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82813,
+    "prepared_source_episodes": 68144,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 52,
+    "language_audited_sources": 53,
     "language_whisper_attempted_sources": 49,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53574,
@@ -21,10 +21,74 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T20:57:06Z",
+      "databaseId": 44174662610,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T20:56:14Z",
+      "databaseId": 44174512430,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T20:55:25Z",
+      "databaseId": 44174372557,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T20:54:27Z",
+      "databaseId": 44174205602,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T20:52:18Z",
+      "databaseId": 44173831897,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T20:51:50Z",
+      "databaseId": 44173749715,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T20:44:42Z",
+      "databaseId": 44172510252,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T20:44:35Z",
+      "databaseId": 44172490932,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T20:43:28Z",
       "databaseId": 44172292774,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -36,11 +100,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T20:40:59Z",
       "databaseId": 44171863675,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -84,11 +148,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T20:38:49Z",
       "databaseId": 44171488305,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -100,11 +164,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T20:37:22Z",
       "databaseId": 44171238402,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -114,70 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T20:31:43Z",
-      "databaseId": 44170237720,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T20:31:29Z",
-      "databaseId": 44170194247,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T20:28:39Z",
-      "databaseId": 44169696113,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T20:26:38Z",
-      "databaseId": 44169350786,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T20:26:33Z",
-      "databaseId": 44169337394,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T20:26:30Z",
-      "databaseId": 44169325613,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T20:25:09Z",
-      "databaseId": 44169092397,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T20:22:41Z",
-      "databaseId": 44168655214,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -203447,6 +203447,11 @@
         "video_id": 31126837
       },
       {
+        "episode_id": 115444,
+        "display_name": "Rake S01E02 - 2. epizoda CZ Titulky",
+        "video_id": 31128256
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -388465,6 +388470,11 @@
         "episode_id": 116938,
         "display_name": "Avengers - Sjednocení S01E06 - Super Adaptoid CZ Titulky",
         "video_id": 31128107
+      },
+      {
+        "episode_id": 116950,
+        "display_name": "Avengers - Sjednocení S02E09 - Temní Avengers CZ Dabing",
+        "video_id": 31128382
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -591629,6 +591639,11 @@
         "video_id": 31126837
       },
       {
+        "episode_id": 115444,
+        "display_name": "Rake S01E02 - 2. epizoda CZ Titulky",
+        "video_id": 31128256
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -776647,6 +776662,11 @@
         "episode_id": 116938,
         "display_name": "Avengers - Sjednocení S01E06 - Super Adaptoid CZ Titulky",
         "video_id": 31128107
+      },
+      {
+        "episode_id": 116950,
+        "display_name": "Avengers - Sjednocení S02E09 - Temní Avengers CZ Dabing",
+        "video_id": 31128382
       }
     ],
     "prepared_not_upload_ready": [
@@ -777808,7 +777828,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 3,
+    "disabled": 4,
     "ok": 14,
     "sample_failed": 4,
     "resolve_failed": 31
