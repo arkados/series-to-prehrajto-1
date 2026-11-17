@@ -911149,6 +911149,32 @@
         "download_sec": 16.9,
         "upload_sec": 33.9
       }
+    },
+    {
+      "episode_id": 2305,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 15,
+      "episode_code": "S03E15",
+      "display_name": "Elena z Avaloru S03E15 - Isy tým CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -56162680212703669,
+      "external_id": "9b29bcae70cf4764",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e15-team-isa-cs/9b29bcae70cf4764",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31106350,
+      "size_bytes": 377560435,
+      "uploaded_at": "2026-11-17T02:59:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.4,
+        "upload_sec": 42.1
+      }
     }
   ],
   "pending_uploads": [
@@ -912271,22 +912297,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2305,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 15,
-      "display_name": "Elena z Avaloru S03E15 - Isy tým CZ Dabing",
-      "intent_id": "3541f82f8d1d4021827f589092d7266d",
-      "started_at": "2026-11-17T02:57:49Z",
-      "upload_account": "primary",
-      "source_id": -56162680212703669,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e15-team-isa-cs/9b29bcae70cf4764",
-      "size_bytes": 377560435,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330311,5 +1330321,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T02:57:49Z"
+  "last_updated": "2026-11-17T02:59:21Z"
 }
