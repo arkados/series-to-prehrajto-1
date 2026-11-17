@@ -909388,6 +909388,32 @@
         "download_sec": 450.5,
         "upload_sec": 34.1
       }
+    },
+    {
+      "episode_id": 203591,
+      "series_id": 15,
+      "series_title": "American Horror Story",
+      "season": 13,
+      "episode": 2,
+      "episode_code": "S13E02",
+      "display_name": "American Horror Story S13E02 - 2. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -28319542739835089,
+      "external_id": "588a4408bd0bcafe",
+      "source_url": "https://prehraj.to/american-horror-story-s13e02-cz-dabing-2-0-h265-hevc-1080p/588a4408bd0bcafe",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31117268,
+      "size_bytes": 464246051,
+      "uploaded_at": "2026-11-17T11:48:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.3,
+        "upload_sec": 70.6
+      }
     }
   ],
   "pending_uploads": [
@@ -910496,18 +910522,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 203591,
+      "episode_id": 203590,
       "series_id": 15,
       "series_title": "American Horror Story",
       "season": 13,
-      "episode": 2,
-      "display_name": "American Horror Story S13E02 - 2. epizoda CZ Dabing",
-      "intent_id": "e4735b02774145c1827733bb299e9162",
-      "started_at": "2026-11-17T11:47:12Z",
+      "episode": 1,
+      "display_name": "American Horror Story S13E01 - 1. epizoda CZ Dabing",
+      "intent_id": "ac8da53c5f354a02863244c0f2f27813",
+      "started_at": "2026-11-17T11:47:36Z",
       "upload_account": "serialy",
-      "source_id": -28319542739835089,
-      "source_url": "https://prehraj.to/american-horror-story-s13e02-cz-dabing-2-0-h265-hevc-1080p/588a4408bd0bcafe",
-      "size_bytes": 464246051,
+      "source_id": -16720995091373967,
+      "source_url": "https://prehraj.to/american-horror-story-s13e01-cz-dabing-2-0-h265-hevc-1080p/e360a3e1cb3cfbd7",
+      "size_bytes": 476370602,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1328534,5 +1328560,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T11:47:12Z"
+  "last_updated": "2026-11-17T11:48:50Z"
 }
