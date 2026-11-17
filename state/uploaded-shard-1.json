@@ -912137,6 +912137,84 @@
         "download_sec": 13.6,
         "upload_sec": 25.4
       }
+    },
+    {
+      "episode_id": 203592,
+      "series_id": 15,
+      "series_title": "American Horror Story",
+      "season": 13,
+      "episode": 3,
+      "episode_code": "S13E03",
+      "display_name": "American Horror Story S13E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -67899114955792657,
+      "external_id": "11b07093e21cc49b",
+      "source_url": "https://prehraj.to/american-horror-story-s13e03-en/11b07093e21cc49b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31117767,
+      "size_bytes": 458094068,
+      "uploaded_at": "2026-11-17T12:11:54Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.3,
+        "upload_sec": 45.0
+      }
+    },
+    {
+      "episode_id": 105712,
+      "series_id": 2600,
+      "series_title": "Everything Sucks!",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Everything Sucks! S01E05 - Co je sakra „Zarginda“? CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -48003024412387774,
+      "external_id": "ae74b71b43da54dc",
+      "source_url": "https://prehraj.to/everything-sucks-s1e5-what-the-hell-s-a-zarginda-en/ae74b71b43da54dc",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31117807,
+      "size_bytes": 347851088,
+      "uploaded_at": "2026-11-17T12:14:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.2,
+        "upload_sec": 56.5
+      }
+    },
+    {
+      "episode_id": 116964,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Avengers - Sjednocení S01E03 - Přízrak naděje CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -42407348757189873,
+      "external_id": "6d465624ccc437e3",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s1e3-ghost-of-a-chance-cs/6d465624ccc437e3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31117992,
+      "size_bytes": 329126975,
+      "uploaded_at": "2026-11-17T12:21:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 294.6,
+        "upload_sec": 91.4
+      }
     }
   ],
   "pending_uploads": [
@@ -913261,20 +913339,20 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 203592,
-      "series_id": 15,
-      "series_title": "American Horror Story",
-      "season": 13,
-      "episode": 3,
-      "display_name": "American Horror Story S13E03 - 3. epizoda CZ Titulky",
-      "intent_id": "5dff04c42d494c9bb9c3c6784d788dee",
-      "started_at": "2026-11-17T12:10:12Z",
+      "episode_id": 89197,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 2,
+      "episode": 2,
+      "display_name": "Lexx S02E02 - 2. epizoda CZ Titulky",
+      "intent_id": "cdb20cd8b00f4e5eacf9e1636b4b94bf",
+      "started_at": "2026-11-17T12:28:12Z",
       "upload_account": "primary",
-      "source_id": -67899114955792657,
-      "source_url": "https://prehraj.to/american-horror-story-s13e03-en/11b07093e21cc49b",
-      "size_bytes": 458094068,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
+      "source_id": -71305078251317820,
+      "source_url": "https://prehraj.to/lexx-s02e02-lakarska-stanice-terminal/8cf233873dd3b64c",
+      "size_bytes": 361289728,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331299,5 +1331377,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T12:11:02Z"
+  "last_updated": "2026-11-17T12:28:12Z"
 }
