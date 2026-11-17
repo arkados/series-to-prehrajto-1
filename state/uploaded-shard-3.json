@@ -910104,6 +910104,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 129427,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Juru Camp S01E03 - 3. epizoda CZ Titulky",
+      "intent_id": "5d1e0cc0f4d941c5aa48684d22fc1ae8",
+      "started_at": "2026-11-17T08:12:35Z",
+      "upload_account": "serialy",
+      "source_id": -26667733984994830,
+      "source_url": "https://prehraj.to/laid-back-camp-s1e3-mount-fuji-and-relaxed-hot-pot-camp-ja/33150d1283409289",
+      "size_bytes": 339849657,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328128,5 +1328144,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:11:42Z"
+  "last_updated": "2026-11-17T08:12:35Z"
 }
