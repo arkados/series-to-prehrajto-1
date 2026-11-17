@@ -910402,6 +910402,32 @@
         "download_sec": 172.0,
         "upload_sec": 40.6
       }
+    },
+    {
+      "episode_id": 183355,
+      "series_id": 9684,
+      "series_title": "Tučňáci z Madagaskaru ",
+      "season": 2,
+      "episode": 50,
+      "episode_code": "S02E50",
+      "display_name": "Tučňáci z Madagaskaru  S02E50 - Čtverylka s dvojníky CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -54893808731575197,
+      "external_id": "42f76a707b468c26",
+      "source_url": "https://prehraj.to/tucnaci-z-madagaskaru-s2e50-ctverylka-s-dvojniky-cs/42f76a707b468c26",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31132712,
+      "size_bytes": 322334163,
+      "uploaded_at": "2026-11-17T23:12:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.1,
+        "upload_sec": 37.6
+      }
     }
   ],
   "pending_uploads": [
@@ -911506,6 +911532,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 157818,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 15,
+      "display_name": "Strong Woman Do Bong Soon S01E15 - 15. epizoda CZ Titulky",
+      "intent_id": "fa890f061eee4fd1880b63119bb51dba",
+      "started_at": "2026-11-17T23:27:26Z",
+      "upload_account": "serialy",
+      "source_id": -28899991510957747,
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e15-level-up-ko/dca98a041158ed1b",
+      "size_bytes": 638542590,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1329532,5 +1329574,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T22:40:49Z"
+  "last_updated": "2026-11-17T23:27:26Z"
 }
