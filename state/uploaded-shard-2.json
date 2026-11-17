@@ -910728,6 +910728,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 89202,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 3,
+      "episode": 12,
+      "display_name": "Lexx S03E12 - 12. epizoda CZ Dabing",
+      "intent_id": "1f85bfac372b4622aa1273499249b769",
+      "started_at": "2026-11-17T13:12:35Z",
+      "upload_account": "serialy",
+      "source_id": -8172413410194171,
+      "source_url": "https://prehraj.to/lexx-s03e12-cz-dabing/589b967b7ec95",
+      "size_bytes": 335116288,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328752,5 +1328768,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:11:34Z"
+  "last_updated": "2026-11-17T13:12:35Z"
 }
