@@ -908348,6 +908348,32 @@
         "download_sec": 16.3,
         "upload_sec": 57.7
       }
+    },
+    {
+      "episode_id": 2295,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 5,
+      "episode_code": "S03E05",
+      "display_name": "Elena z Avaloru S03E05 - Norbergova cena míru CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -29490396208680536,
+      "external_id": "3ef9a9e03d069c2b",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e5-norberg-peace-prize-cs/3ef9a9e03d069c2b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31104830,
+      "size_bytes": 370903374,
+      "uploaded_at": "2026-11-17T01:44:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.7,
+        "upload_sec": 100.6
+      }
     }
   ],
   "pending_uploads": [
@@ -909452,22 +909478,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2295,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 5,
-      "display_name": "Elena z Avaloru S03E05 - Norbergova cena míru CZ Dabing",
-      "intent_id": "b44e44bd132a4149bea290bb1da8adf7",
-      "started_at": "2026-11-17T01:41:52Z",
-      "upload_account": "serialy",
-      "source_id": -29490396208680536,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e5-norberg-peace-prize-cs/3ef9a9e03d069c2b",
-      "size_bytes": 370903374,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327494,5 +1327504,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T01:41:52Z"
+  "last_updated": "2026-11-17T01:44:04Z"
 }
