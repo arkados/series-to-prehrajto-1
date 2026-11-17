@@ -912241,6 +912241,32 @@
         "download_sec": 16.9,
         "upload_sec": 45.5
       }
+    },
+    {
+      "episode_id": 89213,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Lexx S02E05 - 5. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -14654111856544179,
+      "external_id": "5f32e7e9aafc2",
+      "source_url": "https://prehraj.to/lexx-s02e05-cz-dabing/5f32e7e9aafc2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31118260,
+      "size_bytes": 366948352,
+      "uploaded_at": "2026-11-17T12:31:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.7,
+        "upload_sec": 58.3
+      }
     }
   ],
   "pending_uploads": [
@@ -913362,22 +913388,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 89213,
-      "series_id": 2111,
-      "series_title": "Lexx",
-      "season": 2,
-      "episode": 5,
-      "display_name": "Lexx S02E05 - 5. epizoda CZ Titulky",
-      "intent_id": "8847902882544b078648f9c2df552ff0",
-      "started_at": "2026-11-17T12:30:09Z",
-      "upload_account": "primary",
-      "source_id": -14654111856544179,
-      "source_url": "https://prehraj.to/lexx-s02e05-cz-dabing/5f32e7e9aafc2",
-      "size_bytes": 366948352,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1331403,5 +1331413,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T12:30:09Z"
+  "last_updated": "2026-11-17T12:31:56Z"
 }
