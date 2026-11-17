@@ -912557,6 +912557,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 129432,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Juru Camp S01E10 - 10. epizoda CZ Titulky",
+      "intent_id": "d8df3f23b558485b8cb8f3a358095bec",
+      "started_at": "2026-11-17T04:51:24Z",
+      "upload_account": "primary",
+      "source_id": -64913498948393552,
+      "source_url": "https://prehraj.to/laid-back-camp-s1e10-clumsy-travelers-and-camp-meetings-ja/36da9be44a3b7b28",
+      "size_bytes": 339806112,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330581,5 +1330597,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:27:06Z"
+  "last_updated": "2026-11-17T04:51:27Z"
 }
