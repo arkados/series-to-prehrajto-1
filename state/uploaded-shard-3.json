@@ -909792,6 +909792,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 65215,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 62,
+      "display_name": "Soy Luna S02E62 - 62. epizoda CZ Dabing",
+      "intent_id": "9f8651665d2b4e329af18d7ca305e77c",
+      "started_at": "2026-11-17T04:51:27Z",
+      "upload_account": "serialy",
+      "source_id": -42544054795825465,
+      "source_url": "https://prehraj.to/soy-luna-2x62/5c6e69e71ade1",
+      "size_bytes": 521116800,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327816,5 +1327832,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:37:56Z"
+  "last_updated": "2026-11-17T04:51:27Z"
 }
