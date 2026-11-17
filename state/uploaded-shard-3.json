@@ -908686,6 +908686,32 @@
         "download_sec": 21.1,
         "upload_sec": 45.1
       }
+    },
+    {
+      "episode_id": 65215,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 62,
+      "episode_code": "S02E62",
+      "display_name": "Soy Luna S02E62 - 62. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -42544054795825465,
+      "external_id": "5c6e69e71ade1",
+      "source_url": "https://prehraj.to/soy-luna-2x62/5c6e69e71ade1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31108703,
+      "size_bytes": 521116800,
+      "uploaded_at": "2026-11-17T04:52:52Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 15.1,
+        "upload_sec": 49.0
+      }
     }
   ],
   "pending_uploads": [
@@ -909790,22 +909816,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 65215,
-      "series_id": 1502,
-      "series_title": "Soy Luna",
-      "season": 2,
-      "episode": 62,
-      "display_name": "Soy Luna S02E62 - 62. epizoda CZ Dabing",
-      "intent_id": "9f8651665d2b4e329af18d7ca305e77c",
-      "started_at": "2026-11-17T04:51:27Z",
-      "upload_account": "serialy",
-      "source_id": -42544054795825465,
-      "source_url": "https://prehraj.to/soy-luna-2x62/5c6e69e71ade1",
-      "size_bytes": 521116800,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327832,5 +1327842,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:51:27Z"
+  "last_updated": "2026-11-17T04:52:52Z"
 }
