@@ -912969,6 +912969,32 @@
         "download_sec": 654.2,
         "upload_sec": 39.4
       }
+    },
+    {
+      "episode_id": 115444,
+      "series_id": 2938,
+      "series_title": "Rake",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Rake S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -62138845248355771,
+      "external_id": "5bdff16d09c0b",
+      "source_url": "https://prehraj.to/rake-s01e02/5bdff16d09c0b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31128256,
+      "size_bytes": 334126763,
+      "uploaded_at": "2026-11-17T20:47:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 438.9,
+        "upload_sec": 50.2
+      }
     }
   ],
   "pending_uploads": [
@@ -914089,22 +914115,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 115444,
-      "series_id": 2938,
-      "series_title": "Rake",
-      "season": 1,
-      "episode": 2,
-      "display_name": "Rake S01E02 - 2. epizoda CZ Titulky",
-      "intent_id": "015b28a200594b16a7798618313cd6f3",
-      "started_at": "2026-11-17T20:45:38Z",
-      "upload_account": "primary",
-      "source_id": -62138845248355771,
-      "source_url": "https://prehraj.to/rake-s01e02/5bdff16d09c0b",
-      "size_bytes": 334126763,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1332131,5 +1332141,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T20:45:38Z"
+  "last_updated": "2026-11-17T20:47:11Z"
 }
