@@ -912063,6 +912063,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2345,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 23,
+      "display_name": "Elena z Avaloru S02E23 - Lunina velká změna CZ Dabing",
+      "intent_id": "0071dcfa819c4beab87204aa59b06fdf",
+      "started_at": "2026-11-17T00:50:42Z",
+      "upload_account": "primary",
+      "source_id": -71311185163994702,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e23-luna-s-big-leap-cs/58a2d441a845c599",
+      "size_bytes": 376208387,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330087,5 +1330103,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:37:23Z"
+  "last_updated": "2026-11-17T00:50:42Z"
 }
