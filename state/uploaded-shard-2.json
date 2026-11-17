@@ -908920,6 +908920,32 @@
         "download_sec": 12.7,
         "upload_sec": 35.4
       }
+    },
+    {
+      "episode_id": 97670,
+      "series_id": 2355,
+      "series_title": "Trapper John, M.D.",
+      "season": 1,
+      "episode": 18,
+      "episode_code": "S01E18",
+      "display_name": "Trapper John, M.D. S01E18 - 18. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -57526414545851893,
+      "external_id": "597bccdd898b9",
+      "source_url": "https://prehraj.to/trapper-john-m-d-s01e18/597bccdd898b9",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31109258,
+      "size_bytes": 363039200,
+      "uploaded_at": "2026-11-17T05:20:18Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.3,
+        "upload_sec": 33.7
+      }
     }
   ],
   "pending_uploads": [
@@ -910026,22 +910052,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 97670,
-      "series_id": 2355,
-      "series_title": "Trapper John, M.D.",
-      "season": 1,
-      "episode": 18,
-      "display_name": "Trapper John, M.D. S01E18 - 18. epizoda CZ Titulky",
-      "intent_id": "71a836d681bc4f7a8fdce353c39c2467",
-      "started_at": "2026-11-17T05:18:59Z",
-      "upload_account": "serialy",
-      "source_id": -57526414545851893,
-      "source_url": "https://prehraj.to/trapper-john-m-d-s01e18/597bccdd898b9",
-      "size_bytes": 363039200,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328066,5 +1328076,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T05:18:59Z"
+  "last_updated": "2026-11-17T05:20:18Z"
 }
