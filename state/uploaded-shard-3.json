@@ -909700,6 +909700,32 @@
         "download_sec": 20.3,
         "upload_sec": 42.4
       }
+    },
+    {
+      "episode_id": 115447,
+      "series_id": 2938,
+      "series_title": "Rake",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Rake S01E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -57696392570851823,
+      "external_id": "5bdff21a14b3c",
+      "source_url": "https://prehraj.to/rake-s01e05/5bdff21a14b3c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31119696,
+      "size_bytes": 363262389,
+      "uploaded_at": "2026-11-17T13:57:02Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.9,
+        "upload_sec": 32.1
+      }
     }
   ],
   "pending_uploads": [
@@ -910808,20 +910834,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 115447,
-      "series_id": 2938,
-      "series_title": "Rake",
+      "episode_id": 105714,
+      "series_id": 2600,
+      "series_title": "Everything Sucks!",
       "season": 1,
-      "episode": 5,
-      "display_name": "Rake S01E05 - 5. epizoda CZ Titulky",
-      "intent_id": "29dd1ac49aaa4d3c9da43055db6cfdb3",
-      "started_at": "2026-11-17T13:55:55Z",
+      "episode": 8,
+      "display_name": "Everything Sucks! S01E08 - I Just Wanna Be Anybody CZ Titulky",
+      "intent_id": "50411332c6e3465c97340b81acd1f9c1",
+      "started_at": "2026-11-17T13:56:05Z",
       "upload_account": "serialy",
-      "source_id": -57696392570851823,
-      "source_url": "https://prehraj.to/rake-s01e05/5bdff21a14b3c",
-      "size_bytes": 363262389,
+      "source_id": -40914420498086972,
+      "source_url": "https://prehraj.to/everything-sucks-s1e8-i-just-wanna-be-anybody-en/ff828ee9e1f46ab3",
+      "size_bytes": 316819915,
       "source_container": "mp4",
-      "source_download_kind": "original"
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1328846,5 +1328872,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:55:55Z"
+  "last_updated": "2026-11-17T13:57:03Z"
 }
