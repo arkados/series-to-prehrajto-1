@@ -912943,6 +912943,32 @@
         "download_sec": 421.9,
         "upload_sec": 46.3
       }
+    },
+    {
+      "episode_id": 183281,
+      "series_id": 9684,
+      "series_title": "Tučňáci z Madagaskaru ",
+      "season": 1,
+      "episode": 48,
+      "episode_code": "S01E48",
+      "display_name": "Tučňáci z Madagaskaru  S01E48 - Pomsta doktora Hloubáka CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -51661149146376896,
+      "external_id": "2dd33fdbb77e5a50",
+      "source_url": "https://prehraj.to/tucnaci-z-madagaskaru-s1e48-pomsta-doktora-hloubaka-cs/2dd33fdbb77e5a50",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31126837,
+      "size_bytes": 324206441,
+      "uploaded_at": "2026-11-17T19:51:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 654.2,
+        "upload_sec": 39.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1332089,5 +1332115,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T19:16:05Z"
+  "last_updated": "2026-11-17T19:51:47Z"
 }
