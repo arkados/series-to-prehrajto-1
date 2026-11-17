@@ -911123,6 +911123,32 @@
         "download_sec": 19.7,
         "upload_sec": 56.8
       }
+    },
+    {
+      "episode_id": 2304,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 14,
+      "episode_code": "S03E14",
+      "display_name": "Elena z Avaloru S03E14 - Duch čaroděje CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -21018922835761855,
+      "external_id": "8a4115c560ab4a6d",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e14-spirit-of-a-wizard-cs/8a4115c560ab4a6d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31106126,
+      "size_bytes": 430167312,
+      "uploaded_at": "2026-11-17T02:47:50Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 16.9,
+        "upload_sec": 33.9
+      }
     }
   ],
   "pending_uploads": [
@@ -912245,22 +912271,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2304,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 14,
-      "display_name": "Elena z Avaloru S03E14 - Duch čaroděje CZ Dabing",
-      "intent_id": "634202565453408cab52d6f1255d33f0",
-      "started_at": "2026-11-17T02:46:22Z",
-      "upload_account": "primary",
-      "source_id": -21018922835761855,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e14-spirit-of-a-wizard-cs/8a4115c560ab4a6d",
-      "size_bytes": 430167312,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330285,5 +1330295,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T02:46:22Z"
+  "last_updated": "2026-11-17T02:47:50Z"
 }
