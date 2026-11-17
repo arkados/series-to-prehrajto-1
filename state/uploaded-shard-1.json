@@ -912011,6 +912011,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2349,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 19,
+      "display_name": "Elena z Avaloru S02E19 - Všude dobře, na sněhu nejlíp CZ Dabing",
+      "intent_id": "f13c08320b6040f19fc77e65faa357ef",
+      "started_at": "2026-11-17T00:23:50Z",
+      "upload_account": "primary",
+      "source_id": -28086205425822991,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e19-snow-place-like-home-cs/ba824a5be33936de",
+      "size_bytes": 354657765,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330035,5 +1330051,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:08:37Z"
+  "last_updated": "2026-11-17T00:23:50Z"
 }
