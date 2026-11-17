@@ -1,24 +1,48 @@
 {
   "counts": {
     "backlog_episodes": 108849,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82795,
-    "prepared_source_episodes": 68277,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 82796,
+    "prepared_source_episodes": 68278,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 50,
-    "language_whisper_attempted_sources": 47,
+    "language_audited_sources": 42,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53589,
-    "whisper_review_pending_sources": 36446,
+    "whisper_review_pending_sources": 36448,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52187,
     "subtitle_followup_pending_sources": 52187
   },
   "workflow_runs": [
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T17:12:28Z",
+      "databaseId": 44134400359,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T17:07:16Z",
+      "databaseId": 44133432285,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T17:07:12Z",
+      "databaseId": 44133420086,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
     {
       "conclusion": "",
       "createdAt": "2026-11-17T17:06:30Z",
@@ -28,11 +52,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T17:05:39Z",
       "databaseId": 44133135778,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -84,19 +108,19 @@
       "workflowName": "prepare-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T16:57:53Z",
       "databaseId": 44131690019,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T16:57:49Z",
       "databaseId": 44131675886,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T16:49:18Z",
-      "databaseId": 44130100760,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "refresh-backlog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T16:49:09Z",
-      "databaseId": 44130071520,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T16:49:03Z",
-      "databaseId": 44130054366,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -203390,6 +203390,11 @@
         "episode_id": 113293,
         "display_name": "Sindibádova dobrodružství S01E04 - Tichý svět CZ Dabing",
         "video_id": 31123104
+      },
+      {
+        "episode_id": 141804,
+        "display_name": "Moje nesnesitelná puberťačka S01E10 - 10. epizoda CZ Dabing",
+        "video_id": 31123425
       },
       {
         "episode_id": 114182,
@@ -591494,6 +591499,11 @@
         "video_id": 31123104
       },
       {
+        "episode_id": 141804,
+        "display_name": "Moje nesnesitelná puberťačka S01E10 - 10. epizoda CZ Dabing",
+        "video_id": 31123425
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -777648,15 +777658,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "sample_failed": 3,
-    "disabled": 3,
-    "ok": 43,
+    "disabled": 2,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35269,
+    "needs_whisper": 35271,
     "whisper_confirmed_cz": 3846,
-    "whisper_non_cz_needs_subtitles": 13297,
+    "whisper_non_cz_needs_subtitles": 13295,
     "whisper_failed": 1177
   },
   "subtitle_followup_statuses": {
