@@ -908114,6 +908114,32 @@
         "download_sec": 20.7,
         "upload_sec": 32.8
       }
+    },
+    {
+      "episode_id": 176763,
+      "series_id": 8248,
+      "series_title": "Sanctuary: A Witch's Tale",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Sanctuary: A Witch's Tale S02E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -33178687319001093,
+      "external_id": "3d0d0db26cf0a01e",
+      "source_url": "https://prehraj.to/sanctuary-a-witch-s-tale-s2e2-en/3d0d0db26cf0a01e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102388,
+      "size_bytes": 435716957,
+      "uploaded_at": "2026-11-17T00:14:19Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 24.4,
+        "upload_sec": 45.5
+      }
     }
   ],
   "pending_uploads": [
@@ -909218,22 +909244,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 176763,
-      "series_id": 8248,
-      "series_title": "Sanctuary: A Witch's Tale",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Sanctuary: A Witch's Tale S02E02 - 2. epizoda CZ Titulky",
-      "intent_id": "09937a52ffe04453b5af87b4bd289c4e",
-      "started_at": "2026-11-17T00:12:58Z",
-      "upload_account": "serialy",
-      "source_id": -33178687319001093,
-      "source_url": "https://prehraj.to/sanctuary-a-witch-s-tale-s2e2-en/3d0d0db26cf0a01e",
-      "size_bytes": 435716957,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327260,5 +1327270,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:12:58Z"
+  "last_updated": "2026-11-17T00:14:19Z"
 }
