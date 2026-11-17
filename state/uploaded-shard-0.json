@@ -911279,6 +911279,58 @@
         "download_sec": 16.9,
         "upload_sec": 42.5
       }
+    },
+    {
+      "episode_id": 2313,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 24,
+      "episode_code": "S03E24",
+      "display_name": "Elena z Avaloru S03E24 - Den matek CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -48980526265842857,
+      "external_id": "b443bafab258fbe5",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e24-cs/b443bafab258fbe5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31107639,
+      "size_bytes": 388890242,
+      "uploaded_at": "2026-11-17T04:05:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.8,
+        "upload_sec": 53.1
+      }
+    },
+    {
+      "episode_id": 113265,
+      "series_id": 2854,
+      "series_title": "Ultimate Force",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Ultimate Force S01E02 - 2. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -25962621995479912,
+      "external_id": "5121806b28349fe6",
+      "source_url": "https://prehraj.to/ultimate-force-s1e2-just-a-target-cs/5121806b28349fe6",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31107703,
+      "size_bytes": 356074402,
+      "uploaded_at": "2026-11-17T04:07:56Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 16.5,
+        "upload_sec": 41.9
+      }
     }
   ],
   "pending_uploads": [
@@ -912403,18 +912455,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 2313,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 24,
-      "display_name": "Elena z Avaloru S03E24 - Den matek CZ Dabing",
-      "intent_id": "a4a78d0629b6436fbc3d5318232ed28d",
-      "started_at": "2026-11-17T04:04:00Z",
+      "episode_id": 107928,
+      "series_id": 2692,
+      "series_title": "Lina, postrach banditů",
+      "season": 4,
+      "episode": 7,
+      "display_name": "Lina, postrach banditů S04E07 - 7. epizoda CZ Titulky",
+      "intent_id": "914c2216d4c64e189701ccdc227fb909",
+      "started_at": "2026-11-17T04:10:38Z",
       "upload_account": "primary",
-      "source_id": -48980526265842857,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e24-cs/b443bafab258fbe5",
-      "size_bytes": 388890242,
+      "source_id": -9295009246661613,
+      "source_url": "https://prehraj.to/slayers-s04e07-cz-tit-lena/68c1cfef4a1c2",
+      "size_bytes": 466098094,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1330441,5 +1330493,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:04:00Z"
+  "last_updated": "2026-11-17T04:10:38Z"
 }
