@@ -908556,6 +908556,32 @@
         "download_sec": 20.3,
         "upload_sec": 32.3
       }
+    },
+    {
+      "episode_id": 2310,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 20,
+      "episode_code": "S03E20",
+      "display_name": "Elena z Avaloru S03E20 - Padající hvězdy CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -20321802998060069,
+      "external_id": "189aaad4b01eb21e",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e20-shooting-stars-cs/189aaad4b01eb21e",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31106966,
+      "size_bytes": 393168121,
+      "uploaded_at": "2026-11-17T03:31:03Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.7,
+        "upload_sec": 40.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1327686,5 +1327712,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T03:16:15Z"
+  "last_updated": "2026-11-17T03:31:03Z"
 }
