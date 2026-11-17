@@ -909740,6 +909740,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2315,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 26,
+      "display_name": "Elena z Avaloru S03E26 - Elenin volný den CZ Dabing",
+      "intent_id": "220755bf5aec4ae784dd05310a28a938",
+      "started_at": "2026-11-17T04:18:31Z",
+      "upload_account": "serialy",
+      "source_id": -12208122643080939,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e26-elena-s-day-off-cs/1513138be3476877",
+      "size_bytes": 406329787,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327764,5 +1327780,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:12:39Z"
+  "last_updated": "2026-11-17T04:18:31Z"
 }
