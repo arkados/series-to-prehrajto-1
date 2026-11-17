@@ -911357,6 +911357,32 @@
         "download_sec": 17.5,
         "upload_sec": 40.4
       }
+    },
+    {
+      "episode_id": 2316,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 27,
+      "episode_code": "S03E27",
+      "display_name": "Elena z Avaloru S03E27 - Vládnout či nevládnout CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -4547256577409544,
+      "external_id": "92739a26d05963ad",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e27-to-queen-or-not-to-queen-cs/92739a26d05963ad",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31108046,
+      "size_bytes": 382680094,
+      "uploaded_at": "2026-11-17T04:24:12Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.5,
+        "upload_sec": 37.6
+      }
     }
   ],
   "pending_uploads": [
@@ -912493,22 +912519,6 @@
       "source_id": -58418864088313128,
       "source_url": "https://prehraj.to/slayers-s04e08-cz-tit-lena/68c1d04416c77",
       "size_bytes": 434612614,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2316,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 27,
-      "display_name": "Elena z Avaloru S03E27 - Vládnout či nevládnout CZ Dabing",
-      "intent_id": "71b98a744b9b4dae8a9fa7a3a2893626",
-      "started_at": "2026-11-17T04:22:44Z",
-      "upload_account": "primary",
-      "source_id": -4547256577409544,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e27-to-queen-or-not-to-queen-cs/92739a26d05963ad",
-      "size_bytes": 382680094,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1330535,5 +1330545,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:22:44Z"
+  "last_updated": "2026-11-17T04:24:12Z"
 }
