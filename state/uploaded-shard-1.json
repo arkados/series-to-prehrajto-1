@@ -911617,6 +911617,32 @@
         "download_sec": 19.1,
         "upload_sec": 34.6
       }
+    },
+    {
+      "episode_id": 129428,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Juru Camp S01E07 - 7. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -27806727503434602,
+      "external_id": "b468470eec51985c",
+      "source_url": "https://prehraj.to/laid-back-camp-s1e7-a-night-on-the-lake-shore-and-campers-ja/b468470eec51985c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31113587,
+      "size_bytes": 338671128,
+      "uploaded_at": "2026-11-17T08:18:50Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.8,
+        "upload_sec": 63.2
+      }
     }
   ],
   "pending_uploads": [
@@ -912737,6 +912763,38 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 129436,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 2,
+      "episode": 2,
+      "display_name": "Juru Camp S02E02 - 2. epizoda CZ Titulky",
+      "intent_id": "cce3fa40da6a4e1e9fd16422fc26d504",
+      "started_at": "2026-11-17T08:23:03Z",
+      "upload_account": "primary",
+      "source_id": -32037565536323903,
+      "source_url": "https://prehraj.to/laid-back-camp-s2e2-new-year-s-solo-camper-girl-ja/ca6427a179ecd6b6",
+      "size_bytes": 608085557,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 129433,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 1,
+      "episode": 11,
+      "display_name": "Juru Camp S01E11 - 11. epizoda CZ Titulky",
+      "intent_id": "44b2f0e7fbc845c293234e9da16e9b04",
+      "started_at": "2026-11-17T08:23:10Z",
+      "upload_account": "primary",
+      "source_id": -65954597780653571,
+      "source_url": "https://prehraj.to/laid-back-camp-s1e11-christmas-camp-ja/97d4403ddfd43614",
+      "size_bytes": 339621956,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1330763,5 +1330821,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:13:56Z"
+  "last_updated": "2026-11-17T08:24:04Z"
 }
