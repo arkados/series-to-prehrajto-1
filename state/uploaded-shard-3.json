@@ -910428,6 +910428,32 @@
         "download_sec": 15.1,
         "upload_sec": 37.6
       }
+    },
+    {
+      "episode_id": 157818,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 15,
+      "episode_code": "S01E15",
+      "display_name": "Strong Woman Do Bong Soon S01E15 - 15. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -28899991510957747,
+      "external_id": "dca98a041158ed1b",
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e15-level-up-ko/dca98a041158ed1b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31133086,
+      "size_bytes": 638542590,
+      "uploaded_at": "2026-11-17T23:31:10Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 28.0,
+        "upload_sec": 177.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1329558,5 +1329584,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T23:12:53Z"
+  "last_updated": "2026-11-17T23:31:10Z"
 }
