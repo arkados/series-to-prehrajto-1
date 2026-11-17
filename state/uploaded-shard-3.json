@@ -909818,6 +909818,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 65223,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 70,
+      "display_name": "Soy Luna S02E70 - 70. epizoda CZ Dabing",
+      "intent_id": "e9d89b9c29a34784bb4c671e7edfbf58",
+      "started_at": "2026-11-17T04:54:05Z",
+      "upload_account": "serialy",
+      "source_id": -16854295449077537,
+      "source_url": "https://prehraj.to/soy-luna-2x70/5c6e6abea31ff",
+      "size_bytes": 512315801,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327842,5 +1327858,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:52:52Z"
+  "last_updated": "2026-11-17T04:54:05Z"
 }
