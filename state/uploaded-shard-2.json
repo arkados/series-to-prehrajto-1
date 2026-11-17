@@ -908478,6 +908478,32 @@
         "download_sec": 13.3,
         "upload_sec": 31.6
       }
+    },
+    {
+      "episode_id": 113259,
+      "series_id": 2854,
+      "series_title": "Ultimate Force",
+      "season": 2,
+      "episode": 3,
+      "episode_code": "S02E03",
+      "display_name": "Ultimate Force S02E03 - 3. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -56476904478106058,
+      "external_id": "bfdec85345df011a",
+      "source_url": "https://prehraj.to/ultimate-force-s2e3-wannabes-cs/bfdec85345df011a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31106013,
+      "size_bytes": 369429455,
+      "uploaded_at": "2026-11-17T02:43:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.8,
+        "upload_sec": 53.7
+      }
     }
   ],
   "pending_uploads": [
@@ -1327608,5 +1327634,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T02:38:44Z"
+  "last_updated": "2026-11-17T02:43:26Z"
 }
