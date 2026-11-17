@@ -913047,6 +913047,32 @@
         "download_sec": 257.3,
         "upload_sec": 38.3
       }
+    },
+    {
+      "episode_id": 157812,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Strong Woman Do Bong Soon S01E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -36623866434605045,
+      "external_id": "a1af8b44d12442aa",
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e9-love-risking-one-s-life-ko/a1af8b44d12442aa",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31129894,
+      "size_bytes": 664380415,
+      "uploaded_at": "2026-11-17T21:45:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 46.2,
+        "upload_sec": 88.3
+      }
     }
   ],
   "pending_uploads": [
@@ -914169,22 +914195,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 157812,
-      "series_id": 5404,
-      "series_title": "Strong Woman Do Bong Soon",
-      "season": 1,
-      "episode": 9,
-      "display_name": "Strong Woman Do Bong Soon S01E09 - 9. epizoda CZ Titulky",
-      "intent_id": "4527a8be43604f60bbf6973a4d46271c",
-      "started_at": "2026-11-17T21:43:21Z",
-      "upload_account": "primary",
-      "source_id": -36623866434605045,
-      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e9-love-risking-one-s-life-ko/a1af8b44d12442aa",
-      "size_bytes": 664380415,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332209,5 +1332219,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T21:43:21Z"
+  "last_updated": "2026-11-17T21:45:50Z"
 }
