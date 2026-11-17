@@ -131,6 +131,22 @@ def prepared_episode_ids() -> set[int]:
     return available
 
 
+def eligible_whisper_review_count(prepared_ids: set[int]) -> int:
+    """Queue review only when the worker can actually select another source."""
+    from process_whisper_review_queue import eligible_review_sources, review_due
+
+    state = load_state()
+    unavailable = burned_source_ids(state) | cooling_down_source_ids(state)
+    now = dt.datetime.now(dt.timezone.utc)
+    due = [row for row in load_jsonl(REPO / "plans" / "whisper-review-queue.jsonl")
+           if review_due(row, now=now, allow_original=True)]
+    return len(eligible_review_sources(
+        due, uploaded_ids=uploaded_episode_ids(state),
+        uploaded_keys=uploaded_episode_keys(state), burned=unavailable,
+        prepared_ids=prepared_ids,
+    ))
+
+
 def unprepared_source_queue_episodes() -> int:
     latest = {
         int(row["episode_id"]): row
@@ -249,11 +265,12 @@ def main() -> int:
     manifest_ready = int(counts.get("manifest_upload_ready_episodes") or 0)
     # Historical plans, including completed and failed episodes, cannot refill
     # the upload window. Count only the remaining usable source reserve.
-    prepared_source_episodes = len(prepared_episode_ids())
+    available_prepared = prepared_episode_ids()
+    prepared_source_episodes = len(available_prepared)
     language_queue_sources = int(counts.get("language_queue_sources") or 0)
     unprepared_queue_episodes = unprepared_source_queue_episodes()
     pending_whisper = int(counts.get("language_pending_whisper_sources") or 0)
-    whisper_review_pending = int(counts.get("whisper_review_pending_sources") or 0)
+    whisper_review_pending = eligible_whisper_review_count(available_prepared)
     subtitle_followup_pending = int(counts.get("subtitle_followup_pending_sources") or 0)
     subtitles_first = hold_source_search(upload_ready, subtitle_followup_pending)
     description_gap = len(gaps.get("backlog_without_episode_description") or [])

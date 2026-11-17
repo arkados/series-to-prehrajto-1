@@ -147,9 +147,48 @@ def test_reserve_obeys_size_proof_and_can_use_a_live_fallback(monkeypatch):
     monkeypatch.setattr(ops_watchdog, "load_state", lambda: {"uploads": [], "failed_attempts": []})
     monkeypatch.setattr(ops_watchdog, "load_jsonl", lambda _: [plan])
     assert ops_watchdog.prepared_episode_ids() == {1}
+
     source["filesize_bytes"] = 10
     assert ops_watchdog.prepared_episode_ids() == set()
     source["filesize_bytes"] = None
     assert ops_watchdog.prepared_episode_ids() == set()
     plan["tested_sources"] = [{**source, "source_id": 2, "filesize_bytes": 400 * 1024 * 1024}]
     assert ops_watchdog.prepared_episode_ids() == {1}
+
+
+def test_review_count_excludes_completed_reserved_and_blocked_sources(monkeypatch):
+    def row(i):
+        return dict(episode_id=i, series_id=1, season=1, episode=i, source_id=i,
+                    provider="prehrajto", filesize_bytes=400 * 1024 * 1024,
+                    status="needs_whisper")
+
+    rows = [row(i) for i in range(1, 7)]
+    state = {"uploads": [row(1)], "pending_uploads": [row(2)],
+             "failed_attempts": [{"source_id": 3, "permanent": True}]}
+    monkeypatch.setattr(ops_watchdog, "load_state", lambda: state)
+    monkeypatch.setattr(ops_watchdog, "load_jsonl", lambda _: rows)
+    monkeypatch.setattr(ops_watchdog, "cooling_down_source_ids", lambda _: {4})
+    assert ops_watchdog.eligible_whisper_review_count({5}) == 1
+
+
+def test_review_count_does_not_restart_finished_or_deferred_work(monkeypatch):
+    ready = dict(episode_id=1, series_id=1, season=1, episode=1, source_id=1,
+                 provider="prehrajto", filesize_bytes=400 * 1024 * 1024)
+    rows = [{**ready, "status": "whisper_confirmed_cz", "recovery_version": 2},
+            {**ready, "status": "whisper_failed", "retry_attempts": 3},
+            {**ready, "status": "whisper_failed", "retry_attempts": 1,
+             "retry_after": "2099-01-01T00:00:00Z"}]
+    monkeypatch.setattr(ops_watchdog, "load_state", lambda: {"uploads": [], "failed_attempts": []})
+    monkeypatch.setattr(ops_watchdog, "load_jsonl", lambda _: rows)
+    assert ops_watchdog.eligible_whisper_review_count(set()) == 0
+
+
+def test_review_count_includes_original_file_recovery_once(monkeypatch):
+    row = dict(episode_id=1, series_id=1, season=1, episode=1, source_id=1,
+               provider="prehrajto", filesize_bytes=400 * 1024 * 1024,
+               status="whisper_failed", whisper={"status": "stream_undersized"})
+    monkeypatch.setattr(ops_watchdog, "load_state", lambda: {"uploads": [], "failed_attempts": []})
+    monkeypatch.setattr(ops_watchdog, "load_jsonl", lambda _: [row])
+    assert ops_watchdog.eligible_whisper_review_count(set()) == 1
+    row["official_original"] = {"status": "unavailable"}
+    assert ops_watchdog.eligible_whisper_review_count(set()) == 0
