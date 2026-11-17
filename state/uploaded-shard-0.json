@@ -911435,6 +911435,32 @@
         "download_sec": 25.7,
         "upload_sec": 55.4
       }
+    },
+    {
+      "episode_id": 129432,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Juru Camp S01E10 - 10. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -64913498948393552,
+      "external_id": "36da9be44a3b7b28",
+      "source_url": "https://prehraj.to/laid-back-camp-s1e10-clumsy-travelers-and-camp-meetings-ja/36da9be44a3b7b28",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31108725,
+      "size_bytes": 339806112,
+      "uploaded_at": "2026-11-17T04:53:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.9,
+        "upload_sec": 27.4
+      }
     }
   ],
   "pending_uploads": [
@@ -912555,22 +912581,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 129432,
-      "series_id": 3631,
-      "series_title": "Juru Camp",
-      "season": 1,
-      "episode": 10,
-      "display_name": "Juru Camp S01E10 - 10. epizoda CZ Titulky",
-      "intent_id": "d8df3f23b558485b8cb8f3a358095bec",
-      "started_at": "2026-11-17T04:51:24Z",
-      "upload_account": "primary",
-      "source_id": -64913498948393552,
-      "source_url": "https://prehraj.to/laid-back-camp-s1e10-clumsy-travelers-and-camp-meetings-ja/36da9be44a3b7b28",
-      "size_bytes": 339806112,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1330597,5 +1330607,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:51:27Z"
+  "last_updated": "2026-11-17T04:53:38Z"
 }
