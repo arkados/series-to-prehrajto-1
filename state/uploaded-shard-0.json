@@ -912995,6 +912995,32 @@
         "download_sec": 438.9,
         "upload_sec": 50.2
       }
+    },
+    {
+      "episode_id": 116949,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Avengers - Sjednocení S01E10 - Doomstroyer CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -30953440292978180,
+      "external_id": "55ce4639dade84b7",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s1e10-the-doomstroyer-en/55ce4639dade84b7",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31128895,
+      "size_bytes": 329021661,
+      "uploaded_at": "2026-11-17T21:07:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 521.6,
+        "upload_sec": 28.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1332141,5 +1332167,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T20:50:49Z"
+  "last_updated": "2026-11-17T21:07:57Z"
 }
