@@ -911773,6 +911773,32 @@
         "download_sec": 18.9,
         "upload_sec": 39.5
       }
+    },
+    {
+      "episode_id": 187608,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 7,
+      "episode_code": "S07E07",
+      "display_name": "Požárník Sam S07E07 - S chutí do toho CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -44530099611009508,
+      "external_id": "5c744aaa93f11",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e07-cz-dabing-pro-deti/5c744aaa93f11",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31114426,
+      "size_bytes": 339659887,
+      "uploaded_at": "2026-11-17T09:00:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.2,
+        "upload_sec": 37.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1330919,5 +1330945,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:55:33Z"
+  "last_updated": "2026-11-17T09:00:18Z"
 }
