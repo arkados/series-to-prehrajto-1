@@ -908374,6 +908374,32 @@
         "download_sec": 17.7,
         "upload_sec": 100.6
       }
+    },
+    {
+      "episode_id": 2298,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 8,
+      "episode_code": "S03E08",
+      "display_name": "Elena z Avaloru S03E08 - Kapitán Mateo CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -56928955139749718,
+      "external_id": "06e01ed37097293b",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e8-captain-mateo-cs/06e01ed37097293b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31105016,
+      "size_bytes": 379518893,
+      "uploaded_at": "2026-11-17T01:52:05Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 11.4,
+        "upload_sec": 76.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1327504,5 +1327530,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T01:44:04Z"
+  "last_updated": "2026-11-17T01:52:05Z"
 }
