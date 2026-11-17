@@ -909648,6 +909648,32 @@
         "download_sec": 16.9,
         "upload_sec": 32.4
       }
+    },
+    {
+      "episode_id": 89203,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 3,
+      "episode": 13,
+      "episode_code": "S03E13",
+      "display_name": "Lexx S03E13 - 13. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -36911686576650842,
+      "external_id": "589b96d6f2364",
+      "source_url": "https://prehraj.to/lexx-s03e13-cz-dabing/589b96d6f2364",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31119157,
+      "size_bytes": 335038464,
+      "uploaded_at": "2026-11-17T13:20:46Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 229.2,
+        "upload_sec": 27.3
+      }
     }
   ],
   "pending_uploads": [
@@ -910754,22 +910780,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 89203,
-      "series_id": 2111,
-      "series_title": "Lexx",
-      "season": 3,
-      "episode": 13,
-      "display_name": "Lexx S03E13 - 13. epizoda CZ Dabing",
-      "intent_id": "ffd3d4df77ab4a62889a588a85eb5a6f",
-      "started_at": "2026-11-17T13:19:38Z",
-      "upload_account": "serialy",
-      "source_id": -36911686576650842,
-      "source_url": "https://prehraj.to/lexx-s03e13-cz-dabing/589b96d6f2364",
-      "size_bytes": 335038464,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328794,5 +1328804,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:19:38Z"
+  "last_updated": "2026-11-17T13:20:46Z"
 }
