@@ -910390,6 +910390,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 149275,
+      "series_id": 5020,
+      "series_title": "Zomboat!",
+      "season": 1,
+      "episode": 6,
+      "display_name": "Zomboat! S01E06 - 6. epizoda CZ Titulky",
+      "intent_id": "b4c9b5f3250545e4be1aadfc67289129",
+      "started_at": "2026-11-17T09:31:55Z",
+      "upload_account": "serialy",
+      "source_id": -3766362875352115,
+      "source_url": "https://prehraj.to/zomboat-s1e6-episode-6-en/a815d91ed73110f1",
+      "size_bytes": 347626313,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328414,5 +1328430,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T09:23:56Z"
+  "last_updated": "2026-11-17T09:31:55Z"
 }
