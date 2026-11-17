@@ -909596,6 +909596,32 @@
         "download_sec": 13.9,
         "upload_sec": 38.6
       }
+    },
+    {
+      "episode_id": 89218,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "Lexx S03E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -49198285224753265,
+      "external_id": "5f32eb3bb96ef",
+      "source_url": "https://prehraj.to/lexx-s03e03-cz-dabing/5f32eb3bb96ef",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31119026,
+      "size_bytes": 334999552,
+      "uploaded_at": "2026-11-17T13:11:34Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 443.0,
+        "upload_sec": 31.1
+      }
     }
   ],
   "pending_uploads": [
@@ -910702,22 +910728,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 89218,
-      "series_id": 2111,
-      "series_title": "Lexx",
-      "season": 3,
-      "episode": 3,
-      "display_name": "Lexx S03E03 - 3. epizoda CZ Titulky",
-      "intent_id": "0dc7a1e6c85349c695f9d2e3244e2302",
-      "started_at": "2026-11-17T13:10:26Z",
-      "upload_account": "serialy",
-      "source_id": -49198285224753265,
-      "source_url": "https://prehraj.to/lexx-s03e03-cz-dabing/5f32eb3bb96ef",
-      "size_bytes": 334999552,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328742,5 +1328752,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:10:26Z"
+  "last_updated": "2026-11-17T13:11:34Z"
 }
