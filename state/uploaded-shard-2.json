@@ -909948,6 +909948,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 129430,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 1,
+      "episode": 8,
+      "display_name": "Juru Camp S01E08 - 8. epizoda CZ Titulky",
+      "intent_id": "605b6e5615f14ac5b2a952492bea98d4",
+      "started_at": "2026-11-17T05:12:58Z",
+      "upload_account": "serialy",
+      "source_id": -24638345023098423,
+      "source_url": "https://prehraj.to/laid-back-camp-s1e8-exams-caribou-steamed-buns-yum-ja/af16ae5dca5c1396",
+      "size_bytes": 339664994,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1327972,5 +1327988,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T05:12:06Z"
+  "last_updated": "2026-11-17T05:12:58Z"
 }
