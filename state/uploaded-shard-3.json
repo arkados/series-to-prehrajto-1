@@ -910078,6 +910078,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 129423,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Juru Camp S01E02 - 2. epizoda CZ Titulky",
+      "intent_id": "f2ce6787169340958ff12ed481a6f278",
+      "started_at": "2026-11-17T08:10:28Z",
+      "upload_account": "serialy",
+      "source_id": -70789906216268852,
+      "source_url": "https://prehraj.to/laid-back-camp-s1e2-welcome-to-the-outdoor-activities-club-ja/df52b9c41d19b9e5",
+      "size_bytes": 339800369,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328102,5 +1328118,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:09:36Z"
+  "last_updated": "2026-11-17T08:10:28Z"
 }
