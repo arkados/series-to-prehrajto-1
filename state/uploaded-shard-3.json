@@ -910246,6 +910246,32 @@
         "download_sec": 15.9,
         "upload_sec": 42.0
       }
+    },
+    {
+      "episode_id": 87858,
+      "series_id": 2069,
+      "series_title": "Nutné k přežití",
+      "season": 3,
+      "episode": 7,
+      "episode_code": "S03E07",
+      "display_name": "Nutné k přežití S03E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -11511334488177668,
+      "external_id": "5c4ef12367f97",
+      "source_url": "https://prehraj.to/man-vs-wild-3x7/5c4ef12367f97",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31129881,
+      "size_bytes": 342086729,
+      "uploaded_at": "2026-11-17T21:44:36Z",
+      "timing": {
+        "resolve_sec": 3.1,
+        "download_sec": 27.6,
+        "upload_sec": 45.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1329376,5 +1329402,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T21:39:56Z"
+  "last_updated": "2026-11-17T21:45:50Z"
 }
