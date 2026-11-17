@@ -912527,6 +912527,32 @@
         "download_sec": 453.8,
         "upload_sec": 34.5
       }
+    },
+    {
+      "episode_id": 101437,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "Milionový lékař S02E06 - 6. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -49195983053955896,
+      "external_id": "565f06f2d14c9",
+      "source_url": "https://prehraj.to/royal-pains-s02e06-sktit-v-obraze/565f06f2d14c9",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31120942,
+      "size_bytes": 345007592,
+      "uploaded_at": "2026-11-17T14:51:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.8,
+        "upload_sec": 28.7
+      }
     }
   ],
   "pending_uploads": [
@@ -913648,22 +913674,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 101437,
-      "series_id": 2468,
-      "series_title": "Milionový lékař",
-      "season": 2,
-      "episode": 6,
-      "display_name": "Milionový lékař S02E06 - 6. epizoda CZ Titulky",
-      "intent_id": "a02c14f044b348d993c0cc7dd070d572",
-      "started_at": "2026-11-17T14:49:13Z",
-      "upload_account": "primary",
-      "source_id": -49195983053955896,
-      "source_url": "https://prehraj.to/royal-pains-s02e06-sktit-v-obraze/565f06f2d14c9",
-      "size_bytes": 345007592,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1331689,5 +1331699,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T14:49:13Z"
+  "last_updated": "2026-11-17T14:51:11Z"
 }
