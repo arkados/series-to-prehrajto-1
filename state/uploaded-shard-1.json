@@ -912605,6 +912605,32 @@
         "download_sec": 682.9,
         "upload_sec": 31.8
       }
+    },
+    {
+      "episode_id": 116965,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 1,
+      "episode_code": "S02E01",
+      "display_name": "Avengers - Sjednocení S02E01 - Arsenal CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -53893156671986815,
+      "external_id": "520861e94867ed68",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e1-the-arsenal-cs/520861e94867ed68",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31123074,
+      "size_bytes": 327709648,
+      "uploaded_at": "2026-11-17T16:45:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.2,
+        "upload_sec": 36.1
+      }
     }
   ],
   "pending_uploads": [
@@ -913729,18 +913755,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 116965,
+      "episode_id": 116976,
       "series_id": 3015,
       "series_title": "Avengers - Sjednocení",
       "season": 2,
-      "episode": 1,
-      "display_name": "Avengers - Sjednocení S02E01 - Arsenal CZ Dabing",
-      "intent_id": "94258fc0e7334f2a81fe55485cd0c54e",
-      "started_at": "2026-11-17T16:44:11Z",
+      "episode": 2,
+      "display_name": "Avengers - Sjednocení S02E02 - Thanos povstává CZ Dabing",
+      "intent_id": "393b17d552164b59bef5981c39b842d8",
+      "started_at": "2026-11-17T16:45:05Z",
       "upload_account": "primary",
-      "source_id": -53893156671986815,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e1-the-arsenal-cs/520861e94867ed68",
-      "size_bytes": 327709648,
+      "source_id": -60907300109102072,
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e2-thanos-rising-cs/afe93ebc9cfdf9c3",
+      "size_bytes": 327704205,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1331767,5 +1331793,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T16:44:11Z"
+  "last_updated": "2026-11-17T16:45:29Z"
 }
