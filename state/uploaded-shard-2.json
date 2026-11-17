@@ -911014,6 +911014,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 141802,
+      "series_id": 4452,
+      "series_title": "Moje nesnesitelná puberťačka",
+      "season": 1,
+      "episode": 12,
+      "display_name": "Moje nesnesitelná puberťačka S01E12 - 12. epizoda CZ Dabing",
+      "intent_id": "4381cb063909454282363d8ff4f5dbec",
+      "started_at": "2026-11-17T15:32:07Z",
+      "upload_account": "serialy",
+      "source_id": -69116322980482215,
+      "source_url": "https://prehraj.to/moje-nesnesitelna-pubertacka-s01e12-czdab/57ba217439373",
+      "size_bytes": 328153134,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329038,5 +1329054,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T15:26:57Z"
+  "last_updated": "2026-11-17T15:32:07Z"
 }
