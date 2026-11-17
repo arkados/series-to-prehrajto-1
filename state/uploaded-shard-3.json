@@ -909752,6 +909752,32 @@
         "download_sec": 18.1,
         "upload_sec": 35.3
       }
+    },
+    {
+      "episode_id": 101434,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 2,
+      "episode": 3,
+      "episode_code": "S02E03",
+      "display_name": "Milionový lékař S02E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -28555111008999155,
+      "external_id": "565f04c356b81",
+      "source_url": "https://prehraj.to/royal-pains-s02e03-cztit-v-obraze/565f04c356b81",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31120112,
+      "size_bytes": 351221524,
+      "uploaded_at": "2026-11-17T14:16:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.0,
+        "upload_sec": 67.9
+      }
     }
   ],
   "pending_uploads": [
@@ -910858,6 +910884,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 115446,
+      "series_id": 2938,
+      "series_title": "Rake",
+      "season": 1,
+      "episode": 4,
+      "display_name": "Rake S01E04 - 4. epizoda CZ Titulky",
+      "intent_id": "578302d1fbe84fdda4605fce13f6526f",
+      "started_at": "2026-11-17T14:30:55Z",
+      "upload_account": "serialy",
+      "source_id": -11385103064722135,
+      "source_url": "https://prehraj.to/rake-s01e04/5bdff2115dd0e",
+      "size_bytes": 357502359,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328882,5 +1328924,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T14:06:59Z"
+  "last_updated": "2026-11-17T14:30:55Z"
 }
