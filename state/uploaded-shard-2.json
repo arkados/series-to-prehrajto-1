@@ -911560,6 +911560,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 94078,
+      "series_id": 2238,
+      "series_title": "Star Wars: Odboj",
+      "season": 1,
+      "episode": 11,
+      "display_name": "Star Wars: Odboj S01E11 - 11. epizoda CZ Titulky",
+      "intent_id": "76c08a4005b94bf18e3d370b3023d8a9",
+      "started_at": "2026-11-17T23:33:52Z",
+      "upload_account": "serialy",
+      "source_id": -57914933755324456,
+      "source_url": "https://prehraj.to/star-wars-odboj-s1e11-bibo-en/a349e8ca1bf865c7",
+      "size_bytes": 327732452,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329584,5 +1329600,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T23:31:10Z"
+  "last_updated": "2026-11-17T23:33:52Z"
 }
