@@ -909206,6 +909206,32 @@
         "download_sec": 25.7,
         "upload_sec": 75.2
       }
+    },
+    {
+      "episode_id": 187607,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 6,
+      "episode_code": "S07E06",
+      "display_name": "Požárník Sam S07E06 - Santa přes palubu CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -63784982697180736,
+      "external_id": "5c744aa8c5e25",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e06-cz-dabing-pro-deti/5c744aa8c5e25",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31114523,
+      "size_bytes": 339120363,
+      "uploaded_at": "2026-11-17T09:05:41Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.4,
+        "upload_sec": 48.7
+      }
     }
   ],
   "pending_uploads": [
@@ -910312,22 +910338,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 187607,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 7,
-      "episode": 6,
-      "display_name": "Požárník Sam S07E06 - Santa přes palubu CZ Dabing",
-      "intent_id": "781fa86da153478ebc832e6f9d9677c6",
-      "started_at": "2026-11-17T09:03:30Z",
-      "upload_account": "serialy",
-      "source_id": -63784982697180736,
-      "source_url": "https://prehraj.to/pozarnik-sam-s07e06-cz-dabing-pro-deti/5c744aa8c5e25",
-      "size_bytes": 339120363,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328352,5 +1328362,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T09:03:30Z"
+  "last_updated": "2026-11-17T09:05:41Z"
 }
