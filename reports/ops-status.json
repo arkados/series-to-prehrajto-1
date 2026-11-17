@@ -1,38 +1,110 @@
 {
   "counts": {
     "backlog_episodes": 109037,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 82691,
-    "prepared_source_episodes": 68402,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 82692,
+    "prepared_source_episodes": 68388,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 181,
+    "language_audited_sources": 184,
     "language_whisper_attempted_sources": 53,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53606,
-    "whisper_review_pending_sources": 36447,
-    "upload_pending_checkpoints": 140,
+    "whisper_review_pending_sources": 36448,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52124,
     "subtitle_followup_pending_sources": 52124
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-17T04:18:43Z",
-      "databaseId": 44016290655,
+      "createdAt": "2026-11-17T04:20:46Z",
+      "databaseId": 44016529482,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T04:20:07Z",
+      "databaseId": 44016452989,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T04:20:06Z",
+      "databaseId": 44016449376,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T04:20:04Z",
+      "databaseId": 44016445260,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T04:20:01Z",
+      "databaseId": 44016440744,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T04:19:59Z",
+      "databaseId": 44016436956,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T04:19:58Z",
+      "databaseId": 44016435021,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T04:19:57Z",
+      "databaseId": 44016432128,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "refresh-backlog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T04:19:40Z",
+      "databaseId": 44016400305,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T04:18:43Z",
+      "databaseId": 44016290655,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
       "createdAt": "2026-11-17T04:18:27Z",
       "databaseId": 44016260403,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -92,11 +164,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T04:04:00Z",
       "databaseId": 44014536890,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -106,78 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T04:02:52Z",
-      "databaseId": 44014402625,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T03:58:52Z",
-      "databaseId": 44013933037,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T03:55:11Z",
-      "databaseId": 44013533140,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T03:55:04Z",
-      "databaseId": 44013517566,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T03:50:30Z",
-      "databaseId": 44012993476,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-17T03:50:24Z",
-      "databaseId": 44012980378,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T03:47:35Z",
-      "databaseId": 44012660304,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T03:45:59Z",
-      "databaseId": 44012477084,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-17T03:45:53Z",
-      "databaseId": 44012465140,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -387865,6 +387865,11 @@
         "episode_id": 107927,
         "display_name": "Lina, postrach banditů S04E06 - 6. epizoda CZ Titulky",
         "video_id": 31107664
+      },
+      {
+        "episode_id": 2315,
+        "display_name": "Elena z Avaloru S03E26 - Elenin volný den CZ Dabing",
+        "video_id": 31107970
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -775447,6 +775452,11 @@
         "episode_id": 107927,
         "display_name": "Lina, postrach banditů S04E06 - 6. epizoda CZ Titulky",
         "video_id": 31107664
+      },
+      {
+        "episode_id": 2315,
+        "display_name": "Elena z Avaloru S03E26 - Elenin volný den CZ Dabing",
+        "video_id": 31107970
       }
     ],
     "prepared_not_upload_ready": [
@@ -776608,14 +776618,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 128,
+    "disabled": 131,
     "sample_failed": 4,
     "ok": 48,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35296,
-    "whisper_confirmed_cz": 3881,
+    "needs_whisper": 35297,
+    "whisper_confirmed_cz": 3880,
     "whisper_non_cz_needs_subtitles": 13278,
     "whisper_failed": 1151
   },
