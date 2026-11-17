@@ -909896,6 +909896,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187578,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 13,
+      "display_name": "Požárník Sam S06E13 - Ovčácký pes CZ Dabing",
+      "intent_id": "ac9d0df56aaa46ad8908473d220e062f",
+      "started_at": "2026-11-17T05:08:19Z",
+      "upload_account": "serialy",
+      "source_id": -58396242677601078,
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e13-cz-dabing-pro-deti/5c742f5c8272a",
+      "size_bytes": 342188970,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1327920,5 +1327936,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:59:55Z"
+  "last_updated": "2026-11-17T05:08:19Z"
 }
