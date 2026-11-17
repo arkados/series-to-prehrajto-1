@@ -910194,6 +910194,32 @@
         "download_sec": 31.1,
         "upload_sec": 100.4
       }
+    },
+    {
+      "episode_id": 116942,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 22,
+      "episode_code": "S01E22",
+      "display_name": "Avengers - Sjednocení S01E22 - Strážci a Vesmírní rytíři CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -44056687157365614,
+      "external_id": "5a9dd598767a5",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e22-strazci-a-vesmirni-rytiri/5a9dd598767a5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31129260,
+      "size_bytes": 328204751,
+      "uploaded_at": "2026-11-17T21:24:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 529.0,
+        "upload_sec": 41.5
+      }
     }
   ],
   "pending_uploads": [
@@ -911300,22 +911326,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 116942,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 1,
-      "episode": 22,
-      "display_name": "Avengers - Sjednocení S01E22 - Strážci a Vesmírní rytíři CZ Dabing",
-      "intent_id": "3b0ca9576107436fa73c5f91fe65a8cf",
-      "started_at": "2026-11-17T21:23:02Z",
-      "upload_account": "serialy",
-      "source_id": -44056687157365614,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e22-strazci-a-vesmirni-rytiri/5a9dd598767a5",
-      "size_bytes": 328204751,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329340,5 +1329350,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T21:23:02Z"
+  "last_updated": "2026-11-17T21:24:12Z"
 }
