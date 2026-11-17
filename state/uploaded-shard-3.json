@@ -909726,6 +909726,32 @@
         "download_sec": 12.9,
         "upload_sec": 32.1
       }
+    },
+    {
+      "episode_id": 105714,
+      "series_id": 2600,
+      "series_title": "Everything Sucks!",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Everything Sucks! S01E08 - I Just Wanna Be Anybody CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -40914420498086972,
+      "external_id": "ff828ee9e1f46ab3",
+      "source_url": "https://prehraj.to/everything-sucks-s1e8-i-just-wanna-be-anybody-en/ff828ee9e1f46ab3",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31119715,
+      "size_bytes": 316819915,
+      "uploaded_at": "2026-11-17T13:57:42Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 18.1,
+        "upload_sec": 35.3
+      }
     }
   ],
   "pending_uploads": [
@@ -910830,22 +910856,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 105714,
-      "series_id": 2600,
-      "series_title": "Everything Sucks!",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Everything Sucks! S01E08 - I Just Wanna Be Anybody CZ Titulky",
-      "intent_id": "50411332c6e3465c97340b81acd1f9c1",
-      "started_at": "2026-11-17T13:56:05Z",
-      "upload_account": "serialy",
-      "source_id": -40914420498086972,
-      "source_url": "https://prehraj.to/everything-sucks-s1e8-i-just-wanna-be-anybody-en/ff828ee9e1f46ab3",
-      "size_bytes": 316819915,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1328872,5 +1328882,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:57:03Z"
+  "last_updated": "2026-11-17T14:06:59Z"
 }
