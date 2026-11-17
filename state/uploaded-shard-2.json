@@ -908218,6 +908218,32 @@
         "download_sec": 21.0,
         "upload_sec": 54.4
       }
+    },
+    {
+      "episode_id": 2350,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 18,
+      "episode_code": "S02E18",
+      "display_name": "Elena z Avaloru S02E18 - Hledá se Zuzo CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -52677004744212319,
+      "external_id": "45978ae84971762c",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e18-finding-zuzo-cs/45978ae84971762c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102708,
+      "size_bytes": 370165147,
+      "uploaded_at": "2026-11-17T00:25:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.6,
+        "upload_sec": 45.6
+      }
     }
   ],
   "pending_uploads": [
@@ -909322,22 +909348,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2350,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 2,
-      "episode": 18,
-      "display_name": "Elena z Avaloru S02E18 - Hledá se Zuzo CZ Dabing",
-      "intent_id": "5415d9b722194cd3a24eadee6f8f8ece",
-      "started_at": "2026-11-17T00:23:48Z",
-      "upload_account": "serialy",
-      "source_id": -52677004744212319,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s2e18-finding-zuzo-cs/45978ae84971762c",
-      "size_bytes": 370165147,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327364,5 +1327374,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:23:48Z"
+  "last_updated": "2026-11-17T00:25:07Z"
 }
