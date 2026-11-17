@@ -909376,6 +909376,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2346,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 22,
+      "display_name": "Elena z Avaloru S02E22 - Bez kouzel ne CZ Dabing",
+      "intent_id": "97d24389d7b74054aeb5dd10d264e553",
+      "started_at": "2026-11-17T00:54:32Z",
+      "upload_account": "serialy",
+      "source_id": -53522432925388926,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e22-not-without-my-magic-cs/76b50f06c98e98b9",
+      "size_bytes": 318913238,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327400,5 +1327416,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:37:23Z"
+  "last_updated": "2026-11-17T00:54:32Z"
 }
