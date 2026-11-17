@@ -908270,6 +908270,32 @@
         "download_sec": 19.6,
         "upload_sec": 50.8
       }
+    },
+    {
+      "episode_id": 2346,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 22,
+      "episode_code": "S02E22",
+      "display_name": "Elena z Avaloru S02E22 - Bez kouzel ne CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -53522432925388926,
+      "external_id": "76b50f06c98e98b9",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e22-not-without-my-magic-cs/76b50f06c98e98b9",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31103420,
+      "size_bytes": 318913238,
+      "uploaded_at": "2026-11-17T00:56:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.1,
+        "upload_sec": 49.3
+      }
     }
   ],
   "pending_uploads": [
@@ -909374,22 +909400,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2346,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 2,
-      "episode": 22,
-      "display_name": "Elena z Avaloru S02E22 - Bez kouzel ne CZ Dabing",
-      "intent_id": "97d24389d7b74054aeb5dd10d264e553",
-      "started_at": "2026-11-17T00:54:32Z",
-      "upload_account": "serialy",
-      "source_id": -53522432925388926,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s2e22-not-without-my-magic-cs/76b50f06c98e98b9",
-      "size_bytes": 318913238,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327416,5 +1327426,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:54:32Z"
+  "last_updated": "2026-11-17T00:56:13Z"
 }
