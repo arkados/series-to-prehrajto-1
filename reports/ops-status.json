@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108901,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82742,
-    "prepared_source_episodes": 68398,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82744,
+    "prepared_source_episodes": 68397,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
@@ -21,10 +21,34 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T10:54:19Z",
+      "databaseId": 44069100038,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T10:52:39Z",
+      "databaseId": 44068849030,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-17T10:52:36Z",
+      "databaseId": 44068840448,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T10:51:16Z",
       "databaseId": 44068637635,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-17T10:34:59Z",
-      "databaseId": 44066157191,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T10:34:06Z",
-      "databaseId": 44066021991,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T10:32:27Z",
-      "databaseId": 44065762867,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -388120,6 +388120,16 @@
         "episode_id": 149275,
         "display_name": "Zomboat! S01E06 - 6. epizoda CZ Titulky",
         "video_id": 31114924
+      },
+      {
+        "episode_id": 187598,
+        "display_name": "Požárník Sam S07E08 - Je je jehňátko CZ Dabing",
+        "video_id": 31116182
+      },
+      {
+        "episode_id": 187595,
+        "display_name": "Požárník Sam S07E09 - Mámin pomocníček CZ Dabing",
+        "video_id": 31116199
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -775957,6 +775967,16 @@
         "episode_id": 149275,
         "display_name": "Zomboat! S01E06 - 6. epizoda CZ Titulky",
         "video_id": 31114924
+      },
+      {
+        "episode_id": 187598,
+        "display_name": "Požárník Sam S07E08 - Je je jehňátko CZ Dabing",
+        "video_id": 31116182
+      },
+      {
+        "episode_id": 187595,
+        "display_name": "Požárník Sam S07E09 - Mámin pomocníček CZ Dabing",
+        "video_id": 31116199
       }
     ],
     "prepared_not_upload_ready": [
