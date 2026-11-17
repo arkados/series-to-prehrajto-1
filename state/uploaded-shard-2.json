@@ -908322,6 +908322,32 @@
         "download_sec": 11.3,
         "upload_sec": 31.0
       }
+    },
+    {
+      "episode_id": 2294,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 4,
+      "episode_code": "S03E04",
+      "display_name": "Elena z Avaloru S03E04 - Úžasní malincí královští CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -44237685848807222,
+      "external_id": "cbaa4005777516b0",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e4-the-incredible-shrinking-royals-cs/cbaa4005777516b0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31104630,
+      "size_bytes": 382219576,
+      "uploaded_at": "2026-11-17T01:36:21Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 16.3,
+        "upload_sec": 57.7
+      }
     }
   ],
   "pending_uploads": [
@@ -909426,22 +909452,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2294,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 4,
-      "display_name": "Elena z Avaloru S03E04 - Úžasní malincí královští CZ Dabing",
-      "intent_id": "aaa39dd371804827a2080103f613b762",
-      "started_at": "2026-11-17T01:34:12Z",
-      "upload_account": "serialy",
-      "source_id": -44237685848807222,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e4-the-incredible-shrinking-royals-cs/cbaa4005777516b0",
-      "size_bytes": 382219576,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327468,5 +1327478,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T01:34:12Z"
+  "last_updated": "2026-11-17T01:36:21Z"
 }
