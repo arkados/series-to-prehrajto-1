@@ -911404,6 +911404,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 87818,
+      "series_id": 2069,
+      "series_title": "Nutné k přežití",
+      "season": 4,
+      "episode": 2,
+      "display_name": "Nutné k přežití S04E02 - 2. epizoda CZ Dabing",
+      "intent_id": "6540b65bfa674f118a490ff78190477c",
+      "started_at": "2026-11-17T22:05:54Z",
+      "upload_account": "serialy",
+      "source_id": -38306954882147268,
+      "source_url": "https://prehraj.to/man-vs-wild-4x2/5c1c2e4e27381",
+      "size_bytes": 320567440,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1329428,5 +1329444,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T22:05:01Z"
+  "last_updated": "2026-11-17T22:05:54Z"
 }
