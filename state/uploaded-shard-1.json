@@ -912501,6 +912501,32 @@
         "download_sec": 19.1,
         "upload_sec": 34.8
       }
+    },
+    {
+      "episode_id": 101436,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Milionový lékař S02E05 - 5. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -49154269573583238,
+      "external_id": "565f06270a713",
+      "source_url": "https://prehraj.to/royal-pains-s02e05-sktit-v-obraze/565f06270a713",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31120707,
+      "size_bytes": 345344908,
+      "uploaded_at": "2026-11-17T14:39:28Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 453.8,
+        "upload_sec": 34.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1331647,5 +1331673,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T14:31:59Z"
+  "last_updated": "2026-11-17T14:39:28Z"
 }
