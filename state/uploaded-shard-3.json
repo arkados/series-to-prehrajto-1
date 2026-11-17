@@ -908634,6 +908634,32 @@
         "download_sec": 25.2,
         "upload_sec": 38.9
       }
+    },
+    {
+      "episode_id": 2315,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 26,
+      "episode_code": "S03E26",
+      "display_name": "Elena z Avaloru S03E26 - Elenin volný den CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -12208122643080939,
+      "external_id": "1513138be3476877",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e26-elena-s-day-off-cs/1513138be3476877",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31107970,
+      "size_bytes": 406329787,
+      "uploaded_at": "2026-11-17T04:19:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.0,
+        "upload_sec": 34.0
+      }
     }
   ],
   "pending_uploads": [
@@ -909738,22 +909764,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2315,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 26,
-      "display_name": "Elena z Avaloru S03E26 - Elenin volný den CZ Dabing",
-      "intent_id": "220755bf5aec4ae784dd05310a28a938",
-      "started_at": "2026-11-17T04:18:31Z",
-      "upload_account": "serialy",
-      "source_id": -12208122643080939,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e26-elena-s-day-off-cs/1513138be3476877",
-      "size_bytes": 406329787,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327780,5 +1327790,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:18:31Z"
+  "last_updated": "2026-11-17T04:19:34Z"
 }
