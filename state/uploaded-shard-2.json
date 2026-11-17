@@ -910064,6 +910064,32 @@
         "download_sec": 16.6,
         "upload_sec": 44.3
       }
+    },
+    {
+      "episode_id": 101439,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Milionový lékař S02E09 - 9. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -22862713471023000,
+      "external_id": "565f0b2932b49",
+      "source_url": "https://prehraj.to/royal-pains-s02e09-sktit-v-obraze/565f0b2932b49",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31125575,
+      "size_bytes": 350407814,
+      "uploaded_at": "2026-11-17T19:11:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 165.1,
+        "upload_sec": 44.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1329194,5 +1329220,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T18:40:20Z"
+  "last_updated": "2026-11-17T19:16:05Z"
 }
