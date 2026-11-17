@@ -909466,6 +909466,32 @@
         "download_sec": 687.8,
         "upload_sec": 84.5
       }
+    },
+    {
+      "episode_id": 101423,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Milionový lékař S01E04 - 4. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -23766809078028659,
+      "external_id": "565ef7a289e5a",
+      "source_url": "https://prehraj.to/royal-pains-s01e04-cztit-v-obraze/565ef7a289e5a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31118233,
+      "size_bytes": 340345314,
+      "uploaded_at": "2026-11-17T12:29:57Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.3,
+        "upload_sec": 26.6
+      }
     }
   ],
   "pending_uploads": [
@@ -910572,22 +910598,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 101423,
-      "series_id": 2468,
-      "series_title": "Milionový lékař",
-      "season": 1,
-      "episode": 4,
-      "display_name": "Milionový lékař S01E04 - 4. epizoda CZ Titulky",
-      "intent_id": "3d001b8b55a84ddf8ef8a8a66d7caed4",
-      "started_at": "2026-11-17T12:28:08Z",
-      "upload_account": "serialy",
-      "source_id": -23766809078028659,
-      "source_url": "https://prehraj.to/royal-pains-s01e04-cztit-v-obraze/565ef7a289e5a",
-      "size_bytes": 340345314,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328612,5 +1328622,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T12:28:12Z"
+  "last_updated": "2026-11-17T12:29:57Z"
 }
