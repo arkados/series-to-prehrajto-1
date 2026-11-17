@@ -911747,6 +911747,32 @@
         "download_sec": 33.2,
         "upload_sec": 52.2
       }
+    },
+    {
+      "episode_id": 129441,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 2,
+      "episode": 8,
+      "episode_code": "S02E08",
+      "display_name": "Juru Camp S02E08 - 8. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -51242262443159566,
+      "external_id": "ac675ae2ff63f893",
+      "source_url": "https://prehraj.to/laid-back-camp-s2e8-camping-alone-ja/ac675ae2ff63f893",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31114348,
+      "size_bytes": 322762681,
+      "uploaded_at": "2026-11-17T08:55:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.9,
+        "upload_sec": 39.5
+      }
     }
   ],
   "pending_uploads": [
@@ -912867,22 +912893,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 129441,
-      "series_id": 3631,
-      "series_title": "Juru Camp",
-      "season": 2,
-      "episode": 8,
-      "display_name": "Juru Camp S02E08 - 8. epizoda CZ Titulky",
-      "intent_id": "6d6bcad3bbad442a9e563380195e9e6e",
-      "started_at": "2026-11-17T08:54:22Z",
-      "upload_account": "primary",
-      "source_id": -51242262443159566,
-      "source_url": "https://prehraj.to/laid-back-camp-s2e8-camping-alone-ja/ac675ae2ff63f893",
-      "size_bytes": 322762681,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1330909,5 +1330919,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:54:22Z"
+  "last_updated": "2026-11-17T08:55:33Z"
 }
