@@ -909532,6 +909532,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2302,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 12,
+      "display_name": "Elena z Avaloru S03E12 - Výměna stráží CZ Dabing",
+      "intent_id": "be6988dd67db4ec4ba8ebc4b31bcd171",
+      "started_at": "2026-11-17T02:32:43Z",
+      "upload_account": "serialy",
+      "source_id": -59115620587216124,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e12-changing-of-the-guard-cs/57c931139c4109e0",
+      "size_bytes": 395152639,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327556,5 +1327572,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T02:25:07Z"
+  "last_updated": "2026-11-17T02:32:43Z"
 }
