@@ -913155,6 +913155,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 113277,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 1,
+      "display_name": "Sindibádova dobrodružství S01E01 - Sindibádův návrat, část 1 CZ Titulky",
+      "intent_id": "6a54e49f18d843db8f2b3a9efe3370fb",
+      "started_at": "2026-11-17T11:30:38Z",
+      "upload_account": "primary",
+      "source_id": -36815361771350972,
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e01/6186340cccbdb",
+      "size_bytes": 339677819,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1331179,5 +1331195,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T11:18:45Z"
+  "last_updated": "2026-11-17T11:30:38Z"
 }
