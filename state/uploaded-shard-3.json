@@ -909492,6 +909492,32 @@
         "download_sec": 12.3,
         "upload_sec": 26.6
       }
+    },
+    {
+      "episode_id": 89215,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Lexx S02E10 - 10. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -35179252930132938,
+      "external_id": "46cdd8471b998c3b",
+      "source_url": "https://prehraj.to/lexx-s02e10-probud-mrtveho-wake-the-dead/46cdd8471b998c3b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31118568,
+      "size_bytes": 366673920,
+      "uploaded_at": "2026-11-17T12:47:28Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 13.6,
+        "upload_sec": 28.5
+      }
     }
   ],
   "pending_uploads": [
@@ -910598,22 +910624,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 89215,
-      "series_id": 2111,
-      "series_title": "Lexx",
-      "season": 2,
-      "episode": 10,
-      "display_name": "Lexx S02E10 - 10. epizoda CZ Dabing",
-      "intent_id": "877c7a8dc67b4c1a9af6213f9d6cece7",
-      "started_at": "2026-11-17T12:45:46Z",
-      "upload_account": "serialy",
-      "source_id": -35179252930132938,
-      "source_url": "https://prehraj.to/lexx-s02e10-probud-mrtveho-wake-the-dead/46cdd8471b998c3b",
-      "size_bytes": 366673920,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328638,5 +1328648,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T12:45:46Z"
+  "last_updated": "2026-11-17T12:47:28Z"
 }
