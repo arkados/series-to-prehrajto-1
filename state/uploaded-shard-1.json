@@ -912531,6 +912531,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 113257,
+      "series_id": 2854,
+      "series_title": "Ultimate Force",
+      "season": 4,
+      "episode": 5,
+      "display_name": "Ultimate Force S04E05 - 5. epizoda CZ Dabing",
+      "intent_id": "17f8b3d8dfbd433299178ffaf576c8d5",
+      "started_at": "2026-11-17T04:25:35Z",
+      "upload_account": "primary",
+      "source_id": -18965081746917333,
+      "source_url": "https://prehraj.to/ultimate-force-s4e5-slow-bomb-cs/6e0c747fb316e587",
+      "size_bytes": 452203503,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330555,5 +1330571,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:24:20Z"
+  "last_updated": "2026-11-17T04:25:35Z"
 }
