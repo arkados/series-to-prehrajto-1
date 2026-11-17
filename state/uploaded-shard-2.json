@@ -909142,6 +909142,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 151575,
+      "series_id": 5191,
+      "series_title": "The Ramparts of Ice",
+      "season": 1,
+      "episode": 3,
+      "display_name": "The Ramparts of Ice S01E03 - 3. epizoda CZ Titulky",
+      "intent_id": "ba80afbf35894a86ba4f3bbfe60fbfbb",
+      "started_at": "2026-11-17T00:04:39Z",
+      "upload_account": "serialy",
+      "source_id": -14466801114828036,
+      "source_url": "https://prehraj.to/the-ramparts-of-ice-s01e03-3-1-ja/77a21977f400f34b",
+      "size_bytes": 340956946,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 65262,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 56,
+      "display_name": "Soy Luna S02E56 - 56. epizoda CZ Dabing",
+      "intent_id": "a78f5ceb913d485f9f8e38786e5faf1b",
+      "started_at": "2026-11-17T00:08:56Z",
+      "upload_account": "serialy",
+      "source_id": -25970811124838793,
+      "source_url": "https://prehraj.to/soy-luna-s2e56-episode-56-cs/4a1211a820acba0c",
+      "size_bytes": 526609849,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327166,5 +1327198,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:07:47Z"
+  "last_updated": "2026-11-17T00:08:56Z"
 }
