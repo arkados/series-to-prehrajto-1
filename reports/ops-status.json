@@ -1,183 +1,183 @@
 {
   "counts": {
     "backlog_episodes": 109037,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82643,
-    "prepared_source_episodes": 68476,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 82691,
+    "prepared_source_episodes": 68402,
     "description_series": 60,
     "description_episodes": 753,
-    "description_errors": 43,
+    "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 55,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 181,
+    "language_whisper_attempted_sources": 53,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53606,
-    "whisper_review_pending_sources": 36445,
-    "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52111,
-    "subtitle_followup_pending_sources": 52111
+    "whisper_review_pending_sources": 36447,
+    "upload_pending_checkpoints": 140,
+    "subtitle_followup_sources": 52124,
+    "subtitle_followup_pending_sources": 52124
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-16T23:47:48Z",
-      "databaseId": 43982337181,
+      "createdAt": "2026-11-17T04:18:43Z",
+      "databaseId": 44016290655,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-16T23:47:42Z",
-      "databaseId": 43982322452,
+      "createdAt": "2026-11-17T04:18:27Z",
+      "databaseId": 44016260403,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "success",
-      "createdAt": "2026-11-16T23:43:30Z",
-      "databaseId": 43981732148,
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T04:18:17Z",
+      "databaseId": 44016241465,
       "headBranch": "main",
       "status": "completed",
-      "workflowName": "update-descriptions"
+      "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
-      "createdAt": "2026-11-16T23:43:28Z",
-      "databaseId": 43981727378,
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T04:17:16Z",
+      "databaseId": 44016124883,
       "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-16T23:43:26Z",
-      "databaseId": 43981722159,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-16T23:43:23Z",
-      "databaseId": 43981717256,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-16T23:43:21Z",
-      "databaseId": 43981711024,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-16T23:43:18Z",
-      "databaseId": 43981704549,
-      "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-16T23:43:02Z",
-      "databaseId": 43981665197,
+      "createdAt": "2026-11-17T04:16:06Z",
+      "databaseId": 44015989751,
       "headBranch": "main",
       "status": "in_progress",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-16T23:41:56Z",
-      "databaseId": 43981513653,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-16T23:39:47Z",
-      "databaseId": 43981210871,
-      "headBranch": "main",
-      "status": "completed",
       "workflowName": "sync"
     },
     {
       "conclusion": "cancelled",
-      "createdAt": "2026-11-16T22:54:48Z",
-      "databaseId": 43974502606,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-16T22:54:41Z",
-      "databaseId": 43974485583,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-16T22:48:38Z",
-      "databaseId": 43973566059,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-16T22:46:14Z",
-      "databaseId": 43973199979,
+      "createdAt": "2026-11-17T04:14:20Z",
+      "databaseId": 44015775119,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "failure",
-      "createdAt": "2026-11-16T22:45:13Z",
-      "databaseId": 43973035919,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-16T22:41:47Z",
-      "databaseId": 43972508675,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-16T22:41:40Z",
-      "databaseId": 43972491770,
+      "createdAt": "2026-11-17T04:14:14Z",
+      "databaseId": 44015762438,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
     },
     {
       "conclusion": "cancelled",
-      "createdAt": "2026-11-16T22:40:21Z",
-      "databaseId": 43972287627,
+      "createdAt": "2026-11-17T04:09:25Z",
+      "databaseId": 44015188990,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-17T04:09:18Z",
+      "databaseId": 44015174968,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T04:04:00Z",
+      "databaseId": 44014536890,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T04:02:58Z",
+      "databaseId": 44014414167,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T04:02:52Z",
+      "databaseId": 44014402625,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T03:58:52Z",
+      "databaseId": 44013933037,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "cancelled",
-      "createdAt": "2026-11-16T22:36:31Z",
-      "databaseId": 43971688323,
+      "createdAt": "2026-11-17T03:55:11Z",
+      "databaseId": 44013533140,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T03:55:04Z",
+      "databaseId": 44013517566,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T03:50:30Z",
+      "databaseId": 44012993476,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-17T03:50:24Z",
+      "databaseId": 44012980378,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T03:47:35Z",
+      "databaseId": 44012660304,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-17T03:45:59Z",
+      "databaseId": 44012477084,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-17T03:45:53Z",
+      "databaseId": 44012465140,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -203027,6 +203027,116 @@
         "video_id": 31100993
       },
       {
+        "episode_id": 203584,
+        "display_name": "Star Trek: Podivné nové světy S04E10 - Enterprise zítřka CZ Dabing",
+        "video_id": 31102090
+      },
+      {
+        "episode_id": 176764,
+        "display_name": "Sanctuary: A Witch's Tale S02E04 - 4. epizoda CZ Titulky",
+        "video_id": 31102202
+      },
+      {
+        "episode_id": 175021,
+        "display_name": "The L.A. Complex S01E02 - 2. epizoda CZ Titulky",
+        "video_id": 31102207
+      },
+      {
+        "episode_id": 170509,
+        "display_name": "American Playboy: The Hugh Hefner Story S01E01 - 1. epizoda CZ Titulky",
+        "video_id": 31102256
+      },
+      {
+        "episode_id": 2349,
+        "display_name": "Elena z Avaloru S02E19 - Všude dobře, na sněhu nejlíp CZ Dabing",
+        "video_id": 31102717
+      },
+      {
+        "episode_id": 2348,
+        "display_name": "Elena z Avaloru S02E20 - Na dvou ploutvích CZ Dabing",
+        "video_id": 31103069
+      },
+      {
+        "episode_id": 2345,
+        "display_name": "Elena z Avaloru S02E23 - Lunina velká změna CZ Dabing",
+        "video_id": 31103364
+      },
+      {
+        "episode_id": 2344,
+        "display_name": "Elena z Avaloru S02E24 - Naomi to ví nejlíp CZ Dabing",
+        "video_id": 31103633
+      },
+      {
+        "episode_id": 2293,
+        "display_name": "Elena z Avaloru S03E03 - Tatík šéfík CZ Dabing",
+        "video_id": 31104158
+      },
+      {
+        "episode_id": 2292,
+        "display_name": "Elena z Avaloru S03E02 - Zachraňte slunečního ptáka CZ Dabing",
+        "video_id": 31104292
+      },
+      {
+        "episode_id": 2297,
+        "display_name": "Elena z Avaloru S03E07 - Květy noci CZ Dabing",
+        "video_id": 31105120
+      },
+      {
+        "episode_id": 2300,
+        "display_name": "Elena z Avaloru S03E10 - Rodinný poklad CZ Dabing",
+        "video_id": 31105279
+      },
+      {
+        "episode_id": 2301,
+        "display_name": "Elena z Avaloru S03E11 - Lapač snů CZ Dabing",
+        "video_id": 31105586
+      },
+      {
+        "episode_id": 2304,
+        "display_name": "Elena z Avaloru S03E14 - Duch čaroděje CZ Dabing",
+        "video_id": 31106126
+      },
+      {
+        "episode_id": 2305,
+        "display_name": "Elena z Avaloru S03E15 - Isy tým CZ Dabing",
+        "video_id": 31106350
+      },
+      {
+        "episode_id": 2308,
+        "display_name": "Elena z Avaloru S03E17 - Slavnost světel CZ Dabing",
+        "video_id": 31106535
+      },
+      {
+        "episode_id": 2309,
+        "display_name": "Elena z Avaloru S03E19 - Obří kroky CZ Dabing",
+        "video_id": 31107117
+      },
+      {
+        "episode_id": 2312,
+        "display_name": "Elena z Avaloru S03E23 - Bojovník blesku CZ Dabing",
+        "video_id": 31107288
+      },
+      {
+        "episode_id": 107925,
+        "display_name": "Lina, postrach banditů S04E04 - 4. epizoda CZ Titulky",
+        "video_id": 31107507
+      },
+      {
+        "episode_id": 2313,
+        "display_name": "Elena z Avaloru S03E24 - Den matek CZ Dabing",
+        "video_id": 31107639
+      },
+      {
+        "episode_id": 113265,
+        "display_name": "Ultimate Force S01E02 - 2. epizoda CZ Dabing",
+        "video_id": 31107703
+      },
+      {
+        "episode_id": 107928,
+        "display_name": "Lina, postrach banditů S04E07 - 7. epizoda CZ Titulky",
+        "video_id": 31107820
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -387625,6 +387735,136 @@
         "episode_id": 19935,
         "display_name": "Elena z Avaloru S02E06 - Věda jen pro vyvolené CZ Dabing",
         "video_id": 31101885
+      },
+      {
+        "episode_id": 203583,
+        "display_name": "Země gangů S02E02 - 2. epizoda CZ Dabing",
+        "video_id": 31102085
+      },
+      {
+        "episode_id": 169506,
+        "display_name": "Angel from Hell S01E13 - 13. epizoda CZ Titulky",
+        "video_id": 31102189
+      },
+      {
+        "episode_id": 170514,
+        "display_name": "American Playboy: The Hugh Hefner Story S01E06 - 6. epizoda CZ Titulky",
+        "video_id": 31102231
+      },
+      {
+        "episode_id": 151575,
+        "display_name": "The Ramparts of Ice S01E03 - 3. epizoda CZ Titulky",
+        "video_id": 31102272
+      },
+      {
+        "episode_id": 65262,
+        "display_name": "Soy Luna S02E56 - 56. epizoda CZ Dabing",
+        "video_id": 31102287
+      },
+      {
+        "episode_id": 175023,
+        "display_name": "The L.A. Complex S01E04 - 4. epizoda CZ Titulky",
+        "video_id": 31102329
+      },
+      {
+        "episode_id": 176763,
+        "display_name": "Sanctuary: A Witch's Tale S02E02 - 2. epizoda CZ Titulky",
+        "video_id": 31102388
+      },
+      {
+        "episode_id": 169507,
+        "display_name": "Angel from Hell S01E09 - 9. epizoda CZ Titulky",
+        "video_id": 31102442
+      },
+      {
+        "episode_id": 2355,
+        "display_name": "Elena z Avaloru S02E14 - Příběh z lávy CZ Dabing",
+        "video_id": 31102498
+      },
+      {
+        "episode_id": 2351,
+        "display_name": "Elena z Avaloru S02E17 - Návrat Kapitána CZ Dabing",
+        "video_id": 31102586
+      },
+      {
+        "episode_id": 2350,
+        "display_name": "Elena z Avaloru S02E18 - Hledá se Zuzo CZ Dabing",
+        "video_id": 31102708
+      },
+      {
+        "episode_id": 2347,
+        "display_name": "Elena z Avaloru S02E21 - Stěhování CZ Dabing",
+        "video_id": 31102943
+      },
+      {
+        "episode_id": 2346,
+        "display_name": "Elena z Avaloru S02E22 - Bez kouzel ne CZ Dabing",
+        "video_id": 31103420
+      },
+      {
+        "episode_id": 2291,
+        "display_name": "Elena z Avaloru S03E01 - Sestra vynálezkyně CZ Dabing",
+        "video_id": 31103787
+      },
+      {
+        "episode_id": 2294,
+        "display_name": "Elena z Avaloru S03E04 - Úžasní malincí královští CZ Dabing",
+        "video_id": 31104630
+      },
+      {
+        "episode_id": 2295,
+        "display_name": "Elena z Avaloru S03E05 - Norbergova cena míru CZ Dabing",
+        "video_id": 31104830
+      },
+      {
+        "episode_id": 2298,
+        "display_name": "Elena z Avaloru S03E08 - Kapitán Mateo CZ Dabing",
+        "video_id": 31105016
+      },
+      {
+        "episode_id": 2299,
+        "display_name": "Elena z Avaloru S03E09 - Uspěchané sladkosti CZ Dabing",
+        "video_id": 31105354
+      },
+      {
+        "episode_id": 2302,
+        "display_name": "Elena z Avaloru S03E12 - Výměna stráží CZ Dabing",
+        "video_id": 31105786
+      },
+      {
+        "episode_id": 2303,
+        "display_name": "Elena z Avaloru S03E13 - Král Skylar CZ Dabing",
+        "video_id": 31105907
+      },
+      {
+        "episode_id": 113259,
+        "display_name": "Ultimate Force S02E03 - 3. epizoda CZ Dabing",
+        "video_id": 31106013
+      },
+      {
+        "episode_id": 2306,
+        "display_name": "Elena z Avaloru S03E16 - Poslední úsměv CZ Dabing",
+        "video_id": 31106283
+      },
+      {
+        "episode_id": 2307,
+        "display_name": "Elena z Avaloru S03E18 - Narozeninová plavba CZ Dabing",
+        "video_id": 31106619
+      },
+      {
+        "episode_id": 2310,
+        "display_name": "Elena z Avaloru S03E20 - Padající hvězdy CZ Dabing",
+        "video_id": 31106966
+      },
+      {
+        "episode_id": 2311,
+        "display_name": "Elena z Avaloru S03E22 - Den zamilovaných CZ Dabing",
+        "video_id": 31107421
+      },
+      {
+        "episode_id": 107927,
+        "display_name": "Lina, postrach banditů S04E06 - 6. epizoda CZ Titulky",
+        "video_id": 31107664
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -590369,6 +590609,116 @@
         "video_id": 31100993
       },
       {
+        "episode_id": 203584,
+        "display_name": "Star Trek: Podivné nové světy S04E10 - Enterprise zítřka CZ Dabing",
+        "video_id": 31102090
+      },
+      {
+        "episode_id": 176764,
+        "display_name": "Sanctuary: A Witch's Tale S02E04 - 4. epizoda CZ Titulky",
+        "video_id": 31102202
+      },
+      {
+        "episode_id": 175021,
+        "display_name": "The L.A. Complex S01E02 - 2. epizoda CZ Titulky",
+        "video_id": 31102207
+      },
+      {
+        "episode_id": 170509,
+        "display_name": "American Playboy: The Hugh Hefner Story S01E01 - 1. epizoda CZ Titulky",
+        "video_id": 31102256
+      },
+      {
+        "episode_id": 2349,
+        "display_name": "Elena z Avaloru S02E19 - Všude dobře, na sněhu nejlíp CZ Dabing",
+        "video_id": 31102717
+      },
+      {
+        "episode_id": 2348,
+        "display_name": "Elena z Avaloru S02E20 - Na dvou ploutvích CZ Dabing",
+        "video_id": 31103069
+      },
+      {
+        "episode_id": 2345,
+        "display_name": "Elena z Avaloru S02E23 - Lunina velká změna CZ Dabing",
+        "video_id": 31103364
+      },
+      {
+        "episode_id": 2344,
+        "display_name": "Elena z Avaloru S02E24 - Naomi to ví nejlíp CZ Dabing",
+        "video_id": 31103633
+      },
+      {
+        "episode_id": 2293,
+        "display_name": "Elena z Avaloru S03E03 - Tatík šéfík CZ Dabing",
+        "video_id": 31104158
+      },
+      {
+        "episode_id": 2292,
+        "display_name": "Elena z Avaloru S03E02 - Zachraňte slunečního ptáka CZ Dabing",
+        "video_id": 31104292
+      },
+      {
+        "episode_id": 2297,
+        "display_name": "Elena z Avaloru S03E07 - Květy noci CZ Dabing",
+        "video_id": 31105120
+      },
+      {
+        "episode_id": 2300,
+        "display_name": "Elena z Avaloru S03E10 - Rodinný poklad CZ Dabing",
+        "video_id": 31105279
+      },
+      {
+        "episode_id": 2301,
+        "display_name": "Elena z Avaloru S03E11 - Lapač snů CZ Dabing",
+        "video_id": 31105586
+      },
+      {
+        "episode_id": 2304,
+        "display_name": "Elena z Avaloru S03E14 - Duch čaroděje CZ Dabing",
+        "video_id": 31106126
+      },
+      {
+        "episode_id": 2305,
+        "display_name": "Elena z Avaloru S03E15 - Isy tým CZ Dabing",
+        "video_id": 31106350
+      },
+      {
+        "episode_id": 2308,
+        "display_name": "Elena z Avaloru S03E17 - Slavnost světel CZ Dabing",
+        "video_id": 31106535
+      },
+      {
+        "episode_id": 2309,
+        "display_name": "Elena z Avaloru S03E19 - Obří kroky CZ Dabing",
+        "video_id": 31107117
+      },
+      {
+        "episode_id": 2312,
+        "display_name": "Elena z Avaloru S03E23 - Bojovník blesku CZ Dabing",
+        "video_id": 31107288
+      },
+      {
+        "episode_id": 107925,
+        "display_name": "Lina, postrach banditů S04E04 - 4. epizoda CZ Titulky",
+        "video_id": 31107507
+      },
+      {
+        "episode_id": 2313,
+        "display_name": "Elena z Avaloru S03E24 - Den matek CZ Dabing",
+        "video_id": 31107639
+      },
+      {
+        "episode_id": 113265,
+        "display_name": "Ultimate Force S01E02 - 2. epizoda CZ Dabing",
+        "video_id": 31107703
+      },
+      {
+        "episode_id": 107928,
+        "display_name": "Lina, postrach banditů S04E07 - 7. epizoda CZ Titulky",
+        "video_id": 31107820
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -774967,6 +775317,136 @@
         "episode_id": 19935,
         "display_name": "Elena z Avaloru S02E06 - Věda jen pro vyvolené CZ Dabing",
         "video_id": 31101885
+      },
+      {
+        "episode_id": 203583,
+        "display_name": "Země gangů S02E02 - 2. epizoda CZ Dabing",
+        "video_id": 31102085
+      },
+      {
+        "episode_id": 169506,
+        "display_name": "Angel from Hell S01E13 - 13. epizoda CZ Titulky",
+        "video_id": 31102189
+      },
+      {
+        "episode_id": 170514,
+        "display_name": "American Playboy: The Hugh Hefner Story S01E06 - 6. epizoda CZ Titulky",
+        "video_id": 31102231
+      },
+      {
+        "episode_id": 151575,
+        "display_name": "The Ramparts of Ice S01E03 - 3. epizoda CZ Titulky",
+        "video_id": 31102272
+      },
+      {
+        "episode_id": 65262,
+        "display_name": "Soy Luna S02E56 - 56. epizoda CZ Dabing",
+        "video_id": 31102287
+      },
+      {
+        "episode_id": 175023,
+        "display_name": "The L.A. Complex S01E04 - 4. epizoda CZ Titulky",
+        "video_id": 31102329
+      },
+      {
+        "episode_id": 176763,
+        "display_name": "Sanctuary: A Witch's Tale S02E02 - 2. epizoda CZ Titulky",
+        "video_id": 31102388
+      },
+      {
+        "episode_id": 169507,
+        "display_name": "Angel from Hell S01E09 - 9. epizoda CZ Titulky",
+        "video_id": 31102442
+      },
+      {
+        "episode_id": 2355,
+        "display_name": "Elena z Avaloru S02E14 - Příběh z lávy CZ Dabing",
+        "video_id": 31102498
+      },
+      {
+        "episode_id": 2351,
+        "display_name": "Elena z Avaloru S02E17 - Návrat Kapitána CZ Dabing",
+        "video_id": 31102586
+      },
+      {
+        "episode_id": 2350,
+        "display_name": "Elena z Avaloru S02E18 - Hledá se Zuzo CZ Dabing",
+        "video_id": 31102708
+      },
+      {
+        "episode_id": 2347,
+        "display_name": "Elena z Avaloru S02E21 - Stěhování CZ Dabing",
+        "video_id": 31102943
+      },
+      {
+        "episode_id": 2346,
+        "display_name": "Elena z Avaloru S02E22 - Bez kouzel ne CZ Dabing",
+        "video_id": 31103420
+      },
+      {
+        "episode_id": 2291,
+        "display_name": "Elena z Avaloru S03E01 - Sestra vynálezkyně CZ Dabing",
+        "video_id": 31103787
+      },
+      {
+        "episode_id": 2294,
+        "display_name": "Elena z Avaloru S03E04 - Úžasní malincí královští CZ Dabing",
+        "video_id": 31104630
+      },
+      {
+        "episode_id": 2295,
+        "display_name": "Elena z Avaloru S03E05 - Norbergova cena míru CZ Dabing",
+        "video_id": 31104830
+      },
+      {
+        "episode_id": 2298,
+        "display_name": "Elena z Avaloru S03E08 - Kapitán Mateo CZ Dabing",
+        "video_id": 31105016
+      },
+      {
+        "episode_id": 2299,
+        "display_name": "Elena z Avaloru S03E09 - Uspěchané sladkosti CZ Dabing",
+        "video_id": 31105354
+      },
+      {
+        "episode_id": 2302,
+        "display_name": "Elena z Avaloru S03E12 - Výměna stráží CZ Dabing",
+        "video_id": 31105786
+      },
+      {
+        "episode_id": 2303,
+        "display_name": "Elena z Avaloru S03E13 - Král Skylar CZ Dabing",
+        "video_id": 31105907
+      },
+      {
+        "episode_id": 113259,
+        "display_name": "Ultimate Force S02E03 - 3. epizoda CZ Dabing",
+        "video_id": 31106013
+      },
+      {
+        "episode_id": 2306,
+        "display_name": "Elena z Avaloru S03E16 - Poslední úsměv CZ Dabing",
+        "video_id": 31106283
+      },
+      {
+        "episode_id": 2307,
+        "display_name": "Elena z Avaloru S03E18 - Narozeninová plavba CZ Dabing",
+        "video_id": 31106619
+      },
+      {
+        "episode_id": 2310,
+        "display_name": "Elena z Avaloru S03E20 - Padající hvězdy CZ Dabing",
+        "video_id": 31106966
+      },
+      {
+        "episode_id": 2311,
+        "display_name": "Elena z Avaloru S03E22 - Den zamilovaných CZ Dabing",
+        "video_id": 31107421
+      },
+      {
+        "episode_id": 107927,
+        "display_name": "Lina, postrach banditů S04E06 - 6. epizoda CZ Titulky",
+        "video_id": 31107664
       }
     ],
     "prepared_not_upload_ready": [
@@ -776128,17 +776608,18 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 15,
-    "ok": 39,
+    "disabled": 128,
+    "sample_failed": 4,
+    "ok": 48,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35294,
-    "whisper_confirmed_cz": 3892,
-    "whisper_non_cz_needs_subtitles": 13269,
+    "needs_whisper": 35296,
+    "whisper_confirmed_cz": 3881,
+    "whisper_non_cz_needs_subtitles": 13278,
     "whisper_failed": 1151
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52111
+    "needs_subtitle_setup_after_prehrajto_processing": 52124
   }
 }
