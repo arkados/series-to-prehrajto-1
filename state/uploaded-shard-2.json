@@ -908088,6 +908088,136 @@
         "download_sec": 29.2,
         "upload_sec": 69.1
       }
+    },
+    {
+      "episode_id": 175023,
+      "series_id": 7911,
+      "series_title": "The L.A. Complex",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "The L.A. Complex S01E04 - 4. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -29280490096093611,
+      "external_id": "5f37018a5d32b",
+      "source_url": "https://prehraj.to/the-l-a-complex-s01e04-cztit-v-obraze/5f37018a5d32b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102329,
+      "size_bytes": 363144189,
+      "uploaded_at": "2026-11-17T00:12:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.7,
+        "upload_sec": 32.8
+      }
+    },
+    {
+      "episode_id": 176763,
+      "series_id": 8248,
+      "series_title": "Sanctuary: A Witch's Tale",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Sanctuary: A Witch's Tale S02E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -33178687319001093,
+      "external_id": "3d0d0db26cf0a01e",
+      "source_url": "https://prehraj.to/sanctuary-a-witch-s-tale-s2e2-en/3d0d0db26cf0a01e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102388,
+      "size_bytes": 435716957,
+      "uploaded_at": "2026-11-17T00:14:19Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 24.4,
+        "upload_sec": 45.5
+      }
+    },
+    {
+      "episode_id": 169507,
+      "series_id": 7081,
+      "series_title": "Angel from Hell",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Angel from Hell S01E09 - 9. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -1372984034821844,
+      "external_id": "5ac624f3ee69a",
+      "source_url": "https://prehraj.to/angel-from-hell-s01e09-rain-check/5ac624f3ee69a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102442,
+      "size_bytes": 317808793,
+      "uploaded_at": "2026-11-17T00:16:25Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.7,
+        "upload_sec": 34.5
+      }
+    },
+    {
+      "episode_id": 2355,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 14,
+      "episode_code": "S02E14",
+      "display_name": "Elena z Avaloru S02E14 - Příběh z lávy CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -23270263042501096,
+      "external_id": "4a9107bad3abc7a0",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e14-a-lava-story-cs/4a9107bad3abc7a0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102498,
+      "size_bytes": 353085280,
+      "uploaded_at": "2026-11-17T00:18:41Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 20.2,
+        "upload_sec": 45.7
+      }
+    },
+    {
+      "episode_id": 2351,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 17,
+      "episode_code": "S02E17",
+      "display_name": "Elena z Avaloru S02E17 - Návrat Kapitána CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58369671111348125,
+      "external_id": "bd11b03af0976f9b",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e17-the-return-of-el-capitan-cs/bd11b03af0976f9b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102586,
+      "size_bytes": 360383595,
+      "uploaded_at": "2026-11-17T00:21:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.0,
+        "upload_sec": 54.4
+      }
     }
   ],
   "pending_uploads": [
@@ -909196,20 +909326,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 175023,
-      "series_id": 7911,
-      "series_title": "The L.A. Complex",
-      "season": 1,
-      "episode": 4,
-      "display_name": "The L.A. Complex S01E04 - 4. epizoda CZ Titulky",
-      "intent_id": "a80bf3e6ea9c4482978986e8e07e60f4",
-      "started_at": "2026-11-17T00:10:51Z",
+      "episode_id": 2350,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 18,
+      "display_name": "Elena z Avaloru S02E18 - Hledá se Zuzo CZ Dabing",
+      "intent_id": "5415d9b722194cd3a24eadee6f8f8ece",
+      "started_at": "2026-11-17T00:23:48Z",
       "upload_account": "serialy",
-      "source_id": -29280490096093611,
-      "source_url": "https://prehraj.to/the-l-a-complex-s01e04-cztit-v-obraze/5f37018a5d32b",
-      "size_bytes": 363144189,
-      "source_container": "mkv",
-      "source_download_kind": "original"
+      "source_id": -52677004744212319,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e18-finding-zuzo-cs/45978ae84971762c",
+      "size_bytes": 370165147,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327234,5 +1327364,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:11:02Z"
+  "last_updated": "2026-11-17T00:23:48Z"
 }
