@@ -910168,6 +910168,32 @@
         "download_sec": 537.4,
         "upload_sec": 32.8
       }
+    },
+    {
+      "episode_id": 157810,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Strong Woman Do Bong Soon S01E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -1506202871903860,
+      "external_id": "3e5efe66b80ae337",
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e6-happy-together-ko/3e5efe66b80ae337",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31128981,
+      "size_bytes": 672758530,
+      "uploaded_at": "2026-11-17T21:13:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 31.1,
+        "upload_sec": 100.4
+      }
     }
   ],
   "pending_uploads": [
@@ -911272,22 +911298,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 157810,
-      "series_id": 5404,
-      "series_title": "Strong Woman Do Bong Soon",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Strong Woman Do Bong Soon S01E06 - 6. epizoda CZ Titulky",
-      "intent_id": "c3313e4358a74411a08f57c0dcacf765",
-      "started_at": "2026-11-17T21:11:15Z",
-      "upload_account": "serialy",
-      "source_id": -1506202871903860,
-      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e6-happy-together-ko/3e5efe66b80ae337",
-      "size_bytes": 672758530,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1329314,5 +1329324,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T21:11:15Z"
+  "last_updated": "2026-11-17T21:13:44Z"
 }
