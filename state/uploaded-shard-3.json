@@ -909232,6 +909232,32 @@
         "download_sec": 13.4,
         "upload_sec": 48.7
       }
+    },
+    {
+      "episode_id": 132915,
+      "series_id": 3863,
+      "series_title": "Barva moci",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Barva moci S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -62424894016136640,
+      "external_id": "5b6978c690d12",
+      "source_url": "https://prehraj.to/barva-moci-s01e03-cz-dab-2017-jad/5b6978c690d12",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31114555,
+      "size_bytes": 356456204,
+      "uploaded_at": "2026-11-17T09:07:38Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.6,
+        "upload_sec": 28.4
+      }
     }
   ],
   "pending_uploads": [
@@ -910338,22 +910364,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 132915,
-      "series_id": 3863,
-      "series_title": "Barva moci",
-      "season": 1,
-      "episode": 3,
-      "display_name": "Barva moci S01E03 - 3. epizoda CZ Titulky",
-      "intent_id": "8ea8ff379f7848d7b2191e5a6c741c0c",
-      "started_at": "2026-11-17T09:06:29Z",
-      "upload_account": "serialy",
-      "source_id": -62424894016136640,
-      "source_url": "https://prehraj.to/barva-moci-s01e03-cz-dab-2017-jad/5b6978c690d12",
-      "size_bytes": 356456204,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328378,5 +1328388,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T09:06:29Z"
+  "last_updated": "2026-11-17T09:07:38Z"
 }
