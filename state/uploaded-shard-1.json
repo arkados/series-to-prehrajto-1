@@ -912631,6 +912631,58 @@
         "download_sec": 16.2,
         "upload_sec": 36.1
       }
+    },
+    {
+      "episode_id": 116976,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Avengers - Sjednocení S02E02 - Thanos povstává CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -60907300109102072,
+      "external_id": "afe93ebc9cfdf9c3",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e2-thanos-rising-cs/afe93ebc9cfdf9c3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31123085,
+      "size_bytes": 327704205,
+      "uploaded_at": "2026-11-17T16:46:35Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 63.0,
+        "upload_sec": 61.2
+      }
+    },
+    {
+      "episode_id": 113293,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Sindibádova dobrodružství S01E04 - Tichý svět CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -27584062214839602,
+      "external_id": "6186340ce9473",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e04/6186340ce9473",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31123104,
+      "size_bytes": 330961935,
+      "uploaded_at": "2026-11-17T16:47:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.4,
+        "upload_sec": 33.5
+      }
     }
   ],
   "pending_uploads": [
@@ -913753,38 +913805,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 116976,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Avengers - Sjednocení S02E02 - Thanos povstává CZ Dabing",
-      "intent_id": "393b17d552164b59bef5981c39b842d8",
-      "started_at": "2026-11-17T16:45:05Z",
-      "upload_account": "primary",
-      "source_id": -60907300109102072,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e2-thanos-rising-cs/afe93ebc9cfdf9c3",
-      "size_bytes": 327704205,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 113293,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 4,
-      "display_name": "Sindibádova dobrodružství S01E04 - Tichý svět CZ Dabing",
-      "intent_id": "6a5b8f9700474912a7204b5efe4ecd0d",
-      "started_at": "2026-11-17T16:46:17Z",
-      "upload_account": "primary",
-      "source_id": -27584062214839602,
-      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e04/6186340ce9473",
-      "size_bytes": 330961935,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1331809,5 +1331829,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T16:46:17Z"
+  "last_updated": "2026-11-17T16:47:30Z"
 }
