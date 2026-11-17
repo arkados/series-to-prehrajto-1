@@ -909544,6 +909544,32 @@
         "download_sec": 556.3,
         "upload_sec": 31.2
       }
+    },
+    {
+      "episode_id": 101426,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Milionový lékař S01E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -61392988020272758,
+      "external_id": "565efbbe34384",
+      "source_url": "https://prehraj.to/royal-pains-s01e07-cztit-v-obraze/565efbbe34384",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31118863,
+      "size_bytes": 321656746,
+      "uploaded_at": "2026-11-17T13:02:31Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 15.8,
+        "upload_sec": 30.6
+      }
     }
   ],
   "pending_uploads": [
@@ -910652,18 +910678,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 101426,
+      "episode_id": 101427,
       "series_id": 2468,
       "series_title": "Milionový lékař",
       "season": 1,
-      "episode": 7,
-      "display_name": "Milionový lékař S01E07 - 7. epizoda CZ Titulky",
-      "intent_id": "2444444d655a4656b8d041ac74b7732d",
-      "started_at": "2026-11-17T13:00:51Z",
+      "episode": 8,
+      "display_name": "Milionový lékař S01E08 - 8. epizoda CZ Titulky",
+      "intent_id": "1e3ce419f612467984fb30ad13d8dd01",
+      "started_at": "2026-11-17T13:00:49Z",
       "upload_account": "serialy",
-      "source_id": -61392988020272758,
-      "source_url": "https://prehraj.to/royal-pains-s01e07-cztit-v-obraze/565efbbe34384",
-      "size_bytes": 321656746,
+      "source_id": -48029826346939195,
+      "source_url": "https://prehraj.to/royal-pains-s01e08-cztit-v-obraze/565efcfa65f74",
+      "size_bytes": 337053460,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1328690,5 +1328716,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:00:56Z"
+  "last_updated": "2026-11-17T13:02:31Z"
 }
