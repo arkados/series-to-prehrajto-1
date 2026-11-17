@@ -910364,6 +910364,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187571,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 10,
+      "display_name": "Požárník Sam S06E10 - Sam má volný den CZ Dabing",
+      "intent_id": "1dacc6625e1043e4bdee1310f0d83850",
+      "started_at": "2026-11-17T09:22:12Z",
+      "upload_account": "serialy",
+      "source_id": -59623989905398644,
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e10-cz-dabing-pro-deti/5c742c694a12e",
+      "size_bytes": 340732906,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328388,5 +1328404,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T09:12:37Z"
+  "last_updated": "2026-11-17T09:22:12Z"
 }
