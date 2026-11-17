@@ -909402,6 +909402,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2291,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 1,
+      "display_name": "Elena z Avaloru S03E01 - Sestra vynálezkyně CZ Dabing",
+      "intent_id": "7627fc1b2ec642eb837739bd9e4ad4cb",
+      "started_at": "2026-11-17T01:07:30Z",
+      "upload_account": "serialy",
+      "source_id": -48518542223355319,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e1-sister-of-invention-cs/2ab03b00ff73318b",
+      "size_bytes": 360201577,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327426,5 +1327442,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:56:13Z"
+  "last_updated": "2026-11-17T01:07:30Z"
 }
