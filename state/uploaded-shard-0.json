@@ -911721,6 +911721,32 @@
         "download_sec": 26.6,
         "upload_sec": 77.2
       }
+    },
+    {
+      "episode_id": 129445,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 2,
+      "episode": 12,
+      "episode_code": "S02E12",
+      "display_name": "Juru Camp S02E12 - 12. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -69575165038615121,
+      "external_id": "d50f139a2224be43",
+      "source_url": "https://prehraj.to/laid-back-camp-s2e12-izu-camping-birthdays-ja/d50f139a2224be43",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31113824,
+      "size_bytes": 575991229,
+      "uploaded_at": "2026-11-17T08:30:20Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.2,
+        "upload_sec": 52.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1330867,5 +1330893,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:27:48Z"
+  "last_updated": "2026-11-17T08:30:20Z"
 }
