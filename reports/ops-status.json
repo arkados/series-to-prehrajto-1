@@ -1,19 +1,19 @@
 {
   "counts": {
     "backlog_episodes": 108839,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82808,
-    "prepared_source_episodes": 68204,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82809,
+    "prepared_source_episodes": 68184,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
+    "language_audited_sources": 43,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53579,
-    "whisper_review_pending_sources": 36428,
+    "whisper_review_sources": 53578,
+    "whisper_review_pending_sources": 36427,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52195,
     "subtitle_followup_pending_sources": 52195
@@ -21,10 +21,50 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T19:53:19Z",
+      "databaseId": 44163398720,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T19:52:57Z",
+      "databaseId": 44163333621,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T19:47:07Z",
+      "databaseId": 44162301496,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T19:47:02Z",
+      "databaseId": 44162289323,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T19:46:34Z",
+      "databaseId": 44162208302,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T19:45:34Z",
       "databaseId": 44162024722,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -76,11 +116,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-17T19:38:39Z",
       "databaseId": 44160782057,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -100,11 +140,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T19:36:59Z",
       "databaseId": 44160489822,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T19:27:27Z",
-      "databaseId": 44158772478,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T19:26:20Z",
-      "databaseId": 44158579562,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-17T19:25:16Z",
-      "databaseId": 44158390917,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-17T19:23:20Z",
-      "databaseId": 44158040094,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T19:19:34Z",
-      "databaseId": 44157354403,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -203440,6 +203440,11 @@
         "episode_id": 116948,
         "display_name": "Avengers - Sjednocení S01E07 - Hyperion CZ Titulky",
         "video_id": 31125738
+      },
+      {
+        "episode_id": 183281,
+        "display_name": "Tučňáci z Madagaskaru  S01E48 - Pomsta doktora Hloubáka CZ Dabing",
+        "video_id": 31126837
       },
       {
         "episode_id": 114182,
@@ -591609,6 +591614,11 @@
         "video_id": 31125738
       },
       {
+        "episode_id": 183281,
+        "display_name": "Tučňáci z Madagaskaru  S01E48 - Pomsta doktora Hloubáka CZ Dabing",
+        "video_id": 31126837
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -777778,11 +777788,12 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "disabled": 3,
     "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35230,
+    "needs_whisper": 35229,
     "whisper_confirmed_cz": 3854,
     "whisper_non_cz_needs_subtitles": 13297,
     "whisper_failed": 1198
