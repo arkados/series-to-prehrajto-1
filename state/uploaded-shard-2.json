@@ -909102,6 +909102,32 @@
         "download_sec": 28.1,
         "upload_sec": 77.6
       }
+    },
+    {
+      "episode_id": 129443,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Juru Camp S02E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -43475424766654613,
+      "external_id": "ad2e1a2c1ee17d4a",
+      "source_url": "https://prehraj.to/laid-back-camp-s2e10-the-izu-camp-trip-begins-ja/ad2e1a2c1ee17d4a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31113782,
+      "size_bytes": 640827191,
+      "uploaded_at": "2026-11-17T08:29:26Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 22.1,
+        "upload_sec": 140.2
+      }
     }
   ],
   "pending_uploads": [
@@ -910208,22 +910234,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 129443,
-      "series_id": 3631,
-      "series_title": "Juru Camp",
-      "season": 2,
-      "episode": 10,
-      "display_name": "Juru Camp S02E10 - 10. epizoda CZ Titulky",
-      "intent_id": "b8cd6a0653b841069c37673bcecdb438",
-      "started_at": "2026-11-17T08:26:33Z",
-      "upload_account": "serialy",
-      "source_id": -43475424766654613,
-      "source_url": "https://prehraj.to/laid-back-camp-s2e10-the-izu-camp-trip-begins-ja/ad2e1a2c1ee17d4a",
-      "size_bytes": 640827191,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328248,5 +1328258,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:26:57Z"
+  "last_updated": "2026-11-17T08:30:20Z"
 }
