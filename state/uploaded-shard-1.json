@@ -912449,6 +912449,32 @@
         "download_sec": 456.7,
         "upload_sec": 31.3
       }
+    },
+    {
+      "episode_id": 101433,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Milionový lékař S02E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -29633320301207912,
+      "external_id": "565f03fa8aabf",
+      "source_url": "https://prehraj.to/royal-pains-s02e02-cztit-v-obraze/565f03fa8aabf",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31120448,
+      "size_bytes": 351558308,
+      "uploaded_at": "2026-11-17T14:27:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 736.8,
+        "upload_sec": 33.2
+      }
     }
   ],
   "pending_uploads": [
@@ -913570,22 +913596,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 101433,
-      "series_id": 2468,
-      "series_title": "Milionový lékař",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Milionový lékař S02E02 - 2. epizoda CZ Titulky",
-      "intent_id": "7edc7b6b610c41129a9160162559258f",
-      "started_at": "2026-11-17T14:26:29Z",
-      "upload_account": "primary",
-      "source_id": -29633320301207912,
-      "source_url": "https://prehraj.to/royal-pains-s02e02-cztit-v-obraze/565f03fa8aabf",
-      "size_bytes": 351558308,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1331611,5 +1331621,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T14:26:29Z"
+  "last_updated": "2026-11-17T14:27:58Z"
 }
