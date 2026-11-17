@@ -909298,6 +909298,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2351,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 17,
+      "display_name": "Elena z Avaloru S02E17 - Návrat Kapitána CZ Dabing",
+      "intent_id": "a25929597a814c8f8ba931f5bb9cfef0",
+      "started_at": "2026-11-17T00:19:35Z",
+      "upload_account": "serialy",
+      "source_id": -58369671111348125,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e17-the-return-of-el-capitan-cs/bd11b03af0976f9b",
+      "size_bytes": 360383595,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327322,5 +1327338,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:18:41Z"
+  "last_updated": "2026-11-17T00:19:35Z"
 }
