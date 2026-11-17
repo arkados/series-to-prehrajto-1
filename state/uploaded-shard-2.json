@@ -909440,6 +909440,32 @@
         "download_sec": 27.5,
         "upload_sec": 46.4
       }
+    },
+    {
+      "episode_id": 187610,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 13,
+      "episode_code": "S07E13",
+      "display_name": "Požárník Sam S07E13 - Chybička se vloudí CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -24034056322991317,
+      "external_id": "5c744ab6d5f36",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e13-cz-dabing-pro-deti/5c744ab6d5f36",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31117574,
+      "size_bytes": 341200171,
+      "uploaded_at": "2026-11-17T12:04:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 687.8,
+        "upload_sec": 84.5
+      }
     }
   ],
   "pending_uploads": [
@@ -910546,22 +910572,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 187610,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 7,
-      "episode": 13,
-      "display_name": "Požárník Sam S07E13 - Chybička se vloudí CZ Dabing",
-      "intent_id": "65f25774bce145b1bfb603a742cfdcda",
-      "started_at": "2026-11-17T12:01:53Z",
-      "upload_account": "serialy",
-      "source_id": -24034056322991317,
-      "source_url": "https://prehraj.to/pozarnik-sam-s07e13-cz-dabing-pro-deti/5c744ab6d5f36",
-      "size_bytes": 341200171,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328586,5 +1328596,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T12:01:53Z"
+  "last_updated": "2026-11-17T12:04:03Z"
 }
