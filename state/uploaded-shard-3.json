@@ -909128,6 +909128,32 @@
         "download_sec": 22.1,
         "upload_sec": 140.2
       }
+    },
+    {
+      "episode_id": 184179,
+      "series_id": 9680,
+      "series_title": "Strážci vesmíru",
+      "season": 5,
+      "episode": 37,
+      "episode_code": "S05E37",
+      "display_name": "Strážci vesmíru S05E37 - 37. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -37351105150910007,
+      "external_id": "6517f49013de6",
+      "source_url": "https://prehraj.to/power-rangers-s05e37-the-accident-480p-x265-edge2020/6517f49013de6",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31114005,
+      "size_bytes": 316315091,
+      "uploaded_at": "2026-11-17T08:37:55Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.9,
+        "upload_sec": 32.3
+      }
     }
   ],
   "pending_uploads": [
@@ -910232,22 +910258,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 184179,
-      "series_id": 9680,
-      "series_title": "Strážci vesmíru",
-      "season": 5,
-      "episode": 37,
-      "display_name": "Strážci vesmíru S05E37 - 37. epizoda CZ Titulky",
-      "intent_id": "fea031271a2a46e9be20dc67451694d3",
-      "started_at": "2026-11-17T08:36:47Z",
-      "upload_account": "serialy",
-      "source_id": -37351105150910007,
-      "source_url": "https://prehraj.to/power-rangers-s05e37-the-accident-480p-x265-edge2020/6517f49013de6",
-      "size_bytes": 316315091,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1328274,5 +1328284,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:36:47Z"
+  "last_updated": "2026-11-17T08:37:55Z"
 }
