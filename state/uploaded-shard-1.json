@@ -912115,6 +912115,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2293,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 3,
+      "display_name": "Elena z Avaloru S03E03 - Tatík šéfík CZ Dabing",
+      "intent_id": "048c03ce4848473583f11693d9ad96d8",
+      "started_at": "2026-11-17T01:19:10Z",
+      "upload_account": "primary",
+      "source_id": -65712492097697690,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e3-father-in-chief-cs/0d6226c7bdeda439",
+      "size_bytes": 383753075,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330139,5 +1330155,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T01:07:30Z"
+  "last_updated": "2026-11-17T01:19:10Z"
 }
