@@ -912917,6 +912917,32 @@
         "download_sec": 422.0,
         "upload_sec": 30.7
       }
+    },
+    {
+      "episode_id": 116948,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Avengers - Sjednocení S01E07 - Hyperion CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -45310436485024772,
+      "external_id": "6a17626c464ac52d",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s1e7-hyperion-en/6a17626c464ac52d",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31125738,
+      "size_bytes": 329246298,
+      "uploaded_at": "2026-11-17T19:16:05Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 421.9,
+        "upload_sec": 46.3
+      }
     }
   ],
   "pending_uploads": [
@@ -914037,6 +914063,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 183281,
+      "series_id": 9684,
+      "series_title": "Tučňáci z Madagaskaru ",
+      "season": 1,
+      "episode": 48,
+      "display_name": "Tučňáci z Madagaskaru  S01E48 - Pomsta doktora Hloubáka CZ Dabing",
+      "intent_id": "244561a9423c494198c6f4665c29930a",
+      "started_at": "2026-11-17T19:50:31Z",
+      "upload_account": "primary",
+      "source_id": -51661149146376896,
+      "source_url": "https://prehraj.to/tucnaci-z-madagaskaru-s1e48-pomsta-doktora-hloubaka-cs/2dd33fdbb77e5a50",
+      "size_bytes": 324206441,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1332063,5 +1332105,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T18:40:20Z"
+  "last_updated": "2026-11-17T19:50:31Z"
 }
