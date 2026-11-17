@@ -908530,6 +908530,32 @@
         "download_sec": 16.1,
         "upload_sec": 36.8
       }
+    },
+    {
+      "episode_id": 2307,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 18,
+      "episode_code": "S03E18",
+      "display_name": "Elena z Avaloru S03E18 - Narozeninová plavba CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -60987827769598216,
+      "external_id": "2967bd18ac565b86",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e18-the-birthday-cruise-cs/2967bd18ac565b86",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31106619,
+      "size_bytes": 384602318,
+      "uploaded_at": "2026-11-17T03:16:15Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 20.3,
+        "upload_sec": 32.3
+      }
     }
   ],
   "pending_uploads": [
@@ -909634,22 +909660,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2307,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 3,
-      "episode": 18,
-      "display_name": "Elena z Avaloru S03E18 - Narozeninová plavba CZ Dabing",
-      "intent_id": "ba068243725c4a9b8a7d389412d272b7",
-      "started_at": "2026-11-17T03:14:44Z",
-      "upload_account": "serialy",
-      "source_id": -60987827769598216,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s3e18-the-birthday-cruise-cs/2967bd18ac565b86",
-      "size_bytes": 384602318,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327676,5 +1327686,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T03:14:44Z"
+  "last_updated": "2026-11-17T03:16:15Z"
 }
