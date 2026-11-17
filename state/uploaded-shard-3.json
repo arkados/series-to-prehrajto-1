@@ -909518,6 +909518,32 @@
         "download_sec": 13.6,
         "upload_sec": 28.5
       }
+    },
+    {
+      "episode_id": 89234,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "Lexx S02E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -9465751863368068,
+      "external_id": "d08a994c99018c89",
+      "source_url": "https://prehraj.to/lexx-s02e07-laska-v-rozpuku-love-grows/d08a994c99018c89",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31118757,
+      "size_bytes": 366977024,
+      "uploaded_at": "2026-11-17T12:57:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 556.3,
+        "upload_sec": 31.2
+      }
     }
   ],
   "pending_uploads": [
@@ -910624,6 +910650,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 101426,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Milionový lékař S01E07 - 7. epizoda CZ Titulky",
+      "intent_id": "2444444d655a4656b8d041ac74b7732d",
+      "started_at": "2026-11-17T13:00:51Z",
+      "upload_account": "serialy",
+      "source_id": -61392988020272758,
+      "source_url": "https://prehraj.to/royal-pains-s01e07-cztit-v-obraze/565efbbe34384",
+      "size_bytes": 321656746,
+      "source_container": "avi",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 101427,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 8,
+      "display_name": "Milionový lékař S01E08 - 8. epizoda CZ Titulky",
+      "intent_id": "1e3ce419f612467984fb30ad13d8dd01",
+      "started_at": "2026-11-17T13:00:49Z",
+      "upload_account": "serialy",
+      "source_id": -48029826346939195,
+      "source_url": "https://prehraj.to/royal-pains-s01e08-cztit-v-obraze/565efcfa65f74",
+      "size_bytes": 337053460,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328648,5 +1328706,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T12:47:28Z"
+  "last_updated": "2026-11-17T13:00:56Z"
 }
