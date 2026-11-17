@@ -911227,6 +911227,32 @@
         "download_sec": 15.3,
         "upload_sec": 49.6
       }
+    },
+    {
+      "episode_id": 2312,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 23,
+      "episode_code": "S03E23",
+      "display_name": "Elena z Avaloru S03E23 - Bojovník blesku CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -37261377191924214,
+      "external_id": "ef7b087dfef8daec",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e23-cs/ef7b087dfef8daec",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31107288,
+      "size_bytes": 388073134,
+      "uploaded_at": "2026-11-17T03:49:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.3,
+        "upload_sec": 70.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1330373,5 +1330399,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T03:38:10Z"
+  "last_updated": "2026-11-17T03:49:08Z"
 }
