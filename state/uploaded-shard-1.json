@@ -910915,6 +910915,32 @@
         "download_sec": 18.7,
         "upload_sec": 67.9
       }
+    },
+    {
+      "episode_id": 2348,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 20,
+      "episode_code": "S02E20",
+      "display_name": "Elena z Avaloru S02E20 - Na dvou ploutvích CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -24738479387426726,
+      "external_id": "157ba71f3b09f295",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e20-two-left-fins-cs/157ba71f3b09f295",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31103069,
+      "size_bytes": 355641312,
+      "uploaded_at": "2026-11-17T00:37:23Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.3,
+        "upload_sec": 25.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1330061,5 +1330087,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:33:34Z"
+  "last_updated": "2026-11-17T00:37:23Z"
 }
