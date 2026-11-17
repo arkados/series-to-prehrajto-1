@@ -910038,6 +910038,32 @@
         "download_sec": 607.9,
         "upload_sec": 34.0
       }
+    },
+    {
+      "episode_id": 115450,
+      "series_id": 2938,
+      "series_title": "Rake",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Rake S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -47761230953251743,
+      "external_id": "5bdff25797ea1",
+      "source_url": "https://prehraj.to/rake-s01e08/5bdff25797ea1",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31123826,
+      "size_bytes": 322969565,
+      "uploaded_at": "2026-11-17T17:40:36Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.6,
+        "upload_sec": 44.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1329168,5 +1329194,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T17:36:14Z"
+  "last_updated": "2026-11-17T17:52:13Z"
 }
