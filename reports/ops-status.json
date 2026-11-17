@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108872,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82786,
-    "prepared_source_episodes": 68298,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 82787,
+    "prepared_source_episodes": 68299,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
@@ -21,10 +21,26 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T15:27:11Z",
+      "databaseId": 44114485940,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T15:25:26Z",
+      "databaseId": 44114158219,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T15:23:45Z",
       "databaseId": 44113830654,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +68,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T15:20:03Z",
       "databaseId": 44113107482,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -162,22 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T15:07:25Z",
-      "databaseId": 44110690534,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T15:07:16Z",
-      "databaseId": 44110663465,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -388340,6 +388340,11 @@
         "episode_id": 116974,
         "display_name": "Avengers - Sjednocení S01E21 - Lidský faktor CZ Dabing",
         "video_id": 31121549
+      },
+      {
+        "episode_id": 141798,
+        "display_name": "Moje nesnesitelná puberťačka S01E06 - 6. epizoda CZ Dabing",
+        "video_id": 31121833
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -776397,6 +776402,11 @@
         "episode_id": 116974,
         "display_name": "Avengers - Sjednocení S01E21 - Lidský faktor CZ Dabing",
         "video_id": 31121549
+      },
+      {
+        "episode_id": 141798,
+        "display_name": "Moje nesnesitelná puberťačka S01E06 - 6. epizoda CZ Dabing",
+        "video_id": 31121833
       }
     ],
     "prepared_not_upload_ready": [
