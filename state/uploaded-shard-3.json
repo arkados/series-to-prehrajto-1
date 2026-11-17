@@ -908192,6 +908192,32 @@
         "download_sec": 20.2,
         "upload_sec": 45.7
       }
+    },
+    {
+      "episode_id": 2351,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 17,
+      "episode_code": "S02E17",
+      "display_name": "Elena z Avaloru S02E17 - Návrat Kapitána CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58369671111348125,
+      "external_id": "bd11b03af0976f9b",
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e17-the-return-of-el-capitan-cs/bd11b03af0976f9b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102586,
+      "size_bytes": 360383595,
+      "uploaded_at": "2026-11-17T00:21:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.0,
+        "upload_sec": 54.4
+      }
     }
   ],
   "pending_uploads": [
@@ -909296,22 +909322,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2351,
-      "series_id": 17,
-      "series_title": "Elena z Avaloru",
-      "season": 2,
-      "episode": 17,
-      "display_name": "Elena z Avaloru S02E17 - Návrat Kapitána CZ Dabing",
-      "intent_id": "a25929597a814c8f8ba931f5bb9cfef0",
-      "started_at": "2026-11-17T00:19:35Z",
-      "upload_account": "serialy",
-      "source_id": -58369671111348125,
-      "source_url": "https://prehraj.to/elena-z-avaloru-s2e17-the-return-of-el-capitan-cs/bd11b03af0976f9b",
-      "size_bytes": 360383595,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327338,5 +1327348,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:19:35Z"
+  "last_updated": "2026-11-17T00:21:05Z"
 }
