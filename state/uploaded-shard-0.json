@@ -911981,6 +911981,32 @@
         "download_sec": 96.3,
         "upload_sec": 35.1
       }
+    },
+    {
+      "episode_id": 141793,
+      "series_id": 4452,
+      "series_title": "Moje nesnesitelná puberťačka",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Moje nesnesitelná puberťačka S01E01 - 1. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -10521922646339786,
+      "external_id": "57ba1c533e583",
+      "source_url": "https://prehraj.to/moje-nesnesitelna-pubertacka-s01e01-czdab/57ba1c533e583",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31115947,
+      "size_bytes": 331385764,
+      "uploaded_at": "2026-11-17T10:38:48Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 90.3,
+        "upload_sec": 40.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1331127,5 +1331153,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T10:03:55Z"
+  "last_updated": "2026-11-17T10:38:48Z"
 }
