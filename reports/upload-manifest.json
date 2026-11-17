@@ -3,11 +3,11 @@
   "new_count": 2,
   "retained_count": 0,
   "stats": {
-    "not_upload_ready": 45421,
+    "not_upload_ready": 45419,
     "github_availability_failed": 0,
     "selected_source_burned": 20135,
     "selected_source_undersize": 1819,
-    "already_uploaded_episode_id": 164,
+    "already_uploaded_episode_id": 166,
     "selected_source_no_size_info": 826,
     "missing_source_plan": 40533,
     "ready": 2,
