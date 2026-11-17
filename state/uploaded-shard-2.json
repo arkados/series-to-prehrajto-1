@@ -910650,6 +910650,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 101426,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Milionový lékař S01E07 - 7. epizoda CZ Titulky",
+      "intent_id": "2444444d655a4656b8d041ac74b7732d",
+      "started_at": "2026-11-17T13:00:51Z",
+      "upload_account": "serialy",
+      "source_id": -61392988020272758,
+      "source_url": "https://prehraj.to/royal-pains-s01e07-cztit-v-obraze/565efbbe34384",
+      "size_bytes": 321656746,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328674,5 +1328690,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T12:57:43Z"
+  "last_updated": "2026-11-17T13:00:56Z"
 }
