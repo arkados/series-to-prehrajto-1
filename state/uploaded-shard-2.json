@@ -910172,6 +910172,22 @@
       "size_bytes": 555038237,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 129446,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 2,
+      "episode": 13,
+      "display_name": "Juru Camp S02E13 - 13. epizoda CZ Titulky",
+      "intent_id": "eecc35b08ccb4889846aff55be57f8ee",
+      "started_at": "2026-11-17T08:25:00Z",
+      "upload_account": "serialy",
+      "source_id": -36621739117109042,
+      "source_url": "https://prehraj.to/laid-back-camp-s2e13-i-m-home-ja/827c41bf396c21b1",
+      "size_bytes": 589587156,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328196,5 +1328212,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:24:04Z"
+  "last_updated": "2026-11-17T08:25:00Z"
 }
