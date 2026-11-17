@@ -910026,6 +910026,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 97670,
+      "series_id": 2355,
+      "series_title": "Trapper John, M.D.",
+      "season": 1,
+      "episode": 18,
+      "display_name": "Trapper John, M.D. S01E18 - 18. epizoda CZ Titulky",
+      "intent_id": "71a836d681bc4f7a8fdce353c39c2467",
+      "started_at": "2026-11-17T05:18:59Z",
+      "upload_account": "serialy",
+      "source_id": -57526414545851893,
+      "source_url": "https://prehraj.to/trapper-john-m-d-s01e18/597bccdd898b9",
+      "size_bytes": 363039200,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328050,5 +1328066,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T05:18:10Z"
+  "last_updated": "2026-11-17T05:18:59Z"
 }
