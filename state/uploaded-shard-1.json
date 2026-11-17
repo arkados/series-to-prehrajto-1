@@ -912579,6 +912579,32 @@
         "download_sec": 15.1,
         "upload_sec": 43.5
       }
+    },
+    {
+      "episode_id": 101441,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 2,
+      "episode": 11,
+      "episode_code": "S02E11",
+      "display_name": "Milionový lékař S02E11 - 11. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -1914984519067065,
+      "external_id": "565f0eac4ae91",
+      "source_url": "https://prehraj.to/royal-pains-s02e11-sktit-v-obraze/565f0eac4ae91",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31121883,
+      "size_bytes": 343709556,
+      "uploaded_at": "2026-11-17T15:28:45Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 682.9,
+        "upload_sec": 31.8
+      }
     }
   ],
   "pending_uploads": [
@@ -913700,22 +913726,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 101441,
-      "series_id": 2468,
-      "series_title": "Milionový lékař",
-      "season": 2,
-      "episode": 11,
-      "display_name": "Milionový lékař S02E11 - 11. epizoda CZ Titulky",
-      "intent_id": "9a91a88e4d194e5db4ece48ea5df507e",
-      "started_at": "2026-11-17T15:27:05Z",
-      "upload_account": "primary",
-      "source_id": -1914984519067065,
-      "source_url": "https://prehraj.to/royal-pains-s02e11-sktit-v-obraze/565f0eac4ae91",
-      "size_bytes": 343709556,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1331741,5 +1331751,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T15:27:05Z"
+  "last_updated": "2026-11-17T15:28:45Z"
 }
