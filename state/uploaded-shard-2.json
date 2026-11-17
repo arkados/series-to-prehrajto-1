@@ -909570,6 +909570,32 @@
         "download_sec": 15.8,
         "upload_sec": 30.6
       }
+    },
+    {
+      "episode_id": 101427,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Milionový lékař S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -48029826346939195,
+      "external_id": "565efcfa65f74",
+      "source_url": "https://prehraj.to/royal-pains-s01e08-cztit-v-obraze/565efcfa65f74",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31118875,
+      "size_bytes": 337053460,
+      "uploaded_at": "2026-11-17T13:03:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 13.9,
+        "upload_sec": 38.6
+      }
     }
   ],
   "pending_uploads": [
@@ -910678,18 +910704,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 101427,
-      "series_id": 2468,
-      "series_title": "Milionový lékař",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Milionový lékař S01E08 - 8. epizoda CZ Titulky",
-      "intent_id": "1e3ce419f612467984fb30ad13d8dd01",
-      "started_at": "2026-11-17T13:00:49Z",
+      "episode_id": 89218,
+      "series_id": 2111,
+      "series_title": "Lexx",
+      "season": 3,
+      "episode": 3,
+      "display_name": "Lexx S03E03 - 3. epizoda CZ Titulky",
+      "intent_id": "0dc7a1e6c85349c695f9d2e3244e2302",
+      "started_at": "2026-11-17T13:10:26Z",
       "upload_account": "serialy",
-      "source_id": -48029826346939195,
-      "source_url": "https://prehraj.to/royal-pains-s01e08-cztit-v-obraze/565efcfa65f74",
-      "size_bytes": 337053460,
+      "source_id": -49198285224753265,
+      "source_url": "https://prehraj.to/lexx-s03e03-cz-dabing/5f32eb3bb96ef",
+      "size_bytes": 334999552,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1328716,5 +1328742,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:02:31Z"
+  "last_updated": "2026-11-17T13:10:26Z"
 }
