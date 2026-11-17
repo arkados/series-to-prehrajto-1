@@ -912397,6 +912397,58 @@
         "download_sec": 80.7,
         "upload_sec": 36.7
       }
+    },
+    {
+      "episode_id": 105716,
+      "series_id": 2600,
+      "series_title": "Everything Sucks!",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Everything Sucks! S01E06 - Sometimes I Hear My Voice CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -46638504525476986,
+      "external_id": "facd2e902eb3dea6",
+      "source_url": "https://prehraj.to/everything-sucks-s1e6-sometimes-i-hear-my-voice-en/facd2e902eb3dea6",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31119910,
+      "size_bytes": 341265922,
+      "uploaded_at": "2026-11-17T14:06:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 600.7,
+        "upload_sec": 34.1
+      }
+    },
+    {
+      "episode_id": 116960,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Avengers - Sjednocení S01E09 - Hloubková nálož CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -29749038289285199,
+      "external_id": "28f9f9f0924f7741",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s1e9-depth-charge-en/28f9f9f0924f7741",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31120312,
+      "size_bytes": 338455664,
+      "uploaded_at": "2026-11-17T14:22:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 456.7,
+        "upload_sec": 31.3
+      }
     }
   ],
   "pending_uploads": [
@@ -913518,6 +913570,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 101433,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 2,
+      "episode": 2,
+      "display_name": "Milionový lékař S02E02 - 2. epizoda CZ Titulky",
+      "intent_id": "7edc7b6b610c41129a9160162559258f",
+      "started_at": "2026-11-17T14:26:29Z",
+      "upload_account": "primary",
+      "source_id": -29633320301207912,
+      "source_url": "https://prehraj.to/royal-pains-s02e02-cztit-v-obraze/565f03fa8aabf",
+      "size_bytes": 351558308,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1331543,5 +1331611,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T13:58:15Z"
+  "last_updated": "2026-11-17T14:26:29Z"
 }
