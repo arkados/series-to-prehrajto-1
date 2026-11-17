@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108826,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 82820,
-    "prepared_source_episodes": 68074,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 82822,
+    "prepared_source_episodes": 68081,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
@@ -14,33 +14,57 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53568,
     "whisper_review_pending_sources": 36404,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52202,
     "subtitle_followup_pending_sources": 52202
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T22:07:30Z",
+      "databaseId": 44186878133,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T22:06:21Z",
+      "databaseId": 44186680041,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-17T22:06:00Z",
+      "databaseId": 44186621948,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T22:04:34Z",
       "databaseId": 44186374814,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T22:04:25Z",
       "databaseId": 44186349617,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-status"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T22:03:58Z",
       "databaseId": 44186275675,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -84,11 +108,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T22:01:32Z",
       "databaseId": 44185859954,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -128,7 +152,7 @@
       "createdAt": "2026-11-17T21:54:43Z",
       "databaseId": 44184704683,
       "headBranch": "main",
-      "status": "pending",
+      "status": "in_progress",
       "workflowName": "prepare-sources"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "pending",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T21:53:04Z",
-      "databaseId": 44184427103,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T21:53:01Z",
-      "databaseId": 44184415947,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-17T21:52:56Z",
-      "databaseId": 44184401124,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-sources"
     }
   ],
   "gaps": {
@@ -388510,6 +388510,16 @@
         "episode_id": 87858,
         "display_name": "Nutné k přežití S03E07 - 7. epizoda CZ Dabing",
         "video_id": 31129881
+      },
+      {
+        "episode_id": 87850,
+        "display_name": "Nutné k přežití S04E01 - 1. epizoda CZ Dabing",
+        "video_id": 31130504
+      },
+      {
+        "episode_id": 87818,
+        "display_name": "Nutné k přežití S04E02 - 2. epizoda CZ Dabing",
+        "video_id": 31130567
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -776737,6 +776747,16 @@
         "episode_id": 87858,
         "display_name": "Nutné k přežití S03E07 - 7. epizoda CZ Dabing",
         "video_id": 31129881
+      },
+      {
+        "episode_id": 87850,
+        "display_name": "Nutné k přežití S04E01 - 1. epizoda CZ Dabing",
+        "video_id": 31130504
+      },
+      {
+        "episode_id": 87818,
+        "display_name": "Nutné k přežití S04E02 - 2. epizoda CZ Dabing",
+        "video_id": 31130567
       }
     ],
     "prepared_not_upload_ready": [
