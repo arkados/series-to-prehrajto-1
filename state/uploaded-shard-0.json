@@ -910837,6 +910837,58 @@
         "download_sec": 12.0,
         "upload_sec": 25.4
       }
+    },
+    {
+      "episode_id": 175021,
+      "series_id": 7911,
+      "series_title": "The L.A. Complex",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "The L.A. Complex S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -12946226073043751,
+      "external_id": "5f37010e5d88b",
+      "source_url": "https://prehraj.to/the-l-a-complex-s01e02-cztit-v-obraze/5f37010e5d88b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102207,
+      "size_bytes": 363273756,
+      "uploaded_at": "2026-11-17T00:06:25Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.4,
+        "upload_sec": 43.7
+      }
+    },
+    {
+      "episode_id": 170509,
+      "series_id": 7223,
+      "series_title": "American Playboy: The Hugh Hefner Story",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "American Playboy: The Hugh Hefner Story S01E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -23700373072061101,
+      "external_id": "6821f266e1fa5",
+      "source_url": "https://prehraj.to/american-playboy-the-hugh-hefner-story-s01e01/6821f266e1fa5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102256,
+      "size_bytes": 355967525,
+      "uploaded_at": "2026-11-17T00:08:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.1,
+        "upload_sec": 32.3
+      }
     }
   ],
   "pending_uploads": [
@@ -911958,22 +912010,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 175021,
-      "series_id": 7911,
-      "series_title": "The L.A. Complex",
-      "season": 1,
-      "episode": 2,
-      "display_name": "The L.A. Complex S01E02 - 2. epizoda CZ Titulky",
-      "intent_id": "6bb288958ff04b2099a71565eae1b97c",
-      "started_at": "2026-11-17T00:04:32Z",
-      "upload_account": "primary",
-      "source_id": -12946226073043751,
-      "source_url": "https://prehraj.to/the-l-a-complex-s01e02-cztit-v-obraze/5f37010e5d88b",
-      "size_bytes": 363273756,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1329999,5 +1330035,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:05:40Z"
+  "last_updated": "2026-11-17T00:21:05Z"
 }
