@@ -914091,6 +914091,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 115444,
+      "series_id": 2938,
+      "series_title": "Rake",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Rake S01E02 - 2. epizoda CZ Titulky",
+      "intent_id": "015b28a200594b16a7798618313cd6f3",
+      "started_at": "2026-11-17T20:45:38Z",
+      "upload_account": "primary",
+      "source_id": -62138845248355771,
+      "source_url": "https://prehraj.to/rake-s01e02/5bdff16d09c0b",
+      "size_bytes": 334126763,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332115,5 +1332131,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T19:51:47Z"
+  "last_updated": "2026-11-17T20:45:38Z"
 }
