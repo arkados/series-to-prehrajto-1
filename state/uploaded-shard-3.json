@@ -909636,6 +909636,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2307,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 3,
+      "episode": 18,
+      "display_name": "Elena z Avaloru S03E18 - Narozeninová plavba CZ Dabing",
+      "intent_id": "ba068243725c4a9b8a7d389412d272b7",
+      "started_at": "2026-11-17T03:14:44Z",
+      "upload_account": "serialy",
+      "source_id": -60987827769598216,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s3e18-the-birthday-cruise-cs/2967bd18ac565b86",
+      "size_bytes": 384602318,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327660,5 +1327676,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T02:59:21Z"
+  "last_updated": "2026-11-17T03:14:44Z"
 }
