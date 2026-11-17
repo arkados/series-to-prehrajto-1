@@ -911929,6 +911929,32 @@
         "download_sec": 81.4,
         "upload_sec": 37.5
       }
+    },
+    {
+      "episode_id": 202689,
+      "series_id": 10375,
+      "series_title": "Doktor Mozek",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Doktor Mozek S01E04 - Kapitola 4 CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -38774016988084490,
+      "external_id": "7f93cf1f37f2e5bc",
+      "source_url": "https://prehraj.to/doktor-mozek-s01e04-cz-dab/7f93cf1f37f2e5bc",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31115130,
+      "size_bytes": 532752361,
+      "uploaded_at": "2026-11-17T09:50:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 66.1,
+        "upload_sec": 126.8
+      }
     }
   ],
   "pending_uploads": [
@@ -913051,22 +913077,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 202689,
-      "series_id": 10375,
-      "series_title": "Doktor Mozek",
-      "season": 1,
-      "episode": 4,
-      "display_name": "Doktor Mozek S01E04 - Kapitola 4 CZ Dabing",
-      "intent_id": "9a769f0eab0643ae94ddf26a66cb3be6",
-      "started_at": "2026-11-17T09:47:20Z",
-      "upload_account": "primary",
-      "source_id": -38774016988084490,
-      "source_url": "https://prehraj.to/doktor-mozek-s01e04-cz-dab/7f93cf1f37f2e5bc",
-      "size_bytes": 532752361,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1331091,5 +1331101,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T09:47:20Z"
+  "last_updated": "2026-11-17T09:50:18Z"
 }
