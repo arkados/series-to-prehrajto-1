@@ -912089,6 +912089,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2344,
+      "series_id": 17,
+      "series_title": "Elena z Avaloru",
+      "season": 2,
+      "episode": 24,
+      "display_name": "Elena z Avaloru S02E24 - Naomi to ví nejlíp CZ Dabing",
+      "intent_id": "1a2bdd909ee94353949558d7c48c327f",
+      "started_at": "2026-11-17T01:03:08Z",
+      "upload_account": "primary",
+      "source_id": -70637159814462774,
+      "source_url": "https://prehraj.to/elena-z-avaloru-s2e24-naomi-knows-best-cs/bc9d4084cbb0a59b",
+      "size_bytes": 374988812,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330113,5 +1330129,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:51:53Z"
+  "last_updated": "2026-11-17T01:03:08Z"
 }
