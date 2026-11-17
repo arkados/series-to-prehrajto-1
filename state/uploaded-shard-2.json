@@ -909922,6 +909922,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 65222,
+      "series_id": 1502,
+      "series_title": "Soy Luna",
+      "season": 2,
+      "episode": 69,
+      "display_name": "Soy Luna S02E69 - 69. epizoda CZ Titulky",
+      "intent_id": "11023411def94fd8a1b81d00cf51400c",
+      "started_at": "2026-11-17T05:10:44Z",
+      "upload_account": "serialy",
+      "source_id": -39797971703940153,
+      "source_url": "https://prehraj.to/soy-luna-2x69/5c6e6a755a454",
+      "size_bytes": 536121346,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1327946,5 +1327962,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T05:09:53Z"
+  "last_updated": "2026-11-17T05:10:44Z"
 }
