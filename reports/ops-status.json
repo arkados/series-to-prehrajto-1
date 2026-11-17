@@ -1,30 +1,46 @@
 {
   "counts": {
     "backlog_episodes": 108901,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82761,
-    "prepared_source_episodes": 68335,
+    "manifest_upload_ready_episodes": 6,
+    "uploaded_episodes": 82762,
+    "prepared_source_episodes": 68337,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 51,
-    "language_whisper_attempted_sources": 47,
+    "language_audited_sources": 46,
+    "language_whisper_attempted_sources": 46,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53595,
-    "whisper_review_pending_sources": 36426,
+    "whisper_review_sources": 53593,
+    "whisper_review_pending_sources": 36422,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52165,
-    "subtitle_followup_pending_sources": 52165
+    "subtitle_followup_sources": 52168,
+    "subtitle_followup_pending_sources": 52168
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-17T12:58:05Z",
+      "databaseId": 44088084620,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-17T12:53:39Z",
+      "databaseId": 44087404095,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-17T12:52:19Z",
       "databaseId": 44087200643,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,19 +76,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T12:46:08Z",
       "databaseId": 44086235028,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T12:46:05Z",
       "databaseId": 44086227851,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -100,11 +116,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-17T12:40:02Z",
       "databaseId": 44085278776,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -162,22 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T12:31:43Z",
-      "databaseId": 44083973114,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T12:31:39Z",
-      "databaseId": 44083964594,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
     }
   ],
   "gaps": {
@@ -388215,6 +388215,11 @@
         "episode_id": 89215,
         "display_name": "Lexx S02E10 - 10. epizoda CZ Dabing",
         "video_id": 31118568
+      },
+      {
+        "episode_id": 89234,
+        "display_name": "Lexx S02E07 - 7. epizoda CZ Dabing",
+        "video_id": 31118757
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -776147,6 +776152,11 @@
         "episode_id": 89215,
         "display_name": "Lexx S02E10 - 10. epizoda CZ Dabing",
         "video_id": 31118568
+      },
+      {
+        "episode_id": 89234,
+        "display_name": "Lexx S02E07 - 7. epizoda CZ Dabing",
+        "video_id": 31118757
       }
     ],
     "prepared_not_upload_ready": [
@@ -777308,18 +777318,17 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 4,
+    "ok": 43,
     "sample_failed": 2,
-    "ok": 44,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35277,
-    "whisper_confirmed_cz": 3851,
-    "whisper_non_cz_needs_subtitles": 13318,
-    "whisper_failed": 1149
+    "needs_whisper": 35271,
+    "whisper_confirmed_cz": 3850,
+    "whisper_non_cz_needs_subtitles": 13321,
+    "whisper_failed": 1151
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52165
+    "needs_subtitle_setup_after_prehrajto_processing": 52168
   }
 }
