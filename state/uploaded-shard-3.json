@@ -909844,6 +909844,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 129431,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 1,
+      "episode": 9,
+      "display_name": "Juru Camp S01E09 - 9. epizoda CZ Titulky",
+      "intent_id": "8b7e7180a5834b49b6e27b42c1e33075",
+      "started_at": "2026-11-17T04:56:39Z",
+      "upload_account": "serialy",
+      "source_id": -24282980541441228,
+      "source_url": "https://prehraj.to/laid-back-camp-s1e9-a-night-of-navigator-nadeshiko-and-hot-spring-steam-ja/1aa94395445f531b",
+      "size_bytes": 339813576,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1327868,5 +1327884,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:55:46Z"
+  "last_updated": "2026-11-17T04:56:39Z"
 }
