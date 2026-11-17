@@ -909154,6 +909154,32 @@
         "download_sec": 16.9,
         "upload_sec": 32.3
       }
+    },
+    {
+      "episode_id": 129439,
+      "series_id": 3631,
+      "series_title": "Juru Camp",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Juru Camp S02E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -52557587388627868,
+      "external_id": "5a741818ca914eac",
+      "source_url": "https://prehraj.to/laid-back-camp-s2e5-caribou-kun-and-lake-yamanaka-ja/5a741818ca914eac",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31114054,
+      "size_bytes": 605556623,
+      "uploaded_at": "2026-11-17T08:45:35Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 31.6,
+        "upload_sec": 352.3
+      }
     }
   ],
   "pending_uploads": [
@@ -910260,22 +910286,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 129439,
-      "series_id": 3631,
-      "series_title": "Juru Camp",
-      "season": 2,
-      "episode": 5,
-      "display_name": "Juru Camp S02E05 - 5. epizoda CZ Titulky",
-      "intent_id": "1aae8874112f42269cb5b6e4402e37e2",
-      "started_at": "2026-11-17T08:39:07Z",
-      "upload_account": "serialy",
-      "source_id": -52557587388627868,
-      "source_url": "https://prehraj.to/laid-back-camp-s2e5-caribou-kun-and-lake-yamanaka-ja/5a741818ca914eac",
-      "size_bytes": 605556623,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1328300,5 +1328310,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T08:39:07Z"
+  "last_updated": "2026-11-17T08:45:35Z"
 }
