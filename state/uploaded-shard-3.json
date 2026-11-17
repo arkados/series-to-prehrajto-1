@@ -908608,6 +908608,32 @@
         "download_sec": 18.1,
         "upload_sec": 58.6
       }
+    },
+    {
+      "episode_id": 107927,
+      "series_id": 2692,
+      "series_title": "Lina, postrach banditů",
+      "season": 4,
+      "episode": 6,
+      "episode_code": "S04E06",
+      "display_name": "Lina, postrach banditů S04E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -71216623073818401,
+      "external_id": "68c1cf9b245d7",
+      "source_url": "https://prehraj.to/slayers-s04e06-cz-tit-lena/68c1cf9b245d7",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31107664,
+      "size_bytes": 458867177,
+      "uploaded_at": "2026-11-17T04:06:16Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.2,
+        "upload_sec": 38.9
+      }
     }
   ],
   "pending_uploads": [
@@ -909712,22 +909738,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 107927,
-      "series_id": 2692,
-      "series_title": "Lina, postrach banditů",
-      "season": 4,
-      "episode": 6,
-      "display_name": "Lina, postrach banditů S04E06 - 6. epizoda CZ Titulky",
-      "intent_id": "a4a80c6ddfa84547a0f216fe55839c5e",
-      "started_at": "2026-11-17T04:04:12Z",
-      "upload_account": "serialy",
-      "source_id": -71216623073818401,
-      "source_url": "https://prehraj.to/slayers-s04e06-cz-tit-lena/68c1cf9b245d7",
-      "size_bytes": 458867177,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1327754,5 +1327764,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T04:04:12Z"
+  "last_updated": "2026-11-17T04:06:16Z"
 }
