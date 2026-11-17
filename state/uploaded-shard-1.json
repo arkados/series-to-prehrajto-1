@@ -910863,6 +910863,32 @@
         "download_sec": 18.4,
         "upload_sec": 43.7
       }
+    },
+    {
+      "episode_id": 170509,
+      "series_id": 7223,
+      "series_title": "American Playboy: The Hugh Hefner Story",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "American Playboy: The Hugh Hefner Story S01E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -23700373072061101,
+      "external_id": "6821f266e1fa5",
+      "source_url": "https://prehraj.to/american-playboy-the-hugh-hefner-story-s01e01/6821f266e1fa5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31102256,
+      "size_bytes": 355967525,
+      "uploaded_at": "2026-11-17T00:08:37Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.1,
+        "upload_sec": 32.3
+      }
     }
   ],
   "pending_uploads": [
@@ -911983,22 +912009,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 170509,
-      "series_id": 7223,
-      "series_title": "American Playboy: The Hugh Hefner Story",
-      "season": 1,
-      "episode": 1,
-      "display_name": "American Playboy: The Hugh Hefner Story S01E01 - 1. epizoda CZ Titulky",
-      "intent_id": "4acefcfb28994f76a98089ccb2e92233",
-      "started_at": "2026-11-17T00:07:34Z",
-      "upload_account": "primary",
-      "source_id": -23700373072061101,
-      "source_url": "https://prehraj.to/american-playboy-the-hugh-hefner-story-s01e01/6821f266e1fa5",
-      "size_bytes": 355967525,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1330025,5 +1330035,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T00:07:34Z"
+  "last_updated": "2026-11-17T00:08:37Z"
 }
