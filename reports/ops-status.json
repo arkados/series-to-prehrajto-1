@@ -1,38 +1,78 @@
 {
   "counts": {
     "backlog_episodes": 108661,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83000,
-    "prepared_source_episodes": 67929,
+    "manifest_upload_ready_episodes": 5,
+    "uploaded_episodes": 83003,
+    "prepared_source_episodes": 67927,
     "description_series": 60,
     "description_episodes": 753,
-    "description_errors": 40,
+    "description_errors": 39,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 47,
+    "language_whisper_attempted_sources": 47,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53483,
-    "whisper_review_pending_sources": 36164,
+    "whisper_review_sources": 53481,
+    "whisper_review_pending_sources": 36156,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52290,
-    "subtitle_followup_pending_sources": 52290
+    "subtitle_followup_sources": 52292,
+    "subtitle_followup_pending_sources": 52292
   },
   "workflow_runs": [
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T21:56:59Z",
+      "databaseId": 44406689200,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T21:56:13Z",
+      "databaseId": 44406561549,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T21:54:22Z",
+      "databaseId": 44406250522,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T21:54:18Z",
+      "databaseId": 44406240442,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T21:54:14Z",
+      "databaseId": 44406229210,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
     {
       "conclusion": "",
       "createdAt": "2026-11-18T21:53:39Z",
       "databaseId": 44406129485,
       "headBranch": "main",
-      "status": "pending",
+      "status": "in_progress",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T21:52:38Z",
       "databaseId": 44405957161,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +84,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T21:46:55Z",
       "databaseId": 44404985300,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T21:28:14Z",
-      "databaseId": 44401790303,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T21:28:10Z",
-      "databaseId": 44401779289,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T21:27:13Z",
-      "databaseId": 44401618236,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T21:26:30Z",
-      "databaseId": 44401498116,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "external-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T21:26:25Z",
-      "databaseId": 44401483464,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -203862,6 +203862,16 @@
         "video_id": 31160992
       },
       {
+        "episode_id": 109717,
+        "display_name": "Dynastie S06E11 - 11. epizoda CZ Titulky",
+        "video_id": 31161016
+      },
+      {
+        "episode_id": 49428,
+        "display_name": "Tři kluci a nemluvně S04E08 - Domeček z karet CZ Dabing",
+        "video_id": 31161036
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -389410,6 +389420,11 @@
         "episode_id": 127546,
         "display_name": "Ghost in the Shell: Stand Alone Complex S01E02 - 2. epizoda CZ Titulky",
         "video_id": 31160831
+      },
+      {
+        "episode_id": 116954,
+        "display_name": "Avengers - Sjednocení S02E10 - Zkouška z dospělosti CZ Dabing",
+        "video_id": 31161022
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -592989,6 +593004,16 @@
         "video_id": 31160992
       },
       {
+        "episode_id": 109717,
+        "display_name": "Dynastie S06E11 - 11. epizoda CZ Titulky",
+        "video_id": 31161016
+      },
+      {
+        "episode_id": 49428,
+        "display_name": "Tři kluci a nemluvně S04E08 - Domeček z karet CZ Dabing",
+        "video_id": 31161036
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -778537,6 +778562,11 @@
         "episode_id": 127546,
         "display_name": "Ghost in the Shell: Stand Alone Complex S01E02 - 2. epizoda CZ Titulky",
         "video_id": 31160831
+      },
+      {
+        "episode_id": 116954,
+        "display_name": "Avengers - Sjednocení S02E10 - Zkouška z dospělosti CZ Dabing",
+        "video_id": 31161022
       }
     ],
     "prepared_not_upload_ready": [
@@ -779698,16 +779728,16 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 39,
+    "ok": 46,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34936,
-    "whisper_confirmed_cz": 4006,
-    "whisper_non_cz_needs_subtitles": 13313,
+    "needs_whisper": 34928,
+    "whisper_confirmed_cz": 4010,
+    "whisper_non_cz_needs_subtitles": 13315,
     "whisper_failed": 1228
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52290
+    "needs_subtitle_setup_after_prehrajto_processing": 52292
   }
 }
