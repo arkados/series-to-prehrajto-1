@@ -913905,6 +913905,32 @@
         "download_sec": 16.6,
         "upload_sec": 88.3
       }
+    },
+    {
+      "episode_id": 49381,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 11,
+      "episode_code": "S02E11",
+      "display_name": "Tři kluci a nemluvně S02E11 - Pro Lolu vše CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -37074564227890796,
+      "external_id": "587a453c6bcd0",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-02x11-pro-lolu-vse-dvb-t-cz/587a453c6bcd0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31146809,
+      "size_bytes": 335949578,
+      "uploaded_at": "2026-11-18T09:38:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.3,
+        "upload_sec": 48.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915027,6 +915053,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 120568,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 4,
+      "episode": 7,
+      "display_name": "Crazy Ex-Girlfriend S04E07 - 7. epizoda CZ Titulky",
+      "intent_id": "efd311d7d18d41578bc1125148daa172",
+      "started_at": "2026-11-18T09:56:40Z",
+      "upload_account": "primary",
+      "source_id": -69701645143537269,
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e07-i-will-help-you-en/f3f49e78188cd81f",
+      "size_bytes": 485668191,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1333051,5 +1333093,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:08:30Z"
+  "last_updated": "2026-11-18T09:56:40Z"
 }
