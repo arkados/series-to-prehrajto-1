@@ -912690,6 +912690,32 @@
         "download_sec": 641.1,
         "upload_sec": 38.3
       }
+    },
+    {
+      "episode_id": 99590,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "She-Ra a princezny moci S02E06 - Light Spinner CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -56844739588597962,
+      "external_id": "85651da728bbf155",
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e6-light-spinner-en/85651da728bbf155",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158916,
+      "size_bytes": 353804294,
+      "uploaded_at": "2026-11-18T20:01:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 689.7,
+        "upload_sec": 35.2
+      }
     }
   ],
   "pending_uploads": [
@@ -913796,22 +913822,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 99590,
-      "series_id": 2404,
-      "series_title": "She-Ra a princezny moci",
-      "season": 2,
-      "episode": 6,
-      "display_name": "She-Ra a princezny moci S02E06 - Light Spinner CZ Titulky",
-      "intent_id": "f25de2eb6d5545b080c42af374ea047f",
-      "started_at": "2026-11-18T19:59:36Z",
-      "upload_account": "serialy",
-      "source_id": -56844739588597962,
-      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e6-light-spinner-en/85651da728bbf155",
-      "size_bytes": 353804294,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331836,5 +1331846,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T19:59:45Z"
+  "last_updated": "2026-11-18T20:01:34Z"
 }
