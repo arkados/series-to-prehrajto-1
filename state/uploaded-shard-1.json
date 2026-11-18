@@ -915469,6 +915469,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 120557,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 1,
+      "episode": 18,
+      "display_name": "Crazy Ex-Girlfriend S01E18 - 18. epizoda CZ Titulky",
+      "intent_id": "f9cec8a2995b48b8abe99cbe9cc6eb86",
+      "started_at": "2026-11-18T12:17:35Z",
+      "upload_account": "primary",
+      "source_id": -29738197091473455,
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s01e18-paula-needs-to-get-over-josh-en/4a337678291dba6e",
+      "size_bytes": 458895831,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1333493,5 +1333509,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:03:43Z"
+  "last_updated": "2026-11-18T12:17:35Z"
 }
