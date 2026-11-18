@@ -914607,6 +914607,32 @@
         "download_sec": 15.7,
         "upload_sec": 47.2
       }
+    },
+    {
+      "episode_id": 127549,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E05 - 5. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -57734425794851076,
+      "external_id": "98e9782e9f605260",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e5-c-the-inviting-bird-will-chant-decoy-ja/98e9782e9f605260",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31154767,
+      "size_bytes": 402565360,
+      "uploaded_at": "2026-11-18T15:51:28Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 262.4,
+        "upload_sec": 38.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1333753,5 +1333779,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T15:42:28Z"
+  "last_updated": "2026-11-18T15:51:28Z"
 }
