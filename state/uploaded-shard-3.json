@@ -912300,6 +912300,32 @@
         "download_sec": 26.4,
         "upload_sec": 57.3
       }
+    },
+    {
+      "episode_id": 120559,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Crazy Ex-Girlfriend S02E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -67571843186310192,
+      "external_id": "a415d5ffa1c0e5c4",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s02e10-will-scarsdale-like-josh-s-shayna-punim-en/a415d5ffa1c0e5c4",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31153331,
+      "size_bytes": 499301023,
+      "uploaded_at": "2026-11-18T14:30:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 110.7,
+        "upload_sec": 53.0
+      }
     }
   ],
   "pending_uploads": [
@@ -913404,22 +913430,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 120559,
-      "series_id": 3183,
-      "series_title": "Crazy Ex-Girlfriend",
-      "season": 2,
-      "episode": 10,
-      "display_name": "Crazy Ex-Girlfriend S02E10 - 10. epizoda CZ Titulky",
-      "intent_id": "6af30bf4eea442d0a2846b1c7f9f5305",
-      "started_at": "2026-11-18T14:28:28Z",
-      "upload_account": "serialy",
-      "source_id": -67571843186310192,
-      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s02e10-will-scarsdale-like-josh-s-shayna-punim-en/a415d5ffa1c0e5c4",
-      "size_bytes": 499301023,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1331446,5 +1331456,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T14:28:28Z"
+  "last_updated": "2026-11-18T14:30:03Z"
 }
