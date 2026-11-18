@@ -913931,6 +913931,32 @@
         "download_sec": 13.3,
         "upload_sec": 48.3
       }
+    },
+    {
+      "episode_id": 120568,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 4,
+      "episode": 7,
+      "episode_code": "S04E07",
+      "display_name": "Crazy Ex-Girlfriend S04E07 - 7. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -69701645143537269,
+      "external_id": "f3f49e78188cd81f",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e07-i-will-help-you-en/f3f49e78188cd81f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31147424,
+      "size_bytes": 485668191,
+      "uploaded_at": "2026-11-18T09:59:08Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 17.8,
+        "upload_sec": 50.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915052,6 +915078,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49397,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 3,
+      "display_name": "Tři kluci a nemluvně S02E03 - Kluk z plakátu CZ Dabing",
+      "intent_id": "e47e91c478174bd2817fcded30d7f77a",
+      "started_at": "2026-11-18T10:03:09Z",
+      "upload_account": "primary",
+      "source_id": -15449440165309367,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e03-czdab/578c103f5ec92",
+      "size_bytes": 348092468,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333077,5 +1333119,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:44:41Z"
+  "last_updated": "2026-11-18T10:03:09Z"
 }
