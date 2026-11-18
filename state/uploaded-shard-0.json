@@ -913255,6 +913255,32 @@
         "download_sec": 18.9,
         "upload_sec": 28.8
       }
+    },
+    {
+      "episode_id": 96977,
+      "series_id": 2340,
+      "series_title": "Naprosto dokonalé",
+      "season": 4,
+      "episode": 6,
+      "episode_code": "S04E06",
+      "display_name": "Naprosto dokonalé S04E06 - 6. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -64712363609109594,
+      "external_id": "5c22de9174bc0",
+      "source_url": "https://prehraj.to/absolutely-fabulous-4x6/5c22de9174bc0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31137959,
+      "size_bytes": 318549787,
+      "uploaded_at": "2026-11-18T02:58:53Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.3,
+        "upload_sec": 25.0
+      }
     }
   ],
   "pending_uploads": [
@@ -1332401,5 +1332427,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T02:44:04Z"
+  "last_updated": "2026-11-18T02:58:53Z"
 }
