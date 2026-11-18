@@ -910740,6 +910740,32 @@
         "download_sec": 36.0,
         "upload_sec": 192.6
       }
+    },
+    {
+      "episode_id": 49902,
+      "series_id": 1151,
+      "series_title": "Beze stopy",
+      "season": 4,
+      "episode": 13,
+      "episode_code": "S04E13",
+      "display_name": "Beze stopy S04E13 - Vztek CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68955458298254600,
+      "external_id": "8594ff71910450e3",
+      "source_url": "https://prehraj.to/beze-stopy-s04e13/8594ff71910450e3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31139939,
+      "size_bytes": 366919680,
+      "uploaded_at": "2026-11-18T04:22:16Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.8,
+        "upload_sec": 31.4
+      }
     }
   ],
   "pending_uploads": [
@@ -911846,6 +911872,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 89439,
+      "series_id": 2117,
+      "series_title": "Doktor Martin",
+      "season": 9,
+      "episode": 7,
+      "display_name": "Doktor Martin S09E07 - 7. epizoda CZ Dabing",
+      "intent_id": "a9bbe02febc84e3ab602ffa8d01ad5d1",
+      "started_at": "2026-11-18T04:38:45Z",
+      "upload_account": "serialy",
+      "source_id": -9980043971767931,
+      "source_url": "https://prehraj.to/doktor-martin-09x07-divci-problemy/80695c2ec234e91d",
+      "size_bytes": 364140954,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329870,5 +1329912,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T04:13:28Z"
+  "last_updated": "2026-11-18T04:38:45Z"
 }
