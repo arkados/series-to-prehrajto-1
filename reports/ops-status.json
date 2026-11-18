@@ -1,30 +1,62 @@
 {
   "counts": {
     "backlog_episodes": 108661,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83019,
-    "prepared_source_episodes": 67951,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 83021,
+    "prepared_source_episodes": 67949,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 39,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 50,
-    "language_whisper_attempted_sources": 48,
+    "language_audited_sources": 42,
+    "language_whisper_attempted_sources": 42,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53478,
-    "whisper_review_pending_sources": 36150,
+    "whisper_review_pending_sources": 36148,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52300,
-    "subtitle_followup_pending_sources": 52300
+    "subtitle_followup_sources": 52302,
+    "subtitle_followup_pending_sources": 52302
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T22:58:33Z",
+      "databaseId": 44416570879,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T22:54:49Z",
+      "databaseId": 44416022274,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T22:54:45Z",
+      "databaseId": 44416013348,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T22:54:42Z",
+      "databaseId": 44416003581,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T22:53:59Z",
       "databaseId": 44415891282,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -76,11 +108,11 @@
       "workflowName": "prepare-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T22:48:54Z",
       "databaseId": 44415118823,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -108,11 +140,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-18T22:44:01Z",
       "databaseId": 44414360143,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T22:35:45Z",
-      "databaseId": 44413072266,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T22:34:55Z",
-      "databaseId": 44412931818,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T22:34:50Z",
-      "databaseId": 44412920217,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T22:34:45Z",
-      "databaseId": 44412906437,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
     }
   ],
   "gaps": {
@@ -203910,6 +203910,16 @@
         "episode_id": 109721,
         "display_name": "Dynastie S07E03 - 3. epizoda CZ Titulky",
         "video_id": 31162050
+      },
+      {
+        "episode_id": 49388,
+        "display_name": "Tři kluci a nemluvně S05E01 - Láska a kočár CZ Titulky",
+        "video_id": 31162179
+      },
+      {
+        "episode_id": 127560,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E17 - 17. epizoda CZ Titulky",
+        "video_id": 31162248
       },
       {
         "episode_id": 114182,
@@ -593134,6 +593144,16 @@
         "video_id": 31162050
       },
       {
+        "episode_id": 49388,
+        "display_name": "Tři kluci a nemluvně S05E01 - Láska a kočár CZ Titulky",
+        "video_id": 31162179
+      },
+      {
+        "episode_id": 127560,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E17 - 17. epizoda CZ Titulky",
+        "video_id": 31162248
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -779888,17 +779908,16 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 17,
-    "disabled": 2,
-    "resolve_failed": 31
+    "ok": 41,
+    "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34922,
+    "needs_whisper": 34920,
     "whisper_confirmed_cz": 4019,
-    "whisper_non_cz_needs_subtitles": 13309,
+    "whisper_non_cz_needs_subtitles": 13311,
     "whisper_failed": 1228
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52300
+    "needs_subtitle_setup_after_prehrajto_processing": 52302
   }
 }
