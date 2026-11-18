@@ -915209,6 +915209,38 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49404,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 6,
+      "display_name": "Tři kluci a nemluvně S03E06 - Romance po telefonu CZ Dabing",
+      "intent_id": "0e8152e3748f44a695d465c9b1a0dd13",
+      "started_at": "2026-11-18T11:07:33Z",
+      "upload_account": "primary",
+      "source_id": -38232497995405146,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e06-21-2014-cz-dab-romancing-the-phone/66091de82dbd8",
+      "size_bytes": 336263500,
+      "source_container": "avi",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 99589,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 2,
+      "episode": 2,
+      "display_name": "She-Ra a princezny moci S02E02 - Ties That Bind CZ Titulky",
+      "intent_id": "820ca2813a7a49019ca061cba6805f04",
+      "started_at": "2026-11-18T11:07:32Z",
+      "upload_account": "primary",
+      "source_id": -50997439451122367,
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e2-ties-that-bind-en/435360e4b1cfb9b7",
+      "size_bytes": 496137866,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333233,5 +1333265,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T10:42:29Z"
+  "last_updated": "2026-11-18T11:07:50Z"
 }
