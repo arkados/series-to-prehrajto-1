@@ -912132,6 +912132,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49371,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Tři kluci a nemluvně S01E07 - Sokové v lásce CZ Dabing",
+      "intent_id": "3ab427921ce3433eb26d1131015b4b11",
+      "started_at": "2026-11-18T07:28:18Z",
+      "upload_account": "serialy",
+      "source_id": -60615251215750770,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e07-czdab/578bf3051061b",
+      "size_bytes": 349596130,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330156,5 +1330172,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T07:12:52Z"
+  "last_updated": "2026-11-18T07:28:18Z"
 }
