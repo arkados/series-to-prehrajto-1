@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108694,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82956,
-    "prepared_source_episodes": 67977,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82957,
+    "prepared_source_episodes": 67980,
     "description_series": 60,
     "description_episodes": 753,
-    "description_errors": 42,
+    "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 41,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53499,
     "whisper_review_pending_sources": 36196,
@@ -21,18 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T15:23:17Z",
-      "databaseId": 44335048675,
+      "createdAt": "2026-11-18T15:34:13Z",
+      "databaseId": 44337157753,
       "headBranch": "main",
-      "status": "queued",
-      "workflowName": "sync"
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T15:28:30Z",
+      "databaseId": 44336041725,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T15:28:02Z",
+      "databaseId": 44335955504,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T15:27:28Z",
+      "databaseId": 44335846554,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T15:27:05Z",
+      "databaseId": 44335772684,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T15:24:20Z",
+      "databaseId": 44335250982,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T15:23:17Z",
+      "databaseId": 44335048675,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T15:22:49Z",
       "databaseId": 44334957209,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,27 +100,27 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T15:20:44Z",
       "databaseId": 44334549904,
       "headBranch": "main",
-      "status": "queued",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T15:20:41Z",
       "databaseId": 44334540553,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T15:20:39Z",
       "databaseId": 44334531926,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -92,11 +140,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T15:16:00Z",
       "databaseId": 44333621208,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -127,54 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-18T15:04:22Z",
       "databaseId": 44331348009,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:04:18Z",
-      "databaseId": 44331336360,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:04:15Z",
-      "databaseId": 44331327763,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:03:53Z",
-      "databaseId": 44331255221,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:02:55Z",
-      "databaseId": 44331067896,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T14:53:57Z",
-      "databaseId": 44329367242,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T14:51:46Z",
-      "databaseId": 44328955376,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
@@ -203750,6 +203750,11 @@
         "episode_id": 116972,
         "display_name": "Avengers - Sjednocení S02E22 - Přísaha CZ Dabing",
         "video_id": 31152690
+      },
+      {
+        "episode_id": 130280,
+        "display_name": "Queer as Folk S04E08 - 8. epizoda CZ Titulky",
+        "video_id": 31154344
       },
       {
         "episode_id": 114182,
@@ -592659,6 +592664,11 @@
         "video_id": 31152690
       },
       {
+        "episode_id": 130280,
+        "display_name": "Queer as Folk S04E08 - 8. epizoda CZ Titulky",
+        "video_id": 31154344
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -779258,8 +779268,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 2,
-    "ok": 40,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
