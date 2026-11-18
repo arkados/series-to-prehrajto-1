@@ -913307,6 +913307,32 @@
         "download_sec": 13.0,
         "upload_sec": 28.2
       }
+    },
+    {
+      "episode_id": 157816,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "Strong Woman Do Bong Soon S01E13 - 13. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -12813219961173349,
+      "external_id": "e5d48cc4ce9c627c",
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e13-nevertheless-ko/e5d48cc4ce9c627c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31138657,
+      "size_bytes": 611824105,
+      "uploaded_at": "2026-11-18T03:37:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 26.9,
+        "upload_sec": 81.7
+      }
     }
   ],
   "pending_uploads": [
@@ -914429,6 +914455,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 157817,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 14,
+      "display_name": "Strong Woman Do Bong Soon S01E14 - 14. epizoda CZ Titulky",
+      "intent_id": "19d40c74323f47ceb1f83c271a503edd",
+      "started_at": "2026-11-18T03:40:25Z",
+      "upload_account": "primary",
+      "source_id": -27427355511358662,
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e14-a-prelude-to-the-battle-ko/937ce5348ccd7ec5",
+      "size_bytes": 641970117,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332453,5 +1332495,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T03:29:01Z"
+  "last_updated": "2026-11-18T03:40:25Z"
 }
