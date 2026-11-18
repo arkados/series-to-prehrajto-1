@@ -912560,6 +912560,32 @@
         "download_sec": 14.9,
         "upload_sec": 67.8
       }
+    },
+    {
+      "episode_id": 49411,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 11,
+      "episode_code": "S03E11",
+      "display_name": "Tři kluci a nemluvně S03E11 - Dohazovačka CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -62627323795866906,
+      "external_id": "66092036496a6",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e11-21-2014-cz-dab-the-wingmom/66092036496a6",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31157536,
+      "size_bytes": 336664294,
+      "uploaded_at": "2026-11-18T18:45:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 532.4,
+        "upload_sec": 43.2
+      }
     }
   ],
   "pending_uploads": [
@@ -913666,22 +913692,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49411,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 3,
-      "episode": 11,
-      "display_name": "Tři kluci a nemluvně S03E11 - Dohazovačka CZ Dabing",
-      "intent_id": "04d625f0cd2b4738a83278d873501f73",
-      "started_at": "2026-11-18T18:44:06Z",
-      "upload_account": "serialy",
-      "source_id": -62627323795866906,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e11-21-2014-cz-dab-the-wingmom/66092036496a6",
-      "size_bytes": 336664294,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331706,5 +1331716,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T18:44:06Z"
+  "last_updated": "2026-11-18T18:45:20Z"
 }
