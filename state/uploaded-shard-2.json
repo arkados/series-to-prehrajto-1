@@ -911000,6 +911000,32 @@
         "download_sec": 18.4,
         "upload_sec": 34.0
       }
+    },
+    {
+      "episode_id": 49366,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Tři kluci a nemluvně S01E04 - Neruším, pánové? CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -60952201437941324,
+      "external_id": "66090f1bd2080",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e04-10-2012-cz-dab-guys-interrupted/66090f1bd2080",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31143855,
+      "size_bytes": 351013110,
+      "uploaded_at": "2026-11-18T07:12:52Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.1,
+        "upload_sec": 87.8
+      }
     }
   ],
   "pending_uploads": [
@@ -912106,22 +912132,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49366,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 1,
-      "episode": 4,
-      "display_name": "Tři kluci a nemluvně S01E04 - Neruším, pánové? CZ Dabing",
-      "intent_id": "d7f437b2972a47f796e7b2112b17205e",
-      "started_at": "2026-11-18T07:10:37Z",
-      "upload_account": "serialy",
-      "source_id": -60952201437941324,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e04-10-2012-cz-dab-guys-interrupted/66090f1bd2080",
-      "size_bytes": 351013110,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330146,5 +1330156,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T07:10:37Z"
+  "last_updated": "2026-11-18T07:12:52Z"
 }
