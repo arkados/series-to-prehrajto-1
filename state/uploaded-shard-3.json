@@ -913028,6 +913028,32 @@
         "download_sec": 25.6,
         "upload_sec": 51.5
       }
+    },
+    {
+      "episode_id": 127559,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 16,
+      "episode_code": "S01E16",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E16 - 16. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -28670133801317249,
+      "external_id": "46d4814db2c7971e",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e16-sa-chinks-in-the-armour-of-the-heart-ag2o-ja/46d4814db2c7971e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161612,
+      "size_bytes": 403204781,
+      "uploaded_at": "2026-11-18T22:30:24Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 39.8,
+        "upload_sec": 40.3
+      }
     }
   ],
   "pending_uploads": [
@@ -914136,19 +914162,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 127559,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 1,
-      "episode": 16,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S01E16 - 16. epizoda CZ Titulky",
-      "intent_id": "ae9007b8eb774efd89d1e08ece20c8dd",
-      "started_at": "2026-11-18T22:29:02Z",
+      "episode_id": 49438,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 21,
+      "display_name": "Tři kluci a nemluvně S04E21 - Viva Las Vegas CZ Dabing",
+      "intent_id": "7d49ff3bf80d4dcfb609449265ab1ae0",
+      "started_at": "2026-11-18T22:29:35Z",
       "upload_account": "serialy",
-      "source_id": -28670133801317249,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e16-sa-chinks-in-the-armour-of-the-heart-ag2o-ja/46d4814db2c7971e",
-      "size_bytes": 403204781,
-      "source_container": "mp4",
+      "source_id": -34431415457896056,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e21-22-2014-cz-dab-what-happens-in-vegas/66092f72c6334",
+      "size_bytes": 336746482,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332174,5 +1332200,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:29:02Z"
+  "last_updated": "2026-11-18T22:30:24Z"
 }
