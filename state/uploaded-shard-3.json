@@ -911638,6 +911638,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 96959,
+      "series_id": 2340,
+      "series_title": "Naprosto dokonalé",
+      "season": 1,
+      "episode": 5,
+      "display_name": "Naprosto dokonalé S01E05 - 5. epizoda CZ Dabing",
+      "intent_id": "f0aea78d3b4c4f2081bcc6a737dab49c",
+      "started_at": "2026-11-18T02:01:41Z",
+      "upload_account": "serialy",
+      "source_id": -41484385274601626,
+      "source_url": "https://prehraj.to/naprosto-dokonale-s1e5-birthday-cs/71ec07bc5d3f48ed",
+      "size_bytes": 327401280,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1329662,5 +1329678,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T00:59:12Z"
+  "last_updated": "2026-11-18T02:01:41Z"
 }
