@@ -913593,6 +913593,32 @@
         "download_sec": 19.8,
         "upload_sec": 32.7
       }
+    },
+    {
+      "episode_id": 49893,
+      "series_id": 1151,
+      "series_title": "Beze stopy",
+      "season": 5,
+      "episode": 18,
+      "episode_code": "S05E18",
+      "display_name": "Beze stopy S05E18 - Kontakty CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -11371499297066771,
+      "external_id": "629dc930df53a",
+      "source_url": "https://prehraj.to/beze-stopy-05x18-kontakty-connections/629dc930df53a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31143211,
+      "size_bytes": 366596096,
+      "uploaded_at": "2026-11-18T06:50:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.4,
+        "upload_sec": 57.7
+      }
     }
   ],
   "pending_uploads": [
@@ -914714,22 +914740,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49893,
-      "series_id": 1151,
-      "series_title": "Beze stopy",
-      "season": 5,
-      "episode": 18,
-      "display_name": "Beze stopy S05E18 - Kontakty CZ Dabing",
-      "intent_id": "3a89e56e48a94a639cfe3263ec5855b1",
-      "started_at": "2026-11-18T06:48:53Z",
-      "upload_account": "primary",
-      "source_id": -11371499297066771,
-      "source_url": "https://prehraj.to/beze-stopy-05x18-kontakty-connections/629dc930df53a",
-      "size_bytes": 366596096,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332755,5 +1332765,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T06:48:53Z"
+  "last_updated": "2026-11-18T06:50:50Z"
 }
