@@ -911338,6 +911338,58 @@
         "download_sec": 15.2,
         "upload_sec": 62.2
       }
+    },
+    {
+      "episode_id": 49386,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 14,
+      "episode_code": "S02E14",
+      "display_name": "Tři kluci a nemluvně S02E14 - Společné hraní CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -27887827773652406,
+      "external_id": "578c18cc741c9",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e14-czdab/578c18cc741c9",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31146902,
+      "size_bytes": 348363198,
+      "uploaded_at": "2026-11-18T09:41:27Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 17.8,
+        "upload_sec": 33.2
+      }
+    },
+    {
+      "episode_id": 83890,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E02 - Zrození: 2. část CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -59121019285677172,
+      "external_id": "59bb883cd87cfa2a",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e2-becoming-part-2-en/59bb883cd87cfa2a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31146956,
+      "size_bytes": 463718426,
+      "uploaded_at": "2026-11-18T09:44:41Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.5,
+        "upload_sec": 98.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1330468,5 +1330520,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:39:49Z"
+  "last_updated": "2026-11-18T09:44:41Z"
 }
