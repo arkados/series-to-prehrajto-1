@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108804,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82850,
-    "prepared_source_episodes": 67973,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82851,
+    "prepared_source_episodes": 67976,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 39,
@@ -21,34 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T04:20:54Z",
-      "databaseId": 44236689905,
+      "createdAt": "2026-11-18T04:28:07Z",
+      "databaseId": 44237527684,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T04:27:52Z",
+      "databaseId": 44237498459,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T04:24:14Z",
+      "databaseId": 44237075702,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T04:23:56Z",
+      "databaseId": 44237040116,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T04:20:54Z",
+      "databaseId": 44236689905,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T04:20:29Z",
       "databaseId": 44236641112,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T04:20:25Z",
       "databaseId": 44236634511,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T04:20:03Z",
       "databaseId": 44236589795,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -60,11 +92,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T04:18:59Z",
       "databaseId": 44236466954,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -76,11 +108,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-18T04:15:02Z",
       "databaseId": 44236001280,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -116,11 +148,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T04:13:32Z",
       "databaseId": 44235826499,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T04:10:13Z",
-      "databaseId": 44235445625,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T04:09:14Z",
-      "databaseId": 44235327811,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T04:08:09Z",
-      "databaseId": 44235206042,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T04:08:02Z",
-      "databaseId": 44235191459,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -388660,6 +388660,11 @@
         "episode_id": 157819,
         "display_name": "Strong Woman Do Bong Soon S01E16 - 16. epizoda CZ Titulky",
         "video_id": 31139512
+      },
+      {
+        "episode_id": 49902,
+        "display_name": "Beze stopy S04E13 - Vztek CZ Dabing",
+        "video_id": 31139939
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -777037,6 +777042,11 @@
         "episode_id": 157819,
         "display_name": "Strong Woman Do Bong Soon S01E16 - 16. epizoda CZ Titulky",
         "video_id": 31139512
+      },
+      {
+        "episode_id": 49902,
+        "display_name": "Beze stopy S04E13 - Vztek CZ Dabing",
+        "video_id": 31139939
       }
     ],
     "prepared_not_upload_ready": [
