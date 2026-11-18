@@ -911664,6 +911664,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 101431,
+      "series_id": 2468,
+      "series_title": "Milionový lékař",
+      "season": 1,
+      "episode": 12,
+      "display_name": "Milionový lékař S01E12 - 12. epizoda CZ Titulky",
+      "intent_id": "085f199dab3344df969c71ab82e7d5eb",
+      "started_at": "2026-11-18T02:36:40Z",
+      "upload_account": "serialy",
+      "source_id": -11940716997396104,
+      "source_url": "https://prehraj.to/royal-pains-s01e12-cztit-v-obraze/565f0265d0a27",
+      "size_bytes": 345915874,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329688,5 +1329704,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T02:02:48Z"
+  "last_updated": "2026-11-18T02:36:40Z"
 }
