@@ -913432,6 +913432,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 120579,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 3,
+      "episode": 2,
+      "display_name": "Crazy Ex-Girlfriend S03E02 - 2. epizoda CZ Titulky",
+      "intent_id": "6550ba6f1ccb44f2bfcd87cc323d539b",
+      "started_at": "2026-11-18T15:54:30Z",
+      "upload_account": "serialy",
+      "source_id": -19727164429794087,
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s03e02-to-josh-with-love/5347abcb569c3352",
+      "size_bytes": 506277249,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1331456,5 +1331472,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T15:42:28Z"
+  "last_updated": "2026-11-18T15:54:30Z"
 }
