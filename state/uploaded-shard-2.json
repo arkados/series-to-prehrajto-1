@@ -911742,6 +911742,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 96982,
+      "series_id": 2340,
+      "series_title": "Naprosto dokonalé",
+      "season": 5,
+      "episode": 5,
+      "display_name": "Naprosto dokonalé S05E05 - 5. epizoda CZ Titulky",
+      "intent_id": "a9dc34d78b0645f886e2253deddb7e7b",
+      "started_at": "2026-11-18T03:46:12Z",
+      "upload_account": "serialy",
+      "source_id": -64097612784715159,
+      "source_url": "https://prehraj.to/absolutely-fabulous-s05e05-birthin/5910eb750a7dc",
+      "size_bytes": 365901509,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1329766,5 +1329782,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T03:37:11Z"
+  "last_updated": "2026-11-18T03:46:12Z"
 }
