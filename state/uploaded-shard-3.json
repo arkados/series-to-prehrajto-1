@@ -912794,6 +912794,32 @@
         "download_sec": 401.0,
         "upload_sec": 32.1
       }
+    },
+    {
+      "episode_id": 49431,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 13,
+      "episode_code": "S04E13",
+      "display_name": "Tři kluci a nemluvně S04E13 - Hra o byt CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -46904847038090466,
+      "external_id": "587a46453f93b",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x13-hra-o-byt-dvb-t-cz/587a46453f93b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31159696,
+      "size_bytes": 333507664,
+      "uploaded_at": "2026-11-18T20:51:41Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.8,
+        "upload_sec": 30.2
+      }
     }
   ],
   "pending_uploads": [
@@ -913900,22 +913926,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49431,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 4,
-      "episode": 13,
-      "display_name": "Tři kluci a nemluvně S04E13 - Hra o byt CZ Dabing",
-      "intent_id": "5c4e1e64f43a418492a5c33c2afc2126",
-      "started_at": "2026-11-18T20:50:12Z",
-      "upload_account": "serialy",
-      "source_id": -46904847038090466,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x13-hra-o-byt-dvb-t-cz/587a46453f93b",
-      "size_bytes": 333507664,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331940,5 +1331950,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T20:50:12Z"
+  "last_updated": "2026-11-18T20:51:41Z"
 }
