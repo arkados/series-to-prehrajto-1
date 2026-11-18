@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108733,
-    "manifest_upload_ready_episodes": 5,
-    "uploaded_episodes": 82949,
-    "prepared_source_episodes": 67935,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82954,
+    "prepared_source_episodes": 67931,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 44,
-    "language_whisper_attempted_sources": 44,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53500,
     "whisper_review_pending_sources": 36198,
@@ -21,26 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T13:49:39Z",
-      "databaseId": 44317680370,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-18T13:48:59Z",
-      "databaseId": 44317566817,
+      "createdAt": "2026-11-18T13:56:21Z",
+      "databaseId": 44318848046,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T13:55:59Z",
+      "databaseId": 44318782344,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T13:53:53Z",
+      "databaseId": 44318417884,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T13:51:06Z",
+      "databaseId": 44317933237,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T13:50:44Z",
+      "databaseId": 44317871951,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T13:49:39Z",
+      "databaseId": 44317680370,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T13:48:59Z",
+      "databaseId": 44317566817,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T13:48:54Z",
       "databaseId": 44317549255,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -60,11 +100,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T13:46:43Z",
       "databaseId": 44317176403,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T13:41:15Z",
-      "databaseId": 44316234621,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:39:37Z",
-      "databaseId": 44315954862,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:39:32Z",
-      "databaseId": 44315939665,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:39:28Z",
-      "databaseId": 44315929459,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T13:37:58Z",
-      "databaseId": 44315681902,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -203737,6 +203737,21 @@
         "video_id": 31152528
       },
       {
+        "episode_id": 116944,
+        "display_name": "Avengers - Sjednocení S02E19 - Nováček CZ Dabing",
+        "video_id": 31152632
+      },
+      {
+        "episode_id": 130277,
+        "display_name": "Queer as Folk S04E04 - 4. epizoda CZ Titulky",
+        "video_id": 31152659
+      },
+      {
+        "episode_id": 116972,
+        "display_name": "Avengers - Sjednocení S02E22 - Přísaha CZ Dabing",
+        "video_id": 31152690
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -389155,6 +389170,16 @@
         "episode_id": 120582,
         "display_name": "Crazy Ex-Girlfriend S03E13 - 13. epizoda CZ Titulky",
         "video_id": 31152516
+      },
+      {
+        "episode_id": 116978,
+        "display_name": "Avengers - Sjednocení S02E20 - Nebezpečná rychlost CZ Dabing",
+        "video_id": 31152625
+      },
+      {
+        "episode_id": 126763,
+        "display_name": "Nutné k přežití S04E08 - 8. epizoda CZ Dabing",
+        "video_id": 31152641
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -592609,6 +592634,21 @@
         "video_id": 31152528
       },
       {
+        "episode_id": 116944,
+        "display_name": "Avengers - Sjednocení S02E19 - Nováček CZ Dabing",
+        "video_id": 31152632
+      },
+      {
+        "episode_id": 130277,
+        "display_name": "Queer as Folk S04E04 - 4. epizoda CZ Titulky",
+        "video_id": 31152659
+      },
+      {
+        "episode_id": 116972,
+        "display_name": "Avengers - Sjednocení S02E22 - Přísaha CZ Dabing",
+        "video_id": 31152690
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -778027,6 +778067,16 @@
         "episode_id": 120582,
         "display_name": "Crazy Ex-Girlfriend S03E13 - 13. epizoda CZ Titulky",
         "video_id": 31152516
+      },
+      {
+        "episode_id": 116978,
+        "display_name": "Avengers - Sjednocení S02E20 - Nebezpečná rychlost CZ Dabing",
+        "video_id": 31152625
+      },
+      {
+        "episode_id": 126763,
+        "display_name": "Nutné k přežití S04E08 - 8. epizoda CZ Dabing",
+        "video_id": 31152641
       }
     ],
     "prepared_not_upload_ready": [
@@ -779188,7 +779238,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 43,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
