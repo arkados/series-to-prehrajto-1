@@ -912210,6 +912210,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49375,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 4,
+      "display_name": "Tři kluci a nemluvně S02E04 - Ženské na odstřel CZ Dabing",
+      "intent_id": "14c5734cc06c4a0cba63253025cc548d",
+      "started_at": "2026-11-18T08:38:22Z",
+      "upload_account": "serialy",
+      "source_id": -43218468090943997,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e04-czdab/578c116398aec",
+      "size_bytes": 347992654,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330234,5 +1330250,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T08:35:20Z"
+  "last_updated": "2026-11-18T08:38:22Z"
 }
