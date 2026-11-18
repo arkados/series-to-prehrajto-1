@@ -915335,6 +915335,58 @@
         "download_sec": 185.6,
         "upload_sec": 35.0
       }
+    },
+    {
+      "episode_id": 127561,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 18,
+      "episode_code": "S01E18",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E18 - 18. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -40962205831983669,
+      "external_id": "af37a7997cb8ab49",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e18-sa-assassination-duet-lost-heritage-ja/af37a7997cb8ab49",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162007,
+      "size_bytes": 326806885,
+      "uploaded_at": "2026-11-18T22:49:50Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.1,
+        "upload_sec": 32.2
+      }
+    },
+    {
+      "episode_id": 109721,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 3,
+      "episode_code": "S07E03",
+      "display_name": "Dynastie S07E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -71387108185483815,
+      "external_id": "595367102aabf",
+      "source_url": "https://prehraj.to/dynasty-s07e03/595367102aabf",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162050,
+      "size_bytes": 366940161,
+      "uploaded_at": "2026-11-18T22:51:31Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.1,
+        "upload_sec": 29.7
+      }
     }
   ],
   "pending_uploads": [
@@ -916455,6 +916507,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49388,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 5,
+      "episode": 1,
+      "display_name": "Tři kluci a nemluvně S05E01 - Láska a kočár CZ Titulky",
+      "intent_id": "2738d781aaf541a7b0a546adcb80363f",
+      "started_at": "2026-11-18T22:54:38Z",
+      "upload_account": "primary",
+      "source_id": -70847345430103181,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s05e01-love-and-carriage/5aafaa345070b",
+      "size_bytes": 318504646,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1334481,5 +1334549,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:37:22Z"
+  "last_updated": "2026-11-18T22:54:38Z"
 }
