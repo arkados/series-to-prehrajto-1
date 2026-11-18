@@ -912846,6 +912846,32 @@
         "download_sec": 19.5,
         "upload_sec": 37.5
       }
+    },
+    {
+      "episode_id": 109715,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 10,
+      "episode_code": "S06E10",
+      "display_name": "Dynastie S06E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -69933959956515750,
+      "external_id": "595364712cdbd",
+      "source_url": "https://prehraj.to/dynasty-s06e10/595364712cdbd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31160692,
+      "size_bytes": 365713411,
+      "uploaded_at": "2026-11-18T21:36:49Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 779.0,
+        "upload_sec": 38.7
+      }
     }
   ],
   "pending_uploads": [
@@ -913952,6 +913978,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127546,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E02 - 2. epizoda CZ Titulky",
+      "intent_id": "7d20a603eef34713818fdca00f19b543",
+      "started_at": "2026-11-18T21:40:59Z",
+      "upload_account": "serialy",
+      "source_id": -22176791908511432,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e2-sa-proof-of-recklessness-testation-ja/6e9ef52a29c1505c",
+      "size_bytes": 477294632,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331976,5 +1332018,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T21:24:47Z"
+  "last_updated": "2026-11-18T21:40:59Z"
 }
