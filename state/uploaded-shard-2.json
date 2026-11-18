@@ -912014,6 +912014,32 @@
         "download_sec": 20.2,
         "upload_sec": 40.1
       }
+    },
+    {
+      "episode_id": 127638,
+      "series_id": 3541,
+      "series_title": "Bull",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Bull S01E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -65758432961128492,
+      "external_id": "581659ee85bcb",
+      "source_url": "https://prehraj.to/bull-s01e05-cztit-v-obraze/581659ee85bcb",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31151558,
+      "size_bytes": 343072186,
+      "uploaded_at": "2026-11-18T12:50:48Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 22.4,
+        "upload_sec": 49.0
+      }
     }
   ],
   "pending_uploads": [
@@ -913122,19 +913148,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 127638,
-      "series_id": 3541,
-      "series_title": "Bull",
+      "episode_id": 116967,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
       "season": 1,
-      "episode": 5,
-      "display_name": "Bull S01E05 - 5. epizoda CZ Titulky",
-      "intent_id": "88166ec57b8249d29615a483889fc4f9",
-      "started_at": "2026-11-18T12:49:22Z",
+      "episode": 11,
+      "display_name": "Avengers - Sjednocení S01E11 - V Hulkově kůži CZ Titulky",
+      "intent_id": "8fa803701ae84b7ba5e35e9f6a158ca4",
+      "started_at": "2026-11-18T12:49:05Z",
       "upload_account": "serialy",
-      "source_id": -65758432961128492,
-      "source_url": "https://prehraj.to/bull-s01e05-cztit-v-obraze/581659ee85bcb",
-      "size_bytes": 343072186,
-      "source_container": "avi",
+      "source_id": -9031265363563777,
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s1e11-hulked-out-heroes-en/d2d8cb5432512d60",
+      "size_bytes": 327929417,
+      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1331160,5 +1331186,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:49:22Z"
+  "last_updated": "2026-11-18T12:50:48Z"
 }
