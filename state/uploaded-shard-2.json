@@ -910766,6 +910766,58 @@
         "download_sec": 13.8,
         "upload_sec": 31.4
       }
+    },
+    {
+      "episode_id": 89439,
+      "series_id": 2117,
+      "series_title": "Doktor Martin",
+      "season": 9,
+      "episode": 7,
+      "episode_code": "S09E07",
+      "display_name": "Doktor Martin S09E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -9980043971767931,
+      "external_id": "80695c2ec234e91d",
+      "source_url": "https://prehraj.to/doktor-martin-09x07-divci-problemy/80695c2ec234e91d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31140456,
+      "size_bytes": 364140954,
+      "uploaded_at": "2026-11-18T04:40:39Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.3,
+        "upload_sec": 42.6
+      }
+    },
+    {
+      "episode_id": 96375,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "Dynastie S03E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -51360378414874427,
+      "external_id": "5f1cc08331b9a",
+      "source_url": "https://prehraj.to/dynasty-s03e03-2017-cztit-v-obraze/5f1cc08331b9a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31140505,
+      "size_bytes": 344035352,
+      "uploaded_at": "2026-11-18T04:42:24Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 14.7,
+        "upload_sec": 29.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1329896,5 +1329948,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T04:22:16Z"
+  "last_updated": "2026-11-18T04:42:24Z"
 }
