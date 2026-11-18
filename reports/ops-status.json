@@ -2,18 +2,18 @@
   "counts": {
     "backlog_episodes": 108788,
     "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82872,
-    "prepared_source_episodes": 67925,
+    "uploaded_episodes": 82874,
+    "prepared_source_episodes": 67917,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 55,
-    "language_whisper_attempted_sources": 50,
+    "language_audited_sources": 59,
+    "language_whisper_attempted_sources": 49,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53541,
-    "whisper_review_pending_sources": 36336,
+    "whisper_review_sources": 53537,
+    "whisper_review_pending_sources": 36324,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52226,
     "subtitle_followup_pending_sources": 52226
@@ -21,18 +21,106 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T07:22:56Z",
-      "databaseId": 44258429551,
+      "createdAt": "2026-11-18T07:35:47Z",
+      "databaseId": 44260116423,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T07:35:03Z",
+      "databaseId": 44260016872,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T07:34:16Z",
+      "databaseId": 44259910459,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T07:33:01Z",
+      "databaseId": 44259748079,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T07:31:31Z",
+      "databaseId": 44259553180,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T07:31:30Z",
+      "databaseId": 44259552112,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T07:31:20Z",
+      "databaseId": 44259531009,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T07:27:00Z",
+      "databaseId": 44258965110,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-18T07:26:53Z",
+      "databaseId": 44258949548,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T07:24:07Z",
+      "databaseId": 44258583102,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T07:24:04Z",
+      "databaseId": 44258576008,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T07:22:56Z",
+      "databaseId": 44258429551,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-18T07:22:46Z",
       "databaseId": 44258407940,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -44,19 +132,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T07:19:53Z",
       "databaseId": 44258025694,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T07:19:24Z",
       "databaseId": 44257963448,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -68,11 +156,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T07:17:30Z",
       "databaseId": 44257719640,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -90,94 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T07:10:20Z",
-      "databaseId": 44256794676,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T07:10:15Z",
-      "databaseId": 44256784660,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-18T07:10:12Z",
-      "databaseId": 44256776799,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T07:09:15Z",
-      "databaseId": 44256653904,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T07:09:07Z",
-      "databaseId": 44256637913,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T07:08:58Z",
-      "databaseId": 44256618771,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T07:06:06Z",
-      "databaseId": 44256256171,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T07:06:03Z",
-      "databaseId": 44256249581,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T07:04:47Z",
-      "databaseId": 44256078800,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T07:04:36Z",
-      "databaseId": 44256055967,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T07:01:40Z",
-      "databaseId": 44255687221,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -203582,6 +203582,11 @@
         "video_id": 31143404
       },
       {
+        "episode_id": 49368,
+        "display_name": "Tři kluci a nemluvně S01E06 - Dostaň ji ze hry CZ Dabing",
+        "video_id": 31144105
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -388770,6 +388775,11 @@
         "episode_id": 49366,
         "display_name": "Tři kluci a nemluvně S01E04 - Neruším, pánové? CZ Dabing",
         "video_id": 31143855
+      },
+      {
+        "episode_id": 49371,
+        "display_name": "Tři kluci a nemluvně S01E07 - Sokové v lásce CZ Dabing",
+        "video_id": 31144175
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -592069,6 +592079,11 @@
         "video_id": 31143404
       },
       {
+        "episode_id": 49368,
+        "display_name": "Tři kluci a nemluvně S01E06 - Dostaň ji ze hry CZ Dabing",
+        "video_id": 31144105
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -777257,6 +777272,11 @@
         "episode_id": 49366,
         "display_name": "Tři kluci a nemluvně S01E04 - Neruším, pánové? CZ Dabing",
         "video_id": 31143855
+      },
+      {
+        "episode_id": 49371,
+        "display_name": "Tři kluci a nemluvně S01E07 - Sokové v lásce CZ Dabing",
+        "video_id": 31144175
       }
     ],
     "prepared_not_upload_ready": [
@@ -778418,16 +778438,16 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 5,
     "ok": 47,
-    "sample_failed": 2,
+    "disabled": 10,
+    "stream_undersized": 1,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35104,
-    "whisper_confirmed_cz": 3911,
-    "whisper_non_cz_needs_subtitles": 13294,
-    "whisper_failed": 1232
+    "needs_whisper": 35091,
+    "whisper_confirmed_cz": 3917,
+    "whisper_non_cz_needs_subtitles": 13296,
+    "whisper_failed": 1233
   },
   "subtitle_followup_statuses": {
     "needs_subtitle_setup_after_prehrajto_processing": 52226
