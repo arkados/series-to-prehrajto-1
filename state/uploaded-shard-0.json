@@ -913541,6 +913541,32 @@
         "download_sec": 23.6,
         "upload_sec": 67.2
       }
+    },
+    {
+      "episode_id": 204089,
+      "series_id": 4086,
+      "series_title": "Pozlacený věk",
+      "season": 4,
+      "episode": 2,
+      "episode_code": "S04E02",
+      "display_name": "Pozlacený věk S04E02 - 2. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -40168287449096256,
+      "external_id": "5b356562b7290a0c",
+      "source_url": "https://prehraj.to/pozlaceny-vek-s04e02-cz-dabing-1080p-full-hd/5b356562b7290a0c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31142510,
+      "size_bytes": 409200058,
+      "uploaded_at": "2026-11-18T06:13:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.4,
+        "upload_sec": 88.4
+      }
     }
   ],
   "pending_uploads": [
@@ -914665,18 +914691,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 204089,
-      "series_id": 4086,
-      "series_title": "Pozlacený věk",
-      "season": 4,
-      "episode": 2,
-      "display_name": "Pozlacený věk S04E02 - 2. epizoda CZ Dabing",
-      "intent_id": "94ab9ff84a0c4743b38ae0197a3414b6",
-      "started_at": "2026-11-18T06:10:53Z",
+      "episode_id": 148652,
+      "series_id": 4962,
+      "series_title": "Gumy, kam se podíváš",
+      "season": 2,
+      "episode": 10,
+      "display_name": "Gumy, kam se podíváš S02E10 - 10. epizoda CZ Titulky",
+      "intent_id": "4f4f6f5e844547328fa4a846b780d8c5",
+      "started_at": "2026-11-18T06:40:16Z",
       "upload_account": "primary",
-      "source_id": -40168287449096256,
-      "source_url": "https://prehraj.to/pozlaceny-vek-s04e02-cz-dabing-1080p-full-hd/5b356562b7290a0c",
-      "size_bytes": 409200058,
+      "source_id": -32445121638628587,
+      "source_url": "https://prehraj.to/gumy-kam-se-podivas-s2e10-vlastenci-a-zradci-en/f4cee9c7820d5991",
+      "size_bytes": 342943591,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1332703,5 +1332729,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T06:12:56Z"
+  "last_updated": "2026-11-18T06:40:16Z"
 }
