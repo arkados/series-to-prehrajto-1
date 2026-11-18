@@ -913671,6 +913671,32 @@
         "download_sec": 18.8,
         "upload_sec": 39.2
       }
+    },
+    {
+      "episode_id": 49368,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Tři kluci a nemluvně S01E06 - Dostaň ji ze hry CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -61449842388012317,
+      "external_id": "578bf30854171",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e06-czdab/578bf30854171",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31144105,
+      "size_bytes": 349291182,
+      "uploaded_at": "2026-11-18T07:25:31Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.8,
+        "upload_sec": 39.9
+      }
     }
   ],
   "pending_uploads": [
@@ -914792,22 +914818,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49368,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Tři kluci a nemluvně S01E06 - Dostaň ji ze hry CZ Dabing",
-      "intent_id": "aaefdd92c063489582a52e4a2582c205",
-      "started_at": "2026-11-18T07:23:53Z",
-      "upload_account": "primary",
-      "source_id": -61449842388012317,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e06-czdab/578bf30854171",
-      "size_bytes": 349291182,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332833,5 +1332843,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T07:23:53Z"
+  "last_updated": "2026-11-18T07:25:31Z"
 }
