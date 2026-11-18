@@ -915075,6 +915075,32 @@
         "download_sec": 588.8,
         "upload_sec": 30.5
       }
+    },
+    {
+      "episode_id": 183889,
+      "series_id": 9680,
+      "series_title": "Strážci vesmíru",
+      "season": 11,
+      "episode": 38,
+      "episode_code": "S11E38",
+      "display_name": "Strážci vesmíru S11E38 - 38. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -40899965968172883,
+      "external_id": "65173139c68ae",
+      "source_url": "https://prehraj.to/power-rangers-s11e38-storm-before-the-calm-2-480p-x265-edge2020/65173139c68ae",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31160272,
+      "size_bytes": 320545781,
+      "uploaded_at": "2026-11-18T21:19:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 413.0,
+        "upload_sec": 26.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1334221,5 +1334247,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T21:09:38Z"
+  "last_updated": "2026-11-18T21:19:52Z"
 }
