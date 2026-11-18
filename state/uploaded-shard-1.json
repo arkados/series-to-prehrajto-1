@@ -915465,6 +915465,32 @@
         "download_sec": 14.6,
         "upload_sec": 26.3
       }
+    },
+    {
+      "episode_id": 109725,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 16,
+      "episode_code": "S07E16",
+      "display_name": "Dynastie S07E16 - 16. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -66211016367774851,
+      "external_id": "5953681b74bcd",
+      "source_url": "https://prehraj.to/dynasty-s07e16/5953681b74bcd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162827,
+      "size_bytes": 366944260,
+      "uploaded_at": "2026-11-18T23:22:19Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 24.8,
+        "upload_sec": 31.0
+      }
     }
   ],
   "pending_uploads": [
@@ -916586,22 +916612,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109725,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 7,
-      "episode": 16,
-      "display_name": "Dynastie S07E16 - 16. epizoda CZ Titulky",
-      "intent_id": "83592a9803d54a4e83e1b25ee31f17f9",
-      "started_at": "2026-11-18T23:20:48Z",
-      "upload_account": "primary",
-      "source_id": -66211016367774851,
-      "source_url": "https://prehraj.to/dynasty-s07e16/5953681b74bcd",
-      "size_bytes": 366944260,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334627,5 +1334637,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:20:48Z"
+  "last_updated": "2026-11-18T23:22:19Z"
 }
