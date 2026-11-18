@@ -914555,6 +914555,32 @@
         "download_sec": 16.9,
         "upload_sec": 43.9
       }
+    },
+    {
+      "episode_id": 130280,
+      "series_id": 3697,
+      "series_title": "Queer as Folk",
+      "season": 4,
+      "episode": 8,
+      "episode_code": "S04E08",
+      "display_name": "Queer as Folk S04E08 - 8. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -23295294453058276,
+      "external_id": "57d6b133454d9",
+      "source_url": "https://prehraj.to/queer-as-folk-s04e08-cztit/57d6b133454d9",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31154344,
+      "size_bytes": 317681896,
+      "uploaded_at": "2026-11-18T15:26:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 57.7,
+        "upload_sec": 39.7
+      }
     }
   ],
   "pending_uploads": [
@@ -915675,22 +915701,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 130280,
-      "series_id": 3697,
-      "series_title": "Queer as Folk",
-      "season": 4,
-      "episode": 8,
-      "display_name": "Queer as Folk S04E08 - 8. epizoda CZ Titulky",
-      "intent_id": "428a6ea3257948968ae1c69b0754d304",
-      "started_at": "2026-11-18T15:25:12Z",
-      "upload_account": "primary",
-      "source_id": -23295294453058276,
-      "source_url": "https://prehraj.to/queer-as-folk-s04e08-cztit/57d6b133454d9",
-      "size_bytes": 317681896,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1333717,5 +1333727,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T15:25:12Z"
+  "last_updated": "2026-11-18T15:26:26Z"
 }
