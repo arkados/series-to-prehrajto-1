@@ -914165,6 +914165,32 @@
         "download_sec": 14.3,
         "upload_sec": 73.4
       }
+    },
+    {
+      "episode_id": 157813,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Strong Woman Do Bong Soon S01E10 - 10. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -31326651907479213,
+      "external_id": "c51e34c5242d6a67",
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e10-find-a-hidden-heart-ko/c51e34c5242d6a67",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31149745,
+      "size_bytes": 664562710,
+      "uploaded_at": "2026-11-18T11:20:29Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.5,
+        "upload_sec": 111.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915286,6 +915312,38 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 83901,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 13,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E13 - Bitva u dvou mostů CZ Titulky",
+      "intent_id": "3e2cb1c152cb45f3979439dfc377c023",
+      "started_at": "2026-11-18T11:36:58Z",
+      "upload_account": "primary",
+      "source_id": -37864511906231573,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e13-the-battle-of-two-bridges-en/6d87be4806de55f9",
+      "size_bytes": 403058099,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49408,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 10,
+      "display_name": "Tři kluci a nemluvně S03E10 - Zapomenutá láska CZ Dabing",
+      "intent_id": "52d14be4d48143b0877c5ed138258ccc",
+      "started_at": "2026-11-18T11:37:05Z",
+      "upload_account": "primary",
+      "source_id": -34252347892287865,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x10-zapomenuta-laska-dvb-t-cz/587a4558368f5",
+      "size_bytes": 336351328,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333311,5 +1333369,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:14:12Z"
+  "last_updated": "2026-11-18T11:38:05Z"
 }
