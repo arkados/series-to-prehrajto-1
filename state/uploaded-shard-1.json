@@ -914425,6 +914425,32 @@
         "download_sec": 22.5,
         "upload_sec": 47.9
       }
+    },
+    {
+      "episode_id": 99592,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "She-Ra a princezny moci S02E07 - Reunion CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -13805382572367,
+      "external_id": "6f837f1cac297023",
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e7-reunion-en/6f837f1cac297023",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31151572,
+      "size_bytes": 379552599,
+      "uploaded_at": "2026-11-18T12:52:05Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 47.6,
+        "upload_sec": 65.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1333571,5 +1333597,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:43:52Z"
+  "last_updated": "2026-11-18T13:00:29Z"
 }
