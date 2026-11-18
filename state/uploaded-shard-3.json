@@ -910844,6 +910844,32 @@
         "download_sec": 36.2,
         "upload_sec": 120.9
       }
+    },
+    {
+      "episode_id": 157814,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Strong Woman Do Bong Soon S01E11 - 11. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -56869308235433102,
+      "external_id": "36a717fb97d2c119",
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e11-timing-ko/36a717fb97d2c119",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31141063,
+      "size_bytes": 704448741,
+      "uploaded_at": "2026-11-18T05:04:00Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.7,
+        "upload_sec": 81.6
+      }
     }
   ],
   "pending_uploads": [
@@ -911950,6 +911976,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 116963,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 13,
+      "display_name": "Avengers - Sjednocení S02E13 - Thanos nepřemožitelný CZ Titulky",
+      "intent_id": "95b6c382a7df4f62bf72e0bc6377e1c9",
+      "started_at": "2026-11-18T05:09:57Z",
+      "upload_account": "serialy",
+      "source_id": -45323307109616594,
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e13-thanos-nepremozitelny-cs/2ca7fb7cf70ad77f",
+      "size_bytes": 328088850,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329974,5 +1330016,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T04:49:37Z"
+  "last_updated": "2026-11-18T05:09:57Z"
 }
