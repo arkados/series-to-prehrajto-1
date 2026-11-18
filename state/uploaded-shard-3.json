@@ -912690,6 +912690,32 @@
         "download_sec": 641.1,
         "upload_sec": 38.3
       }
+    },
+    {
+      "episode_id": 99590,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "She-Ra a princezny moci S02E06 - Light Spinner CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -56844739588597962,
+      "external_id": "85651da728bbf155",
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e6-light-spinner-en/85651da728bbf155",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158916,
+      "size_bytes": 353804294,
+      "uploaded_at": "2026-11-18T20:01:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 689.7,
+        "upload_sec": 35.2
+      }
     }
   ],
   "pending_uploads": [
@@ -913796,6 +913822,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49427,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 9,
+      "display_name": "Tři kluci a nemluvně S04E09 - Důstojnice a něžný Ben CZ Dabing",
+      "intent_id": "edf7e2a3902d4e98a53f835e16d4e8af",
+      "started_at": "2026-11-18T20:06:53Z",
+      "upload_account": "serialy",
+      "source_id": -64080945414631736,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e09-22-2014-cz-dab-an-officer-and-a-gentle-ben/66092987d9a50",
+      "size_bytes": 337111122,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331820,5 +1331862,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T19:45:21Z"
+  "last_updated": "2026-11-18T20:06:56Z"
 }
