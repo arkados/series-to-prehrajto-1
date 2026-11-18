@@ -911390,6 +911390,58 @@
         "download_sec": 29.5,
         "upload_sec": 98.2
       }
+    },
+    {
+      "episode_id": 49374,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Tři kluci a nemluvně S02E02 - Za vším hledej Fitche CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -25402826681089070,
+      "external_id": "578c0fe11a979",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e02-czdab/578c0fe11a979",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31147621,
+      "size_bytes": 348660384,
+      "uploaded_at": "2026-11-18T10:04:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 12.8,
+        "upload_sec": 40.4
+      }
+    },
+    {
+      "episode_id": 83899,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E11 - Recept na pohromu CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -17177008107707684,
+      "external_id": "73b4a12bc30b5243",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e11-recipe-for-disaster-en/73b4a12bc30b5243",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31147638,
+      "size_bytes": 411604087,
+      "uploaded_at": "2026-11-18T10:05:08Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 17.2,
+        "upload_sec": 33.1
+      }
     }
   ],
   "pending_uploads": [
@@ -912498,34 +912550,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 49374,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Tři kluci a nemluvně S02E02 - Za vším hledej Fitche CZ Dabing",
-      "intent_id": "976a4fb6999c481d81d558a6397ae740",
-      "started_at": "2026-11-18T10:03:11Z",
-      "upload_account": "serialy",
-      "source_id": -25402826681089070,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e02-czdab/578c0fe11a979",
-      "size_bytes": 348660384,
-      "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 83899,
+      "episode_id": 83898,
       "series_id": 1968,
       "series_title": "Lovci trolů od Guillerma Del Toro",
       "season": 1,
-      "episode": 11,
-      "display_name": "Lovci trolů od Guillerma Del Toro S01E11 - Recept na pohromu CZ Titulky",
-      "intent_id": "7c8f92b1403c4763847eacf576d0bec9",
-      "started_at": "2026-11-18T10:03:14Z",
+      "episode": 10,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E10 - Mladý Atlas CZ Titulky",
+      "intent_id": "0044c763997441658c3424c618beabb6",
+      "started_at": "2026-11-18T10:05:41Z",
       "upload_account": "serialy",
-      "source_id": -17177008107707684,
-      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e11-recipe-for-disaster-en/73b4a12bc30b5243",
-      "size_bytes": 411604087,
+      "source_id": -45763387489100977,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e10-young-atlas-en/255d7a67dabc6f4f",
+      "size_bytes": 454704423,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1330552,5 +1330588,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T10:03:14Z"
+  "last_updated": "2026-11-18T10:05:41Z"
 }
