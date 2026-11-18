@@ -913827,6 +913827,32 @@
         "download_sec": 20.2,
         "upload_sec": 151.2
       }
+    },
+    {
+      "episode_id": 49376,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Tři kluci a nemluvně S02E05 - Depka CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -12682988111395776,
+      "external_id": "578c122fbf097",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e05-czdab/578c122fbf097",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145396,
+      "size_bytes": 348003528,
+      "uploaded_at": "2026-11-18T08:39:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.4,
+        "upload_sec": 43.7
+      }
     }
   ],
   "pending_uploads": [
@@ -914948,6 +914974,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49377,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 6,
+      "display_name": "Tři kluci a nemluvně S02E06 - Emma jde do jeslí CZ Dabing",
+      "intent_id": "6c2a84fc94964fb99bfe4eed8ba2c626",
+      "started_at": "2026-11-18T09:01:44Z",
+      "upload_account": "primary",
+      "source_id": -27624278159544441,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e06-czdab/578c133319c72",
+      "size_bytes": 348304414,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332973,5 +1333015,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T08:35:20Z"
+  "last_updated": "2026-11-18T09:01:44Z"
 }
