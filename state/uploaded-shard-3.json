@@ -910792,6 +910792,32 @@
         "download_sec": 13.3,
         "upload_sec": 42.6
       }
+    },
+    {
+      "episode_id": 96375,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "Dynastie S03E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -51360378414874427,
+      "external_id": "5f1cc08331b9a",
+      "source_url": "https://prehraj.to/dynasty-s03e03-2017-cztit-v-obraze/5f1cc08331b9a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31140505,
+      "size_bytes": 344035352,
+      "uploaded_at": "2026-11-18T04:42:24Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 14.7,
+        "upload_sec": 29.8
+      }
     }
   ],
   "pending_uploads": [
@@ -911898,22 +911924,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 96375,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 3,
-      "episode": 3,
-      "display_name": "Dynastie S03E03 - 3. epizoda CZ Titulky",
-      "intent_id": "40045c1fceec4c4984e84b85fcbaf23c",
-      "started_at": "2026-11-18T04:41:23Z",
-      "upload_account": "serialy",
-      "source_id": -51360378414874427,
-      "source_url": "https://prehraj.to/dynasty-s03e03-2017-cztit-v-obraze/5f1cc08331b9a",
-      "size_bytes": 344035352,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329938,5 +1329948,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T04:41:23Z"
+  "last_updated": "2026-11-18T04:42:24Z"
 }
