@@ -915101,6 +915101,32 @@
         "download_sec": 413.0,
         "upload_sec": 26.3
       }
+    },
+    {
+      "episode_id": 109769,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 1,
+      "episode_code": "S06E01",
+      "display_name": "Dynastie S06E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -68376427733935939,
+      "external_id": "59539c1477e6e",
+      "source_url": "https://prehraj.to/dynasty-s06e01-dvdrip-xvid-ingot/59539c1477e6e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31160992,
+      "size_bytes": 365551616,
+      "uploaded_at": "2026-11-18T21:51:57Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 312.3,
+        "upload_sec": 27.8
+      }
     }
   ],
   "pending_uploads": [
@@ -916222,22 +916248,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109769,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 6,
-      "episode": 1,
-      "display_name": "Dynastie S06E01 - 1. epizoda CZ Titulky",
-      "intent_id": "ddf3ab70a1e545b69b382416a90732e8",
-      "started_at": "2026-11-18T21:50:57Z",
-      "upload_account": "primary",
-      "source_id": -68376427733935939,
-      "source_url": "https://prehraj.to/dynasty-s06e01-dvdrip-xvid-ingot/59539c1477e6e",
-      "size_bytes": 365551616,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334263,5 +1334273,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T21:50:57Z"
+  "last_updated": "2026-11-18T21:51:57Z"
 }
