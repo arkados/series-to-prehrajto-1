@@ -915179,6 +915179,32 @@
         "download_sec": 545.6,
         "upload_sec": 35.2
       }
+    },
+    {
+      "episode_id": 109716,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 9,
+      "episode_code": "S06E09",
+      "display_name": "Dynastie S06E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -49882577326445862,
+      "external_id": "59536471a5420",
+      "source_url": "https://prehraj.to/dynasty-s06e09/59536471a5420",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161231,
+      "size_bytes": 365471752,
+      "uploaded_at": "2026-11-18T22:08:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 619.0,
+        "upload_sec": 35.9
+      }
     }
   ],
   "pending_uploads": [
@@ -916300,22 +916326,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109716,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 6,
-      "episode": 9,
-      "display_name": "Dynastie S06E09 - 9. epizoda CZ Titulky",
-      "intent_id": "1143e5963d2d4dfc9c324ebee8a8877c",
-      "started_at": "2026-11-18T22:06:49Z",
-      "upload_account": "primary",
-      "source_id": -49882577326445862,
-      "source_url": "https://prehraj.to/dynasty-s06e09/59536471a5420",
-      "size_bytes": 365471752,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334341,5 +1334351,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:06:49Z"
+  "last_updated": "2026-11-18T22:08:01Z"
 }
