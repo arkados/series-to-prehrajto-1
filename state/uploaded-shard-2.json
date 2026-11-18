@@ -911104,6 +911104,84 @@
         "download_sec": 21.9,
         "upload_sec": 217.0
       }
+    },
+    {
+      "episode_id": 49375,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 4,
+      "episode_code": "S02E04",
+      "display_name": "Tři kluci a nemluvně S02E04 - Ženské na odstřel CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -43218468090943997,
+      "external_id": "578c116398aec",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e04-czdab/578c116398aec",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145386,
+      "size_bytes": 347992654,
+      "uploaded_at": "2026-11-18T08:39:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.7,
+        "upload_sec": 44.7
+      }
+    },
+    {
+      "episode_id": 116947,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 11,
+      "episode_code": "S02E11",
+      "display_name": "Avengers - Sjednocení S02E11 - Bez proudu CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58578387446997681,
+      "external_id": "5aa29e0ae84ec",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e11-bez-proudu/5aa29e0ae84ec",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145442,
+      "size_bytes": 327929831,
+      "uploaded_at": "2026-11-18T08:41:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.9,
+        "upload_sec": 33.8
+      }
+    },
+    {
+      "episode_id": 109739,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 16,
+      "episode_code": "S08E16",
+      "display_name": "Dynastie S08E16 - 16. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -12071744772160649,
+      "external_id": "59536c61563e2",
+      "source_url": "https://prehraj.to/dynasty-s08e16/59536c61563e2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145492,
+      "size_bytes": 365795332,
+      "uploaded_at": "2026-11-18T08:44:06Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.2,
+        "upload_sec": 65.4
+      }
     }
   ],
   "pending_uploads": [
@@ -912212,18 +912290,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 49375,
+      "episode_id": 49382,
       "series_id": 1144,
       "series_title": "Tři kluci a nemluvně",
       "season": 2,
-      "episode": 4,
-      "display_name": "Tři kluci a nemluvně S02E04 - Ženské na odstřel CZ Dabing",
-      "intent_id": "14c5734cc06c4a0cba63253025cc548d",
-      "started_at": "2026-11-18T08:38:22Z",
+      "episode": 10,
+      "display_name": "Tři kluci a nemluvně S02E10 - Testy CZ Dabing",
+      "intent_id": "6b8ebfff2554444c87f445f5242421c5",
+      "started_at": "2026-11-18T09:01:50Z",
       "upload_account": "serialy",
-      "source_id": -43218468090943997,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e04-czdab/578c116398aec",
-      "size_bytes": 347992654,
+      "source_id": -36156069791355414,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e10-czdab/578c159fcf1ed",
+      "size_bytes": 347526636,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1330250,5 +1330328,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T08:38:23Z"
+  "last_updated": "2026-11-18T09:01:50Z"
 }
