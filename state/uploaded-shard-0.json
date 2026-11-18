@@ -914451,6 +914451,32 @@
         "download_sec": 47.6,
         "upload_sec": 65.4
       }
+    },
+    {
+      "episode_id": 120581,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 3,
+      "episode": 8,
+      "episode_code": "S03E08",
+      "display_name": "Crazy Ex-Girlfriend S03E08 - 8. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -2220943136818894,
+      "external_id": "6c54fe9d8d9b8d16",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s03e08-nathaniel-needs-my-help-en/6c54fe9d8d9b8d16",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31152528,
+      "size_bytes": 469955152,
+      "uploaded_at": "2026-11-18T13:46:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.0,
+        "upload_sec": 63.6
+      }
     }
   ],
   "pending_uploads": [
@@ -915571,6 +915597,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 116944,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 19,
+      "display_name": "Avengers - Sjednocení S02E19 - Nováček CZ Dabing",
+      "intent_id": "c7d1aa175a5349979e29ac768e871f11",
+      "started_at": "2026-11-18T13:50:11Z",
+      "upload_account": "primary",
+      "source_id": -58445157031825817,
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e19-the-new-guy/5aa06bafe17f0",
+      "size_bytes": 328603551,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1333597,5 +1333639,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T13:36:16Z"
+  "last_updated": "2026-11-18T13:50:11Z"
 }
