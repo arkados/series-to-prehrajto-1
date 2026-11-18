@@ -914243,6 +914243,32 @@
         "download_sec": 17.4,
         "upload_sec": 126.2
       }
+    },
+    {
+      "episode_id": 120572,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "Crazy Ex-Girlfriend S02E13 - 13. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -32895482140453233,
+      "external_id": "e545e517ae9e2219",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s02e13-can-josh-take-a-leap-of-faith-en/e545e517ae9e2219",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150334,
+      "size_bytes": 485212448,
+      "uploaded_at": "2026-11-18T11:50:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.7,
+        "upload_sec": 50.1
+      }
     }
   ],
   "pending_uploads": [
@@ -915363,6 +915389,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 99573,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 1,
+      "episode": 1,
+      "display_name": "She-Ra a princezny moci S01E01 - The Sword (1) CZ Titulky",
+      "intent_id": "0fea6164a02d481b93d24ad2994d8e59",
+      "started_at": "2026-11-18T11:55:14Z",
+      "upload_account": "primary",
+      "source_id": -46131474623468810,
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s1e1-the-sword-part-1-en/7075bd761ff78dd0",
+      "size_bytes": 711125275,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1333389,5 +1333431,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:46:07Z"
+  "last_updated": "2026-11-18T11:55:14Z"
 }
