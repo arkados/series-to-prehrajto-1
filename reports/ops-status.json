@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108808,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82837,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82838,
     "prepared_source_episodes": 67987,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 42,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53555,
     "whisper_review_pending_sources": 36374,
@@ -19,6 +19,38 @@
     "subtitle_followup_pending_sources": 52209
   },
   "workflow_runs": [
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T02:37:59Z",
+      "databaseId": 44224687716,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T02:36:36Z",
+      "databaseId": 44224520506,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-18T02:36:33Z",
+      "databaseId": 44224513881,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T02:36:13Z",
+      "databaseId": 44224474726,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
     {
       "conclusion": "",
       "createdAt": "2026-11-18T02:35:32Z",
@@ -36,11 +68,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T02:35:09Z",
       "databaseId": 44224342465,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -100,11 +132,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T02:31:04Z",
       "databaseId": 44223839291,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T02:26:11Z",
-      "databaseId": 44223229412,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T02:26:07Z",
-      "databaseId": 44223221308,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T02:26:04Z",
-      "databaseId": 44223215541,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T02:25:37Z",
-      "databaseId": 44223159047,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -388595,6 +388595,11 @@
         "episode_id": 96959,
         "display_name": "Naprosto dokonalé S01E05 - 5. epizoda CZ Dabing",
         "video_id": 31136856
+      },
+      {
+        "episode_id": 101431,
+        "display_name": "Milionový lékař S01E12 - 12. epizoda CZ Titulky",
+        "video_id": 31137517
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -776907,6 +776912,11 @@
         "episode_id": 96959,
         "display_name": "Naprosto dokonalé S01E05 - 5. epizoda CZ Dabing",
         "video_id": 31136856
+      },
+      {
+        "episode_id": 101431,
+        "display_name": "Milionový lékař S01E12 - 12. epizoda CZ Titulky",
+        "video_id": 31137517
       }
     ],
     "prepared_not_upload_ready": [
@@ -778068,10 +778078,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 1,
-    "ok": 10,
-    "stream_undersized": 1,
-    "resolve_failed": 31
+    "ok": 39,
+    "resolve_failed": 1
   },
   "whisper_review_statuses": {
     "needs_whisper": 35144,
