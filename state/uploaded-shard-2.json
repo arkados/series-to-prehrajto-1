@@ -911338,6 +911338,32 @@
         "download_sec": 15.2,
         "upload_sec": 62.2
       }
+    },
+    {
+      "episode_id": 49386,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 14,
+      "episode_code": "S02E14",
+      "display_name": "Tři kluci a nemluvně S02E14 - Společné hraní CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -27887827773652406,
+      "external_id": "578c18cc741c9",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e14-czdab/578c18cc741c9",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31146902,
+      "size_bytes": 348363198,
+      "uploaded_at": "2026-11-18T09:41:27Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 17.8,
+        "upload_sec": 33.2
+      }
     }
   ],
   "pending_uploads": [
@@ -912444,22 +912470,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49386,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 14,
-      "display_name": "Tři kluci a nemluvně S02E14 - Společné hraní CZ Dabing",
-      "intent_id": "2eae305ff10e4c85a184cbb3ae231278",
-      "started_at": "2026-11-18T09:39:36Z",
-      "upload_account": "serialy",
-      "source_id": -27887827773652406,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e14-czdab/578c18cc741c9",
-      "size_bytes": 348363198,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330484,5 +1330494,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:39:49Z"
+  "last_updated": "2026-11-18T09:41:27Z"
 }
