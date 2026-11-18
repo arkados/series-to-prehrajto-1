@@ -914243,6 +914243,32 @@
         "download_sec": 17.4,
         "upload_sec": 126.2
       }
+    },
+    {
+      "episode_id": 120572,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "Crazy Ex-Girlfriend S02E13 - 13. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -32895482140453233,
+      "external_id": "e545e517ae9e2219",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s02e13-can-josh-take-a-leap-of-faith-en/e545e517ae9e2219",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150334,
+      "size_bytes": 485212448,
+      "uploaded_at": "2026-11-18T11:50:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.7,
+        "upload_sec": 50.1
+      }
     }
   ],
   "pending_uploads": [
@@ -915365,22 +915391,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 120572,
-      "series_id": 3183,
-      "series_title": "Crazy Ex-Girlfriend",
-      "season": 2,
-      "episode": 13,
-      "display_name": "Crazy Ex-Girlfriend S02E13 - 13. epizoda CZ Titulky",
-      "intent_id": "e41ec887efec45fba2fc2545be462510",
-      "started_at": "2026-11-18T11:49:17Z",
-      "upload_account": "primary",
-      "source_id": -32895482140453233,
-      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s02e13-can-josh-take-a-leap-of-faith-en/e545e517ae9e2219",
-      "size_bytes": 485212448,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1333405,5 +1333415,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:49:17Z"
+  "last_updated": "2026-11-18T11:50:34Z"
 }
