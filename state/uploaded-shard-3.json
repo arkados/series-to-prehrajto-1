@@ -911104,6 +911104,32 @@
         "download_sec": 21.9,
         "upload_sec": 217.0
       }
+    },
+    {
+      "episode_id": 49375,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 4,
+      "episode_code": "S02E04",
+      "display_name": "Tři kluci a nemluvně S02E04 - Ženské na odstřel CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -43218468090943997,
+      "external_id": "578c116398aec",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e04-czdab/578c116398aec",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145386,
+      "size_bytes": 347992654,
+      "uploaded_at": "2026-11-18T08:39:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.7,
+        "upload_sec": 44.7
+      }
     }
   ],
   "pending_uploads": [
@@ -912210,22 +912236,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49375,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 4,
-      "display_name": "Tři kluci a nemluvně S02E04 - Ženské na odstřel CZ Dabing",
-      "intent_id": "14c5734cc06c4a0cba63253025cc548d",
-      "started_at": "2026-11-18T08:38:22Z",
-      "upload_account": "serialy",
-      "source_id": -43218468090943997,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e04-czdab/578c116398aec",
-      "size_bytes": 347992654,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330250,5 +1330260,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T08:38:22Z"
+  "last_updated": "2026-11-18T08:39:34Z"
 }
