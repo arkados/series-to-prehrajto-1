@@ -913931,6 +913931,32 @@
         "download_sec": 13.3,
         "upload_sec": 48.3
       }
+    },
+    {
+      "episode_id": 120568,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 4,
+      "episode": 7,
+      "episode_code": "S04E07",
+      "display_name": "Crazy Ex-Girlfriend S04E07 - 7. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -69701645143537269,
+      "external_id": "f3f49e78188cd81f",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e07-i-will-help-you-en/f3f49e78188cd81f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31147424,
+      "size_bytes": 485668191,
+      "uploaded_at": "2026-11-18T09:59:08Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 17.8,
+        "upload_sec": 50.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915053,22 +915079,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 120568,
-      "series_id": 3183,
-      "series_title": "Crazy Ex-Girlfriend",
-      "season": 4,
-      "episode": 7,
-      "display_name": "Crazy Ex-Girlfriend S04E07 - 7. epizoda CZ Titulky",
-      "intent_id": "efd311d7d18d41578bc1125148daa172",
-      "started_at": "2026-11-18T09:56:40Z",
-      "upload_account": "primary",
-      "source_id": -69701645143537269,
-      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e07-i-will-help-you-en/f3f49e78188cd81f",
-      "size_bytes": 485668191,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1333093,5 +1333103,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:56:40Z"
+  "last_updated": "2026-11-18T09:59:08Z"
 }
