@@ -913853,6 +913853,58 @@
         "download_sec": 16.4,
         "upload_sec": 43.7
       }
+    },
+    {
+      "episode_id": 49377,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "Tři kluci a nemluvně S02E06 - Emma jde do jeslí CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -27624278159544441,
+      "external_id": "578c133319c72",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e06-czdab/578c133319c72",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145915,
+      "size_bytes": 348304414,
+      "uploaded_at": "2026-11-18T09:03:11Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.7,
+        "upload_sec": 52.9
+      }
+    },
+    {
+      "episode_id": 49380,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "Tři kluci a nemluvně S02E07 - Kam zmizel beránek CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -3791050836199882,
+      "external_id": "578c13a07788a",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e07-czdab/578c13a07788a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145926,
+      "size_bytes": 347908774,
+      "uploaded_at": "2026-11-18T09:04:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.6,
+        "upload_sec": 88.3
+      }
     }
   ],
   "pending_uploads": [
@@ -914974,38 +915026,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49377,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 6,
-      "display_name": "Tři kluci a nemluvně S02E06 - Emma jde do jeslí CZ Dabing",
-      "intent_id": "6c2a84fc94964fb99bfe4eed8ba2c626",
-      "started_at": "2026-11-18T09:01:44Z",
-      "upload_account": "primary",
-      "source_id": -27624278159544441,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e06-czdab/578c133319c72",
-      "size_bytes": 348304414,
-      "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49380,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 7,
-      "display_name": "Tři kluci a nemluvně S02E07 - Kam zmizel beránek CZ Dabing",
-      "intent_id": "2dc3262ecec344e1aaad09d5584dbaba",
-      "started_at": "2026-11-18T09:01:47Z",
-      "upload_account": "primary",
-      "source_id": -3791050836199882,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e07-czdab/578c13a07788a",
-      "size_bytes": 347908774,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333031,5 +1333051,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:01:47Z"
+  "last_updated": "2026-11-18T09:04:12Z"
 }
