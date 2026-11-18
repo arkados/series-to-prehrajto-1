@@ -911806,6 +911806,32 @@
         "download_sec": 21.0,
         "upload_sec": 46.0
       }
+    },
+    {
+      "episode_id": 120562,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 4,
+      "episode": 5,
+      "episode_code": "S04E05",
+      "display_name": "Crazy Ex-Girlfriend S04E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -70330969562492278,
+      "external_id": "6fffcaa2e9f5263a",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e05-i-m-so-happy-for-you-en/6fffcaa2e9f5263a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150739,
+      "size_bytes": 467909593,
+      "uploaded_at": "2026-11-18T12:10:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 27.5,
+        "upload_sec": 129.5
+      }
     }
   ],
   "pending_uploads": [
@@ -912926,22 +912952,6 @@
       "source_id": -38348219861811816,
       "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e06-i-see-you-en/eae3c97414b2acb5",
       "size_bytes": 531878204,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 120562,
-      "series_id": 3183,
-      "series_title": "Crazy Ex-Girlfriend",
-      "season": 4,
-      "episode": 5,
-      "display_name": "Crazy Ex-Girlfriend S04E05 - 5. epizoda CZ Titulky",
-      "intent_id": "c00eef7d5d4d4bfbab476f537ad98f68",
-      "started_at": "2026-11-18T12:07:30Z",
-      "upload_account": "serialy",
-      "source_id": -70330969562492278,
-      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e05-i-m-so-happy-for-you-en/6fffcaa2e9f5263a",
-      "size_bytes": 467909593,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1330968,5 +1330978,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:07:30Z"
+  "last_updated": "2026-11-18T12:10:38Z"
 }
