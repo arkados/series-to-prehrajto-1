@@ -914997,6 +914997,32 @@
         "download_sec": 718.1,
         "upload_sec": 34.7
       }
+    },
+    {
+      "episode_id": 49441,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 12,
+      "episode_code": "S04E12",
+      "display_name": "Tři kluci a nemluvně S04E12 - Osudová přitažlivost CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -23907366832602596,
+      "external_id": "66092afc26d3e",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e12-22-2014-cz-dab-a-lovefate-relationship/66092afc26d3e",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31159617,
+      "size_bytes": 336492212,
+      "uploaded_at": "2026-11-18T20:47:13Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 431.5,
+        "upload_sec": 36.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1334143,5 +1334169,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T20:35:39Z"
+  "last_updated": "2026-11-18T20:47:13Z"
 }
