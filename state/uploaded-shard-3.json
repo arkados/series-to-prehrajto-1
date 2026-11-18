@@ -911924,6 +911924,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 157811,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 8,
+      "display_name": "Strong Woman Do Bong Soon S01E08 - 8. epizoda CZ Titulky",
+      "intent_id": "89b2b1642c8d48199c78ac52e46cbfd6",
+      "started_at": "2026-11-18T04:46:35Z",
+      "upload_account": "serialy",
+      "source_id": -55161648690964402,
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e8-one-step-closer-ko/dd75c4b5c46bc102",
+      "size_bytes": 723183150,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1329948,5 +1329964,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T04:42:24Z"
+  "last_updated": "2026-11-18T04:46:35Z"
 }
