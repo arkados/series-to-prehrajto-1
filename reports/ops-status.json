@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108804,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82855,
-    "prepared_source_episodes": 67978,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82856,
+    "prepared_source_episodes": 67984,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
@@ -21,26 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T05:08:58Z",
-      "databaseId": 44242184170,
+      "createdAt": "2026-11-18T05:15:38Z",
+      "databaseId": 44242993656,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T05:08:50Z",
-      "databaseId": 44242168413,
+      "createdAt": "2026-11-18T05:15:02Z",
+      "databaseId": 44242911353,
       "headBranch": "main",
       "status": "in_progress",
-      "workflowName": "sync"
+      "workflowName": "backfill-subtitles"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T05:12:27Z",
+      "databaseId": 44242605986,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T05:10:25Z",
+      "databaseId": 44242360173,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T05:10:22Z",
+      "databaseId": 44242352907,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T05:08:58Z",
+      "databaseId": 44242184170,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T05:08:50Z",
+      "databaseId": 44242168413,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T05:07:55Z",
       "databaseId": 44242064053,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -60,11 +100,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-18T05:05:41Z",
       "databaseId": 44241801304,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -116,11 +156,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T05:01:39Z",
       "databaseId": 44241334522,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T04:57:25Z",
-      "databaseId": 44240849482,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T04:54:17Z",
-      "databaseId": 44240512248,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T04:51:14Z",
-      "databaseId": 44240173364,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T04:49:50Z",
-      "databaseId": 44240013347,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T04:48:26Z",
-      "databaseId": 44239857205,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -388685,6 +388685,11 @@
         "episode_id": 157814,
         "display_name": "Strong Woman Do Bong Soon S01E11 - 11. epizoda CZ Titulky",
         "video_id": 31141063
+      },
+      {
+        "episode_id": 116963,
+        "display_name": "Avengers - Sjednocení S02E13 - Thanos nepřemožitelný CZ Titulky",
+        "video_id": 31141231
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -777087,6 +777092,11 @@
         "episode_id": 157814,
         "display_name": "Strong Woman Do Bong Soon S01E11 - 11. epizoda CZ Titulky",
         "video_id": 31141063
+      },
+      {
+        "episode_id": 116963,
+        "display_name": "Avengers - Sjednocení S02E13 - Thanos nepřemožitelný CZ Titulky",
+        "video_id": 31141231
       }
     ],
     "prepared_not_upload_ready": [
