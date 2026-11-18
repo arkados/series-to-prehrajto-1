@@ -912834,6 +912834,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109706,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 4,
+      "episode": 26,
+      "display_name": "Dynastie S04E26 - 26. epizoda CZ Titulky",
+      "intent_id": "a84e56922f1c43c2b3f37eda1c1385e4",
+      "started_at": "2026-11-18T11:43:37Z",
+      "upload_account": "serialy",
+      "source_id": -68913305140718119,
+      "source_url": "https://prehraj.to/dynasty-s04e26/5953617227dfb",
+      "size_bytes": 365910020,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330858,5 +1330874,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:42:20Z"
+  "last_updated": "2026-11-18T11:43:37Z"
 }
