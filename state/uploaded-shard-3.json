@@ -911676,6 +911676,84 @@
         "download_sec": 15.7,
         "upload_sec": 38.2
       }
+    },
+    {
+      "episode_id": 49402,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 4,
+      "episode_code": "S03E04",
+      "display_name": "Tři kluci a nemluvně S03E04 - Katastrofa CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -36310543634834163,
+      "external_id": "66091c62d35fc",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e04-21-2014-cz-dab-bonnie-s-unreal-estate/66091c62d35fc",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150112,
+      "size_bytes": 341872999,
+      "uploaded_at": "2026-11-18T11:39:05Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.3,
+        "upload_sec": 35.8
+      }
+    },
+    {
+      "episode_id": 83902,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 14,
+      "episode_code": "S01E14",
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E14 - Návrat lovce trolů CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -71265803849977409,
+      "external_id": "5ef664ef33d8e4c3",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e14-return-of-the-trollhunter-en/5ef664ef33d8e4c3",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150172,
+      "size_bytes": 318772695,
+      "uploaded_at": "2026-11-18T11:42:20Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 17.6,
+        "upload_sec": 31.8
+      }
+    },
+    {
+      "episode_id": 109706,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 4,
+      "episode": 26,
+      "episode_code": "S04E26",
+      "display_name": "Dynastie S04E26 - 26. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -68913305140718119,
+      "external_id": "5953617227dfb",
+      "source_url": "https://prehraj.to/dynasty-s04e26/5953617227dfb",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150225,
+      "size_bytes": 365910020,
+      "uploaded_at": "2026-11-18T11:46:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.6,
+        "upload_sec": 112.7
+      }
     }
   ],
   "pending_uploads": [
@@ -912784,20 +912862,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 49402,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 3,
-      "episode": 4,
-      "display_name": "Tři kluci a nemluvně S03E04 - Katastrofa CZ Dabing",
-      "intent_id": "c5f8bbcdd4b547958f8b5bd26f2ad8ea",
-      "started_at": "2026-11-18T11:37:05Z",
+      "episode_id": 120563,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 4,
+      "episode": 1,
+      "display_name": "Crazy Ex-Girlfriend S04E01 - 1. epizoda CZ Titulky",
+      "intent_id": "b23255c5f7e249f38bdf910fc35dc04e",
+      "started_at": "2026-11-18T11:49:23Z",
       "upload_account": "serialy",
-      "source_id": -36310543634834163,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e04-21-2014-cz-dab-bonnie-s-unreal-estate/66091c62d35fc",
-      "size_bytes": 341872999,
-      "source_container": "avi",
-      "source_download_kind": "original"
+      "source_id": -21965631869366433,
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e01-i-want-to-be-here-en/4eb6525d81b439d6",
+      "size_bytes": 490707532,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330822,5 +1330900,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:38:05Z"
+  "last_updated": "2026-11-18T11:49:23Z"
 }
