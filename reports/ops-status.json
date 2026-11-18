@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108661,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83021,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83023,
     "prepared_source_episodes": 67949,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 39,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 42,
-    "language_whisper_attempted_sources": 42,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53478,
     "whisper_review_pending_sources": 36148,
@@ -21,10 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T23:08:39Z",
+      "databaseId": 44418121860,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T23:04:20Z",
+      "databaseId": 44417460442,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T23:00:09Z",
+      "databaseId": 44416806036,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T23:00:05Z",
+      "databaseId": 44416792250,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T22:59:54Z",
+      "databaseId": 44416764355,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T22:59:47Z",
+      "databaseId": 44416748356,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T22:59:44Z",
+      "databaseId": 44416741026,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T22:58:33Z",
       "databaseId": 44416570879,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +100,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T22:54:42Z",
       "databaseId": 44416003581,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -68,11 +124,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-18T22:53:19Z",
       "databaseId": 44415791010,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -119,62 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-18T22:47:41Z",
       "databaseId": 44414927052,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T22:47:40Z",
-      "databaseId": 44414925662,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T22:47:33Z",
-      "databaseId": 44414908447,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T22:44:01Z",
-      "databaseId": 44414360143,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T22:39:09Z",
-      "databaseId": 44413604911,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T22:38:07Z",
-      "databaseId": 44413446015,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T22:38:03Z",
-      "databaseId": 44413436265,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T22:36:35Z",
-      "databaseId": 44413204118,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
@@ -203922,6 +203922,11 @@
         "video_id": 31162248
       },
       {
+        "episode_id": 109724,
+        "display_name": "Dynastie S07E11 - 11. epizoda CZ Titulky",
+        "video_id": 31162405
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -389515,6 +389520,11 @@
         "episode_id": 109722,
         "display_name": "Dynastie S07E04 - 4. epizoda CZ Titulky",
         "video_id": 31162042
+      },
+      {
+        "episode_id": 109723,
+        "display_name": "Dynastie S07E08 - 8. epizoda CZ Titulky",
+        "video_id": 31162384
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -593154,6 +593164,11 @@
         "video_id": 31162248
       },
       {
+        "episode_id": 109724,
+        "display_name": "Dynastie S07E11 - 11. epizoda CZ Titulky",
+        "video_id": 31162405
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -778747,6 +778762,11 @@
         "episode_id": 109722,
         "display_name": "Dynastie S07E04 - 4. epizoda CZ Titulky",
         "video_id": 31162042
+      },
+      {
+        "episode_id": 109723,
+        "display_name": "Dynastie S07E08 - 8. epizoda CZ Titulky",
+        "video_id": 31162384
       }
     ],
     "prepared_not_upload_ready": [
@@ -779908,7 +779928,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 41,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
