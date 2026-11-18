@@ -913132,6 +913132,32 @@
         "download_sec": 65.9,
         "upload_sec": 40.5
       }
+    },
+    {
+      "episode_id": 109723,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 8,
+      "episode_code": "S07E08",
+      "display_name": "Dynastie S07E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -7425374226897027,
+      "external_id": "5953676e2bb16",
+      "source_url": "https://prehraj.to/dynasty-s07e08/5953676e2bb16",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162384,
+      "size_bytes": 366856197,
+      "uploaded_at": "2026-11-18T23:02:21Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 20.3,
+        "upload_sec": 32.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1332262,5 +1332288,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:58:12Z"
+  "last_updated": "2026-11-18T23:02:56Z"
 }
