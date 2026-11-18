@@ -914113,6 +914113,58 @@
         "download_sec": 12.4,
         "upload_sec": 77.5
       }
+    },
+    {
+      "episode_id": 99589,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "She-Ra a princezny moci S02E02 - Ties That Bind CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -50997439451122367,
+      "external_id": "435360e4b1cfb9b7",
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e2-ties-that-bind-en/435360e4b1cfb9b7",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31149566,
+      "size_bytes": 496137866,
+      "uploaded_at": "2026-11-18T11:11:04Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.9,
+        "upload_sec": 82.9
+      }
+    },
+    {
+      "episode_id": 49405,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 7,
+      "episode_code": "S03E07",
+      "display_name": "Tři kluci a nemluvně S03E07 - Sázka CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -50689741096994928,
+      "external_id": "66091e4613947",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e07-21-2014-cz-dab-the-bet/66091e4613947",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31149632,
+      "size_bytes": 336122740,
+      "uploaded_at": "2026-11-18T11:14:12Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.3,
+        "upload_sec": 73.4
+      }
     }
   ],
   "pending_uploads": [
@@ -915233,22 +915285,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 99589,
-      "series_id": 2404,
-      "series_title": "She-Ra a princezny moci",
-      "season": 2,
-      "episode": 2,
-      "display_name": "She-Ra a princezny moci S02E02 - Ties That Bind CZ Titulky",
-      "intent_id": "820ca2813a7a49019ca061cba6805f04",
-      "started_at": "2026-11-18T11:07:32Z",
-      "upload_account": "primary",
-      "source_id": -50997439451122367,
-      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e2-ties-that-bind-en/435360e4b1cfb9b7",
-      "size_bytes": 496137866,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1333275,5 +1333311,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:10:17Z"
+  "last_updated": "2026-11-18T11:14:12Z"
 }
