@@ -912742,6 +912742,32 @@
         "download_sec": 16.2,
         "upload_sec": 31.5
       }
+    },
+    {
+      "episode_id": 49426,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 7,
+      "episode_code": "S04E07",
+      "display_name": "Tři kluci a nemluvně S04E07 - Rande naslepo CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -59052371738468929,
+      "external_id": "587a462dae95b",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x07-rande-naslepo-dvb-t-cz/587a462dae95b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31159179,
+      "size_bytes": 337190186,
+      "uploaded_at": "2026-11-18T20:19:34Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 414.9,
+        "upload_sec": 32.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1331872,5 +1331898,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T20:08:40Z"
+  "last_updated": "2026-11-18T20:19:34Z"
 }
