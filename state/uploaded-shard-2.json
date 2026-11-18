@@ -913158,6 +913158,32 @@
         "download_sec": 20.3,
         "upload_sec": 32.5
       }
+    },
+    {
+      "episode_id": 127547,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -13572379132635093,
+      "external_id": "0f407349183b6b07",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e3-sa-a-modest-rebellion-android-and-i-ja/0f407349183b6b07",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162816,
+      "size_bytes": 394780660,
+      "uploaded_at": "2026-11-18T23:21:44Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 14.8,
+        "upload_sec": 26.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1332288,5 +1332314,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:02:56Z"
+  "last_updated": "2026-11-18T23:24:11Z"
 }
