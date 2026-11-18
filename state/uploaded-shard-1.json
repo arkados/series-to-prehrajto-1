@@ -915257,6 +915257,32 @@
         "download_sec": 72.2,
         "upload_sec": 35.6
       }
+    },
+    {
+      "episode_id": 49437,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 20,
+      "episode_code": "S04E20",
+      "display_name": "Tři kluci a nemluvně S04E20 - Svatební šaty CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -61845768960721415,
+      "external_id": "66092f05d7e91",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e20-22-2014-cz-dab-till-dress-do-us-part/66092f05d7e91",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161637,
+      "size_bytes": 334633042,
+      "uploaded_at": "2026-11-18T22:30:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 65.9,
+        "upload_sec": 32.3
+      }
     }
   ],
   "pending_uploads": [
@@ -916395,22 +916421,6 @@
       "size_bytes": 320005306,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49437,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 4,
-      "episode": 20,
-      "display_name": "Tři kluci a nemluvně S04E20 - Svatební šaty CZ Dabing",
-      "intent_id": "2a51a78bb2b741c0b1bcb4108b96799a",
-      "started_at": "2026-11-18T22:29:27Z",
-      "upload_account": "primary",
-      "source_id": -61845768960721415,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e20-22-2014-cz-dab-till-dress-do-us-part/66092f05d7e91",
-      "size_bytes": 334633042,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334435,5 +1334445,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:29:27Z"
+  "last_updated": "2026-11-18T22:30:44Z"
 }
