@@ -913983,6 +913983,58 @@
         "download_sec": 16.8,
         "upload_sec": 98.8
       }
+    },
+    {
+      "episode_id": 49384,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 16,
+      "episode_code": "S02E16",
+      "display_name": "Tři kluci a nemluvně S02E16 - Emminy první Vánoce CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -8185575409876919,
+      "external_id": "578c1a64e4772",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e16-czdab/578c1a64e4772",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31148768,
+      "size_bytes": 347874964,
+      "uploaded_at": "2026-11-18T10:38:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.8,
+        "upload_sec": 46.6
+      }
+    },
+    {
+      "episode_id": 49385,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 15,
+      "episode_code": "S02E15",
+      "display_name": "Tři kluci a nemluvně S02E15 - Překvapení CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -42429946227240811,
+      "external_id": "578c18fc98cc2",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e15-czdab/578c18fc98cc2",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31148728,
+      "size_bytes": 347968332,
+      "uploaded_at": "2026-11-18T10:40:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.4,
+        "upload_sec": 208.9
+      }
     }
   ],
   "pending_uploads": [
@@ -915107,18 +915159,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 49385,
+      "episode_id": 49400,
       "series_id": 1144,
       "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 15,
-      "display_name": "Tři kluci a nemluvně S02E15 - Překvapení CZ Dabing",
-      "intent_id": "e299e310c81a4ae3abf345ce23719bca",
-      "started_at": "2026-11-18T10:36:06Z",
+      "season": 3,
+      "episode": 2,
+      "display_name": "Tři kluci a nemluvně S03E02 - Hrátky se lží CZ Dabing",
+      "intent_id": "2c36e6f1855643509a8be1eceebf1bce",
+      "started_at": "2026-11-18T10:39:15Z",
       "upload_account": "primary",
-      "source_id": -42429946227240811,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e15-czdab/578c18fc98cc2",
-      "size_bytes": 347968332,
+      "source_id": -33339876599514871,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x02-hratky-se-lzi-dvb-t-cz/587a4552b2698",
+      "size_bytes": 335666910,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1333145,5 +1333197,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T10:36:06Z"
+  "last_updated": "2026-11-18T10:40:00Z"
 }
