@@ -913801,6 +913801,32 @@
         "download_sec": 12.9,
         "upload_sec": 38.3
       }
+    },
+    {
+      "episode_id": 148645,
+      "series_id": 4962,
+      "series_title": "Gumy, kam se podíváš",
+      "season": 2,
+      "episode": 3,
+      "episode_code": "S02E03",
+      "display_name": "Gumy, kam se podíváš S02E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -18632582606180198,
+      "external_id": "684b37230c2b7",
+      "source_url": "https://prehraj.to/tires-s02e03/684b37230c2b7",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145249,
+      "size_bytes": 464696553,
+      "uploaded_at": "2026-11-18T08:33:43Z",
+      "timing": {
+        "resolve_sec": 5.7,
+        "download_sec": 20.2,
+        "upload_sec": 151.2
+      }
     }
   ],
   "pending_uploads": [
@@ -914922,6 +914948,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49376,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 5,
+      "display_name": "Tři kluci a nemluvně S02E05 - Depka CZ Dabing",
+      "intent_id": "91b22b846bda486eb003b892e1c8d05b",
+      "started_at": "2026-11-18T08:38:23Z",
+      "upload_account": "primary",
+      "source_id": -12682988111395776,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e05-czdab/578c122fbf097",
+      "size_bytes": 348003528,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332947,5 +1332989,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T08:08:48Z"
+  "last_updated": "2026-11-18T08:38:23Z"
 }
