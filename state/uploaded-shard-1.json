@@ -913879,6 +913879,32 @@
         "download_sec": 12.7,
         "upload_sec": 52.9
       }
+    },
+    {
+      "episode_id": 49380,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "Tři kluci a nemluvně S02E07 - Kam zmizel beránek CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -3791050836199882,
+      "external_id": "578c13a07788a",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e07-czdab/578c13a07788a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145926,
+      "size_bytes": 347908774,
+      "uploaded_at": "2026-11-18T09:04:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.6,
+        "upload_sec": 88.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915003,18 +915029,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 49380,
+      "episode_id": 49381,
       "series_id": 1144,
       "series_title": "Tři kluci a nemluvně",
       "season": 2,
-      "episode": 7,
-      "display_name": "Tři kluci a nemluvně S02E07 - Kam zmizel beránek CZ Dabing",
-      "intent_id": "2dc3262ecec344e1aaad09d5584dbaba",
-      "started_at": "2026-11-18T09:01:47Z",
+      "episode": 11,
+      "display_name": "Tři kluci a nemluvně S02E11 - Pro Lolu vše CZ Dabing",
+      "intent_id": "cb2440d7a75249919f230d4b4b8d57ab",
+      "started_at": "2026-11-18T09:35:43Z",
       "upload_account": "primary",
-      "source_id": -3791050836199882,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e07-czdab/578c13a07788a",
-      "size_bytes": 347908774,
+      "source_id": -37074564227890796,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-02x11-pro-lolu-vse-dvb-t-cz/587a453c6bcd0",
+      "size_bytes": 335949578,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1333041,5 +1333067,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:03:11Z"
+  "last_updated": "2026-11-18T09:35:44Z"
 }
