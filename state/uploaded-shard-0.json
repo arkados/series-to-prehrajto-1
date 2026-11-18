@@ -913333,6 +913333,32 @@
         "download_sec": 26.9,
         "upload_sec": 81.7
       }
+    },
+    {
+      "episode_id": 157817,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 14,
+      "episode_code": "S01E14",
+      "display_name": "Strong Woman Do Bong Soon S01E14 - 14. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -27427355511358662,
+      "external_id": "937ce5348ccd7ec5",
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e14-a-prelude-to-the-battle-ko/937ce5348ccd7ec5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31138730,
+      "size_bytes": 641970117,
+      "uploaded_at": "2026-11-18T03:43:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 35.5,
+        "upload_sec": 132.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1332479,5 +1332505,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T03:37:11Z"
+  "last_updated": "2026-11-18T03:43:18Z"
 }
