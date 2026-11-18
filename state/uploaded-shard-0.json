@@ -914373,6 +914373,32 @@
         "download_sec": 19.4,
         "upload_sec": 72.0
       }
+    },
+    {
+      "episode_id": 116940,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 23,
+      "episode_code": "S01E23",
+      "display_name": "Avengers - Sjednocení S01E23 - Maličkost CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -33806373699401801,
+      "external_id": "5a9b812347b34",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e23-malickost/5a9b812347b34",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31151007,
+      "size_bytes": 328141587,
+      "uploaded_at": "2026-11-18T12:24:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.6,
+        "upload_sec": 58.6
+      }
     }
   ],
   "pending_uploads": [
@@ -915497,19 +915523,19 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 116940,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 1,
-      "episode": 23,
-      "display_name": "Avengers - Sjednocení S01E23 - Maličkost CZ Dabing",
-      "intent_id": "f65b0ff9eab84342adeff4766793b6ec",
-      "started_at": "2026-11-18T12:22:54Z",
+      "episode_id": 109709,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 5,
+      "episode": 19,
+      "display_name": "Dynastie S05E19 - 19. epizoda CZ Titulky",
+      "intent_id": "3c62483428344422940d71299b71f451",
+      "started_at": "2026-11-18T12:23:24Z",
       "upload_account": "primary",
-      "source_id": -33806373699401801,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s01e23-malickost/5a9b812347b34",
-      "size_bytes": 328141587,
-      "source_container": "mp4",
+      "source_id": -57152468237152894,
+      "source_url": "https://prehraj.to/dynasty-s05e19/595362730be2a",
+      "size_bytes": 366958600,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333535,5 +1333561,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:22:54Z"
+  "last_updated": "2026-11-18T12:24:26Z"
 }
