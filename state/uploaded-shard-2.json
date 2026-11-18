@@ -912028,6 +912028,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 65094,
+      "series_id": 1501,
+      "series_title": "Policie Battle Creek ",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Policie Battle Creek  S01E02 - 2. epizoda CZ Titulky",
+      "intent_id": "4cd9a3f3d2cb47c1802f2b8b2f7dbb1c",
+      "started_at": "2026-11-18T06:48:49Z",
+      "upload_account": "serialy",
+      "source_id": -19786829058557442,
+      "source_url": "https://prehraj.to/battle-creek-s01e02-cztit-v-obraze/561bec3163474",
+      "size_bytes": 354738756,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330052,5 +1330068,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T06:13:47Z"
+  "last_updated": "2026-11-18T06:48:49Z"
 }
