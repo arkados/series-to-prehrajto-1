@@ -914581,6 +914581,32 @@
         "download_sec": 57.7,
         "upload_sec": 39.7
       }
+    },
+    {
+      "episode_id": 116945,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 23,
+      "episode_code": "S02E23",
+      "display_name": "Avengers - Sjednocení S02E23 - Do posledního dechu CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -30560565944999154,
+      "external_id": "ea8ddeb880e359d2",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e23-avengers-last-stand-cs/ea8ddeb880e359d2",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31154602,
+      "size_bytes": 327885082,
+      "uploaded_at": "2026-11-18T15:42:28Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.7,
+        "upload_sec": 47.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1333727,5 +1333753,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T15:26:26Z"
+  "last_updated": "2026-11-18T15:42:28Z"
 }
