@@ -912612,6 +912612,32 @@
         "download_sec": 12.8,
         "upload_sec": 32.5
       }
+    },
+    {
+      "episode_id": 49423,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 4,
+      "episode_code": "S04E04",
+      "display_name": "Tři kluci a nemluvně S04E04 - Vidím šílené lidi CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58309380019613375,
+      "external_id": "66092714453e5",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e04-22-2014-cz-dab-i-see-crazy-people/66092714453e5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158254,
+      "size_bytes": 337136406,
+      "uploaded_at": "2026-11-18T19:21:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.2,
+        "upload_sec": 30.6
+      }
     }
   ],
   "pending_uploads": [
@@ -913718,22 +913744,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49423,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 4,
-      "episode": 4,
-      "display_name": "Tři kluci a nemluvně S04E04 - Vidím šílené lidi CZ Dabing",
-      "intent_id": "00c3ba93e3a84482b4cdf527ffbcd19b",
-      "started_at": "2026-11-18T19:20:12Z",
-      "upload_account": "serialy",
-      "source_id": -58309380019613375,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e04-22-2014-cz-dab-i-see-crazy-people/66092714453e5",
-      "size_bytes": 337136406,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331758,5 +1331768,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T19:20:12Z"
+  "last_updated": "2026-11-18T19:21:19Z"
 }
