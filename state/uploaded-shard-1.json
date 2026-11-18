@@ -915833,6 +915833,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 99605,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 3,
+      "episode": 2,
+      "display_name": "She-Ra a princezny moci S03E02 - Huntara CZ Titulky",
+      "intent_id": "ddcca4d0018941ceaa4d14fc0e6c355b",
+      "started_at": "2026-11-18T18:07:28Z",
+      "upload_account": "primary",
+      "source_id": -62927756644817539,
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s03e02/5e149115a67f9",
+      "size_bytes": 359116373,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1333857,5 +1333873,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T17:51:21Z"
+  "last_updated": "2026-11-18T18:07:28Z"
 }
