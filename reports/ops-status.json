@@ -1,8 +1,8 @@
 {
   "counts": {
     "backlog_episodes": 108685,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 82984,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 82985,
     "prepared_source_episodes": 67928,
     "description_series": 60,
     "description_episodes": 753,
@@ -14,25 +14,73 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53490,
     "whisper_review_pending_sources": 36188,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52284,
     "subtitle_followup_pending_sources": 52284
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T20:03:37Z",
-      "databaseId": 44386976667,
+      "createdAt": "2026-11-18T20:05:44Z",
+      "databaseId": 44387360197,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T20:05:44Z",
+      "databaseId": 44387358841,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T20:05:38Z",
+      "databaseId": 44387341330,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T20:05:29Z",
+      "databaseId": 44387315877,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T20:04:41Z",
+      "databaseId": 44387166407,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T20:04:37Z",
+      "databaseId": 44387152540,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T20:03:37Z",
+      "databaseId": 44386976667,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T20:03:08Z",
       "databaseId": 44386886290,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T19:47:32Z",
-      "databaseId": 44383986215,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T19:47:28Z",
-      "databaseId": 44383973933,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T19:47:01Z",
-      "databaseId": 44383887582,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T19:46:04Z",
-      "databaseId": 44383711658,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T19:45:14Z",
-      "databaseId": 44383556670,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T19:44:31Z",
-      "databaseId": 44383421706,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -203815,6 +203815,11 @@
         "episode_id": 49416,
         "display_name": "Tři kluci a nemluvně S03E18 - První krůčky CZ Dabing",
         "video_id": 31158898
+      },
+      {
+        "episode_id": 49425,
+        "display_name": "Tři kluci a nemluvně S04E06 - Mrtvá Bonnie CZ Dabing",
+        "video_id": 31158944
       },
       {
         "episode_id": 114182,
@@ -592862,6 +592867,11 @@
         "episode_id": 49416,
         "display_name": "Tři kluci a nemluvně S03E18 - První krůčky CZ Dabing",
         "video_id": 31158898
+      },
+      {
+        "episode_id": 49425,
+        "display_name": "Tři kluci a nemluvně S04E06 - Mrtvá Bonnie CZ Dabing",
+        "video_id": 31158944
       },
       {
         "episode_id": 114182,
