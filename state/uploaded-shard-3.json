@@ -912430,6 +912430,32 @@
         "download_sec": 11.2,
         "upload_sec": 27.2
       }
+    },
+    {
+      "episode_id": 99591,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "She-Ra a princezny moci S02E05 - White Out CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -26967842223015429,
+      "external_id": "7c450f1fb9d56b82",
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e5-white-out-en/7c450f1fb9d56b82",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31156859,
+      "size_bytes": 367504727,
+      "uploaded_at": "2026-11-18T18:04:04Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 761.0,
+        "upload_sec": 56.7
+      }
     }
   ],
   "pending_uploads": [
@@ -913534,22 +913560,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 99591,
-      "series_id": 2404,
-      "series_title": "She-Ra a princezny moci",
-      "season": 2,
-      "episode": 5,
-      "display_name": "She-Ra a princezny moci S02E05 - White Out CZ Titulky",
-      "intent_id": "56e85d4ca7fb488e9f45849a66e72b95",
-      "started_at": "2026-11-18T18:02:20Z",
-      "upload_account": "serialy",
-      "source_id": -26967842223015429,
-      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e5-white-out-en/7c450f1fb9d56b82",
-      "size_bytes": 367504727,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1331576,5 +1331586,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T18:02:20Z"
+  "last_updated": "2026-11-18T18:04:04Z"
 }
