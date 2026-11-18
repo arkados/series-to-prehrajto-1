@@ -912482,6 +912482,32 @@
         "download_sec": 17.7,
         "upload_sec": 32.4
       }
+    },
+    {
+      "episode_id": 49414,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 16,
+      "episode_code": "S03E16",
+      "display_name": "Tři kluci a nemluvně S03E16 - Zvědavá Georgie CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -41051828299719612,
+      "external_id": "587a45878b186",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x16-zvedava-georgie-dvb-t-cz/587a45878b186",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31156976,
+      "size_bytes": 336479470,
+      "uploaded_at": "2026-11-18T18:11:47Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 40.9,
+        "upload_sec": 33.6
+      }
     }
   ],
   "pending_uploads": [
@@ -913588,22 +913614,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49414,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 3,
-      "episode": 16,
-      "display_name": "Tři kluci a nemluvně S03E16 - Zvědavá Georgie CZ Dabing",
-      "intent_id": "858c3da8277e416db9a5376cba253866",
-      "started_at": "2026-11-18T18:07:47Z",
-      "upload_account": "serialy",
-      "source_id": -41051828299719612,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x16-zvedava-georgie-dvb-t-cz/587a45878b186",
-      "size_bytes": 336479470,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331628,5 +1331638,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T18:09:39Z"
+  "last_updated": "2026-11-18T18:11:47Z"
 }
