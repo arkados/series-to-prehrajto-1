@@ -912538,6 +912538,22 @@
       "size_bytes": 411604087,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 83898,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E10 - Mladý Atlas CZ Titulky",
+      "intent_id": "0044c763997441658c3424c618beabb6",
+      "started_at": "2026-11-18T10:05:41Z",
+      "upload_account": "serialy",
+      "source_id": -45763387489100977,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e10-young-atlas-en/255d7a67dabc6f4f",
+      "size_bytes": 454704423,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330562,5 +1330578,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T10:04:46Z"
+  "last_updated": "2026-11-18T10:05:41Z"
 }
