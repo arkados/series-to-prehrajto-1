@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108804,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82839,
-    "prepared_source_episodes": 67986,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82840,
+    "prepared_source_episodes": 67994,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 42,
-    "language_whisper_attempted_sources": 42,
+    "language_audited_sources": 41,
+    "language_whisper_attempted_sources": 41,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53554,
     "whisper_review_pending_sources": 36370,
@@ -21,18 +21,42 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T02:55:56Z",
-      "databaseId": 44226797485,
+      "createdAt": "2026-11-18T03:01:05Z",
+      "databaseId": 44227394097,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T03:00:20Z",
+      "databaseId": 44227294604,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T02:57:14Z",
+      "databaseId": 44226947281,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T02:55:56Z",
+      "databaseId": 44226797485,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-18T02:55:48Z",
       "databaseId": 44226781406,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -68,11 +92,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T02:52:31Z",
       "databaseId": 44226399211,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -132,11 +156,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T02:45:55Z",
       "databaseId": 44225624975,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T02:44:29Z",
-      "databaseId": 44225453026,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T02:42:51Z",
-      "databaseId": 44225261522,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T02:41:51Z",
-      "databaseId": 44225144066,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -203500,6 +203500,11 @@
         "episode_id": 96973,
         "display_name": "Naprosto dokonalé S04E02 - 2. epizoda CZ Dabing",
         "video_id": 31137617
+      },
+      {
+        "episode_id": 96977,
+        "display_name": "Naprosto dokonalé S04E06 - 6. epizoda CZ Dabing",
+        "video_id": 31137959
       },
       {
         "episode_id": 114182,
@@ -591824,6 +591829,11 @@
         "video_id": 31137617
       },
       {
+        "episode_id": 96977,
+        "display_name": "Naprosto dokonalé S04E06 - 6. epizoda CZ Dabing",
+        "video_id": 31137959
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -778088,7 +778098,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 41,
+    "ok": 40,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
