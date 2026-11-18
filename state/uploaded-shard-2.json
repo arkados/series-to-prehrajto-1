@@ -912170,6 +912170,32 @@
         "download_sec": 13.6,
         "upload_sec": 42.6
       }
+    },
+    {
+      "episode_id": 120566,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 4,
+      "episode": 8,
+      "episode_code": "S04E08",
+      "display_name": "Crazy Ex-Girlfriend S04E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -7415197996585746,
+      "external_id": "29f9626d000ff51b",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e08-i-m-not-the-person-i-used-to-be-en/29f9626d000ff51b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31152348,
+      "size_bytes": 441229549,
+      "uploaded_at": "2026-11-18T13:36:16Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 22.5,
+        "upload_sec": 113.9
+      }
     }
   ],
   "pending_uploads": [
@@ -913274,22 +913300,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 120566,
-      "series_id": 3183,
-      "series_title": "Crazy Ex-Girlfriend",
-      "season": 4,
-      "episode": 8,
-      "display_name": "Crazy Ex-Girlfriend S04E08 - 8. epizoda CZ Titulky",
-      "intent_id": "a460031400b14f95b0828ca0b3409baa",
-      "started_at": "2026-11-18T13:33:27Z",
-      "upload_account": "serialy",
-      "source_id": -7415197996585746,
-      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e08-i-m-not-the-person-i-used-to-be-en/29f9626d000ff51b",
-      "size_bytes": 441229549,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1331316,5 +1331326,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T13:33:27Z"
+  "last_updated": "2026-11-18T13:36:16Z"
 }
