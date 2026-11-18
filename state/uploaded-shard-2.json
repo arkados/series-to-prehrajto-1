@@ -913276,6 +913276,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 120566,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 4,
+      "episode": 8,
+      "display_name": "Crazy Ex-Girlfriend S04E08 - 8. epizoda CZ Titulky",
+      "intent_id": "a460031400b14f95b0828ca0b3409baa",
+      "started_at": "2026-11-18T13:33:27Z",
+      "upload_account": "serialy",
+      "source_id": -7415197996585746,
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e08-i-m-not-the-person-i-used-to-be-en/29f9626d000ff51b",
+      "size_bytes": 441229549,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1331300,5 +1331316,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T13:20:11Z"
+  "last_updated": "2026-11-18T13:33:27Z"
 }
