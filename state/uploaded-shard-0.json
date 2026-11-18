@@ -913723,6 +913723,32 @@
         "download_sec": 12.9,
         "upload_sec": 35.1
       }
+    },
+    {
+      "episode_id": 99584,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "She-Ra a princezny moci S01E10 - The Beacon CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -30059927188878169,
+      "external_id": "f9a4f2e593a96e39",
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s1e10-the-beacon-en/f9a4f2e593a96e39",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31144756,
+      "size_bytes": 563325148,
+      "uploaded_at": "2026-11-18T08:06:55Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.9,
+        "upload_sec": 55.1
+      }
     }
   ],
   "pending_uploads": [
@@ -914847,19 +914873,19 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 99584,
-      "series_id": 2404,
-      "series_title": "She-Ra a princezny moci",
-      "season": 1,
-      "episode": 10,
-      "display_name": "She-Ra a princezny moci S01E10 - The Beacon CZ Titulky",
-      "intent_id": "304dc6e390704f3b950b057800f44dea",
-      "started_at": "2026-11-18T08:05:28Z",
+      "episode_id": 49373,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 1,
+      "display_name": "Tři kluci a nemluvně S02E01 - Nejsem už ten týpek CZ Dabing",
+      "intent_id": "36c7d4b4bf374677b8f6b2d5b3e2a880",
+      "started_at": "2026-11-18T08:05:42Z",
       "upload_account": "primary",
-      "source_id": -30059927188878169,
-      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s1e10-the-beacon-en/f9a4f2e593a96e39",
-      "size_bytes": 563325148,
-      "source_container": "mp4",
+      "source_id": -23847723037623001,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e01-czdab/578c0feb502dc",
+      "size_bytes": 347710006,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332885,5 +1332911,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T08:05:28Z"
+  "last_updated": "2026-11-18T08:06:55Z"
 }
