@@ -3,14 +3,14 @@
     "backlog_episodes": 108694,
     "manifest_upload_ready_episodes": 0,
     "uploaded_episodes": 82956,
-    "prepared_source_episodes": 67951,
+    "prepared_source_episodes": 67952,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 43,
+    "language_whisper_attempted_sources": 43,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53499,
     "whisper_review_pending_sources": 36195,
@@ -21,18 +21,50 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T14:35:37Z",
-      "databaseId": 44325954750,
+      "createdAt": "2026-11-18T14:41:07Z",
+      "databaseId": 44326956096,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T14:40:24Z",
+      "databaseId": 44326823254,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T14:36:20Z",
+      "databaseId": 44326085285,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T14:36:17Z",
+      "databaseId": 44326076108,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-descriptions"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T14:35:37Z",
+      "databaseId": 44325954750,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T14:34:32Z",
       "databaseId": 44325752759,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +84,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T14:33:45Z",
       "databaseId": 44325605545,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -100,11 +132,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T14:28:37Z",
       "databaseId": 44324655296,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T14:21:57Z",
-      "databaseId": 44323446265,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T14:21:53Z",
-      "databaseId": 44323435538,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T14:20:00Z",
-      "databaseId": 44323087174,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T14:19:14Z",
-      "databaseId": 44322949053,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -779258,6 +779258,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "sample_failed": 3,
     "ok": 39,
     "resolve_failed": 1
   },
