@@ -910506,6 +910506,32 @@
         "download_sec": 17.4,
         "upload_sec": 36.4
       }
+    },
+    {
+      "episode_id": 183307,
+      "series_id": 9684,
+      "series_title": "Tučňáci z Madagaskaru ",
+      "season": 2,
+      "episode": 62,
+      "episode_code": "S02E62",
+      "display_name": "Tučňáci z Madagaskaru  S02E62 - Tulení s tuleni CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -62873449911046598,
+      "external_id": "9f9bd7809a4df8cf",
+      "source_url": "https://prehraj.to/tucnaci-z-madagaskaru-s2e62-tuleni-s-tuleni-cs/9f9bd7809a4df8cf",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31134438,
+      "size_bytes": 320925081,
+      "uploaded_at": "2026-11-18T00:24:58Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.2,
+        "upload_sec": 32.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1329636,5 +1329662,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T00:17:50Z"
+  "last_updated": "2026-11-18T00:24:58Z"
 }
