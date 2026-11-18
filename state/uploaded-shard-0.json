@@ -913203,6 +913203,32 @@
         "download_sec": 19.9,
         "upload_sec": 43.8
       }
+    },
+    {
+      "episode_id": 116981,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "Avengers - Sjednocení S02E07 - Čas nezastavíš CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -55767042784900054,
+      "external_id": "5ada3f0362acb",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e07-the-age-of-tony-stark/5ada3f0362acb",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31135333,
+      "size_bytes": 327642152,
+      "uploaded_at": "2026-11-18T00:59:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.5,
+        "upload_sec": 41.0
+      }
     }
   ],
   "pending_uploads": [
@@ -914323,22 +914349,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 116981,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 2,
-      "episode": 7,
-      "display_name": "Avengers - Sjednocení S02E07 - Čas nezastavíš CZ Dabing",
-      "intent_id": "9fc0f5f6576d4d3d8e3fad2569df2439",
-      "started_at": "2026-11-18T00:57:46Z",
-      "upload_account": "primary",
-      "source_id": -55767042784900054,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e07-the-age-of-tony-stark/5ada3f0362acb",
-      "size_bytes": 327642152,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1332365,5 +1332375,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T00:57:46Z"
+  "last_updated": "2026-11-18T00:59:12Z"
 }
