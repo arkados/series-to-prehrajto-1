@@ -915387,6 +915387,58 @@
         "download_sec": 17.1,
         "upload_sec": 29.7
       }
+    },
+    {
+      "episode_id": 49388,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 5,
+      "episode": 1,
+      "episode_code": "S05E01",
+      "display_name": "Tři kluci a nemluvně S05E01 - Láska a kočár CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -70847345430103181,
+      "external_id": "5aafaa345070b",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s05e01-love-and-carriage/5aafaa345070b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162179,
+      "size_bytes": 318504646,
+      "uploaded_at": "2026-11-18T22:56:17Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.2,
+        "upload_sec": 31.5
+      }
+    },
+    {
+      "episode_id": 127560,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 17,
+      "episode_code": "S01E17",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E17 - 17. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -819547048619491,
+      "external_id": "3d019436fd1aa396",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e17-sa-the-true-reason-for-the-unfinished-love-affair-angels-share-ja/3d019436fd1aa396",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162248,
+      "size_bytes": 325088975,
+      "uploaded_at": "2026-11-18T22:58:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.0,
+        "upload_sec": 30.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1334533,5 +1334585,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:51:31Z"
+  "last_updated": "2026-11-18T22:58:12Z"
 }
