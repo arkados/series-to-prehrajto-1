@@ -913198,6 +913198,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109755,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 5,
+      "episode": 9,
+      "display_name": "Dynastie S05E09 - 9. epizoda CZ Titulky",
+      "intent_id": "2a43c1a0931b4e189fc8f4357c129414",
+      "started_at": "2026-11-18T13:00:29Z",
+      "upload_account": "serialy",
+      "source_id": -34430888655103999,
+      "source_url": "https://prehraj.to/dynasty-s05e09/595398e5c6e82",
+      "size_bytes": 366923776,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331222,5 +1331238,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:54:04Z"
+  "last_updated": "2026-11-18T13:00:29Z"
 }
