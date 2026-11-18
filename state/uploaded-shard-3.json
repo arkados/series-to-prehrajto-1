@@ -912678,6 +912678,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49406,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 8,
+      "display_name": "Tři kluci a nemluvně S03E08 - Rytíř v lesklé zbroji CZ Dabing",
+      "intent_id": "e6da4b55a97a49edb931febaa92e4f02",
+      "started_at": "2026-11-18T11:07:26Z",
+      "upload_account": "serialy",
+      "source_id": -64770524478832932,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x08-rytir-v-leskle-zbroji-dvb-t-cz/587a4548cbc14",
+      "size_bytes": 336321842,
+      "source_container": "avi",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49403,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 5,
+      "display_name": "Tři kluci a nemluvně S03E05 - Plážový život CZ Dabing",
+      "intent_id": "c2b4088882a545a2a9bd20f1378f5160",
+      "started_at": "2026-11-18T11:07:50Z",
+      "upload_account": "serialy",
+      "source_id": -59110558760858308,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x05-plazovy-zivot-dvb-t-cz/587a453e2e2ba",
+      "size_bytes": 335535616,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330702,5 +1330734,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T10:42:56Z"
+  "last_updated": "2026-11-18T11:07:50Z"
 }
