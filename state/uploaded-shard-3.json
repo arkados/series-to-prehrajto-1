@@ -912340,6 +912340,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 83895,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E07 - Hon na měnivce CZ Titulky",
+      "intent_id": "2b6733ad71714802a65be9ea6f5ddf72",
+      "started_at": "2026-11-18T09:06:32Z",
+      "upload_account": "serialy",
+      "source_id": -31839233399686233,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e7-to-catch-a-changeling-en/a58488e6d266afb0",
+      "size_bytes": 432921264,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330364,5 +1330380,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:05:16Z"
+  "last_updated": "2026-11-18T09:06:32Z"
 }
