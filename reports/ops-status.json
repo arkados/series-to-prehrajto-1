@@ -2,14 +2,14 @@
   "counts": {
     "backlog_episodes": 108694,
     "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82960,
-    "prepared_source_episodes": 67989,
+    "uploaded_episodes": 82961,
+    "prepared_source_episodes": 67986,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 42,
+    "language_audited_sources": 43,
     "language_whisper_attempted_sources": 42,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53498,
@@ -21,26 +21,82 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T16:18:42Z",
-      "databaseId": 44345743573,
+      "createdAt": "2026-11-18T16:25:38Z",
+      "databaseId": 44347102736,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T16:18:30Z",
-      "databaseId": 44345704883,
+      "createdAt": "2026-11-18T16:24:51Z",
+      "databaseId": 44346947336,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T16:21:51Z",
+      "databaseId": 44346359162,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T16:21:45Z",
+      "databaseId": 44346339686,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "sync"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T16:20:39Z",
+      "databaseId": 44346129479,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T16:20:18Z",
+      "databaseId": 44346057603,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T16:20:12Z",
+      "databaseId": 44346037391,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T16:18:42Z",
+      "databaseId": 44345743573,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-18T16:18:30Z",
+      "databaseId": 44345704883,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
       "createdAt": "2026-11-18T16:13:32Z",
       "databaseId": 44344708935,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -68,19 +124,19 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T16:09:16Z",
       "databaseId": 44343870824,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T16:08:16Z",
       "databaseId": 44343680541,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:59:47Z",
-      "databaseId": 44342012590,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T15:58:34Z",
-      "databaseId": 44341783372,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T15:57:57Z",
-      "databaseId": 44341669007,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:56:26Z",
-      "databaseId": 44341385263,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:55:58Z",
-      "databaseId": 44341297281,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:54:53Z",
-      "databaseId": 44341092464,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T15:54:02Z",
-      "databaseId": 44340930358,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -203765,6 +203765,11 @@
         "episode_id": 127549,
         "display_name": "Ghost in the Shell: Stand Alone Complex S01E05 - 5. epizoda CZ Titulky",
         "video_id": 31154767
+      },
+      {
+        "episode_id": 202989,
+        "display_name": "Crazy Ex-Girlfriend S03E01 - 1. epizoda CZ Titulky",
+        "video_id": 31155331
       },
       {
         "episode_id": 114182,
@@ -592694,6 +592699,11 @@
         "video_id": 31154767
       },
       {
+        "episode_id": 202989,
+        "display_name": "Crazy Ex-Girlfriend S03E01 - 1. epizoda CZ Titulky",
+        "video_id": 31155331
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -779299,6 +779309,7 @@
   "language_verdicts": {},
   "language_whisper_statuses": {
     "ok": 41,
+    "disabled": 1,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
