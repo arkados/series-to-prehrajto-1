@@ -915313,6 +915313,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 83901,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 13,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E13 - Bitva u dvou mostů CZ Titulky",
+      "intent_id": "3e2cb1c152cb45f3979439dfc377c023",
+      "started_at": "2026-11-18T11:36:58Z",
+      "upload_account": "primary",
+      "source_id": -37864511906231573,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e13-the-battle-of-two-bridges-en/6d87be4806de55f9",
+      "size_bytes": 403058099,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333337,5 +1333353,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:20:29Z"
+  "last_updated": "2026-11-18T11:36:58Z"
 }
