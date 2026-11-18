@@ -913080,6 +913080,32 @@
         "download_sec": 72.3,
         "upload_sec": 40.8
       }
+    },
+    {
+      "episode_id": 49439,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 22,
+      "episode_code": "S04E22",
+      "display_name": "Tři kluci a nemluvně S04E22 - Svatba v ohrožení CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -44529473124425965,
+      "external_id": "587a4663c4969",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x22-svatba-v-ohrozeni-dvb-t-cz/587a4663c4969",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162016,
+      "size_bytes": 337209226,
+      "uploaded_at": "2026-11-18T22:50:37Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 39.5,
+        "upload_sec": 48.3
+      }
     }
   ],
   "pending_uploads": [
@@ -914188,18 +914214,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 49439,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 4,
-      "episode": 22,
-      "display_name": "Tři kluci a nemluvně S04E22 - Svatba v ohrožení CZ Dabing",
-      "intent_id": "c5ffd976bcb54c118b7118c239d18de8",
-      "started_at": "2026-11-18T22:49:09Z",
+      "episode_id": 109722,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 4,
+      "display_name": "Dynastie S07E04 - 4. epizoda CZ Titulky",
+      "intent_id": "a29b336695c24513a6142ae24f3cce7e",
+      "started_at": "2026-11-18T22:49:45Z",
       "upload_account": "serialy",
-      "source_id": -44529473124425965,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x22-svatba-v-ohrozeni-dvb-t-cz/587a4663c4969",
-      "size_bytes": 337209226,
+      "source_id": -41910732475391071,
+      "source_url": "https://prehraj.to/dynasty-s07e04-reward/5953671d4cf6b",
+      "size_bytes": 366938116,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1332226,5 +1332252,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:49:09Z"
+  "last_updated": "2026-11-18T22:50:37Z"
 }
