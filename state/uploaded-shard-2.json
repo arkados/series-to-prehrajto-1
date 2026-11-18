@@ -910870,6 +910870,32 @@
         "download_sec": 25.7,
         "upload_sec": 81.6
       }
+    },
+    {
+      "episode_id": 116963,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "Avengers - Sjednocení S02E13 - Thanos nepřemožitelný CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -45323307109616594,
+      "external_id": "2ca7fb7cf70ad77f",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e13-thanos-nepremozitelny-cs/2ca7fb7cf70ad77f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31141231,
+      "size_bytes": 328088850,
+      "uploaded_at": "2026-11-18T05:11:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.6,
+        "upload_sec": 39.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1330000,5 +1330026,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T05:04:00Z"
+  "last_updated": "2026-11-18T05:11:04Z"
 }
