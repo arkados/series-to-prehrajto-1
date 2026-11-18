@@ -913437,6 +913437,58 @@
         "download_sec": 20.5,
         "upload_sec": 128.8
       }
+    },
+    {
+      "episode_id": 120561,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 4,
+      "episode": 2,
+      "episode_code": "S04E02",
+      "display_name": "Crazy Ex-Girlfriend S04E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -9949755747507966,
+      "external_id": "5c4c3124862df",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s04e02/5c4c3124862df",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31141906,
+      "size_bytes": 315686254,
+      "uploaded_at": "2026-11-18T05:46:54Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.5,
+        "upload_sec": 37.4
+      }
+    },
+    {
+      "episode_id": 116953,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 16,
+      "episode_code": "S02E16",
+      "display_name": "Avengers - Sjednocení S02E16 - Malí hrdinové CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -51004808795899830,
+      "external_id": "e518693101cb09d4",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e16-small-time-heroes-cs/e518693101cb09d4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31141960,
+      "size_bytes": 328044277,
+      "uploaded_at": "2026-11-18T05:49:17Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.2,
+        "upload_sec": 43.3
+      }
     }
   ],
   "pending_uploads": [
@@ -914558,6 +914610,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49364,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Tři kluci a nemluvně S01E02 - Já ti to říkala CZ Dabing",
+      "intent_id": "c55b40c0edb34575b528a40f194bd6d8",
+      "started_at": "2026-11-18T05:59:24Z",
+      "upload_account": "primary",
+      "source_id": -65384527989876488,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e02-czdab/578bee70c469d",
+      "size_bytes": 350873636,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332583,5 +1332651,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T05:33:59Z"
+  "last_updated": "2026-11-18T05:59:24Z"
 }
