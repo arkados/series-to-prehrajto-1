@@ -913411,6 +913411,32 @@
         "download_sec": 22.2,
         "upload_sec": 61.2
       }
+    },
+    {
+      "episode_id": 96397,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 3,
+      "episode": 22,
+      "episode_code": "S03E22",
+      "display_name": "Dynastie S03E22 - 22. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -3387155519511554,
+      "external_id": "a5a39b179590583e",
+      "source_url": "https://prehraj.to/dynastie-s3e22-en/a5a39b179590583e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31141622,
+      "size_bytes": 440501138,
+      "uploaded_at": "2026-11-18T05:33:59Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 20.5,
+        "upload_sec": 128.8
+      }
     }
   ],
   "pending_uploads": [
@@ -914533,22 +914559,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 96397,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 3,
-      "episode": 22,
-      "display_name": "Dynastie S03E22 - 22. epizoda CZ Titulky",
-      "intent_id": "37ffe20a7df54bd99e3811e4b8954050",
-      "started_at": "2026-11-18T05:30:58Z",
-      "upload_account": "primary",
-      "source_id": -3387155519511554,
-      "source_url": "https://prehraj.to/dynastie-s3e22-en/a5a39b179590583e",
-      "size_bytes": 440501138,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332573,5 +1332583,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T05:32:27Z"
+  "last_updated": "2026-11-18T05:33:59Z"
 }
