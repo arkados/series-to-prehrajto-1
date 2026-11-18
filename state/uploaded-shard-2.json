@@ -912378,6 +912378,32 @@
         "download_sec": 14.3,
         "upload_sec": 34.8
       }
+    },
+    {
+      "episode_id": 127550,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -44124682510186801,
+      "external_id": "9b56e0c375c9ceec",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e6-c-the-copycat-will-dance-meme-ja/9b56e0c375c9ceec",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31156270,
+      "size_bytes": 409449250,
+      "uploaded_at": "2026-11-18T17:21:33Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.5,
+        "upload_sec": 37.9
+      }
     }
   ],
   "pending_uploads": [
@@ -913484,22 +913510,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 127550,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S01E06 - 6. epizoda CZ Titulky",
-      "intent_id": "b66abebd4bd942b4ac75cf05fae8f75d",
-      "started_at": "2026-11-18T17:19:48Z",
-      "upload_account": "serialy",
-      "source_id": -44124682510186801,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e6-c-the-copycat-will-dance-meme-ja/9b56e0c375c9ceec",
-      "size_bytes": 409449250,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331524,5 +1331534,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T17:19:48Z"
+  "last_updated": "2026-11-18T17:21:33Z"
 }
