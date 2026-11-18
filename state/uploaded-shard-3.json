@@ -912366,6 +912366,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49383,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 13,
+      "display_name": "Tři kluci a nemluvně S02E13 - Velké manévry CZ Dabing",
+      "intent_id": "7b05facafb2b44bdb60861a05c810ac6",
+      "started_at": "2026-11-18T09:35:40Z",
+      "upload_account": "serialy",
+      "source_id": -61952388276459599,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e13-czdab/578c17d9dd938",
+      "size_bytes": 348034330,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330390,5 +1330406,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:08:30Z"
+  "last_updated": "2026-11-18T09:35:40Z"
 }
