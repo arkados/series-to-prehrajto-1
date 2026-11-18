@@ -911858,6 +911858,32 @@
         "download_sec": 34.2,
         "upload_sec": 280.2
       }
+    },
+    {
+      "episode_id": 116979,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 3,
+      "episode_code": "S02E03",
+      "display_name": "Avengers - Sjednocení S02E03 - Do Valhally a zpět CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -62382597441760883,
+      "external_id": "5ad8289d88cf7",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e03-valhalla-can-wait/5ad8289d88cf7",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31151012,
+      "size_bytes": 327735830,
+      "uploaded_at": "2026-11-18T12:24:57Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 20.0,
+        "upload_sec": 58.1
+      }
     }
   ],
   "pending_uploads": [
@@ -912964,22 +912990,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 116979,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 2,
-      "episode": 3,
-      "display_name": "Avengers - Sjednocení S02E03 - Do Valhally a zpět CZ Dabing",
-      "intent_id": "7a395ab686354a29873bd16556d3a245",
-      "started_at": "2026-11-18T12:23:01Z",
-      "upload_account": "serialy",
-      "source_id": -62382597441760883,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e03-valhalla-can-wait/5ad8289d88cf7",
-      "size_bytes": 327735830,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331004,5 +1331014,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:23:01Z"
+  "last_updated": "2026-11-18T12:24:57Z"
 }
