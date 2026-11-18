@@ -911650,6 +911650,32 @@
         "download_sec": 23.6,
         "upload_sec": 50.9
       }
+    },
+    {
+      "episode_id": 49407,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 9,
+      "episode_code": "S03E09",
+      "display_name": "Tři kluci a nemluvně S03E09 - Britský akcent CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -69098497537704279,
+      "external_id": "66091f825c5b1",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e09-21-2014-cz-dab-go-brit-or-go-home/66091f825c5b1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150083,
+      "size_bytes": 336470318,
+      "uploaded_at": "2026-11-18T11:38:05Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 15.7,
+        "upload_sec": 38.2
+      }
     }
   ],
   "pending_uploads": [
@@ -912758,18 +912784,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 49407,
+      "episode_id": 49402,
       "series_id": 1144,
       "series_title": "Tři kluci a nemluvně",
       "season": 3,
-      "episode": 9,
-      "display_name": "Tři kluci a nemluvně S03E09 - Britský akcent CZ Dabing",
-      "intent_id": "920595e2ef7c4633b0576b04802c2dfd",
-      "started_at": "2026-11-18T11:36:58Z",
+      "episode": 4,
+      "display_name": "Tři kluci a nemluvně S03E04 - Katastrofa CZ Dabing",
+      "intent_id": "c5f8bbcdd4b547958f8b5bd26f2ad8ea",
+      "started_at": "2026-11-18T11:37:05Z",
       "upload_account": "serialy",
-      "source_id": -69098497537704279,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e09-21-2014-cz-dab-go-brit-or-go-home/66091f825c5b1",
-      "size_bytes": 336470318,
+      "source_id": -36310543634834163,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e04-21-2014-cz-dab-bonnie-s-unreal-estate/66091c62d35fc",
+      "size_bytes": 341872999,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1330796,5 +1330822,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:36:58Z"
+  "last_updated": "2026-11-18T11:38:05Z"
 }
