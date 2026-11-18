@@ -914867,6 +914867,32 @@
         "download_sec": 41.1,
         "upload_sec": 61.4
       }
+    },
+    {
+      "episode_id": 49416,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 18,
+      "episode_code": "S03E18",
+      "display_name": "Tři kluci a nemluvně S03E18 - První krůčky CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -42755743720595191,
+      "external_id": "587a458dc3193",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x18-prvni-krucky-dvb-t-cz/587a458dc3193",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158898,
+      "size_bytes": 336451166,
+      "uploaded_at": "2026-11-18T19:59:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 620.3,
+        "upload_sec": 34.8
+      }
     }
   ],
   "pending_uploads": [
@@ -915988,22 +916014,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49416,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 3,
-      "episode": 18,
-      "display_name": "Tři kluci a nemluvně S03E18 - První krůčky CZ Dabing",
-      "intent_id": "bf18ec45a0334c1c94cd41bb92371571",
-      "started_at": "2026-11-18T19:58:28Z",
-      "upload_account": "primary",
-      "source_id": -42755743720595191,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x18-prvni-krucky-dvb-t-cz/587a458dc3193",
-      "size_bytes": 336451166,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334029,5 +1334039,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T19:58:28Z"
+  "last_updated": "2026-11-18T19:59:45Z"
 }
