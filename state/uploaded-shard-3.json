@@ -912288,6 +912288,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49382,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 10,
+      "display_name": "Tři kluci a nemluvně S02E10 - Testy CZ Dabing",
+      "intent_id": "6b8ebfff2554444c87f445f5242421c5",
+      "started_at": "2026-11-18T09:01:50Z",
+      "upload_account": "serialy",
+      "source_id": -36156069791355414,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e10-czdab/578c159fcf1ed",
+      "size_bytes": 347526636,
+      "source_container": "avi",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49379,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 9,
+      "display_name": "Tři kluci a nemluvně S02E09 - Divoká párty CZ Dabing",
+      "intent_id": "e9e6b10c12ed45829c0f3a64da9e45a4",
+      "started_at": "2026-11-18T09:01:44Z",
+      "upload_account": "serialy",
+      "source_id": -26457270402037874,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e09-czdab/578c14d6d8e8f",
+      "size_bytes": 348069360,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330312,5 +1330344,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T08:44:06Z"
+  "last_updated": "2026-11-18T09:03:11Z"
 }
