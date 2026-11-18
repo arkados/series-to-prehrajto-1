@@ -911312,6 +911312,32 @@
         "download_sec": 18.2,
         "upload_sec": 70.8
       }
+    },
+    {
+      "episode_id": 83891,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E03 - Proč jsi lovcem trolů CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -22342138721502098,
+      "external_id": "acf22e7fc516ae09",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e3-wherefore-art-thou-trollhunter-en/acf22e7fc516ae09",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31146853,
+      "size_bytes": 432497345,
+      "uploaded_at": "2026-11-18T09:39:49Z",
+      "timing": {
+        "resolve_sec": 0.7,
+        "download_sec": 15.2,
+        "upload_sec": 62.2
+      }
     }
   ],
   "pending_uploads": [
@@ -912420,19 +912446,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 83891,
-      "series_id": 1968,
-      "series_title": "Lovci trolů od Guillerma Del Toro",
-      "season": 1,
-      "episode": 3,
-      "display_name": "Lovci trolů od Guillerma Del Toro S01E03 - Proč jsi lovcem trolů CZ Titulky",
-      "intent_id": "f3436054d9824534a0dcc8e2ee87411b",
-      "started_at": "2026-11-18T09:38:10Z",
+      "episode_id": 49386,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 14,
+      "display_name": "Tři kluci a nemluvně S02E14 - Společné hraní CZ Dabing",
+      "intent_id": "2eae305ff10e4c85a184cbb3ae231278",
+      "started_at": "2026-11-18T09:39:36Z",
       "upload_account": "serialy",
-      "source_id": -22342138721502098,
-      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e3-wherefore-art-thou-trollhunter-en/acf22e7fc516ae09",
-      "size_bytes": 432497345,
-      "source_container": "mp4",
+      "source_id": -27887827773652406,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e14-czdab/578c18cc741c9",
+      "size_bytes": 348363198,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1330458,5 +1330484,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:38:12Z"
+  "last_updated": "2026-11-18T09:39:49Z"
 }
