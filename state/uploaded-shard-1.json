@@ -914403,6 +914403,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 154081,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 1,
+      "display_name": "Strong Woman Do Bong Soon S01E01 - 1. epizoda CZ Titulky",
+      "intent_id": "47f7b3917c744cd8bdf4acaa44a7b38c",
+      "started_at": "2026-11-18T03:22:14Z",
+      "upload_account": "primary",
+      "source_id": -47619188320240886,
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s01e01-fantasticke-deti-cz-titulky/63416e1f74b95",
+      "size_bytes": 347084167,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332427,5 +1332443,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T03:13:11Z"
+  "last_updated": "2026-11-18T03:22:14Z"
 }
