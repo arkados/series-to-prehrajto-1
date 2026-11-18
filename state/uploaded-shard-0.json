@@ -915439,6 +915439,32 @@
         "download_sec": 15.0,
         "upload_sec": 30.4
       }
+    },
+    {
+      "episode_id": 109724,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 11,
+      "episode_code": "S07E11",
+      "display_name": "Dynastie S07E11 - 11. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -11606781935506206,
+      "external_id": "595367b5e85d0",
+      "source_url": "https://prehraj.to/dynasty-s07e11/595367b5e85d0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162405,
+      "size_bytes": 366929921,
+      "uploaded_at": "2026-11-18T23:02:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 14.6,
+        "upload_sec": 26.3
+      }
     }
   ],
   "pending_uploads": [
@@ -916560,22 +916586,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109724,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 7,
-      "episode": 11,
-      "display_name": "Dynastie S07E11 - 11. epizoda CZ Titulky",
-      "intent_id": "ef2d808675984216acfe9ee509fc87fa",
-      "started_at": "2026-11-18T23:01:57Z",
-      "upload_account": "primary",
-      "source_id": -11606781935506206,
-      "source_url": "https://prehraj.to/dynasty-s07e11/595367b5e85d0",
-      "size_bytes": 366929921,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334601,5 +1334611,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:01:57Z"
+  "last_updated": "2026-11-18T23:02:56Z"
 }
