@@ -1,18 +1,18 @@
 {
   "counts": {
     "backlog_episodes": 108788,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82871,
-    "prepared_source_episodes": 67928,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82872,
+    "prepared_source_episodes": 67890,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 41,
-    "language_whisper_attempted_sources": 41,
+    "language_audited_sources": 45,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53544,
+    "whisper_review_sources": 53543,
     "whisper_review_pending_sources": 36346,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52226,
@@ -21,26 +21,82 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T07:09:15Z",
-      "databaseId": 44256653904,
+      "createdAt": "2026-11-18T07:18:14Z",
+      "databaseId": 44257818495,
       "headBranch": "main",
-      "status": "pending",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T07:17:30Z",
+      "databaseId": 44257719640,
+      "headBranch": "main",
+      "status": "in_progress",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
-      "createdAt": "2026-11-18T07:09:07Z",
-      "databaseId": 44256637913,
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T07:15:40Z",
+      "databaseId": 44257483230,
       "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "sync"
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T07:14:09Z",
+      "databaseId": 44257281697,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T07:10:20Z",
+      "databaseId": 44256794676,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T07:10:15Z",
+      "databaseId": 44256784660,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T07:10:12Z",
+      "databaseId": 44256776799,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T07:09:15Z",
+      "databaseId": 44256653904,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-18T07:09:07Z",
+      "databaseId": 44256637913,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T07:08:58Z",
       "databaseId": 44256618771,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -92,11 +148,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-18T07:01:10Z",
       "databaseId": 44255622409,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -108,11 +164,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T06:59:29Z",
       "databaseId": 44255399955,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T06:57:17Z",
-      "databaseId": 44255145819,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T06:55:13Z",
-      "databaseId": 44254900899,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T06:55:07Z",
-      "databaseId": 44254887525,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T06:54:44Z",
-      "databaseId": 44254840389,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T06:54:39Z",
-      "databaseId": 44254828577,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T06:53:37Z",
-      "databaseId": 44254703420,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T06:50:05Z",
-      "databaseId": 44254266210,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -388765,6 +388765,11 @@
         "episode_id": 49367,
         "display_name": "Tři kluci a nemluvně S01E05 - Kočárek kočkolap CZ Dabing",
         "video_id": 31143723
+      },
+      {
+        "episode_id": 49366,
+        "display_name": "Tři kluci a nemluvně S01E04 - Neruším, pánové? CZ Dabing",
+        "video_id": 31143855
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -777247,6 +777252,11 @@
         "episode_id": 49367,
         "display_name": "Tři kluci a nemluvně S01E05 - Kočárek kočkolap CZ Dabing",
         "video_id": 31143723
+      },
+      {
+        "episode_id": 49366,
+        "display_name": "Tři kluci a nemluvně S01E04 - Neruším, pánové? CZ Dabing",
+        "video_id": 31143855
       }
     ],
     "prepared_not_upload_ready": [
@@ -778408,13 +778418,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 40,
+    "disabled": 5,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
     "needs_whisper": 35114,
     "whisper_confirmed_cz": 3905,
-    "whisper_non_cz_needs_subtitles": 13293,
+    "whisper_non_cz_needs_subtitles": 13292,
     "whisper_failed": 1232
   },
   "subtitle_followup_statuses": {
