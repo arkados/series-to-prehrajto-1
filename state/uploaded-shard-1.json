@@ -914763,6 +914763,32 @@
         "download_sec": 17.3,
         "upload_sec": 38.4
       }
+    },
+    {
+      "episode_id": 49401,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "Tři kluci a nemluvně S03E03 - Interview CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -64603644172857351,
+      "external_id": "66091c31c277d",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e03-21-2014-cz-dab-lights-camera-no-action/66091c31c277d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31157078,
+      "size_bytes": 335680454,
+      "uploaded_at": "2026-11-18T18:17:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.4,
+        "upload_sec": 28.6
+      }
     }
   ],
   "pending_uploads": [
@@ -915884,22 +915910,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49401,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 3,
-      "episode": 3,
-      "display_name": "Tři kluci a nemluvně S03E03 - Interview CZ Dabing",
-      "intent_id": "f2824b0e9871451eb576cfad1549682a",
-      "started_at": "2026-11-18T18:14:54Z",
-      "upload_account": "primary",
-      "source_id": -64603644172857351,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s03e03-21-2014-cz-dab-lights-camera-no-action/66091c31c277d",
-      "size_bytes": 335680454,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333925,5 +1333935,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T18:16:05Z"
+  "last_updated": "2026-11-18T18:17:43Z"
 }
