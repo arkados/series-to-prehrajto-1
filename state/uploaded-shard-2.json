@@ -913184,6 +913184,32 @@
         "download_sec": 14.8,
         "upload_sec": 26.1
       }
+    },
+    {
+      "episode_id": 127554,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -48458628415047446,
+      "external_id": "ecb53e77d463401b",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e10-sa-a-perfect-day-for-a-jungle-cruise-jungle-cruise-ja/ecb53e77d463401b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31163269,
+      "size_bytes": 398166475,
+      "uploaded_at": "2026-11-18T23:40:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.9,
+        "upload_sec": 39.9
+      }
     }
   ],
   "pending_uploads": [
@@ -914292,19 +914318,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 127554,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 1,
-      "episode": 10,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S01E10 - 10. epizoda CZ Titulky",
-      "intent_id": "b8f446902a824276a2c35102f8f013a4",
-      "started_at": "2026-11-18T23:38:54Z",
+      "episode_id": 109727,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 26,
+      "display_name": "Dynastie S07E26 - 26. epizoda CZ Titulky",
+      "intent_id": "6b91f344eb22400b94545bdb34dba0c3",
+      "started_at": "2026-11-18T23:39:42Z",
       "upload_account": "serialy",
-      "source_id": -48458628415047446,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e10-sa-a-perfect-day-for-a-jungle-cruise-jungle-cruise-ja/ecb53e77d463401b",
-      "size_bytes": 398166475,
-      "source_container": "mp4",
+      "source_id": -21477893251012152,
+      "source_url": "https://prehraj.to/dynasty-s07e26/595369280f0a4",
+      "size_bytes": 365910017,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332330,5 +1332356,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:38:55Z"
+  "last_updated": "2026-11-18T23:40:41Z"
 }
