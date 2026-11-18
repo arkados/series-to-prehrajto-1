@@ -911156,6 +911156,32 @@
         "download_sec": 16.9,
         "upload_sec": 33.8
       }
+    },
+    {
+      "episode_id": 109739,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 16,
+      "episode_code": "S08E16",
+      "display_name": "Dynastie S08E16 - 16. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -12071744772160649,
+      "external_id": "59536c61563e2",
+      "source_url": "https://prehraj.to/dynasty-s08e16/59536c61563e2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31145492,
+      "size_bytes": 365795332,
+      "uploaded_at": "2026-11-18T08:44:06Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.2,
+        "upload_sec": 65.4
+      }
     }
   ],
   "pending_uploads": [
@@ -912262,22 +912288,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 109739,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 8,
-      "episode": 16,
-      "display_name": "Dynastie S08E16 - 16. epizoda CZ Titulky",
-      "intent_id": "32c2785e3c31442ca4bfc2211220dae6",
-      "started_at": "2026-11-18T08:42:35Z",
-      "upload_account": "serialy",
-      "source_id": -12071744772160649,
-      "source_url": "https://prehraj.to/dynasty-s08e16/59536c61563e2",
-      "size_bytes": 365795332,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330302,5 +1330312,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T08:42:35Z"
+  "last_updated": "2026-11-18T08:44:06Z"
 }
