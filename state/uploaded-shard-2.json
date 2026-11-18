@@ -913614,6 +913614,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 130278,
+      "series_id": 3697,
+      "series_title": "Queer as Folk",
+      "season": 4,
+      "episode": 5,
+      "display_name": "Queer as Folk S04E05 - 5. epizoda CZ Titulky",
+      "intent_id": "a828b35ad820454bbf2e248f624f399a",
+      "started_at": "2026-11-18T18:14:55Z",
+      "upload_account": "serialy",
+      "source_id": -12248839310728366,
+      "source_url": "https://prehraj.to/queer-as-folk-s04e05-gay-serial-cz-titulky/5a0724572c3b8",
+      "size_bytes": 366587904,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331638,5 +1331654,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T18:11:47Z"
+  "last_updated": "2026-11-18T18:14:55Z"
 }
