@@ -912664,6 +912664,32 @@
         "download_sec": 552.5,
         "upload_sec": 43.1
       }
+    },
+    {
+      "episode_id": 148651,
+      "series_id": 4962,
+      "series_title": "Gumy, kam se podíváš",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Gumy, kam se podíváš S02E09 - 9. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -41529177892600093,
+      "external_id": "684b376508f10",
+      "source_url": "https://prehraj.to/tires-s02e09/684b376508f10",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158593,
+      "size_bytes": 541165662,
+      "uploaded_at": "2026-11-18T19:45:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 641.1,
+        "upload_sec": 38.3
+      }
     }
   ],
   "pending_uploads": [
@@ -913768,22 +913794,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 148651,
-      "series_id": 4962,
-      "series_title": "Gumy, kam se podíváš",
-      "season": 2,
-      "episode": 9,
-      "display_name": "Gumy, kam se podíváš S02E09 - 9. epizoda CZ Titulky",
-      "intent_id": "d309fa3561214053b365e6656dbe66aa",
-      "started_at": "2026-11-18T19:43:56Z",
-      "upload_account": "serialy",
-      "source_id": -41529177892600093,
-      "source_url": "https://prehraj.to/tires-s02e09/684b376508f10",
-      "size_bytes": 541165662,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1331810,5 +1331820,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T19:43:56Z"
+  "last_updated": "2026-11-18T19:45:21Z"
 }
