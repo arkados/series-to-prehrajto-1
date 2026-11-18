@@ -911690,6 +911690,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 96978,
+      "series_id": 2340,
+      "series_title": "Naprosto dokonalé",
+      "season": 5,
+      "episode": 1,
+      "display_name": "Naprosto dokonalé S05E01 - 1. epizoda CZ Titulky",
+      "intent_id": "301f59d34e0f40f89e104633e759ebd3",
+      "started_at": "2026-11-18T03:11:38Z",
+      "upload_account": "serialy",
+      "source_id": -24387393874625932,
+      "source_url": "https://prehraj.to/naprosto-dokonale-s5e1-cleanin-cs/8d28c56b02146329",
+      "size_bytes": 349768976,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329714,5 +1329730,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T02:44:04Z"
+  "last_updated": "2026-11-18T03:11:38Z"
 }
