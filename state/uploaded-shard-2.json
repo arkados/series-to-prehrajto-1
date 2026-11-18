@@ -912470,6 +912470,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 83890,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E02 - Zrození: 2. část CZ Titulky",
+      "intent_id": "5179379ea81b4f46bef8f8f119dfde3f",
+      "started_at": "2026-11-18T09:42:29Z",
+      "upload_account": "serialy",
+      "source_id": -59121019285677172,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e2-becoming-part-2-en/59bb883cd87cfa2a",
+      "size_bytes": 463718426,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330494,5 +1330510,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:41:27Z"
+  "last_updated": "2026-11-18T09:42:29Z"
 }
