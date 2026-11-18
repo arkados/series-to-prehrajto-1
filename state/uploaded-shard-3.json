@@ -910766,6 +910766,32 @@
         "download_sec": 13.8,
         "upload_sec": 31.4
       }
+    },
+    {
+      "episode_id": 89439,
+      "series_id": 2117,
+      "series_title": "Doktor Martin",
+      "season": 9,
+      "episode": 7,
+      "episode_code": "S09E07",
+      "display_name": "Doktor Martin S09E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -9980043971767931,
+      "external_id": "80695c2ec234e91d",
+      "source_url": "https://prehraj.to/doktor-martin-09x07-divci-problemy/80695c2ec234e91d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31140456,
+      "size_bytes": 364140954,
+      "uploaded_at": "2026-11-18T04:40:39Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.3,
+        "upload_sec": 42.6
+      }
     }
   ],
   "pending_uploads": [
@@ -911872,22 +911898,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 89439,
-      "series_id": 2117,
-      "series_title": "Doktor Martin",
-      "season": 9,
-      "episode": 7,
-      "display_name": "Doktor Martin S09E07 - 7. epizoda CZ Dabing",
-      "intent_id": "a9bbe02febc84e3ab602ffa8d01ad5d1",
-      "started_at": "2026-11-18T04:38:45Z",
-      "upload_account": "serialy",
-      "source_id": -9980043971767931,
-      "source_url": "https://prehraj.to/doktor-martin-09x07-divci-problemy/80695c2ec234e91d",
-      "size_bytes": 364140954,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329912,5 +1329922,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T04:38:45Z"
+  "last_updated": "2026-11-18T04:40:39Z"
 }
