@@ -1,19 +1,19 @@
 {
   "counts": {
     "backlog_episodes": 108685,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82974,
-    "prepared_source_episodes": 67943,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 82975,
+    "prepared_source_episodes": 67952,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 45,
-    "language_whisper_attempted_sources": 45,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53493,
-    "whisper_review_pending_sources": 36187,
+    "whisper_review_pending_sources": 36188,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52280,
     "subtitle_followup_pending_sources": 52280
@@ -21,10 +21,58 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T18:39:08Z",
+      "databaseId": 44372022542,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T18:39:06Z",
+      "databaseId": 44372018283,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T18:38:11Z",
+      "databaseId": 44371860265,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T18:37:07Z",
+      "databaseId": 44371673459,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T18:35:10Z",
+      "databaseId": 44371319597,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T18:33:25Z",
+      "databaseId": 44370998278,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T18:31:51Z",
       "databaseId": 44370709494,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -36,11 +84,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-18T18:29:17Z",
       "databaseId": 44370237616,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -68,27 +116,27 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T18:25:05Z",
       "databaseId": 44369481490,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T18:25:02Z",
       "databaseId": 44369473033,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T18:24:58Z",
       "databaseId": 44369461917,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -100,11 +148,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T18:22:50Z",
       "databaseId": 44369067952,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T18:13:31Z",
-      "databaseId": 44367333016,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T18:13:01Z",
-      "databaseId": 44367243093,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T18:11:57Z",
-      "databaseId": 44367045657,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T18:10:40Z",
-      "databaseId": 44366817974,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T18:07:34Z",
-      "databaseId": 44366240303,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T18:07:30Z",
-      "databaseId": 44366227607,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
     }
   ],
   "gaps": {
@@ -389280,6 +389280,11 @@
         "episode_id": 130278,
         "display_name": "Queer as Folk S04E05 - 5. epizoda CZ Titulky",
         "video_id": 31157051
+      },
+      {
+        "episode_id": 182515,
+        "display_name": "Šmoulové S05E22 - Marco Šmoulo a pepřový piráti CZ Dabing",
+        "video_id": 31157307
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -778277,6 +778282,11 @@
         "episode_id": 130278,
         "display_name": "Queer as Folk S04E05 - 5. epizoda CZ Titulky",
         "video_id": 31157051
+      },
+      {
+        "episode_id": 182515,
+        "display_name": "Šmoulové S05E22 - Marco Šmoulo a pepřový piráti CZ Dabing",
+        "video_id": 31157307
       }
     ],
     "prepared_not_upload_ready": [
@@ -779438,12 +779448,12 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 14,
-    "resolve_failed": 31
+    "ok": 39,
+    "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34954,
-    "whisper_confirmed_cz": 3994,
+    "needs_whisper": 34955,
+    "whisper_confirmed_cz": 3993,
     "whisper_non_cz_needs_subtitles": 13312,
     "whisper_failed": 1233
   },
