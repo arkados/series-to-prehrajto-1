@@ -911624,6 +911624,32 @@
         "download_sec": 19.2,
         "upload_sec": 72.6
       }
+    },
+    {
+      "episode_id": 83907,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 19,
+      "episode_code": "S01E19",
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E19 - Hlava v oblacích CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -53328128471186486,
+      "external_id": "0e1c8f413fb85d38",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e19-airheads-en/0e1c8f413fb85d38",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31149608,
+      "size_bytes": 422056059,
+      "uploaded_at": "2026-11-18T11:12:34Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 23.6,
+        "upload_sec": 50.9
+      }
     }
   ],
   "pending_uploads": [
@@ -912730,22 +912756,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 83907,
-      "series_id": 1968,
-      "series_title": "Lovci trolů od Guillerma Del Toro",
-      "season": 1,
-      "episode": 19,
-      "display_name": "Lovci trolů od Guillerma Del Toro S01E19 - Hlava v oblacích CZ Titulky",
-      "intent_id": "12314f4cc8c34c53a9a25df40ef4fa58",
-      "started_at": "2026-11-18T11:11:06Z",
-      "upload_account": "serialy",
-      "source_id": -53328128471186486,
-      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e19-airheads-en/0e1c8f413fb85d38",
-      "size_bytes": 422056059,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330770,5 +1330780,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:11:06Z"
+  "last_updated": "2026-11-18T11:12:34Z"
 }
