@@ -912664,6 +912664,32 @@
         "download_sec": 552.5,
         "upload_sec": 43.1
       }
+    },
+    {
+      "episode_id": 148651,
+      "series_id": 4962,
+      "series_title": "Gumy, kam se podíváš",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Gumy, kam se podíváš S02E09 - 9. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -41529177892600093,
+      "external_id": "684b376508f10",
+      "source_url": "https://prehraj.to/tires-s02e09/684b376508f10",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158593,
+      "size_bytes": 541165662,
+      "uploaded_at": "2026-11-18T19:45:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 641.1,
+        "upload_sec": 38.3
+      }
     }
   ],
   "pending_uploads": [
@@ -913770,6 +913796,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 99590,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 2,
+      "episode": 6,
+      "display_name": "She-Ra a princezny moci S02E06 - Light Spinner CZ Titulky",
+      "intent_id": "f25de2eb6d5545b080c42af374ea047f",
+      "started_at": "2026-11-18T19:59:36Z",
+      "upload_account": "serialy",
+      "source_id": -56844739588597962,
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e6-light-spinner-en/85651da728bbf155",
+      "size_bytes": 353804294,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331794,5 +1331836,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T19:30:46Z"
+  "last_updated": "2026-11-18T19:59:45Z"
 }
