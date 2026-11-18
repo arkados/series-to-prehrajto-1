@@ -912534,6 +912534,32 @@
         "download_sec": 13.0,
         "upload_sec": 32.5
       }
+    },
+    {
+      "episode_id": 182515,
+      "series_id": 9669,
+      "series_title": "Šmoulové",
+      "season": 5,
+      "episode": 22,
+      "episode_code": "S05E22",
+      "display_name": "Šmoulové S05E22 - Marco Šmoulo a pepřový piráti CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -19800104195128078,
+      "external_id": "a86299923202d26c",
+      "source_url": "https://prehraj.to/smoulove-s05e22-mui/a86299923202d26c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31157307,
+      "size_bytes": 326094817,
+      "uploaded_at": "2026-11-18T18:34:38Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.9,
+        "upload_sec": 67.8
+      }
     }
   ],
   "pending_uploads": [
@@ -913640,22 +913666,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 182515,
-      "series_id": 9669,
-      "series_title": "Šmoulové",
-      "season": 5,
-      "episode": 22,
-      "display_name": "Šmoulové S05E22 - Marco Šmoulo a pepřový piráti CZ Dabing",
-      "intent_id": "4928b82e5834437ba7db1b0750833a63",
-      "started_at": "2026-11-18T18:32:48Z",
-      "upload_account": "serialy",
-      "source_id": -19800104195128078,
-      "source_url": "https://prehraj.to/smoulove-s05e22-mui/a86299923202d26c",
-      "size_bytes": 326094817,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331680,5 +1331690,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T18:32:48Z"
+  "last_updated": "2026-11-18T18:34:38Z"
 }
