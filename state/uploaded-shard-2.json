@@ -910688,6 +910688,32 @@
         "download_sec": 22.5,
         "upload_sec": 89.3
       }
+    },
+    {
+      "episode_id": 116943,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Avengers - Sjednocení S02E05 - Pod hladinou CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -63802638326637541,
+      "external_id": "5a9e728499451",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e05-beneath-the-surface/5a9e728499451",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31139292,
+      "size_bytes": 327660660,
+      "uploaded_at": "2026-11-18T04:05:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.0,
+        "upload_sec": 80.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1329818,5 +1329844,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T03:53:04Z"
+  "last_updated": "2026-11-18T04:06:04Z"
 }
