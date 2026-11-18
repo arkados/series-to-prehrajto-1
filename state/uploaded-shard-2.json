@@ -910610,6 +910610,32 @@
         "download_sec": 17.3,
         "upload_sec": 38.0
       }
+    },
+    {
+      "episode_id": 116962,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 12,
+      "episode_code": "S02E12",
+      "display_name": "Avengers - Sjednocení S02E12 - Opojná chuť moci CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -36628069913180713,
+      "external_id": "5a66c06d9766f5cf",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e12-opojna-chut-moci-cs/5a66c06d9766f5cf",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31138526,
+      "size_bytes": 328147743,
+      "uploaded_at": "2026-11-18T03:29:01Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.0,
+        "upload_sec": 64.2
+      }
     }
   ],
   "pending_uploads": [
@@ -911716,22 +911742,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 116962,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 2,
-      "episode": 12,
-      "display_name": "Avengers - Sjednocení S02E12 - Opojná chuť moci CZ Dabing",
-      "intent_id": "b00cce9558aa4edba6979a3b617c47fc",
-      "started_at": "2026-11-18T03:26:56Z",
-      "upload_account": "serialy",
-      "source_id": -36628069913180713,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e12-opojna-chut-moci-cs/5a66c06d9766f5cf",
-      "size_bytes": 328147743,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329756,5 +1329766,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T03:26:56Z"
+  "last_updated": "2026-11-18T03:29:01Z"
 }
