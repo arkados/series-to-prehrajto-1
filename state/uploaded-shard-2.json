@@ -910740,6 +910740,32 @@
         "download_sec": 36.0,
         "upload_sec": 192.6
       }
+    },
+    {
+      "episode_id": 49902,
+      "series_id": 1151,
+      "series_title": "Beze stopy",
+      "season": 4,
+      "episode": 13,
+      "episode_code": "S04E13",
+      "display_name": "Beze stopy S04E13 - Vztek CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68955458298254600,
+      "external_id": "8594ff71910450e3",
+      "source_url": "https://prehraj.to/beze-stopy-s04e13/8594ff71910450e3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31139939,
+      "size_bytes": 366919680,
+      "uploaded_at": "2026-11-18T04:22:16Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.8,
+        "upload_sec": 31.4
+      }
     }
   ],
   "pending_uploads": [
@@ -911846,22 +911872,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49902,
-      "series_id": 1151,
-      "series_title": "Beze stopy",
-      "season": 4,
-      "episode": 13,
-      "display_name": "Beze stopy S04E13 - Vztek CZ Dabing",
-      "intent_id": "2c928dcdb5cc411c85a8b9fc10179da0",
-      "started_at": "2026-11-18T04:20:09Z",
-      "upload_account": "serialy",
-      "source_id": -68955458298254600,
-      "source_url": "https://prehraj.to/beze-stopy-s04e13/8594ff71910450e3",
-      "size_bytes": 366919680,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329886,5 +1329896,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T04:20:09Z"
+  "last_updated": "2026-11-18T04:22:16Z"
 }
