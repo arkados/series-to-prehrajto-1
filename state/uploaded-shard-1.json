@@ -915543,6 +915543,32 @@
         "download_sec": 14.0,
         "upload_sec": 27.3
       }
+    },
+    {
+      "episode_id": 127553,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -65570367064825924,
+      "external_id": "4856215beebac9a2",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e9-c-the-man-who-lurks-in-the-darkness-of-the-net-chat-chat-chat-ja/4856215beebac9a2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31163264,
+      "size_bytes": 465474189,
+      "uploaded_at": "2026-11-18T23:40:04Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 38.0,
+        "upload_sec": 35.4
+      }
     }
   ],
   "pending_uploads": [
@@ -916663,22 +916689,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 127553,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 1,
-      "episode": 9,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S01E09 - 9. epizoda CZ Titulky",
-      "intent_id": "fc2a3c9fc8fd448aa197d0391f92de0e",
-      "started_at": "2026-11-18T23:38:55Z",
-      "upload_account": "primary",
-      "source_id": -65570367064825924,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e9-c-the-man-who-lurks-in-the-darkness-of-the-net-chat-chat-chat-ja/4856215beebac9a2",
-      "size_bytes": 465474189,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1334705,5 +1334715,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:38:55Z"
+  "last_updated": "2026-11-18T23:40:04Z"
 }
