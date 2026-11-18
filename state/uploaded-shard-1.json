@@ -914893,6 +914893,32 @@
         "download_sec": 620.3,
         "upload_sec": 34.8
       }
+    },
+    {
+      "episode_id": 49425,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 6,
+      "episode_code": "S04E06",
+      "display_name": "Tři kluci a nemluvně S04E06 - Mrtvá Bonnie CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -51801439821666738,
+      "external_id": "587a4639e78f9",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x06-mrtva-donnie-dvb-t-cz/587a4639e78f9",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158944,
+      "size_bytes": 331301628,
+      "uploaded_at": "2026-11-18T20:03:42Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 640.1,
+        "upload_sec": 33.2
+      }
     }
   ],
   "pending_uploads": [
@@ -916014,22 +916040,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49425,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 4,
-      "episode": 6,
-      "display_name": "Tři kluci a nemluvně S04E06 - Mrtvá Bonnie CZ Dabing",
-      "intent_id": "67c8e731aa254798a7cfb804e2376a0d",
-      "started_at": "2026-11-18T20:01:59Z",
-      "upload_account": "primary",
-      "source_id": -51801439821666738,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x06-mrtva-donnie-dvb-t-cz/587a4639e78f9",
-      "size_bytes": 331301628,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334055,5 +1334065,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T20:01:59Z"
+  "last_updated": "2026-11-18T20:03:42Z"
 }
