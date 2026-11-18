@@ -910636,6 +910636,32 @@
         "download_sec": 19.0,
         "upload_sec": 64.2
       }
+    },
+    {
+      "episode_id": 96982,
+      "series_id": 2340,
+      "series_title": "Naprosto dokonalé",
+      "season": 5,
+      "episode": 5,
+      "episode_code": "S05E05",
+      "display_name": "Naprosto dokonalé S05E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -64097612784715159,
+      "external_id": "5910eb750a7dc",
+      "source_url": "https://prehraj.to/absolutely-fabulous-s05e05-birthin/5910eb750a7dc",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31138851,
+      "size_bytes": 365901509,
+      "uploaded_at": "2026-11-18T03:47:40Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 13.4,
+        "upload_sec": 36.8
+      }
     }
   ],
   "pending_uploads": [
@@ -911740,6 +911766,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 157815,
+      "series_id": 5404,
+      "series_title": "Strong Woman Do Bong Soon",
+      "season": 1,
+      "episode": 12,
+      "display_name": "Strong Woman Do Bong Soon S01E12 - 12. epizoda CZ Titulky",
+      "intent_id": "0a6632559fc841afb468d030015a4cfc",
+      "started_at": "2026-11-18T03:50:43Z",
+      "upload_account": "serialy",
+      "source_id": -71484141117040046,
+      "source_url": "https://prehraj.to/strong-woman-do-bong-soon-s1e12-help-me-ko/8f10ba6d611bc0b5",
+      "size_bytes": 642550311,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1329766,5 +1329808,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T03:43:18Z"
+  "last_updated": "2026-11-18T03:50:43Z"
 }
