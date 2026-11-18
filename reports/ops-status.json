@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108764,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82889,
-    "prepared_source_episodes": 67861,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82890,
+    "prepared_source_episodes": 67860,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
@@ -21,10 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T09:21:06Z",
+      "databaseId": 44275092724,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T09:10:09Z",
+      "databaseId": 44273384413,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T09:07:51Z",
+      "databaseId": 44273028840,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T09:07:47Z",
+      "databaseId": 44273018410,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T09:07:44Z",
+      "databaseId": 44273009972,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T09:07:40Z",
+      "databaseId": 44272999265,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-18T09:07:18Z",
+      "databaseId": 44272942799,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T09:06:12Z",
       "databaseId": 44272771620,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,11 +116,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T09:00:36Z",
       "databaseId": 44271903773,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -119,62 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-18T08:49:03Z",
       "databaseId": 44270244075,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:48:03Z",
-      "databaseId": 44270101008,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T08:46:37Z",
-      "databaseId": 44269901021,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:45:56Z",
-      "databaseId": 44269804891,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:45:52Z",
-      "databaseId": 44269793352,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:45:49Z",
-      "databaseId": 44269786710,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T08:45:43Z",
-      "databaseId": 44269771467,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:44:29Z",
-      "databaseId": 44269590149,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
@@ -388855,6 +388855,11 @@
         "episode_id": 49379,
         "display_name": "Tři kluci a nemluvně S02E09 - Divoká párty CZ Dabing",
         "video_id": 31145966
+      },
+      {
+        "episode_id": 83895,
+        "display_name": "Lovci trolů od Guillerma Del Toro S01E07 - Hon na měnivce CZ Titulky",
+        "video_id": 31146051
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -777427,6 +777432,11 @@
         "episode_id": 49379,
         "display_name": "Tři kluci a nemluvně S02E09 - Divoká párty CZ Dabing",
         "video_id": 31145966
+      },
+      {
+        "episode_id": 83895,
+        "display_name": "Lovci trolů od Guillerma Del Toro S01E07 - Hon na měnivce CZ Titulky",
+        "video_id": 31146051
       }
     ],
     "prepared_not_upload_ready": [
