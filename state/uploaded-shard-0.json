@@ -914481,6 +914481,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 96984,
+      "series_id": 2340,
+      "series_title": "Naprosto dokonalé",
+      "season": 5,
+      "episode": 7,
+      "display_name": "Naprosto dokonalé S05E07 - 7. epizoda CZ Dabing",
+      "intent_id": "6ac0fa8403334a65a2bc5f0832d70ad1",
+      "started_at": "2026-11-18T04:04:07Z",
+      "upload_account": "primary",
+      "source_id": -20328048694626217,
+      "source_url": "https://prehraj.to/naprosto-dokonale-s5e7-exploitin-cs/38505be950b2c05e",
+      "size_bytes": 327492215,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332505,5 +1332521,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T03:47:40Z"
+  "last_updated": "2026-11-18T04:04:07Z"
 }
