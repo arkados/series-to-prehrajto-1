@@ -913463,6 +913463,32 @@
         "download_sec": 14.5,
         "upload_sec": 37.4
       }
+    },
+    {
+      "episode_id": 116953,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 16,
+      "episode_code": "S02E16",
+      "display_name": "Avengers - Sjednocení S02E16 - Malí hrdinové CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -51004808795899830,
+      "external_id": "e518693101cb09d4",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e16-small-time-heroes-cs/e518693101cb09d4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31141960,
+      "size_bytes": 328044277,
+      "uploaded_at": "2026-11-18T05:49:17Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.2,
+        "upload_sec": 43.3
+      }
     }
   ],
   "pending_uploads": [
@@ -914583,22 +914609,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 116953,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 2,
-      "episode": 16,
-      "display_name": "Avengers - Sjednocení S02E16 - Malí hrdinové CZ Dabing",
-      "intent_id": "b28026dc110e4f6abec79d7c45d89675",
-      "started_at": "2026-11-18T05:47:59Z",
-      "upload_account": "primary",
-      "source_id": -51004808795899830,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s2e16-small-time-heroes-cs/e518693101cb09d4",
-      "size_bytes": 328044277,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1332625,5 +1332635,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T05:47:59Z"
+  "last_updated": "2026-11-18T05:49:17Z"
 }
