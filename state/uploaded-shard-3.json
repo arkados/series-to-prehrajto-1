@@ -913458,6 +913458,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127551,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E07 - 7. epizoda CZ Titulky",
+      "intent_id": "0412040aacb94497bd92076fd67b7831",
+      "started_at": "2026-11-18T16:47:17Z",
+      "upload_account": "serialy",
+      "source_id": -18014929254903654,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e7-sa-idolatry-idolator-ja/16c3b9abe33c47e4",
+      "size_bytes": 399053604,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331482,5 +1331498,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T16:25:37Z"
+  "last_updated": "2026-11-18T16:47:17Z"
 }
