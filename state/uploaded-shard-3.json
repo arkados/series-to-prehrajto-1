@@ -910948,6 +910948,32 @@
         "download_sec": 21.5,
         "upload_sec": 99.2
       }
+    },
+    {
+      "episode_id": 183855,
+      "series_id": 9680,
+      "series_title": "Strážci vesmíru",
+      "season": 11,
+      "episode": 1,
+      "episode_code": "S11E01",
+      "display_name": "Strážci vesmíru S11E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -5554241268250989,
+      "external_id": "65172feb05a3e",
+      "source_url": "https://prehraj.to/power-rangers-s11e01-prelude-to-a-storm-480p-x265-edge2020/65172feb05a3e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31143395,
+      "size_bytes": 317292266,
+      "uploaded_at": "2026-11-18T06:57:02Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.7,
+        "upload_sec": 28.2
+      }
     }
   ],
   "pending_uploads": [
@@ -912052,22 +912078,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 183855,
-      "series_id": 9680,
-      "series_title": "Strážci vesmíru",
-      "season": 11,
-      "episode": 1,
-      "display_name": "Strážci vesmíru S11E01 - 1. epizoda CZ Titulky",
-      "intent_id": "6b69a2e7e17747d29ef26269c1183553",
-      "started_at": "2026-11-18T06:55:57Z",
-      "upload_account": "serialy",
-      "source_id": -5554241268250989,
-      "source_url": "https://prehraj.to/power-rangers-s11e01-prelude-to-a-storm-480p-x265-edge2020/65172feb05a3e",
-      "size_bytes": 317292266,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1330094,5 +1330104,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T06:55:57Z"
+  "last_updated": "2026-11-18T06:57:02Z"
 }
