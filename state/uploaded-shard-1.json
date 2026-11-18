@@ -915023,6 +915023,32 @@
         "download_sec": 431.5,
         "upload_sec": 36.6
       }
+    },
+    {
+      "episode_id": 49433,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 15,
+      "episode_code": "S04E15",
+      "display_name": "Tři kluci a nemluvně S04E15 - Jednorázovka CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -67856864711191128,
+      "external_id": "587a463ff11c8",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x15-jednorazovka-dvb-t-cz/587a463ff11c8",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31159963,
+      "size_bytes": 337165308,
+      "uploaded_at": "2026-11-18T21:06:49Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 443.2,
+        "upload_sec": 25.6
+      }
     }
   ],
   "pending_uploads": [
@@ -916144,22 +916170,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49433,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 4,
-      "episode": 15,
-      "display_name": "Tři kluci a nemluvně S04E15 - Jednorázovka CZ Dabing",
-      "intent_id": "b2aab45868d6460eb8fbf6ef52d2d9ae",
-      "started_at": "2026-11-18T21:05:48Z",
-      "upload_account": "primary",
-      "source_id": -67856864711191128,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x15-jednorazovka-dvb-t-cz/587a463ff11c8",
-      "size_bytes": 337165308,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334185,5 +1334195,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T21:05:48Z"
+  "last_updated": "2026-11-18T21:06:49Z"
 }
