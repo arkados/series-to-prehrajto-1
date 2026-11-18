@@ -915205,6 +915205,58 @@
         "download_sec": 619.0,
         "upload_sec": 35.9
       }
+    },
+    {
+      "episode_id": 49440,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 17,
+      "episode_code": "S04E17",
+      "display_name": "Tři kluci a nemluvně S04E17 - Válka Wheelerových CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -62941231229030801,
+      "external_id": "66092d84811c8",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e17-22-2014-cz-dab-wheeler-war/66092d84811c8",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161287,
+      "size_bytes": 334579964,
+      "uploaded_at": "2026-11-18T22:12:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.4,
+        "upload_sec": 48.5
+      }
+    },
+    {
+      "episode_id": 49436,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 18,
+      "episode_code": "S04E18",
+      "display_name": "Tři kluci a nemluvně S04E18 - Kdo se postará o Emmu CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -48872390735152602,
+      "external_id": "66092dc640a9f",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e18-22-2014-cz-dab-parental-guidance-suggested/66092dc640a9f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161327,
+      "size_bytes": 335947892,
+      "uploaded_at": "2026-11-18T22:16:09Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 72.2,
+        "upload_sec": 35.6
+      }
     }
   ],
   "pending_uploads": [
@@ -916326,6 +916378,38 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 109736,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 24,
+      "display_name": "Dynastie S06E24 - 24. epizoda CZ Titulky",
+      "intent_id": "5344dea7c2b040e2b4dae135d8695da1",
+      "started_at": "2026-11-18T22:28:45Z",
+      "upload_account": "primary",
+      "source_id": -9659121247080917,
+      "source_url": "https://prehraj.to/dynasty-s06e24/59536b639c964",
+      "size_bytes": 320005306,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49437,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 20,
+      "display_name": "Tři kluci a nemluvně S04E20 - Svatební šaty CZ Dabing",
+      "intent_id": "2a51a78bb2b741c0b1bcb4108b96799a",
+      "started_at": "2026-11-18T22:29:27Z",
+      "upload_account": "primary",
+      "source_id": -61845768960721415,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e20-22-2014-cz-dab-till-dress-do-us-part/66092f05d7e91",
+      "size_bytes": 334633042,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334351,5 +1334435,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:08:01Z"
+  "last_updated": "2026-11-18T22:29:27Z"
 }
