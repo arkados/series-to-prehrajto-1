@@ -1,9 +1,9 @@
 {
   "counts": {
-    "backlog_episodes": 108788,
-    "manifest_upload_ready_episodes": 0,
-    "uploaded_episodes": 82885,
-    "prepared_source_episodes": 67835,
+    "backlog_episodes": 108764,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 82889,
+    "prepared_source_episodes": 67861,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
@@ -12,27 +12,83 @@
     "language_audited_sources": 40,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53533,
-    "whisper_review_pending_sources": 36312,
+    "whisper_review_sources": 53529,
+    "whisper_review_pending_sources": 36301,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52230,
-    "subtitle_followup_pending_sources": 52230
+    "subtitle_followup_sources": 52231,
+    "subtitle_followup_pending_sources": 52231
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T08:59:13Z",
-      "databaseId": 44271697098,
+      "createdAt": "2026-11-18T09:06:12Z",
+      "databaseId": 44272771620,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T09:05:11Z",
+      "databaseId": 44272609605,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T09:04:15Z",
+      "databaseId": 44272466350,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T09:00:44Z",
+      "databaseId": 44271925051,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T09:00:39Z",
+      "databaseId": 44271911830,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T09:00:36Z",
+      "databaseId": 44271903773,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T09:00:36Z",
+      "databaseId": 44271903553,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "refresh-backlog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T08:59:13Z",
+      "databaseId": 44271697098,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-18T08:56:06Z",
       "databaseId": 44271263210,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -68,11 +124,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T08:48:03Z",
       "databaseId": 44270101008,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -119,62 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-18T08:44:29Z",
       "databaseId": 44269590149,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:42:12Z",
-      "databaseId": 44269271465,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:37:15Z",
-      "databaseId": 44268568552,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T08:37:14Z",
-      "databaseId": 44268565351,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:37:07Z",
-      "databaseId": 44268546751,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:34:27Z",
-      "databaseId": 44268158115,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-18T08:34:24Z",
-      "databaseId": 44268150734,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T08:32:57Z",
-      "databaseId": 44267940291,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
@@ -203617,6 +203617,16 @@
         "video_id": 31145396
       },
       {
+        "episode_id": 49377,
+        "display_name": "Tři kluci a nemluvně S02E06 - Emma jde do jeslí CZ Dabing",
+        "video_id": 31145915
+      },
+      {
+        "episode_id": 49380,
+        "display_name": "Tři kluci a nemluvně S02E07 - Kam zmizel beránek CZ Dabing",
+        "video_id": 31145926
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -388835,6 +388845,16 @@
         "episode_id": 109739,
         "display_name": "Dynastie S08E16 - 16. epizoda CZ Titulky",
         "video_id": 31145492
+      },
+      {
+        "episode_id": 49382,
+        "display_name": "Tři kluci a nemluvně S02E10 - Testy CZ Dabing",
+        "video_id": 31145934
+      },
+      {
+        "episode_id": 49379,
+        "display_name": "Tři kluci a nemluvně S02E09 - Divoká párty CZ Dabing",
+        "video_id": 31145966
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -592169,6 +592189,16 @@
         "video_id": 31145396
       },
       {
+        "episode_id": 49377,
+        "display_name": "Tři kluci a nemluvně S02E06 - Emma jde do jeslí CZ Dabing",
+        "video_id": 31145915
+      },
+      {
+        "episode_id": 49380,
+        "display_name": "Tři kluci a nemluvně S02E07 - Kam zmizel beránek CZ Dabing",
+        "video_id": 31145926
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -777387,6 +777417,16 @@
         "episode_id": 109739,
         "display_name": "Dynastie S08E16 - 16. epizoda CZ Titulky",
         "video_id": 31145492
+      },
+      {
+        "episode_id": 49382,
+        "display_name": "Tři kluci a nemluvně S02E10 - Testy CZ Dabing",
+        "video_id": 31145934
+      },
+      {
+        "episode_id": 49379,
+        "display_name": "Tři kluci a nemluvně S02E09 - Divoká párty CZ Dabing",
+        "video_id": 31145966
       }
     ],
     "prepared_not_upload_ready": [
@@ -778552,12 +778592,12 @@
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 35079,
-    "whisper_confirmed_cz": 3931,
-    "whisper_non_cz_needs_subtitles": 13290,
+    "needs_whisper": 35068,
+    "whisper_confirmed_cz": 3943,
+    "whisper_non_cz_needs_subtitles": 13285,
     "whisper_failed": 1233
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52230
+    "needs_subtitle_setup_after_prehrajto_processing": 52231
   }
 }
