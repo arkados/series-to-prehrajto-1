@@ -912638,6 +912638,32 @@
         "download_sec": 12.2,
         "upload_sec": 30.6
       }
+    },
+    {
+      "episode_id": 49422,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 3,
+      "episode_code": "S04E03",
+      "display_name": "Tři kluci a nemluvně S04E03 - Milostné psaníčko CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68150698460722509,
+      "external_id": "587a45f1b9f40",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x03-milostne-psanicko-dvb-t-cz/587a45f1b9f40",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158388,
+      "size_bytes": 337152782,
+      "uploaded_at": "2026-11-18T19:30:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 552.5,
+        "upload_sec": 43.1
+      }
     }
   ],
   "pending_uploads": [
@@ -913742,6 +913768,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 148651,
+      "series_id": 4962,
+      "series_title": "Gumy, kam se podíváš",
+      "season": 2,
+      "episode": 9,
+      "display_name": "Gumy, kam se podíváš S02E09 - 9. epizoda CZ Titulky",
+      "intent_id": "d309fa3561214053b365e6656dbe66aa",
+      "started_at": "2026-11-18T19:43:56Z",
+      "upload_account": "serialy",
+      "source_id": -41529177892600093,
+      "source_url": "https://prehraj.to/tires-s02e09/684b376508f10",
+      "size_bytes": 541165662,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1331768,5 +1331810,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T19:21:19Z"
+  "last_updated": "2026-11-18T19:43:56Z"
 }
