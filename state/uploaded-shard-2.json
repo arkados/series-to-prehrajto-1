@@ -911052,6 +911052,32 @@
         "download_sec": 18.2,
         "upload_sec": 38.6
       }
+    },
+    {
+      "episode_id": 49370,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Tři kluci a nemluvně S01E09 - Rodinné foto CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -14891528679993687,
+      "external_id": "578bf4cfa8155",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e09-czdab/578bf4cfa8155",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31144303,
+      "size_bytes": 350112442,
+      "uploaded_at": "2026-11-18T07:38:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.8,
+        "upload_sec": 82.7
+      }
     }
   ],
   "pending_uploads": [
@@ -912158,22 +912184,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 49370,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 1,
-      "episode": 9,
-      "display_name": "Tři kluci a nemluvně S01E09 - Rodinné foto CZ Dabing",
-      "intent_id": "0e1faa463a144410beabb990d7440180",
-      "started_at": "2026-11-18T07:36:59Z",
-      "upload_account": "serialy",
-      "source_id": -14891528679993687,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e09-czdab/578bf4cfa8155",
-      "size_bytes": 350112442,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330198,5 +1330208,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T07:36:59Z"
+  "last_updated": "2026-11-18T07:38:59Z"
 }
