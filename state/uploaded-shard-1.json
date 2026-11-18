@@ -914633,6 +914633,32 @@
         "download_sec": 262.4,
         "upload_sec": 38.4
       }
+    },
+    {
+      "episode_id": 202989,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 3,
+      "episode": 1,
+      "episode_code": "S03E01",
+      "display_name": "Crazy Ex-Girlfriend S03E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -64293677422888187,
+      "external_id": "f50741a580732201",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s03e01-josh-s-ex-girlfriend-wants-revenge-en/f50741a580732201",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31155331,
+      "size_bytes": 547675720,
+      "uploaded_at": "2026-11-18T16:25:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 93.5,
+        "upload_sec": 32.8
+      }
     }
   ],
   "pending_uploads": [
@@ -915755,22 +915781,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 202989,
-      "series_id": 3183,
-      "series_title": "Crazy Ex-Girlfriend",
-      "season": 3,
-      "episode": 1,
-      "display_name": "Crazy Ex-Girlfriend S03E01 - 1. epizoda CZ Titulky",
-      "intent_id": "7380016d105148d4a9a0a9f737c3e75b",
-      "started_at": "2026-11-18T16:24:23Z",
-      "upload_account": "primary",
-      "source_id": -64293677422888187,
-      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s03e01-josh-s-ex-girlfriend-wants-revenge-en/f50741a580732201",
-      "size_bytes": 547675720,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1333795,5 +1333805,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T16:24:23Z"
+  "last_updated": "2026-11-18T16:25:37Z"
 }
