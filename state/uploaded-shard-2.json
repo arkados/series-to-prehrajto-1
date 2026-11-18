@@ -913302,6 +913302,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 120582,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 3,
+      "episode": 13,
+      "display_name": "Crazy Ex-Girlfriend S03E13 - 13. epizoda CZ Titulky",
+      "intent_id": "13d79d5647594af0935ea9824be675b4",
+      "started_at": "2026-11-18T13:43:43Z",
+      "upload_account": "serialy",
+      "source_id": -55291476736174376,
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s03e13-nathaniel-is-irrelevant/b92d8b1ac3db9ecc",
+      "size_bytes": 447168103,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1331326,5 +1331342,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T13:36:16Z"
+  "last_updated": "2026-11-18T13:43:43Z"
 }
