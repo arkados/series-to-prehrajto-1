@@ -912872,6 +912872,32 @@
         "download_sec": 779.0,
         "upload_sec": 38.7
       }
+    },
+    {
+      "episode_id": 127546,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -22176791908511432,
+      "external_id": "6e9ef52a29c1505c",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e2-sa-proof-of-recklessness-testation-ja/6e9ef52a29c1505c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31160831,
+      "size_bytes": 477294632,
+      "uploaded_at": "2026-11-18T21:42:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 933.6,
+        "upload_sec": 50.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1332002,5 +1332028,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T21:36:49Z"
+  "last_updated": "2026-11-18T21:42:39Z"
 }
