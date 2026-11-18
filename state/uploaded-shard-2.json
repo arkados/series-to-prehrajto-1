@@ -912808,6 +912808,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 83902,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 14,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E14 - Návrat lovce trolů CZ Titulky",
+      "intent_id": "d2ac8c13f4d54d8ea773cd9781a9c435",
+      "started_at": "2026-11-18T11:40:54Z",
+      "upload_account": "serialy",
+      "source_id": -71265803849977409,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e14-return-of-the-trollhunter-en/5ef664ef33d8e4c3",
+      "size_bytes": 318772695,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330832,5 +1330848,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:39:05Z"
+  "last_updated": "2026-11-18T11:40:54Z"
 }
