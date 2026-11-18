@@ -912586,6 +912586,58 @@
         "download_sec": 532.4,
         "upload_sec": 43.2
       }
+    },
+    {
+      "episode_id": 49419,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 1,
+      "episode_code": "S04E01",
+      "display_name": "Tři kluci a nemluvně S04E01 - Halloween CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -60938484063112857,
+      "external_id": "587a45ea93b11",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x01-halloween-dvb-t-cz/587a45ea93b11",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31157754,
+      "size_bytes": 337239088,
+      "uploaded_at": "2026-11-18T18:52:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.8,
+        "upload_sec": 32.5
+      }
+    },
+    {
+      "episode_id": 49423,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 4,
+      "episode_code": "S04E04",
+      "display_name": "Tři kluci a nemluvně S04E04 - Vidím šílené lidi CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58309380019613375,
+      "external_id": "66092714453e5",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e04-22-2014-cz-dab-i-see-crazy-people/66092714453e5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31158254,
+      "size_bytes": 337136406,
+      "uploaded_at": "2026-11-18T19:21:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.2,
+        "upload_sec": 30.6
+      }
     }
   ],
   "pending_uploads": [
@@ -913692,6 +913744,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49422,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 3,
+      "display_name": "Tři kluci a nemluvně S04E03 - Milostné psaníčko CZ Dabing",
+      "intent_id": "c0aa23bb90ad44e0b8756a31a9d80c5f",
+      "started_at": "2026-11-18T19:29:15Z",
+      "upload_account": "serialy",
+      "source_id": -68150698460722509,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x03-milostne-psanicko-dvb-t-cz/587a45f1b9f40",
+      "size_bytes": 337152782,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331716,5 +1331784,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T18:45:20Z"
+  "last_updated": "2026-11-18T19:29:15Z"
 }
