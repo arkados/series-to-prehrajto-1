@@ -912378,6 +912378,58 @@
         "download_sec": 14.3,
         "upload_sec": 34.8
       }
+    },
+    {
+      "episode_id": 127550,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -44124682510186801,
+      "external_id": "9b56e0c375c9ceec",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e6-c-the-copycat-will-dance-meme-ja/9b56e0c375c9ceec",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31156270,
+      "size_bytes": 409449250,
+      "uploaded_at": "2026-11-18T17:21:33Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.5,
+        "upload_sec": 37.9
+      }
+    },
+    {
+      "episode_id": 49410,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 13,
+      "episode_code": "S03E13",
+      "display_name": "Tři kluci a nemluvně S03E13 - Nešťastná láska CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58844727869136272,
+      "external_id": "587a45804cb29",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x13-nestastna-laska-dvb-t-cz/587a45804cb29",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31156675,
+      "size_bytes": 336387270,
+      "uploaded_at": "2026-11-18T17:51:28Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 11.2,
+        "upload_sec": 27.2
+      }
     }
   ],
   "pending_uploads": [
@@ -913482,6 +913534,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 99591,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 2,
+      "episode": 5,
+      "display_name": "She-Ra a princezny moci S02E05 - White Out CZ Titulky",
+      "intent_id": "56e85d4ca7fb488e9f45849a66e72b95",
+      "started_at": "2026-11-18T18:02:20Z",
+      "upload_account": "serialy",
+      "source_id": -26967842223015429,
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s2e5-white-out-en/7c450f1fb9d56b82",
+      "size_bytes": 367504727,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1331508,5 +1331576,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T16:48:48Z"
+  "last_updated": "2026-11-18T18:02:20Z"
 }
