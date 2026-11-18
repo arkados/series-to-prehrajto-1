@@ -914134,6 +914134,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127559,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 16,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E16 - 16. epizoda CZ Titulky",
+      "intent_id": "ae9007b8eb774efd89d1e08ece20c8dd",
+      "started_at": "2026-11-18T22:29:02Z",
+      "upload_account": "serialy",
+      "source_id": -28670133801317249,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e16-sa-chinks-in-the-armour-of-the-heart-ag2o-ja/46d4814db2c7971e",
+      "size_bytes": 403204781,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332158,5 +1332174,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:17:04Z"
+  "last_updated": "2026-11-18T22:29:02Z"
 }
