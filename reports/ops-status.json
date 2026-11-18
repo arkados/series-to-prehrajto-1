@@ -1,30 +1,86 @@
 {
   "counts": {
     "backlog_episodes": 108733,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 82939,
-    "prepared_source_episodes": 67910,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 82940,
+    "prepared_source_episodes": 67918,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 46,
-    "language_whisper_attempted_sources": 46,
-    "language_pending_whisper_sources": 2604,
+    "language_audited_sources": 21,
+    "language_whisper_attempted_sources": 20,
+    "language_pending_whisper_sources": 2624,
     "whisper_review_sources": 53504,
     "whisper_review_pending_sources": 36216,
-    "upload_pending_checkpoints": 139,
+    "upload_pending_checkpoints": 141,
     "subtitle_followup_sources": 52260,
     "subtitle_followup_pending_sources": 52260
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T12:51:22Z",
+      "databaseId": 44307906130,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T12:51:11Z",
+      "databaseId": 44307877667,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T12:50:22Z",
+      "databaseId": 44307744505,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T12:49:41Z",
+      "databaseId": 44307634095,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T12:49:37Z",
+      "databaseId": 44307624169,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T12:49:34Z",
+      "databaseId": 44307616373,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T12:49:11Z",
+      "databaseId": 44307553134,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T12:48:13Z",
       "databaseId": 44307404006,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -32,7 +88,7 @@
       "createdAt": "2026-11-18T12:48:12Z",
       "databaseId": 44307402465,
       "headBranch": "main",
-      "status": "pending",
+      "status": "in_progress",
       "workflowName": "prepare-descriptions"
     },
     {
@@ -44,11 +100,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-18T12:45:46Z",
       "databaseId": 44307015875,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -100,11 +156,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T12:37:23Z",
       "databaseId": 44305681064,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T12:32:09Z",
-      "databaseId": 44304850436,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T12:32:04Z",
-      "databaseId": 44304835821,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T12:31:41Z",
-      "databaseId": 44304771884,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T12:30:42Z",
-      "databaseId": 44304618966,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-18T12:29:59Z",
-      "databaseId": 44304489440,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T12:29:55Z",
-      "databaseId": 44304475801,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T12:27:05Z",
-      "databaseId": 44304029719,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -389105,6 +389105,11 @@
         "episode_id": 116959,
         "display_name": "Avengers - Sjednocení S02E21 - Spektrum CZ Dabing",
         "video_id": 31151428
+      },
+      {
+        "episode_id": 127638,
+        "display_name": "Bull S01E05 - 5. epizoda CZ Titulky",
+        "video_id": 31151558
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -777927,6 +777932,11 @@
         "episode_id": 116959,
         "display_name": "Avengers - Sjednocení S02E21 - Spektrum CZ Dabing",
         "video_id": 31151428
+      },
+      {
+        "episode_id": 127638,
+        "display_name": "Bull S01E05 - 5. epizoda CZ Titulky",
+        "video_id": 31151558
       }
     ],
     "prepared_not_upload_ready": [
@@ -779088,8 +779098,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 44,
-    "sample_failed": 1,
+    "disabled": 1,
+    "ok": 19,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
