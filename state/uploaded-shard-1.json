@@ -914217,6 +914217,32 @@
         "download_sec": 14.6,
         "upload_sec": 36.0
       }
+    },
+    {
+      "episode_id": 49408,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 3,
+      "episode": 10,
+      "episode_code": "S03E10",
+      "display_name": "Tři kluci a nemluvně S03E10 - Zapomenutá láska CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -34252347892287865,
+      "external_id": "587a4558368f5",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x10-zapomenuta-laska-dvb-t-cz/587a4558368f5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150127,
+      "size_bytes": 336351328,
+      "uploaded_at": "2026-11-18T11:41:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.4,
+        "upload_sec": 126.2
+      }
     }
   ],
   "pending_uploads": [
@@ -915338,22 +915364,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49408,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 3,
-      "episode": 10,
-      "display_name": "Tři kluci a nemluvně S03E10 - Zapomenutá láska CZ Dabing",
-      "intent_id": "52d14be4d48143b0877c5ed138258ccc",
-      "started_at": "2026-11-18T11:37:05Z",
-      "upload_account": "primary",
-      "source_id": -34252347892287865,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-03x10-zapomenuta-laska-dvb-t-cz/587a4558368f5",
-      "size_bytes": 336351328,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333379,5 +1333389,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:38:37Z"
+  "last_updated": "2026-11-18T11:46:07Z"
 }
