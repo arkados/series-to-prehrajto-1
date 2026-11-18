@@ -3,7 +3,7 @@
   "new_count": 5,
   "retained_count": 0,
   "stats": {
-    "not_upload_ready": 45021,
+    "not_upload_ready": 45006,
     "github_availability_failed": 0,
     "selected_source_burned": 20135,
     "selected_source_undersize": 1819,
@@ -12,7 +12,7 @@
     "ready": 5,
     "description_fallback": 5,
     "language_whisper": 5,
-    "missing_source_plan": 40723,
+    "missing_source_plan": 40738,
     "already_uploaded_episode_key": 1
   }
 }
