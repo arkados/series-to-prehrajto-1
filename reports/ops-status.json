@@ -1,30 +1,94 @@
 {
   "counts": {
     "backlog_episodes": 108804,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82844,
-    "prepared_source_episodes": 67982,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 82845,
+    "prepared_source_episodes": 67986,
     "description_series": 60,
     "description_episodes": 753,
-    "description_errors": 42,
+    "description_errors": 39,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 41,
-    "language_whisper_attempted_sources": 41,
+    "language_audited_sources": 42,
+    "language_whisper_attempted_sources": 42,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53552,
     "whisper_review_pending_sources": 36364,
     "upload_pending_checkpoints": 140,
-    "subtitle_followup_sources": 52214,
-    "subtitle_followup_pending_sources": 52214
+    "subtitle_followup_sources": 52215,
+    "subtitle_followup_pending_sources": 52215
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T03:48:01Z",
+      "databaseId": 44232921976,
+      "headBranch": "main",
+      "status": "queued",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T03:47:34Z",
+      "databaseId": 44232870295,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T03:47:09Z",
+      "databaseId": 44232823002,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-status"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T03:45:07Z",
+      "databaseId": 44232586972,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T03:45:00Z",
+      "databaseId": 44232572640,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T03:44:07Z",
+      "databaseId": 44232473826,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T03:43:40Z",
+      "databaseId": 44232421155,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T03:43:37Z",
+      "databaseId": 44232415376,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T03:42:11Z",
       "databaseId": 44232254963,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,19 +116,19 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-18T03:38:43Z",
       "databaseId": 44231866350,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T03:38:36Z",
       "databaseId": 44231853338,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -114,70 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T03:33:45Z",
-      "databaseId": 44231287713,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T03:33:35Z",
-      "databaseId": 44231267852,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T03:30:36Z",
-      "databaseId": 44230914809,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T03:27:10Z",
-      "databaseId": 44230512420,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T03:27:06Z",
-      "databaseId": 44230504883,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T03:26:39Z",
-      "databaseId": 44230454567,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T03:25:47Z",
-      "databaseId": 44230356065,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T03:25:40Z",
-      "databaseId": 44230340926,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -203515,6 +203515,11 @@
         "episode_id": 157816,
         "display_name": "Strong Woman Do Bong Soon S01E13 - 13. epizoda CZ Titulky",
         "video_id": 31138657
+      },
+      {
+        "episode_id": 157817,
+        "display_name": "Strong Woman Do Bong Soon S01E14 - 14. epizoda CZ Titulky",
+        "video_id": 31138730
       },
       {
         "episode_id": 114182,
@@ -591864,6 +591869,11 @@
         "video_id": 31138657
       },
       {
+        "episode_id": 157817,
+        "display_name": "Strong Woman Do Bong Soon S01E14 - 14. epizoda CZ Titulky",
+        "video_id": 31138730
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -778138,7 +778148,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 40,
+    "ok": 41,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
@@ -778148,6 +778158,6 @@
     "whisper_failed": 1230
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52214
+    "needs_subtitle_setup_after_prehrajto_processing": 52215
   }
 }
