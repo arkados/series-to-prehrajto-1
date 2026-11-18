@@ -914971,6 +914971,32 @@
         "download_sec": 581.4,
         "upload_sec": 45.8
       }
+    },
+    {
+      "episode_id": 49429,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 10,
+      "episode_code": "S04E10",
+      "display_name": "Tři kluci a nemluvně S04E10 - Dvojnarozeniny CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -68761641734310513,
+      "external_id": "587a464d5f073",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x10-dvojnarozeniny-dvb-t-cz/587a464d5f073",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31159439,
+      "size_bytes": 337330226,
+      "uploaded_at": "2026-11-18T20:35:39Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 718.1,
+        "upload_sec": 34.7
+      }
     }
   ],
   "pending_uploads": [
@@ -1334117,5 +1334143,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T20:33:17Z"
+  "last_updated": "2026-11-18T20:35:39Z"
 }
