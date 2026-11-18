@@ -914399,6 +914399,32 @@
         "download_sec": 13.6,
         "upload_sec": 58.6
       }
+    },
+    {
+      "episode_id": 109709,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 5,
+      "episode": 19,
+      "episode_code": "S05E19",
+      "display_name": "Dynastie S05E19 - 19. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -57152468237152894,
+      "external_id": "595362730be2a",
+      "source_url": "https://prehraj.to/dynasty-s05e19/595362730be2a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31151027,
+      "size_bytes": 366958600,
+      "uploaded_at": "2026-11-18T12:25:17Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 22.5,
+        "upload_sec": 47.9
+      }
     }
   ],
   "pending_uploads": [
@@ -915520,22 +915546,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109709,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 5,
-      "episode": 19,
-      "display_name": "Dynastie S05E19 - 19. epizoda CZ Titulky",
-      "intent_id": "3c62483428344422940d71299b71f451",
-      "started_at": "2026-11-18T12:23:24Z",
-      "upload_account": "primary",
-      "source_id": -57152468237152894,
-      "source_url": "https://prehraj.to/dynasty-s05e19/595362730be2a",
-      "size_bytes": 366958600,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333561,5 +1333571,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:24:26Z"
+  "last_updated": "2026-11-18T12:28:10Z"
 }
