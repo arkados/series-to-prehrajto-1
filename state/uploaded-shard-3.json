@@ -913106,6 +913106,32 @@
         "download_sec": 39.5,
         "upload_sec": 48.3
       }
+    },
+    {
+      "episode_id": 109722,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 4,
+      "episode_code": "S07E04",
+      "display_name": "Dynastie S07E04 - 4. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -41910732475391071,
+      "external_id": "5953671d4cf6b",
+      "source_url": "https://prehraj.to/dynasty-s07e04-reward/5953671d4cf6b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162042,
+      "size_bytes": 366938116,
+      "uploaded_at": "2026-11-18T22:51:24Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 65.9,
+        "upload_sec": 40.5
+      }
     }
   ],
   "pending_uploads": [
@@ -914212,22 +914238,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 109722,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 7,
-      "episode": 4,
-      "display_name": "Dynastie S07E04 - 4. epizoda CZ Titulky",
-      "intent_id": "a29b336695c24513a6142ae24f3cce7e",
-      "started_at": "2026-11-18T22:49:45Z",
-      "upload_account": "serialy",
-      "source_id": -41910732475391071,
-      "source_url": "https://prehraj.to/dynasty-s07e04-reward/5953671d4cf6b",
-      "size_bytes": 366938116,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332252,5 +1332262,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:50:37Z"
+  "last_updated": "2026-11-18T22:51:31Z"
 }
