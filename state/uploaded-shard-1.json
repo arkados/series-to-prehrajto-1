@@ -913515,6 +913515,58 @@
         "download_sec": 15.4,
         "upload_sec": 87.7
       }
+    },
+    {
+      "episode_id": 204088,
+      "series_id": 4086,
+      "series_title": "Pozlacený věk",
+      "season": 4,
+      "episode": 1,
+      "episode_code": "S04E01",
+      "display_name": "Pozlacený věk S04E01 - 1. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -65112428000876019,
+      "external_id": "2e7c7b6b0b61b441",
+      "source_url": "https://prehraj.to/pozlaceny-vek-s04e01-cz-dabing-eac3-5-1-h265-hevc-4k-uhd-hdr-dolby-vision/2e7c7b6b0b61b441",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31142503,
+      "size_bytes": 682208998,
+      "uploaded_at": "2026-11-18T06:12:56Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 23.6,
+        "upload_sec": 67.2
+      }
+    },
+    {
+      "episode_id": 204089,
+      "series_id": 4086,
+      "series_title": "Pozlacený věk",
+      "season": 4,
+      "episode": 2,
+      "episode_code": "S04E02",
+      "display_name": "Pozlacený věk S04E02 - 2. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -40168287449096256,
+      "external_id": "5b356562b7290a0c",
+      "source_url": "https://prehraj.to/pozlaceny-vek-s04e02-cz-dabing-1080p-full-hd/5b356562b7290a0c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31142510,
+      "size_bytes": 409200058,
+      "uploaded_at": "2026-11-18T06:13:47Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.4,
+        "upload_sec": 88.4
+      }
     }
   ],
   "pending_uploads": [
@@ -914637,38 +914689,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 204088,
-      "series_id": 4086,
-      "series_title": "Pozlacený věk",
-      "season": 4,
-      "episode": 1,
-      "display_name": "Pozlacený věk S04E01 - 1. epizoda CZ Dabing",
-      "intent_id": "40e51787cd174f9087cdbeb8791db6bc",
-      "started_at": "2026-11-18T06:10:43Z",
-      "upload_account": "primary",
-      "source_id": -65112428000876019,
-      "source_url": "https://prehraj.to/pozlaceny-vek-s04e01-cz-dabing-eac3-5-1-h265-hevc-4k-uhd-hdr-dolby-vision/2e7c7b6b0b61b441",
-      "size_bytes": 682208998,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 204089,
-      "series_id": 4086,
-      "series_title": "Pozlacený věk",
-      "season": 4,
-      "episode": 2,
-      "display_name": "Pozlacený věk S04E02 - 2. epizoda CZ Dabing",
-      "intent_id": "94ab9ff84a0c4743b38ae0197a3414b6",
-      "started_at": "2026-11-18T06:10:53Z",
-      "upload_account": "primary",
-      "source_id": -40168287449096256,
-      "source_url": "https://prehraj.to/pozlaceny-vek-s04e02-cz-dabing-1080p-full-hd/5b356562b7290a0c",
-      "size_bytes": 409200058,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332693,5 +1332713,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T06:10:53Z"
+  "last_updated": "2026-11-18T06:13:47Z"
 }
