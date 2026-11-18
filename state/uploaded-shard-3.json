@@ -912990,6 +912990,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109711,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 5,
+      "episode": 25,
+      "display_name": "Dynastie S05E25 - 25. epizoda CZ Titulky",
+      "intent_id": "6c8f7b2e1c644b42be1bba15ac3cae29",
+      "started_at": "2026-11-18T12:25:57Z",
+      "upload_account": "serialy",
+      "source_id": -71319476305903015,
+      "source_url": "https://prehraj.to/dynasty-s05e25-reconciliation-rerip-dvdrip-xvid-clerks/595362ea07e0a",
+      "size_bytes": 366899203,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331014,5 +1331030,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:24:57Z"
+  "last_updated": "2026-11-18T12:25:57Z"
 }
