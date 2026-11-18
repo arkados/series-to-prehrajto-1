@@ -915153,6 +915153,58 @@
         "download_sec": 29.2,
         "upload_sec": 28.9
       }
+    },
+    {
+      "episode_id": 49428,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 8,
+      "episode_code": "S04E08",
+      "display_name": "Tři kluci a nemluvně S04E08 - Domeček z karet CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -42474208581157638,
+      "external_id": "587a4630951f4",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x08-domecek-z-karet-dvb-t-cz/587a4630951f4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161036,
+      "size_bytes": 337017194,
+      "uploaded_at": "2026-11-18T21:55:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 545.6,
+        "upload_sec": 35.2
+      }
+    },
+    {
+      "episode_id": 109716,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 9,
+      "episode_code": "S06E09",
+      "display_name": "Dynastie S06E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -49882577326445862,
+      "external_id": "59536471a5420",
+      "source_url": "https://prehraj.to/dynasty-s06e09/59536471a5420",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161231,
+      "size_bytes": 365471752,
+      "uploaded_at": "2026-11-18T22:08:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 619.0,
+        "upload_sec": 35.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1334299,5 +1334351,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T21:54:02Z"
+  "last_updated": "2026-11-18T22:08:01Z"
 }
