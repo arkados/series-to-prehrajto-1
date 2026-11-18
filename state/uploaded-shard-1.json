@@ -914507,6 +914507,38 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 96396,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 3,
+      "episode": 23,
+      "display_name": "Dynastie S03E23 - 23. epizoda CZ Titulky",
+      "intent_id": "a0d304adc55e4a01aba78aaa12f682bf",
+      "started_at": "2026-11-18T05:30:56Z",
+      "upload_account": "primary",
+      "source_id": -7675542804333309,
+      "source_url": "https://prehraj.to/dynastie-s3e23-en/7aeaa01b5ee45e9e",
+      "size_bytes": 428121357,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 96397,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 3,
+      "episode": 22,
+      "display_name": "Dynastie S03E22 - 22. epizoda CZ Titulky",
+      "intent_id": "37ffe20a7df54bd99e3811e4b8954050",
+      "started_at": "2026-11-18T05:30:58Z",
+      "upload_account": "primary",
+      "source_id": -3387155519511554,
+      "source_url": "https://prehraj.to/dynastie-s3e22-en/a5a39b179590583e",
+      "size_bytes": 440501138,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332531,5 +1332563,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T05:04:00Z"
+  "last_updated": "2026-11-18T05:30:58Z"
 }
