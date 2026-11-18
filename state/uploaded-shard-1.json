@@ -913697,6 +913697,32 @@
         "download_sec": 16.8,
         "upload_sec": 39.9
       }
+    },
+    {
+      "episode_id": 49369,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Tři kluci a nemluvně S01E08 - Doupě CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -34016711989549209,
+      "external_id": "578bf2dfc9307",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e08-czdab/578bf2dfc9307",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31144307,
+      "size_bytes": 349632334,
+      "uploaded_at": "2026-11-18T07:38:38Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.9,
+        "upload_sec": 35.1
+      }
     }
   ],
   "pending_uploads": [
@@ -914818,22 +914844,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49369,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Tři kluci a nemluvně S01E08 - Doupě CZ Dabing",
-      "intent_id": "50ef917d61984673b563a3dc7fa5e335",
-      "started_at": "2026-11-18T07:36:54Z",
-      "upload_account": "primary",
-      "source_id": -34016711989549209,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s01e08-czdab/578bf2dfc9307",
-      "size_bytes": 349632334,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332859,5 +1332869,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T07:36:59Z"
+  "last_updated": "2026-11-18T07:38:38Z"
 }
