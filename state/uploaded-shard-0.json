@@ -915257,6 +915257,58 @@
         "download_sec": 72.2,
         "upload_sec": 35.6
       }
+    },
+    {
+      "episode_id": 49437,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 20,
+      "episode_code": "S04E20",
+      "display_name": "Tři kluci a nemluvně S04E20 - Svatební šaty CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -61845768960721415,
+      "external_id": "66092f05d7e91",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e20-22-2014-cz-dab-till-dress-do-us-part/66092f05d7e91",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161637,
+      "size_bytes": 334633042,
+      "uploaded_at": "2026-11-18T22:30:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 65.9,
+        "upload_sec": 32.3
+      }
+    },
+    {
+      "episode_id": 109736,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 24,
+      "episode_code": "S06E24",
+      "display_name": "Dynastie S06E24 - 24. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -9659121247080917,
+      "external_id": "59536b639c964",
+      "source_url": "https://prehraj.to/dynasty-s06e24/59536b639c964",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161601,
+      "size_bytes": 320005306,
+      "uploaded_at": "2026-11-18T22:29:54Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 19.4,
+        "upload_sec": 32.8
+      }
     }
   ],
   "pending_uploads": [
@@ -916379,22 +916431,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109736,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 6,
-      "episode": 24,
-      "display_name": "Dynastie S06E24 - 24. epizoda CZ Titulky",
-      "intent_id": "5344dea7c2b040e2b4dae135d8695da1",
-      "started_at": "2026-11-18T22:28:45Z",
-      "upload_account": "primary",
-      "source_id": -9659121247080917,
-      "source_url": "https://prehraj.to/dynasty-s06e24/59536b639c964",
-      "size_bytes": 320005306,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1334419,5 +1334455,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:28:45Z"
+  "last_updated": "2026-11-18T22:31:14Z"
 }
