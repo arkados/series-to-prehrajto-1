@@ -912600,6 +912600,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 83906,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 18,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E18 - Rozdrcený král CZ Dabing",
+      "intent_id": "fbf5cebd8117425d9328c0c336745163",
+      "started_at": "2026-11-18T10:20:08Z",
+      "upload_account": "serialy",
+      "source_id": -29327018552839662,
+      "source_url": "https://prehraj.to/lovci-trolu-od-guillerma-del-toro-s01e18-czdab/5fb07c5b56cbd",
+      "size_bytes": 352758479,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330624,5 +1330640,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T10:19:12Z"
+  "last_updated": "2026-11-18T10:20:08Z"
 }
