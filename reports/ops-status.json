@@ -1,8 +1,8 @@
 {
   "counts": {
     "backlog_episodes": 108826,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82831,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 82832,
     "prepared_source_episodes": 68013,
     "description_series": 60,
     "description_episodes": 753,
@@ -21,18 +21,74 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T00:11:33Z",
-      "databaseId": 44205775981,
+      "createdAt": "2026-11-18T00:15:26Z",
+      "databaseId": 44206322938,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T00:15:19Z",
+      "databaseId": 44206307088,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T00:14:47Z",
+      "databaseId": 44206229217,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T00:13:11Z",
+      "databaseId": 44206007695,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-18T00:13:06Z",
+      "databaseId": 44205996454,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
       "conclusion": "",
+      "createdAt": "2026-11-18T00:13:03Z",
+      "databaseId": 44205990247,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T00:12:42Z",
+      "databaseId": 44205939456,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T00:11:33Z",
+      "databaseId": 44205775981,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-18T00:11:24Z",
       "databaseId": 44205754005,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -52,11 +108,11 @@
       "workflowName": "prepare-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-18T00:05:26Z",
       "databaseId": 44204899040,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T00:00:49Z",
-      "databaseId": 44204255832,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T00:00:20Z",
-      "databaseId": 44204183145,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T23:59:25Z",
-      "databaseId": 44204054337,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-17T23:51:41Z",
-      "databaseId": 44203001447,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T23:49:20Z",
-      "databaseId": 44202678007,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T23:49:15Z",
-      "databaseId": 44202666779,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-17T23:48:53Z",
-      "databaseId": 44202616614,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -388565,6 +388565,11 @@
         "episode_id": 94078,
         "display_name": "Star Wars: Odboj S01E11 - 11. epizoda CZ Titulky",
         "video_id": 31133252
+      },
+      {
+        "episode_id": 94087,
+        "display_name": "Star Wars: Odboj S01E17 - 17. epizoda CZ Titulky",
+        "video_id": 31134144
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -776847,6 +776852,11 @@
         "episode_id": 94078,
         "display_name": "Star Wars: Odboj S01E11 - 11. epizoda CZ Titulky",
         "video_id": 31133252
+      },
+      {
+        "episode_id": 94087,
+        "display_name": "Star Wars: Odboj S01E17 - 17. epizoda CZ Titulky",
+        "video_id": 31134144
       }
     ],
     "prepared_not_upload_ready": [
