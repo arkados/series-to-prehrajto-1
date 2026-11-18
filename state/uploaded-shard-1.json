@@ -913567,6 +913567,32 @@
         "download_sec": 19.4,
         "upload_sec": 88.4
       }
+    },
+    {
+      "episode_id": 148652,
+      "series_id": 4962,
+      "series_title": "Gumy, kam se podíváš",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Gumy, kam se podíváš S02E10 - 10. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -32445121638628587,
+      "external_id": "f4cee9c7820d5991",
+      "source_url": "https://prehraj.to/gumy-kam-se-podivas-s2e10-vlastenci-a-zradci-en/f4cee9c7820d5991",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31143034,
+      "size_bytes": 342943591,
+      "uploaded_at": "2026-11-18T06:41:46Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.8,
+        "upload_sec": 32.7
+      }
     }
   ],
   "pending_uploads": [
@@ -914688,6 +914714,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 49893,
+      "series_id": 1151,
+      "series_title": "Beze stopy",
+      "season": 5,
+      "episode": 18,
+      "display_name": "Beze stopy S05E18 - Kontakty CZ Dabing",
+      "intent_id": "3a89e56e48a94a639cfe3263ec5855b1",
+      "started_at": "2026-11-18T06:48:53Z",
+      "upload_account": "primary",
+      "source_id": -11371499297066771,
+      "source_url": "https://prehraj.to/beze-stopy-05x18-kontakty-connections/629dc930df53a",
+      "size_bytes": 366596096,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1332713,5 +1332755,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T06:13:47Z"
+  "last_updated": "2026-11-18T06:48:53Z"
 }
