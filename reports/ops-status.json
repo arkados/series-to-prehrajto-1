@@ -1,38 +1,78 @@
 {
   "counts": {
     "backlog_episodes": 108733,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82946,
-    "prepared_source_episodes": 67928,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82947,
+    "prepared_source_episodes": 67927,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 42,
-    "language_whisper_attempted_sources": 42,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53503,
     "whisper_review_pending_sources": 36211,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52263,
     "subtitle_followup_pending_sources": 52263
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T13:34:02Z",
-      "databaseId": 44315009123,
+      "createdAt": "2026-11-18T13:37:58Z",
+      "databaseId": 44315681902,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T13:37:48Z",
+      "databaseId": 44315651181,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T13:37:09Z",
+      "databaseId": 44315535365,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T13:35:38Z",
+      "databaseId": 44315281079,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T13:35:32Z",
+      "databaseId": 44315266641,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T13:34:02Z",
+      "databaseId": 44315009123,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-18T13:32:08Z",
       "databaseId": 44314685349,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -44,11 +84,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T13:28:41Z",
       "databaseId": 44314099000,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -76,11 +116,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T13:25:10Z",
       "databaseId": 44313511555,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:19:36Z",
-      "databaseId": 44312562472,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:19:30Z",
-      "databaseId": 44312544095,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:18:03Z",
-      "databaseId": 44312305496,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:16:27Z",
-      "databaseId": 44312037447,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:15:24Z",
-      "databaseId": 44311860410,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -389140,6 +389140,11 @@
         "episode_id": 109738,
         "display_name": "Dynastie S08E14 - 14. epizoda CZ Titulky",
         "video_id": 31152071
+      },
+      {
+        "episode_id": 120566,
+        "display_name": "Crazy Ex-Girlfriend S04E08 - 8. epizoda CZ Titulky",
+        "video_id": 31152348
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -777997,6 +778002,11 @@
         "episode_id": 109738,
         "display_name": "Dynastie S08E14 - 14. epizoda CZ Titulky",
         "video_id": 31152071
+      },
+      {
+        "episode_id": 120566,
+        "display_name": "Crazy Ex-Girlfriend S04E08 - 8. epizoda CZ Titulky",
+        "video_id": 31152348
       }
     ],
     "prepared_not_upload_ready": [
@@ -779158,8 +779168,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 11,
-    "resolve_failed": 31
+    "ok": 39,
+    "resolve_failed": 1
   },
   "whisper_review_statuses": {
     "needs_whisper": 34977,
