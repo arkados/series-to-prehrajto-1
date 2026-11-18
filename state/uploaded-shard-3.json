@@ -913120,6 +913120,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127638,
+      "series_id": 3541,
+      "series_title": "Bull",
+      "season": 1,
+      "episode": 5,
+      "display_name": "Bull S01E05 - 5. epizoda CZ Titulky",
+      "intent_id": "88166ec57b8249d29615a483889fc4f9",
+      "started_at": "2026-11-18T12:49:22Z",
+      "upload_account": "serialy",
+      "source_id": -65758432961128492,
+      "source_url": "https://prehraj.to/bull-s01e05-cztit-v-obraze/581659ee85bcb",
+      "size_bytes": 343072186,
+      "source_container": "avi",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 116967,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 1,
+      "episode": 11,
+      "display_name": "Avengers - Sjednocení S01E11 - V Hulkově kůži CZ Titulky",
+      "intent_id": "8fa803701ae84b7ba5e35e9f6a158ca4",
+      "started_at": "2026-11-18T12:49:05Z",
+      "upload_account": "serialy",
+      "source_id": -9031265363563777,
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s1e11-hulked-out-heroes-en/d2d8cb5432512d60",
+      "size_bytes": 327929417,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331144,5 +1331176,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:43:52Z"
+  "last_updated": "2026-11-18T12:49:22Z"
 }
