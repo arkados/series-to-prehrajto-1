@@ -914477,6 +914477,32 @@
         "download_sec": 30.0,
         "upload_sec": 63.6
       }
+    },
+    {
+      "episode_id": 116944,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 19,
+      "episode_code": "S02E19",
+      "display_name": "Avengers - Sjednocení S02E19 - Nováček CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -58445157031825817,
+      "external_id": "5aa06bafe17f0",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e19-the-new-guy/5aa06bafe17f0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31152632,
+      "size_bytes": 328603551,
+      "uploaded_at": "2026-11-18T13:51:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.1,
+        "upload_sec": 47.7
+      }
     }
   ],
   "pending_uploads": [
@@ -915601,19 +915627,19 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 116944,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 2,
-      "episode": 19,
-      "display_name": "Avengers - Sjednocení S02E19 - Nováček CZ Dabing",
-      "intent_id": "c7d1aa175a5349979e29ac768e871f11",
-      "started_at": "2026-11-18T13:50:11Z",
+      "episode_id": 130277,
+      "series_id": 3697,
+      "series_title": "Queer as Folk",
+      "season": 4,
+      "episode": 4,
+      "display_name": "Queer as Folk S04E04 - 4. epizoda CZ Titulky",
+      "intent_id": "70872de30f774d948a2b481f54deed47",
+      "started_at": "2026-11-18T13:50:28Z",
       "upload_account": "primary",
-      "source_id": -58445157031825817,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e19-the-new-guy/5aa06bafe17f0",
-      "size_bytes": 328603551,
-      "source_container": "mp4",
+      "source_id": -64687345801366360,
+      "source_url": "https://prehraj.to/queer-as-folk-s04e04-gay-serial-cz-titulky/5a071f724e03f",
+      "size_bytes": 363798528,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333639,5 +1333665,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T13:50:11Z"
+  "last_updated": "2026-11-18T13:51:51Z"
 }
