@@ -913236,6 +913236,32 @@
         "download_sec": 18.8,
         "upload_sec": 31.2
       }
+    },
+    {
+      "episode_id": 109726,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 24,
+      "episode_code": "S07E24",
+      "display_name": "Dynastie S07E24 - 24. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -272772978531259,
+      "external_id": "595368d085bfe",
+      "source_url": "https://prehraj.to/dynasty-s07e24/595368d085bfe",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31163320,
+      "size_bytes": 366389252,
+      "uploaded_at": "2026-11-18T23:43:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 22.1,
+        "upload_sec": 42.7
+      }
     }
   ],
   "pending_uploads": [
@@ -914342,22 +914368,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 109726,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 7,
-      "episode": 24,
-      "display_name": "Dynastie S07E24 - 24. epizoda CZ Titulky",
-      "intent_id": "9442ca3927b54a2998137a2c46583dfe",
-      "started_at": "2026-11-18T23:42:02Z",
-      "upload_account": "serialy",
-      "source_id": -272772978531259,
-      "source_url": "https://prehraj.to/dynasty-s07e24/595368d085bfe",
-      "size_bytes": 366389252,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332382,5 +1332392,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:42:02Z"
+  "last_updated": "2026-11-18T23:43:27Z"
 }
