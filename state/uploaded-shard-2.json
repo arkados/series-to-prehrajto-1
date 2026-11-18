@@ -911780,6 +911780,32 @@
         "download_sec": 25.4,
         "upload_sec": 84.1
       }
+    },
+    {
+      "episode_id": 99606,
+      "series_id": 2404,
+      "series_title": "She-Ra a princezny moci",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "She-Ra a princezny moci S03E03 - Once Upon a Time in the Waste CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -40159001847020354,
+      "external_id": "5e149115a6866",
+      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s03e03/5e149115a6866",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150453,
+      "size_bytes": 359682499,
+      "uploaded_at": "2026-11-18T11:56:22Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 21.0,
+        "upload_sec": 46.0
+      }
     }
   ],
   "pending_uploads": [
@@ -912884,22 +912910,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 99606,
-      "series_id": 2404,
-      "series_title": "She-Ra a princezny moci",
-      "season": 3,
-      "episode": 3,
-      "display_name": "She-Ra a princezny moci S03E03 - Once Upon a Time in the Waste CZ Titulky",
-      "intent_id": "da2e2d3777d0423a9caee0af53b76591",
-      "started_at": "2026-11-18T11:54:58Z",
-      "upload_account": "serialy",
-      "source_id": -40159001847020354,
-      "source_url": "https://prehraj.to/she-ra-and-the-princesses-of-power-s03e03/5e149115a6866",
-      "size_bytes": 359682499,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1330926,5 +1330936,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T11:54:58Z"
+  "last_updated": "2026-11-18T11:56:22Z"
 }
