@@ -913692,6 +913692,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 49419,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 1,
+      "display_name": "Tři kluci a nemluvně S04E01 - Halloween CZ Dabing",
+      "intent_id": "cb33c62d27664338aeb5ed776221f47d",
+      "started_at": "2026-11-18T18:51:06Z",
+      "upload_account": "serialy",
+      "source_id": -60938484063112857,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x01-halloween-dvb-t-cz/587a45ea93b11",
+      "size_bytes": 337239088,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331716,5 +1331732,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T18:45:20Z"
+  "last_updated": "2026-11-18T18:51:06Z"
 }
