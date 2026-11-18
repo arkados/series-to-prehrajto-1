@@ -912144,6 +912144,32 @@
         "download_sec": 12.3,
         "upload_sec": 27.8
       }
+    },
+    {
+      "episode_id": 109738,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 14,
+      "episode_code": "S08E14",
+      "display_name": "Dynastie S08E14 - 14. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -25289687151725034,
+      "external_id": "59536c2136838",
+      "source_url": "https://prehraj.to/dynasty-s08e14/59536c2136838",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31152071,
+      "size_bytes": 365928449,
+      "uploaded_at": "2026-11-18T13:20:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.6,
+        "upload_sec": 42.6
+      }
     }
   ],
   "pending_uploads": [
@@ -913250,22 +913276,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 109738,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 8,
-      "episode": 14,
-      "display_name": "Dynastie S08E14 - 14. epizoda CZ Titulky",
-      "intent_id": "66923677cbfa46d18d1da5dabcb2f92c",
-      "started_at": "2026-11-18T13:17:35Z",
-      "upload_account": "serialy",
-      "source_id": -25289687151725034,
-      "source_url": "https://prehraj.to/dynasty-s08e14/59536c2136838",
-      "size_bytes": 365928449,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1331290,5 +1331300,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T13:19:26Z"
+  "last_updated": "2026-11-18T13:20:11Z"
 }
