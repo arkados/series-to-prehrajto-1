@@ -914321,6 +914321,32 @@
         "download_sec": 17.6,
         "upload_sec": 80.7
       }
+    },
+    {
+      "episode_id": 109705,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 4,
+      "episode": 25,
+      "episode_code": "S04E25",
+      "display_name": "Dynastie S04E25 - 25. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -29230023077635830,
+      "external_id": "5953613cc6bd4",
+      "source_url": "https://prehraj.to/dynasty-s04e25/5953613cc6bd4",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31150566,
+      "size_bytes": 364845060,
+      "uploaded_at": "2026-11-18T12:03:43Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 18.8,
+        "upload_sec": 111.1
+      }
     }
   ],
   "pending_uploads": [
@@ -915442,22 +915468,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109705,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 4,
-      "episode": 25,
-      "display_name": "Dynastie S04E25 - 25. epizoda CZ Titulky",
-      "intent_id": "34a05a8330f64d6eb1cfffbe8ad660ce",
-      "started_at": "2026-11-18T12:01:15Z",
-      "upload_account": "primary",
-      "source_id": -29230023077635830,
-      "source_url": "https://prehraj.to/dynasty-s04e25/5953613cc6bd4",
-      "size_bytes": 364845060,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333483,5 +1333493,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T12:01:15Z"
+  "last_updated": "2026-11-18T12:03:43Z"
 }
