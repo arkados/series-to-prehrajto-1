@@ -914659,6 +914659,32 @@
         "download_sec": 93.5,
         "upload_sec": 32.8
       }
+    },
+    {
+      "episode_id": 109757,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 5,
+      "episode": 24,
+      "episode_code": "S05E24",
+      "display_name": "Dynastie S05E24 - 24. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -53330073440132403,
+      "external_id": "595399264f290",
+      "source_url": "https://prehraj.to/dynasty-s05e24/595399264f290",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31155500,
+      "size_bytes": 366938112,
+      "uploaded_at": "2026-11-18T16:35:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.3,
+        "upload_sec": 36.0
+      }
     }
   ],
   "pending_uploads": [
@@ -1333805,5 +1333831,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T16:25:37Z"
+  "last_updated": "2026-11-18T16:35:02Z"
 }
