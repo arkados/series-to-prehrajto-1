@@ -913054,6 +913054,32 @@
         "download_sec": 39.8,
         "upload_sec": 40.3
       }
+    },
+    {
+      "episode_id": 49438,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 4,
+      "episode": 21,
+      "episode_code": "S04E21",
+      "display_name": "Tři kluci a nemluvně S04E21 - Viva Las Vegas CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -34431415457896056,
+      "external_id": "66092f72c6334",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e21-22-2014-cz-dab-what-happens-in-vegas/66092f72c6334",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161650,
+      "size_bytes": 336746482,
+      "uploaded_at": "2026-11-18T22:31:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 72.3,
+        "upload_sec": 40.8
+      }
     }
   ],
   "pending_uploads": [
@@ -914162,18 +914188,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 49438,
+      "episode_id": 49439,
       "series_id": 1144,
       "series_title": "Tři kluci a nemluvně",
       "season": 4,
-      "episode": 21,
-      "display_name": "Tři kluci a nemluvně S04E21 - Viva Las Vegas CZ Dabing",
-      "intent_id": "7d49ff3bf80d4dcfb609449265ab1ae0",
-      "started_at": "2026-11-18T22:29:35Z",
+      "episode": 22,
+      "display_name": "Tři kluci a nemluvně S04E22 - Svatba v ohrožení CZ Dabing",
+      "intent_id": "c5ffd976bcb54c118b7118c239d18de8",
+      "started_at": "2026-11-18T22:49:09Z",
       "upload_account": "serialy",
-      "source_id": -34431415457896056,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s04e21-22-2014-cz-dab-what-happens-in-vegas/66092f72c6334",
-      "size_bytes": 336746482,
+      "source_id": -44529473124425965,
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-04x22-svatba-v-ohrozeni-dvb-t-cz/587a4663c4969",
+      "size_bytes": 337209226,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1332200,5 +1332226,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:30:24Z"
+  "last_updated": "2026-11-18T22:49:09Z"
 }
