@@ -912574,6 +912574,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 115470,
+      "series_id": 2939,
+      "series_title": "The Future Diary",
+      "season": 1,
+      "episode": 7,
+      "display_name": "The Future Diary S01E07 - 7. epizoda CZ Titulky",
+      "intent_id": "ffb871a8c9334721aecd0c134b6fce7d",
+      "started_at": "2026-11-18T10:17:40Z",
+      "upload_account": "serialy",
+      "source_id": -29986413626900274,
+      "source_url": "https://prehraj.to/the-future-diary-s01e07-cztitulky/61e75e2b459ce",
+      "size_bytes": 379384725,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1330598,5 +1330614,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T10:08:03Z"
+  "last_updated": "2026-11-18T10:17:40Z"
 }
