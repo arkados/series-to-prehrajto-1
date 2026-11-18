@@ -913002,6 +913002,32 @@
         "download_sec": 16.1,
         "upload_sec": 31.6
       }
+    },
+    {
+      "episode_id": 109759,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 15,
+      "episode_code": "S06E15",
+      "display_name": "Dynastie S06E15 - 15. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -25924662914070773,
+      "external_id": "595399afdfb11",
+      "source_url": "https://prehraj.to/dynasty-s06e15/595399afdfb11",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31161336,
+      "size_bytes": 365166592,
+      "uploaded_at": "2026-11-18T22:17:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.6,
+        "upload_sec": 51.5
+      }
     }
   ],
   "pending_uploads": [
@@ -914108,22 +914134,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 109759,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 6,
-      "episode": 15,
-      "display_name": "Dynastie S06E15 - 15. epizoda CZ Titulky",
-      "intent_id": "cb8213919ad64bda9678b1dede556779",
-      "started_at": "2026-11-18T22:15:36Z",
-      "upload_account": "serialy",
-      "source_id": -25924662914070773,
-      "source_url": "https://prehraj.to/dynasty-s06e15/595399afdfb11",
-      "size_bytes": 365166592,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332148,5 +1332158,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:15:36Z"
+  "last_updated": "2026-11-18T22:17:04Z"
 }
