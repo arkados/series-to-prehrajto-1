@@ -912326,6 +912326,32 @@
         "download_sec": 110.7,
         "upload_sec": 53.0
       }
+    },
+    {
+      "episode_id": 120579,
+      "series_id": 3183,
+      "series_title": "Crazy Ex-Girlfriend",
+      "season": 3,
+      "episode": 2,
+      "episode_code": "S03E02",
+      "display_name": "Crazy Ex-Girlfriend S03E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -19727164429794087,
+      "external_id": "5347abcb569c3352",
+      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s03e02-to-josh-with-love/5347abcb569c3352",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31154837,
+      "size_bytes": 506277249,
+      "uploaded_at": "2026-11-18T15:56:01Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.3,
+        "upload_sec": 33.1
+      }
     }
   ],
   "pending_uploads": [
@@ -913430,22 +913456,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 120579,
-      "series_id": 3183,
-      "series_title": "Crazy Ex-Girlfriend",
-      "season": 3,
-      "episode": 2,
-      "display_name": "Crazy Ex-Girlfriend S03E02 - 2. epizoda CZ Titulky",
-      "intent_id": "6550ba6f1ccb44f2bfcd87cc323d539b",
-      "started_at": "2026-11-18T15:54:30Z",
-      "upload_account": "serialy",
-      "source_id": -19727164429794087,
-      "source_url": "https://prehraj.to/crazy-ex-girlfriend-s03e02-to-josh-with-love/5347abcb569c3352",
-      "size_bytes": 506277249,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1331472,5 +1331482,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T15:54:30Z"
+  "last_updated": "2026-11-18T15:56:01Z"
 }
