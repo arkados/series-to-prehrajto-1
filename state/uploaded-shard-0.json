@@ -915465,6 +915465,58 @@
         "download_sec": 14.6,
         "upload_sec": 26.3
       }
+    },
+    {
+      "episode_id": 109725,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 16,
+      "episode_code": "S07E16",
+      "display_name": "Dynastie S07E16 - 16. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -66211016367774851,
+      "external_id": "5953681b74bcd",
+      "source_url": "https://prehraj.to/dynasty-s07e16/5953681b74bcd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162827,
+      "size_bytes": 366944260,
+      "uploaded_at": "2026-11-18T23:22:19Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 24.8,
+        "upload_sec": 31.0
+      }
+    },
+    {
+      "episode_id": 109761,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 18,
+      "episode_code": "S07E18",
+      "display_name": "Dynastie S07E18 - 18. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -44312366700936486,
+      "external_id": "595399b554bfb",
+      "source_url": "https://prehraj.to/dynasty-s07e18/595399b554bfb",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162876,
+      "size_bytes": 366940160,
+      "uploaded_at": "2026-11-18T23:24:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.2,
+        "upload_sec": 26.3
+      }
     }
   ],
   "pending_uploads": [
@@ -916585,6 +916637,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 127552,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 8,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E08 - 8. epizoda CZ Titulky",
+      "intent_id": "122a1b3109e14b22ba38959f4af442a2",
+      "started_at": "2026-11-18T23:28:16Z",
+      "upload_account": "primary",
+      "source_id": -59851940068825302,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e8-sa-the-fortunate-ones-missing-hearts-ja/283e98f926dc91e2",
+      "size_bytes": 403150764,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1334611,5 +1334679,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:02:56Z"
+  "last_updated": "2026-11-18T23:28:16Z"
 }
