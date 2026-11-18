@@ -914529,6 +914529,32 @@
         "download_sec": 18.6,
         "upload_sec": 33.5
       }
+    },
+    {
+      "episode_id": 116972,
+      "series_id": 3015,
+      "series_title": "Avengers - Sjednocení",
+      "season": 2,
+      "episode": 22,
+      "episode_code": "S02E22",
+      "display_name": "Avengers - Sjednocení S02E22 - Přísaha CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -35753587518054154,
+      "external_id": "5ac4ea4dc5f5f",
+      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e22-midgard-crisis/5ac4ea4dc5f5f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31152690,
+      "size_bytes": 328070036,
+      "uploaded_at": "2026-11-18T13:54:28Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 16.9,
+        "upload_sec": 43.9
+      }
     }
   ],
   "pending_uploads": [
@@ -915649,22 +915675,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 116972,
-      "series_id": 3015,
-      "series_title": "Avengers - Sjednocení",
-      "season": 2,
-      "episode": 22,
-      "display_name": "Avengers - Sjednocení S02E22 - Přísaha CZ Dabing",
-      "intent_id": "8150de6ebd5244399ed1cf2b3800d81f",
-      "started_at": "2026-11-18T13:52:57Z",
-      "upload_account": "primary",
-      "source_id": -35753587518054154,
-      "source_url": "https://prehraj.to/avengers-sjednoceni-s02e22-midgard-crisis/5ac4ea4dc5f5f",
-      "size_bytes": 328070036,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1333691,5 +1333701,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T13:53:16Z"
+  "last_updated": "2026-11-18T13:54:28Z"
 }
