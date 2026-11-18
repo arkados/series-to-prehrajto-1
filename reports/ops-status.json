@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108733,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 82944,
-    "prepared_source_episodes": 67917,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82946,
+    "prepared_source_episodes": 67926,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 43,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53503,
     "whisper_review_pending_sources": 36211,
@@ -21,18 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T13:18:03Z",
-      "databaseId": 44312305496,
+      "createdAt": "2026-11-18T13:22:31Z",
+      "databaseId": 44313060415,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T13:21:57Z",
+      "databaseId": 44312964544,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T13:21:45Z",
+      "databaseId": 44312931096,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T13:20:27Z",
+      "databaseId": 44312708327,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T13:19:36Z",
+      "databaseId": 44312562472,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T13:19:30Z",
+      "databaseId": 44312544095,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T13:18:03Z",
+      "databaseId": 44312305496,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T13:16:27Z",
       "databaseId": 44312037447,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -44,11 +92,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T13:15:20Z",
       "databaseId": 44311847311,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:06:39Z",
-      "databaseId": 44310387645,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-18T13:05:45Z",
-      "databaseId": 44310238100,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:04:47Z",
-      "databaseId": 44310070279,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:04:43Z",
-      "databaseId": 44310058072,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T13:04:40Z",
-      "databaseId": 44310050522,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T13:04:03Z",
-      "databaseId": 44309950535,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -389130,6 +389130,16 @@
         "episode_id": 109755,
         "display_name": "Dynastie S05E09 - 9. epizoda CZ Titulky",
         "video_id": 31151746
+      },
+      {
+        "episode_id": 116975,
+        "display_name": "Avengers - Sjednocení S02E18 - Virus - Ultron CZ Dabing",
+        "video_id": 31152057
+      },
+      {
+        "episode_id": 109738,
+        "display_name": "Dynastie S08E14 - 14. epizoda CZ Titulky",
+        "video_id": 31152071
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -777977,6 +777987,16 @@
         "episode_id": 109755,
         "display_name": "Dynastie S05E09 - 9. epizoda CZ Titulky",
         "video_id": 31151746
+      },
+      {
+        "episode_id": 116975,
+        "display_name": "Avengers - Sjednocení S02E18 - Virus - Ultron CZ Dabing",
+        "video_id": 31152057
+      },
+      {
+        "episode_id": 109738,
+        "display_name": "Dynastie S08E14 - 14. epizoda CZ Titulky",
+        "video_id": 31152071
       }
     ],
     "prepared_not_upload_ready": [
@@ -779138,7 +779158,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 42,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
