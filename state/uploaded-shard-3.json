@@ -912652,6 +912652,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 83903,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 15,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E15 - Zápas v blátě CZ Titulky",
+      "intent_id": "365af8a45aec4d4b983015e6f34eb12c",
+      "started_at": "2026-11-18T10:41:39Z",
+      "upload_account": "serialy",
+      "source_id": -52296405812251589,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e15-mudslinging-en/b1c731fd668cc05f",
+      "size_bytes": 438761806,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1330676,5 +1330692,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T10:40:41Z"
+  "last_updated": "2026-11-18T10:41:39Z"
 }
