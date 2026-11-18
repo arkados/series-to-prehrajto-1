@@ -915413,6 +915413,32 @@
         "download_sec": 13.2,
         "upload_sec": 31.5
       }
+    },
+    {
+      "episode_id": 127560,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 17,
+      "episode_code": "S01E17",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E17 - 17. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -819547048619491,
+      "external_id": "3d019436fd1aa396",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e17-sa-the-true-reason-for-the-unfinished-love-affair-angels-share-ja/3d019436fd1aa396",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162248,
+      "size_bytes": 325088975,
+      "uploaded_at": "2026-11-18T22:58:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.0,
+        "upload_sec": 30.4
+      }
     }
   ],
   "pending_uploads": [
@@ -916533,22 +916559,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 127560,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 1,
-      "episode": 17,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S01E17 - 17. epizoda CZ Titulky",
-      "intent_id": "7e676196dcdb4bb684368c639fc48544",
-      "started_at": "2026-11-18T22:57:09Z",
-      "upload_account": "primary",
-      "source_id": -819547048619491,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e17-sa-the-true-reason-for-the-unfinished-love-affair-angels-share-ja/3d019436fd1aa396",
-      "size_bytes": 325088975,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1334575,5 +1334585,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:57:09Z"
+  "last_updated": "2026-11-18T22:58:12Z"
 }
