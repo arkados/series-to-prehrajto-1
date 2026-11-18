@@ -910454,6 +910454,32 @@
         "download_sec": 28.0,
         "upload_sec": 177.8
       }
+    },
+    {
+      "episode_id": 94078,
+      "series_id": 2238,
+      "series_title": "Star Wars: Odboj",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Star Wars: Odboj S01E11 - 11. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -57914933755324456,
+      "external_id": "a349e8ca1bf865c7",
+      "source_url": "https://prehraj.to/star-wars-odboj-s1e11-bibo-en/a349e8ca1bf865c7",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31133252,
+      "size_bytes": 327732452,
+      "uploaded_at": "2026-11-17T23:35:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.3,
+        "upload_sec": 62.6
+      }
     }
   ],
   "pending_uploads": [
@@ -911560,6 +911586,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 94087,
+      "series_id": 2238,
+      "series_title": "Star Wars: Odboj",
+      "season": 1,
+      "episode": 17,
+      "display_name": "Star Wars: Odboj S01E17 - 17. epizoda CZ Titulky",
+      "intent_id": "3f6288fd27ab4b83bb025e5cefa43440",
+      "started_at": "2026-11-18T00:12:34Z",
+      "upload_account": "serialy",
+      "source_id": -54465530821809713,
+      "source_url": "https://prehraj.to/star-wars-odboj-s1e17-the-disappeared-en/7894cad576227072",
+      "size_bytes": 329029714,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1329584,5 +1329626,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-17T23:31:10Z"
+  "last_updated": "2026-11-18T00:12:34Z"
 }
