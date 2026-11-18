@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108685,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 82981,
-    "prepared_source_episodes": 67930,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 82982,
+    "prepared_source_episodes": 67940,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
@@ -14,17 +14,57 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53491,
     "whisper_review_pending_sources": 36192,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52283,
     "subtitle_followup_pending_sources": 52283
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T19:55:08Z",
+      "databaseId": 44385472804,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T19:53:39Z",
+      "databaseId": 44385203857,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T19:50:58Z",
+      "databaseId": 44384684024,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T19:50:55Z",
+      "databaseId": 44384672266,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T19:50:52Z",
+      "databaseId": 44384661841,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T19:49:30Z",
       "databaseId": 44384374069,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -100,19 +140,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T19:42:10Z",
       "databaseId": 44383009327,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T19:41:39Z",
       "databaseId": 44382918751,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -135,46 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-18T19:34:10Z",
       "databaseId": 44381811617,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T19:34:06Z",
-      "databaseId": 44381802877,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T19:32:23Z",
-      "databaseId": 44381595967,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T19:32:17Z",
-      "databaseId": 44381581204,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T19:32:14Z",
-      "databaseId": 44381574314,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T19:30:32Z",
-      "databaseId": 44381266758,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
@@ -203805,6 +203805,11 @@
         "episode_id": 49424,
         "display_name": "Tři kluci a nemluvně S04E05 - Loupež na kameru CZ Dabing",
         "video_id": 31158319
+      },
+      {
+        "episode_id": 99621,
+        "display_name": "She-Ra a princezny moci S04E11 - Beast Island CZ Titulky",
+        "video_id": 31158707
       },
       {
         "episode_id": 114182,
@@ -592837,6 +592842,11 @@
         "episode_id": 49424,
         "display_name": "Tři kluci a nemluvně S04E05 - Loupež na kameru CZ Dabing",
         "video_id": 31158319
+      },
+      {
+        "episode_id": 99621,
+        "display_name": "She-Ra a princezny moci S04E11 - Beast Island CZ Titulky",
+        "video_id": 31158707
       },
       {
         "episode_id": 114182,
