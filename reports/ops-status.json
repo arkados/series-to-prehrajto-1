@@ -1,15 +1,15 @@
 {
   "counts": {
     "backlog_episodes": 108661,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 82992,
-    "prepared_source_episodes": 67953,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 82993,
+    "prepared_source_episodes": 67956,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 45,
+    "language_audited_sources": 47,
     "language_whisper_attempted_sources": 43,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53485,
@@ -21,10 +21,42 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-18T20:53:34Z",
+      "databaseId": 44395753375,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T20:53:13Z",
+      "databaseId": 44395693965,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T20:52:22Z",
+      "databaseId": 44395546241,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T20:51:43Z",
+      "databaseId": 44395433396,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "cancelled",
       "createdAt": "2026-11-18T20:51:02Z",
       "databaseId": 44395313946,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -36,11 +68,11 @@
       "workflowName": "prepare-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T20:49:45Z",
       "databaseId": 44395087000,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "update-descriptions"
     },
     {
@@ -68,19 +100,19 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T20:48:45Z",
       "databaseId": 44394916090,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T20:48:26Z",
       "databaseId": 44394860888,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T20:36:42Z",
-      "databaseId": 44392848532,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T20:36:06Z",
-      "databaseId": 44392746321,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T20:36:02Z",
-      "databaseId": 44392734873,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-18T20:35:48Z",
-      "databaseId": 44392693603,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -389370,6 +389370,11 @@
         "episode_id": 49430,
         "display_name": "Tři kluci a nemluvně S04E11 - Boj o provizi CZ Dabing",
         "video_id": 31159604
+      },
+      {
+        "episode_id": 49431,
+        "display_name": "Tři kluci a nemluvně S04E13 - Hra o byt CZ Dabing",
+        "video_id": 31159696
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -778457,6 +778462,11 @@
         "episode_id": 49430,
         "display_name": "Tři kluci a nemluvně S04E11 - Boj o provizi CZ Dabing",
         "video_id": 31159604
+      },
+      {
+        "episode_id": 49431,
+        "display_name": "Tři kluci a nemluvně S04E13 - Hra o byt CZ Dabing",
+        "video_id": 31159696
       }
     ],
     "prepared_not_upload_ready": [
@@ -779618,8 +779628,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "disabled": 4,
     "ok": 12,
-    "disabled": 2,
     "resolve_failed": 31
   },
   "whisper_review_statuses": {
