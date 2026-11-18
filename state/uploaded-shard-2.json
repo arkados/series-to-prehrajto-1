@@ -911260,6 +911260,58 @@
         "download_sec": 15.2,
         "upload_sec": 78.9
       }
+    },
+    {
+      "episode_id": 49383,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "Tři kluci a nemluvně S02E13 - Velké manévry CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -61952388276459599,
+      "external_id": "578c17d9dd938",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e13-czdab/578c17d9dd938",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31146770,
+      "size_bytes": 348034330,
+      "uploaded_at": "2026-11-18T09:37:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.2,
+        "upload_sec": 30.2
+      }
+    },
+    {
+      "episode_id": 49398,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 12,
+      "episode_code": "S02E12",
+      "display_name": "Tři kluci a nemluvně S02E12 - Křtiny CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -64061285980231847,
+      "external_id": "578c16d449d08",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e12-czdab/578c16d449d08",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31146784,
+      "size_bytes": 347981742,
+      "uploaded_at": "2026-11-18T09:38:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.2,
+        "upload_sec": 70.8
+      }
     }
   ],
   "pending_uploads": [
@@ -912368,35 +912420,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 49383,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 13,
-      "display_name": "Tři kluci a nemluvně S02E13 - Velké manévry CZ Dabing",
-      "intent_id": "7b05facafb2b44bdb60861a05c810ac6",
-      "started_at": "2026-11-18T09:35:40Z",
+      "episode_id": 83891,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E03 - Proč jsi lovcem trolů CZ Titulky",
+      "intent_id": "f3436054d9824534a0dcc8e2ee87411b",
+      "started_at": "2026-11-18T09:38:10Z",
       "upload_account": "serialy",
-      "source_id": -61952388276459599,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e13-czdab/578c17d9dd938",
-      "size_bytes": 348034330,
-      "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49398,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 12,
-      "display_name": "Tři kluci a nemluvně S02E12 - Křtiny CZ Dabing",
-      "intent_id": "55ee76caf1c147dcb1a7d613159a8f12",
-      "started_at": "2026-11-18T09:35:44Z",
-      "upload_account": "serialy",
-      "source_id": -64061285980231847,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-s02e12-czdab/578c16d449d08",
-      "size_bytes": 347981742,
-      "source_container": "avi",
+      "source_id": -22342138721502098,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e3-wherefore-art-thou-trollhunter-en/acf22e7fc516ae09",
+      "size_bytes": 432497345,
+      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1330422,5 +1330458,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:35:44Z"
+  "last_updated": "2026-11-18T09:38:12Z"
 }
