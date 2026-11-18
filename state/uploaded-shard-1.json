@@ -913905,6 +913905,32 @@
         "download_sec": 16.6,
         "upload_sec": 88.3
       }
+    },
+    {
+      "episode_id": 49381,
+      "series_id": 1144,
+      "series_title": "Tři kluci a nemluvně",
+      "season": 2,
+      "episode": 11,
+      "episode_code": "S02E11",
+      "display_name": "Tři kluci a nemluvně S02E11 - Pro Lolu vše CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -37074564227890796,
+      "external_id": "587a453c6bcd0",
+      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-02x11-pro-lolu-vse-dvb-t-cz/587a453c6bcd0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31146809,
+      "size_bytes": 335949578,
+      "uploaded_at": "2026-11-18T09:38:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.3,
+        "upload_sec": 48.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915026,22 +915052,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 49381,
-      "series_id": 1144,
-      "series_title": "Tři kluci a nemluvně",
-      "season": 2,
-      "episode": 11,
-      "display_name": "Tři kluci a nemluvně S02E11 - Pro Lolu vše CZ Dabing",
-      "intent_id": "cb2440d7a75249919f230d4b4b8d57ab",
-      "started_at": "2026-11-18T09:35:43Z",
-      "upload_account": "primary",
-      "source_id": -37074564227890796,
-      "source_url": "https://prehraj.to/tri-kluci-a-nemluvne-02x11-pro-lolu-vse-dvb-t-cz/587a453c6bcd0",
-      "size_bytes": 335949578,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1333067,5 +1333077,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T09:35:44Z"
+  "last_updated": "2026-11-18T09:38:21Z"
 }
