@@ -1,6 +1,6 @@
 {
   "counts": {
-    "backlog_episodes": 108685,
+    "backlog_episodes": 108661,
     "manifest_upload_ready_episodes": 2,
     "uploaded_episodes": 82988,
     "prepared_source_episodes": 67939,
@@ -20,6 +20,22 @@
   },
   "workflow_runs": [
     {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T20:24:07Z",
+      "databaseId": 44390634438,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-18T20:24:04Z",
+      "databaseId": 44390624846,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
       "conclusion": "",
       "createdAt": "2026-11-18T20:23:15Z",
       "databaseId": 44390480456,
@@ -32,23 +48,23 @@
       "createdAt": "2026-11-18T20:22:44Z",
       "databaseId": 44390391209,
       "headBranch": "main",
-      "status": "pending",
+      "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T20:22:40Z",
       "databaseId": 44390377995,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "refresh-backlog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T20:22:38Z",
       "databaseId": 44390374669,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -162,22 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T20:10:22Z",
-      "databaseId": 44388182827,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T20:10:15Z",
-      "databaseId": 44388161248,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
