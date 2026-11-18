@@ -915361,6 +915361,32 @@
         "download_sec": 15.1,
         "upload_sec": 32.2
       }
+    },
+    {
+      "episode_id": 109721,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 3,
+      "episode_code": "S07E03",
+      "display_name": "Dynastie S07E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -71387108185483815,
+      "external_id": "595367102aabf",
+      "source_url": "https://prehraj.to/dynasty-s07e03/595367102aabf",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31162050,
+      "size_bytes": 366940161,
+      "uploaded_at": "2026-11-18T22:51:31Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.1,
+        "upload_sec": 29.7
+      }
     }
   ],
   "pending_uploads": [
@@ -916482,22 +916508,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109721,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 7,
-      "episode": 3,
-      "display_name": "Dynastie S07E03 - 3. epizoda CZ Titulky",
-      "intent_id": "0244d0ed1143417789ce28d53887e2a3",
-      "started_at": "2026-11-18T22:50:35Z",
-      "upload_account": "primary",
-      "source_id": -71387108185483815,
-      "source_url": "https://prehraj.to/dynasty-s07e03/595367102aabf",
-      "size_bytes": 366940161,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334523,5 +1334533,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T22:50:35Z"
+  "last_updated": "2026-11-18T22:51:31Z"
 }
