@@ -916894,6 +916894,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2411,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 1,
+      "display_name": "Star proti silám zla S03E01 - 1. epizoda CZ Dabing",
+      "intent_id": "6faaaf6d1090497885a33b982d6caf27",
+      "started_at": "2026-11-19T21:14:21Z",
+      "upload_account": "serialy",
+      "source_id": -35653750055578815,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e1-the-battle-for-mewni-part-1-return-to-mewni-cs/60125a52ece38a71",
+      "size_bytes": 338718355,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334918,5 +1334934,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T20:51:10Z"
+  "last_updated": "2026-11-19T21:14:21Z"
 }
