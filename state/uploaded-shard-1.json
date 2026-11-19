@@ -917809,6 +917809,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2425,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 9,
+      "display_name": "Star proti silám zla S02E09 - 9. epizoda CZ Dabing",
+      "intent_id": "f89e996d4bc64ce999d18d71bdae5050",
+      "started_at": "2026-11-19T10:59:22Z",
+      "upload_account": "primary",
+      "source_id": -8866394195372856,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e9-starstruck-cs/34974e19649a2507",
+      "size_bytes": 329926479,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335833,5 +1335849,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:58:37Z"
+  "last_updated": "2026-11-19T10:59:22Z"
 }
