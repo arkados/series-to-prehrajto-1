@@ -917623,6 +917623,58 @@
         "download_sec": 190.8,
         "upload_sec": 58.5
       }
+    },
+    {
+      "episode_id": 187613,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 23,
+      "episode_code": "S07E23",
+      "display_name": "Požárník Sam S07E23 - Horký vzduch CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -24817190652720508,
+      "external_id": "5c744b3965044",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e23-cz-dabing-pro-deti/5c744b3965044",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31187244,
+      "size_bytes": 338980621,
+      "uploaded_at": "2026-11-19T16:29:01Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 139.1,
+        "upload_sec": 124.9
+      }
+    },
+    {
+      "episode_id": 200005,
+      "series_id": 9979,
+      "series_title": "Molly a duch",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "Molly a duch S01E13 - 13. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -63981717529976096,
+      "external_id": "001475438ae17735",
+      "source_url": "https://prehraj.to/molly-a-duch-s1e13-cs/001475438ae17735",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31187335,
+      "size_bytes": 335717241,
+      "uploaded_at": "2026-11-19T16:34:12Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 142.4,
+        "upload_sec": 92.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1336769,5 +1336821,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T16:20:41Z"
+  "last_updated": "2026-11-19T16:34:12Z"
 }
