@@ -915658,6 +915658,58 @@
         "download_sec": 853.4,
         "upload_sec": 41.1
       }
+    },
+    {
+      "episode_id": 154643,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 3,
+      "episode": 5,
+      "episode_code": "S03E05",
+      "display_name": "Monkey Dust S03E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -1805319807054963,
+      "external_id": "5a345758252e2",
+      "source_url": "https://prehraj.to/monkey-dust-s03e05/5a345758252e2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189635,
+      "size_bytes": 318133814,
+      "uploaded_at": "2026-11-19T19:38:48Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 41.9,
+        "upload_sec": 29.7
+      }
+    },
+    {
+      "episode_id": 113287,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "Sindibádova dobrodružství S01E13 - Maskovaní lupiči CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -26768907059190991,
+      "external_id": "6186388f2f1f0",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e13/6186388f2f1f0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189652,
+      "size_bytes": 441307439,
+      "uploaded_at": "2026-11-19T19:41:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 35.6,
+        "upload_sec": 36.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1334788,5 +1334840,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:33:43Z"
+  "last_updated": "2026-11-19T19:41:33Z"
 }
