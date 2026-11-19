@@ -2,8 +2,8 @@
   "counts": {
     "backlog_episodes": 108564,
     "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83121,
-    "prepared_source_episodes": 67931,
+    "uploaded_episodes": 83122,
+    "prepared_source_episodes": 67934,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
@@ -21,10 +21,50 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T11:21:16Z",
+      "databaseId": 44514058194,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T11:20:51Z",
+      "databaseId": 44513995758,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T11:19:32Z",
+      "databaseId": 44513790322,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T11:19:29Z",
+      "databaseId": 44513781914,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T11:19:06Z",
+      "databaseId": 44513725946,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T11:17:53Z",
       "databaseId": 44513538871,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -108,11 +148,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T11:09:43Z",
       "databaseId": 44512286429,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -135,46 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-19T11:06:48Z",
       "databaseId": 44511831190,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:06:45Z",
-      "databaseId": 44511821823,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T11:06:41Z",
-      "databaseId": 44511813166,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T11:06:29Z",
-      "databaseId": 44511781357,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:05:10Z",
-      "databaseId": 44511573769,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:01:49Z",
-      "databaseId": 44511060728,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
@@ -390005,6 +390005,11 @@
         "episode_id": 92402,
         "display_name": "The Secret Life of the American Teenager S04E16 - 16. epizoda CZ Titulky",
         "video_id": 31181277
+      },
+      {
+        "episode_id": 110415,
+        "display_name": "Darling in the Franxx S01E07 - 7. epizoda CZ Titulky",
+        "video_id": 31181520
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -779727,6 +779732,11 @@
         "episode_id": 92402,
         "display_name": "The Secret Life of the American Teenager S04E16 - 16. epizoda CZ Titulky",
         "video_id": 31181277
+      },
+      {
+        "episode_id": 110415,
+        "display_name": "Darling in the Franxx S01E07 - 7. epizoda CZ Titulky",
+        "video_id": 31181520
       }
     ],
     "prepared_not_upload_ready": [
