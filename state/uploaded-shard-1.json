@@ -917337,6 +917337,32 @@
         "download_sec": 33.7,
         "upload_sec": 108.1
       }
+    },
+    {
+      "episode_id": 187601,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 16,
+      "episode_code": "S07E16",
+      "display_name": "Požárník Sam S07E16 - Po stopách dinosaurů CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -3440046100842254,
+      "external_id": "5c7447ead5511",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e16-cz-dabing-pro-deti/5c7447ead5511",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31184840,
+      "size_bytes": 338486897,
+      "uploaded_at": "2026-11-19T14:22:55Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.4,
+        "upload_sec": 87.4
+      }
     }
   ],
   "pending_uploads": [
@@ -918457,22 +918483,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187601,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 7,
-      "episode": 16,
-      "display_name": "Požárník Sam S07E16 - Po stopách dinosaurů CZ Dabing",
-      "intent_id": "9a9c5fa83a034435a20b2143e40afccd",
-      "started_at": "2026-11-19T14:20:51Z",
-      "upload_account": "primary",
-      "source_id": -3440046100842254,
-      "source_url": "https://prehraj.to/pozarnik-sam-s07e16-cz-dabing-pro-deti/5c7447ead5511",
-      "size_bytes": 338486897,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1336499,5 +1336509,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T14:20:51Z"
+  "last_updated": "2026-11-19T14:22:55Z"
 }
