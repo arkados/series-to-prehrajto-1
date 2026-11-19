@@ -917440,6 +917440,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46335,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 13,
+      "display_name": "Melissa a Joey S01E13 - 13. epizoda CZ Dabing",
+      "intent_id": "4ba1b1e2b135404ba01410f1a5f75aa0",
+      "started_at": "2026-11-19T23:43:52Z",
+      "upload_account": "serialy",
+      "source_id": -43675410873639978,
+      "source_url": "https://prehraj.to/melissa-a-joey-s1e13-enemies-with-benefits-cs/9e32d82e408bb23f",
+      "size_bytes": 323419348,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335464,5 +1335480,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:42:30Z"
+  "last_updated": "2026-11-19T23:43:52Z"
 }
