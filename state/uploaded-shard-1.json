@@ -918351,6 +918351,32 @@
         "download_sec": 14.4,
         "upload_sec": 39.0
       }
+    },
+    {
+      "episode_id": 2400,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 11,
+      "episode_code": "S03E11",
+      "display_name": "Star proti silám zla S03E11 - 11. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -8246347815749313,
+      "external_id": "e5d8a7d050ffcd26",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e11-stranger-danger-cs/e5d8a7d050ffcd26",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191876,
+      "size_bytes": 338437313,
+      "uploaded_at": "2026-11-19T22:53:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 57.3,
+        "upload_sec": 29.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1337497,5 +1337523,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:51:19Z"
+  "last_updated": "2026-11-19T22:53:11Z"
 }
