@@ -914774,6 +914774,32 @@
         "download_sec": 15.1,
         "upload_sec": 28.0
       }
+    },
+    {
+      "episode_id": 187603,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 22,
+      "episode_code": "S07E22",
+      "display_name": "Požárník Sam S07E22 - Poplach na pláži CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -40486301466569971,
+      "external_id": "5c7447ebce5f7",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e22-cz-dabing-pro-deti/5c7447ebce5f7",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183633,
+      "size_bytes": 339083514,
+      "uploaded_at": "2026-11-19T13:12:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.0,
+        "upload_sec": 29.0
+      }
     }
   ],
   "pending_uploads": [
@@ -915880,22 +915906,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 187603,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 7,
-      "episode": 22,
-      "display_name": "Požárník Sam S07E22 - Poplach na pláži CZ Dabing",
-      "intent_id": "e1be74403785460898907e94ea13e940",
-      "started_at": "2026-11-19T13:11:16Z",
-      "upload_account": "serialy",
-      "source_id": -40486301466569971,
-      "source_url": "https://prehraj.to/pozarnik-sam-s07e22-cz-dabing-pro-deti/5c7447ebce5f7",
-      "size_bytes": 339083514,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333920,5 +1333930,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:11:16Z"
+  "last_updated": "2026-11-19T13:12:21Z"
 }
