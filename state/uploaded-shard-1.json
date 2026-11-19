@@ -915725,6 +915725,32 @@
         "download_sec": 20.5,
         "upload_sec": 43.2
       }
+    },
+    {
+      "episode_id": 109728,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 27,
+      "episode_code": "S07E27",
+      "display_name": "Dynastie S07E27 - 27. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -2320150956938145,
+      "external_id": "5953693a70e29",
+      "source_url": "https://prehraj.to/dynasty-s07e27/5953693a70e29",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31164876,
+      "size_bytes": 366577665,
+      "uploaded_at": "2026-11-19T01:06:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 19.0,
+        "upload_sec": 37.5
+      }
     }
   ],
   "pending_uploads": [
@@ -916847,6 +916873,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 109733,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 11,
+      "display_name": "Dynastie S08E11 - 11. epizoda CZ Titulky",
+      "intent_id": "b477777303ce44789c82a41d0fc6a4c8",
+      "started_at": "2026-11-19T01:27:02Z",
+      "upload_account": "primary",
+      "source_id": -11105493354246236,
+      "source_url": "https://prehraj.to/dynasty-s08e11/59536a0ddbf8b",
+      "size_bytes": 421098561,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1334871,5 +1334913,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T00:45:46Z"
+  "last_updated": "2026-11-19T01:27:02Z"
 }
