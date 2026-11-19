@@ -915230,6 +915230,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109730,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 2,
+      "display_name": "Dynastie S08E02 - 2. epizoda CZ Titulky",
+      "intent_id": "aa29b033c0704e70b305482b109a666d",
+      "started_at": "2026-11-19T09:25:53Z",
+      "upload_account": "serialy",
+      "source_id": -68231727828700056,
+      "source_url": "https://prehraj.to/dynasty-s08e02/59536960d571b",
+      "size_bytes": 340198270,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1333254,5 +1333270,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T09:19:01Z"
+  "last_updated": "2026-11-19T09:25:53Z"
 }
