@@ -914628,6 +914628,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 83910,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 22,
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E22 - Je na čase CZ Titulky",
+      "intent_id": "f4c6e3396935412dbf1d94c6bf7b41c0",
+      "started_at": "2026-11-19T02:16:17Z",
+      "upload_account": "serialy",
+      "source_id": -29899110834125152,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e22-it-s-about-time-en/bdd705a0b62c15eb",
+      "size_bytes": 399007239,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332652,5 +1332668,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T02:15:13Z"
+  "last_updated": "2026-11-19T02:16:17Z"
 }
