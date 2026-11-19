@@ -917779,6 +917779,32 @@
         "download_sec": 306.6,
         "upload_sec": 50.8
       }
+    },
+    {
+      "episode_id": 128804,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 3,
+      "episode": 7,
+      "episode_code": "S03E07",
+      "display_name": "Lovci trolů od Guillerma Del Toro S03E07 - Přísaha CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -600566025851960,
+      "external_id": "5fb081302553c",
+      "source_url": "https://prehraj.to/lovci-trolu-od-guillerma-del-toro-s03e07-czdab/5fb081302553c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188460,
+      "size_bytes": 359827929,
+      "uploaded_at": "2026-11-19T17:49:40Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 166.3,
+        "upload_sec": 31.1
+      }
     }
   ],
   "pending_uploads": [
@@ -918901,22 +918927,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 128804,
-      "series_id": 1968,
-      "series_title": "Lovci trolů od Guillerma Del Toro",
-      "season": 3,
-      "episode": 7,
-      "display_name": "Lovci trolů od Guillerma Del Toro S03E07 - Přísaha CZ Dabing",
-      "intent_id": "8760878efdfe4577a95827adc31d06db",
-      "started_at": "2026-11-19T17:47:57Z",
-      "upload_account": "primary",
-      "source_id": -600566025851960,
-      "source_url": "https://prehraj.to/lovci-trolu-od-guillerma-del-toro-s03e07-czdab/5fb081302553c",
-      "size_bytes": 359827929,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336941,5 +1336951,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T17:47:57Z"
+  "last_updated": "2026-11-19T17:49:40Z"
 }
