@@ -916743,6 +916743,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 109729,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 1,
+      "display_name": "Dynastie S08E01 - 1. epizoda CZ Titulky",
+      "intent_id": "b1a17957f1ad44a2884168a2bbc2ddf2",
+      "started_at": "2026-11-19T00:10:22Z",
+      "upload_account": "primary",
+      "source_id": -29013291414117787,
+      "source_url": "https://prehraj.to/dynasty-s08e01/595369602ac99",
+      "size_bytes": 354117809,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1334767,5 +1334783,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:55:00Z"
+  "last_updated": "2026-11-19T00:10:22Z"
 }
