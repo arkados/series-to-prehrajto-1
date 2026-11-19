@@ -913834,6 +913834,32 @@
         "download_sec": 14.9,
         "upload_sec": 113.6
       }
+    },
+    {
+      "episode_id": 92350,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "The Secret Life of the American Teenager S02E13 - 13. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -58371610744254928,
+      "external_id": "57d89574f1caa",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s02e13-cztit/57d89574f1caa",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31172819,
+      "size_bytes": 366262272,
+      "uploaded_at": "2026-11-19T06:32:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.6,
+        "upload_sec": 84.0
+      }
     }
   ],
   "pending_uploads": [
@@ -914940,22 +914966,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 92350,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 2,
-      "episode": 13,
-      "display_name": "The Secret Life of the American Teenager S02E13 - 13. epizoda CZ Titulky",
-      "intent_id": "2083e50a7af94f5593a582c8e0631579",
-      "started_at": "2026-11-19T06:29:29Z",
-      "upload_account": "serialy",
-      "source_id": -58371610744254928,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s02e13-cztit/57d89574f1caa",
-      "size_bytes": 366262272,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332980,5 +1332990,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T06:32:26Z"
+  "last_updated": "2026-11-19T06:32:27Z"
 }
