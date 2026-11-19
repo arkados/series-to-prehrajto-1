@@ -918585,6 +918585,32 @@
         "download_sec": 17.0,
         "upload_sec": 35.6
       }
+    },
+    {
+      "episode_id": 129396,
+      "series_id": 3630,
+      "series_title": "A.P. Bio",
+      "season": 4,
+      "episode": 3,
+      "episode_code": "S04E03",
+      "display_name": "A.P. Bio S04E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -57518404656095159,
+      "external_id": "8aabcc6242835ba5",
+      "source_url": "https://prehraj.to/a-p-bio-s04e03-3-epizoda-cz-titulky/8aabcc6242835ba5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192873,
+      "size_bytes": 319470344,
+      "uploaded_at": "2026-11-19T23:57:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.9,
+        "upload_sec": 29.7
+      }
     }
   ],
   "pending_uploads": [
@@ -919707,22 +919733,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 129396,
-      "series_id": 3630,
-      "series_title": "A.P. Bio",
-      "season": 4,
-      "episode": 3,
-      "display_name": "A.P. Bio S04E03 - 3. epizoda CZ Titulky",
-      "intent_id": "a144c8ac798d4de5831991ff9905cd8a",
-      "started_at": "2026-11-19T23:56:07Z",
-      "upload_account": "primary",
-      "source_id": -57518404656095159,
-      "source_url": "https://prehraj.to/a-p-bio-s04e03-3-epizoda-cz-titulky/8aabcc6242835ba5",
-      "size_bytes": 319470344,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337747,5 +1337757,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:56:07Z"
+  "last_updated": "2026-11-19T23:57:36Z"
 }
