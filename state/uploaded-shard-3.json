@@ -914488,6 +914488,32 @@
         "download_sec": 16.1,
         "upload_sec": 40.3
       }
+    },
+    {
+      "episode_id": 110431,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 18,
+      "episode_code": "S01E18",
+      "display_name": "Darling in the Franxx S01E18 - 18. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -46025043849306988,
+      "external_id": "6147a71504fd2",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e18/6147a71504fd2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31182169,
+      "size_bytes": 343091618,
+      "uploaded_at": "2026-11-19T11:56:49Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.3,
+        "upload_sec": 32.2
+      }
     }
   ],
   "pending_uploads": [
@@ -915594,22 +915620,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 110431,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 18,
-      "display_name": "Darling in the Franxx S01E18 - 18. epizoda CZ Titulky",
-      "intent_id": "a92c5ff5c3ef4854b2c6c18e742405b6",
-      "started_at": "2026-11-19T11:54:50Z",
-      "upload_account": "serialy",
-      "source_id": -46025043849306988,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e18/6147a71504fd2",
-      "size_bytes": 343091618,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333634,5 +1333644,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T11:54:50Z"
+  "last_updated": "2026-11-19T11:56:49Z"
 }
