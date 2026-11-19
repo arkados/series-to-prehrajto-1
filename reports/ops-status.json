@@ -2,8 +2,8 @@
   "counts": {
     "backlog_episodes": 108596,
     "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83058,
-    "prepared_source_episodes": 67965,
+    "uploaded_episodes": 83059,
+    "prepared_source_episodes": 67967,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
@@ -14,17 +14,65 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53472,
     "whisper_review_pending_sources": 36144,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 141,
     "subtitle_followup_sources": 52333,
     "subtitle_followup_pending_sources": 52333
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T03:48:21Z",
+      "databaseId": 44453975751,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T03:45:13Z",
+      "databaseId": 44453618958,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T03:45:05Z",
+      "databaseId": 44453601803,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T03:43:09Z",
+      "databaseId": 44453379650,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T03:43:06Z",
+      "databaseId": 44453374188,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-19T03:42:41Z",
+      "databaseId": 44453328377,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T03:41:42Z",
       "databaseId": 44453214909,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +100,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T03:35:51Z",
       "databaseId": 44452544409,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -68,11 +116,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T03:34:39Z",
       "databaseId": 44452402440,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -100,11 +148,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T03:34:08Z",
       "databaseId": 44452339694,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -127,54 +175,6 @@
       "conclusion": "cancelled",
       "createdAt": "2026-11-19T03:27:58Z",
       "databaseId": 44451613403,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T03:27:52Z",
-      "databaseId": 44451601898,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T03:26:48Z",
-      "databaseId": 44451478090,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T03:26:21Z",
-      "databaseId": 44451428412,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T03:26:11Z",
-      "databaseId": 44451409104,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T03:23:44Z",
-      "databaseId": 44451121971,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T03:23:36Z",
-      "databaseId": 44451105925,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
@@ -389700,6 +389700,11 @@
         "episode_id": 170515,
         "display_name": "American Playboy: The Hugh Hefner Story S01E07 - 7. epizoda CZ Titulky",
         "video_id": 31168433
+      },
+      {
+        "episode_id": 7494,
+        "display_name": "Stargirl S02E01 - Kapitola první CZ Dabing",
+        "video_id": 31168584
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -779117,6 +779122,11 @@
         "episode_id": 170515,
         "display_name": "American Playboy: The Hugh Hefner Story S01E07 - 7. epizoda CZ Titulky",
         "video_id": 31168433
+      },
+      {
+        "episode_id": 7494,
+        "display_name": "Stargirl S02E01 - Kapitola první CZ Dabing",
+        "video_id": 31168584
       }
     ],
     "prepared_not_upload_ready": [
