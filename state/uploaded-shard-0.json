@@ -915959,6 +915959,32 @@
         "download_sec": 19.9,
         "upload_sec": 116.8
       }
+    },
+    {
+      "episode_id": 92333,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 1,
+      "episode": 16,
+      "episode_code": "S01E16",
+      "display_name": "The Secret Life of the American Teenager S01E16 - 16. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -37628152574294669,
+      "external_id": "57d87bc31e86c",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s01e16-cztit/57d87bc31e86c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31171885,
+      "size_bytes": 366987426,
+      "uploaded_at": "2026-11-19T05:56:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.2,
+        "upload_sec": 96.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1335105,5 +1335131,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T05:50:46Z"
+  "last_updated": "2026-11-19T05:56:02Z"
 }
