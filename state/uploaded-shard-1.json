@@ -917779,6 +917779,32 @@
         "download_sec": 306.6,
         "upload_sec": 50.8
       }
+    },
+    {
+      "episode_id": 128804,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 3,
+      "episode": 7,
+      "episode_code": "S03E07",
+      "display_name": "Lovci trolů od Guillerma Del Toro S03E07 - Přísaha CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -600566025851960,
+      "external_id": "5fb081302553c",
+      "source_url": "https://prehraj.to/lovci-trolu-od-guillerma-del-toro-s03e07-czdab/5fb081302553c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188460,
+      "size_bytes": 359827929,
+      "uploaded_at": "2026-11-19T17:49:40Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 166.3,
+        "upload_sec": 31.1
+      }
     }
   ],
   "pending_uploads": [
@@ -918899,6 +918925,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 92421,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 5,
+      "episode": 12,
+      "display_name": "The Secret Life of the American Teenager S05E12 - 12. epizoda CZ Titulky",
+      "intent_id": "02fd36dffc6646108cd1868566cbce2e",
+      "started_at": "2026-11-19T17:52:37Z",
+      "upload_account": "primary",
+      "source_id": -69860240187541923,
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s05e12-cztit/57d8d244acde3",
+      "size_bytes": 320561269,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1336925,5 +1336967,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T17:42:29Z"
+  "last_updated": "2026-11-19T17:52:37Z"
 }
