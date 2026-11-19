@@ -916583,6 +916583,32 @@
         "download_sec": 13.8,
         "upload_sec": 93.7
       }
+    },
+    {
+      "episode_id": 92400,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 4,
+      "episode": 4,
+      "episode_code": "S04E04",
+      "display_name": "The Secret Life of the American Teenager S04E04 - 4. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -45738169380554012,
+      "external_id": "5f7862760bb56",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-04x04-cz-tit/5f7862760bb56",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180601,
+      "size_bytes": 354913592,
+      "uploaded_at": "2026-11-19T10:50:10Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 13.9,
+        "upload_sec": 107.7
+      }
     }
   ],
   "pending_uploads": [
@@ -917704,22 +917730,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 92400,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 4,
-      "episode": 4,
-      "display_name": "The Secret Life of the American Teenager S04E04 - 4. epizoda CZ Titulky",
-      "intent_id": "e517ae43b3a8432d94f6dfd83698004d",
-      "started_at": "2026-11-19T10:47:51Z",
-      "upload_account": "primary",
-      "source_id": -45738169380554012,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-04x04-cz-tit/5f7862760bb56",
-      "size_bytes": 354913592,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1335745,5 +1335755,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:47:51Z"
+  "last_updated": "2026-11-19T10:50:10Z"
 }
