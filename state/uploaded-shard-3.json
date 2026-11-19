@@ -915464,6 +915464,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 100607,
+      "series_id": 2443,
+      "series_title": "Fresh Meat",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Fresh Meat S01E07 - 7. epizoda CZ Titulky",
+      "intent_id": "0ce6ae9abc9c4aa08da0a9657abc37a4",
+      "started_at": "2026-11-19T10:55:28Z",
+      "upload_account": "serialy",
+      "source_id": -44338412110821312,
+      "source_url": "https://prehraj.to/fresh-meat-s01e07-hdtv/59a49ee842082",
+      "size_bytes": 366885504,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333488,5 +1333504,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:46:02Z"
+  "last_updated": "2026-11-19T10:55:28Z"
 }
