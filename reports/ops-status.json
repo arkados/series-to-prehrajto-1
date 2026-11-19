@@ -2,18 +2,18 @@
   "counts": {
     "backlog_episodes": 108484,
     "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83196,
-    "prepared_source_episodes": 67982,
+    "uploaded_episodes": 83197,
+    "prepared_source_episodes": 67978,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
     "language_audited_sources": 46,
-    "language_whisper_attempted_sources": 45,
+    "language_whisper_attempted_sources": 46,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53444,
-    "whisper_review_pending_sources": 36112,
+    "whisper_review_pending_sources": 36111,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52431,
     "subtitle_followup_pending_sources": 52431
@@ -21,10 +21,42 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T17:29:09Z",
+      "databaseId": 44577668998,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T17:27:00Z",
+      "databaseId": 44577290734,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T17:26:45Z",
+      "databaseId": 44577249199,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T17:26:41Z",
+      "databaseId": 44577236867,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T17:25:39Z",
       "databaseId": 44577056225,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +84,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T17:22:34Z",
       "databaseId": 44576502068,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:03:44Z",
-      "databaseId": 44573027435,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:03:14Z",
-      "databaseId": 44572932981,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T17:03:10Z",
-      "databaseId": 44572922546,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-19T17:03:07Z",
-      "databaseId": 44572912129,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
     }
   ],
   "gaps": {
@@ -204355,6 +204355,11 @@
         "episode_id": 154637,
         "display_name": "Monkey Dust S02E04 - 4. epizoda CZ Titulky",
         "video_id": 31187484
+      },
+      {
+        "episode_id": 113292,
+        "display_name": "Sindibádova dobrodružství S01E11 - Princ, který nebyl CZ Titulky",
+        "video_id": 31188066
       },
       {
         "episode_id": 114182,
@@ -594454,6 +594459,11 @@
         "video_id": 31187484
       },
       {
+        "episode_id": 113292,
+        "display_name": "Sindibádova dobrodružství S01E11 - Princ, který nebyl CZ Titulky",
+        "video_id": 31188066
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -781638,13 +781648,12 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 44,
-    "disabled": 1,
+    "ok": 45,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34888,
-    "whisper_confirmed_cz": 4077,
+    "needs_whisper": 34887,
+    "whisper_confirmed_cz": 4078,
     "whisper_non_cz_needs_subtitles": 13255,
     "whisper_failed": 1224
   },
