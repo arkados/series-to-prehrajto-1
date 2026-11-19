@@ -917987,6 +917987,32 @@
         "download_sec": 632.3,
         "upload_sec": 47.1
       }
+    },
+    {
+      "episode_id": 128788,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 2,
+      "episode": 3,
+      "episode_code": "S02E03",
+      "display_name": "Lovci trolů od Guillerma Del Toro S02E03 - Grand Theft Otto CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -70512024897548186,
+      "external_id": "c2d135a60ebcb56e",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s2e3-grand-theft-otto-en/c2d135a60ebcb56e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31190316,
+      "size_bytes": 452192570,
+      "uploaded_at": "2026-11-19T20:36:47Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 871.4,
+        "upload_sec": 40.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1337133,5 +1337159,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T20:17:33Z"
+  "last_updated": "2026-11-19T20:36:47Z"
 }
