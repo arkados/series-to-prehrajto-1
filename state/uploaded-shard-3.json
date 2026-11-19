@@ -915658,6 +915658,32 @@
         "download_sec": 853.4,
         "upload_sec": 41.1
       }
+    },
+    {
+      "episode_id": 154643,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 3,
+      "episode": 5,
+      "episode_code": "S03E05",
+      "display_name": "Monkey Dust S03E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -1805319807054963,
+      "external_id": "5a345758252e2",
+      "source_url": "https://prehraj.to/monkey-dust-s03e05/5a345758252e2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189635,
+      "size_bytes": 318133814,
+      "uploaded_at": "2026-11-19T19:38:48Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 41.9,
+        "upload_sec": 29.7
+      }
     }
   ],
   "pending_uploads": [
@@ -916764,22 +916790,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 154643,
-      "series_id": 5458,
-      "series_title": "Monkey Dust",
-      "season": 3,
-      "episode": 5,
-      "display_name": "Monkey Dust S03E05 - 5. epizoda CZ Titulky",
-      "intent_id": "7d3f7c346ccf4708a59b874a0b3f8468",
-      "started_at": "2026-11-19T19:37:19Z",
-      "upload_account": "serialy",
-      "source_id": -1805319807054963,
-      "source_url": "https://prehraj.to/monkey-dust-s03e05/5a345758252e2",
-      "size_bytes": 318133814,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334804,5 +1334814,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:37:19Z"
+  "last_updated": "2026-11-19T19:38:48Z"
 }
