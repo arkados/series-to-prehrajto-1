@@ -916557,6 +916557,32 @@
         "download_sec": 13.6,
         "upload_sec": 43.6
       }
+    },
+    {
+      "episode_id": 110420,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "Darling in the Franxx S01E13 - 13. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -28376801766410483,
+      "external_id": "6147a45de30a6",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e13/6147a45de30a6",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180514,
+      "size_bytes": 342826520,
+      "uploaded_at": "2026-11-19T10:47:01Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 13.8,
+        "upload_sec": 93.7
+      }
     }
   ],
   "pending_uploads": [
@@ -917678,22 +917704,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 110420,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 13,
-      "display_name": "Darling in the Franxx S01E13 - 13. epizoda CZ Titulky",
-      "intent_id": "e553aa6977be45db9265c9a60371560c",
-      "started_at": "2026-11-19T10:44:37Z",
-      "upload_account": "primary",
-      "source_id": -28376801766410483,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e13/6147a45de30a6",
-      "size_bytes": 342826520,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1335719,5 +1335729,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:44:37Z"
+  "last_updated": "2026-11-19T10:47:01Z"
 }
