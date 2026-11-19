@@ -1,38 +1,102 @@
 {
   "counts": {
     "backlog_episodes": 108527,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83125,
-    "prepared_source_episodes": 67947,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 83126,
+    "prepared_source_episodes": 67954,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
+    "language_audited_sources": 41,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53454,
-    "whisper_review_pending_sources": 36111,
-    "upload_pending_checkpoints": 139,
+    "whisper_review_pending_sources": 36114,
+    "upload_pending_checkpoints": 140,
     "subtitle_followup_sources": 52387,
     "subtitle_followup_pending_sources": 52387
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T11:53:53Z",
-      "databaseId": 44518892641,
+      "createdAt": "2026-11-19T12:03:14Z",
+      "databaseId": 44520294400,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T12:02:23Z",
+      "databaseId": 44520165984,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T12:01:06Z",
+      "databaseId": 44519966989,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T11:58:31Z",
+      "databaseId": 44519571461,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T11:58:25Z",
+      "databaseId": 44519556590,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T11:57:14Z",
+      "databaseId": 44519386459,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T11:55:35Z",
+      "databaseId": 44519145209,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T11:55:32Z",
+      "databaseId": 44519136999,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T11:53:53Z",
+      "databaseId": 44518892641,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-19T11:53:41Z",
       "databaseId": 44518862609,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -100,84 +164,20 @@
       "workflowName": "prepare-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T11:45:07Z",
       "databaseId": 44517595119,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T11:45:05Z",
       "databaseId": 44517590986,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T11:43:33Z",
-      "databaseId": 44517367554,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T11:41:30Z",
-      "databaseId": 44517068833,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:38:42Z",
-      "databaseId": 44516664456,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "external-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:37:29Z",
-      "databaseId": 44516490197,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:37:24Z",
-      "databaseId": 44516480512,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:37:22Z",
-      "databaseId": 44516474285,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:36:57Z",
-      "databaseId": 44516411234,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T11:35:58Z",
-      "databaseId": 44516267469,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -390025,6 +390025,11 @@
         "episode_id": 92386,
         "display_name": "The Secret Life of the American Teenager S03E25 - 25. epizoda CZ Titulky",
         "video_id": 31181919
+      },
+      {
+        "episode_id": 110431,
+        "display_name": "Darling in the Franxx S01E18 - 18. epizoda CZ Titulky",
+        "video_id": 31182169
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -779767,6 +779772,11 @@
         "episode_id": 92386,
         "display_name": "The Secret Life of the American Teenager S03E25 - 25. epizoda CZ Titulky",
         "video_id": 31181919
+      },
+      {
+        "episode_id": 110431,
+        "display_name": "Darling in the Franxx S01E18 - 18. epizoda CZ Titulky",
+        "video_id": 31182169
       }
     ],
     "prepared_not_upload_ready": [
@@ -780928,13 +780938,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "disabled": 1,
     "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34887,
+    "needs_whisper": 34890,
     "whisper_confirmed_cz": 4043,
-    "whisper_non_cz_needs_subtitles": 13300,
+    "whisper_non_cz_needs_subtitles": 13297,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
