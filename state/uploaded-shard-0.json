@@ -919057,6 +919057,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 154640,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 3,
+      "episode": 2,
+      "display_name": "Monkey Dust S03E02 - 2. epizoda CZ Titulky",
+      "intent_id": "b00cd98a43c74893bcbbe539bf3e0c07",
+      "started_at": "2026-11-19T19:36:50Z",
+      "upload_account": "primary",
+      "source_id": -3240093446862015,
+      "source_url": "https://prehraj.to/monkey-dust-s03e02/5a34572f68b17",
+      "size_bytes": 336906463,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337081,5 +1337097,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:12:32Z"
+  "last_updated": "2026-11-19T19:36:50Z"
 }
