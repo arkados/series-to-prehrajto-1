@@ -917857,6 +917857,58 @@
         "download_sec": 13.1,
         "upload_sec": 32.4
       }
+    },
+    {
+      "episode_id": 110416,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Darling in the Franxx S01E10 - 10. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -13138745382541283,
+      "external_id": "6147a2bb9f6ad",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e10/6147a2bb9f6ad",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189124,
+      "size_bytes": 342289707,
+      "uploaded_at": "2026-11-19T18:52:24Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 605.6,
+        "upload_sec": 32.2
+      }
+    },
+    {
+      "episode_id": 92428,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 5,
+      "episode": 19,
+      "episode_code": "S05E19",
+      "display_name": "The Secret Life of the American Teenager S05E19 - 19. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -4047294986489371,
+      "external_id": "57d8d64e674a9",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s05e19-sktit/57d8d64e674a9",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189157,
+      "size_bytes": 318395456,
+      "uploaded_at": "2026-11-19T18:54:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.7,
+        "upload_sec": 32.3
+      }
     }
   ],
   "pending_uploads": [
@@ -918979,6 +919031,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 203593,
+      "series_id": 10454,
+      "series_title": "Jak Stuart nezachránil vesmír",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Jak Stuart nezachránil vesmír S01E10 - 10. epizoda CZ Dabing",
+      "intent_id": "94e521f864824dc7bb011c3d502244e7",
+      "started_at": "2026-11-19T18:57:03Z",
+      "upload_account": "primary",
+      "source_id": -5326288455734011,
+      "source_url": "https://prehraj.to/jak-stuart-nezachranil-vesmir-s01e10-spoiler-nataceno-pred-zivym-publikem-4k-cz-dabing-mkv/d64044fc83e7d2ec",
+      "size_bytes": 389741570,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337003,5 +1337071,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T18:26:08Z"
+  "last_updated": "2026-11-19T18:57:03Z"
 }
