@@ -915008,6 +915008,32 @@
         "download_sec": 15.1,
         "upload_sec": 74.1
       }
+    },
+    {
+      "episode_id": 200006,
+      "series_id": 9979,
+      "series_title": "Molly a duch",
+      "season": 1,
+      "episode": 15,
+      "episode_code": "S01E15",
+      "display_name": "Molly a duch S01E15 - 15. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -19234897288393689,
+      "external_id": "555757ee8048be19",
+      "source_url": "https://prehraj.to/molly-a-duch-s1e15-cs/555757ee8048be19",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31185339,
+      "size_bytes": 335636368,
+      "uploaded_at": "2026-11-19T14:56:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.0,
+        "upload_sec": 60.0
+      }
     }
   ],
   "pending_uploads": [
@@ -916114,22 +916140,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 200006,
-      "series_id": 9979,
-      "series_title": "Molly a duch",
-      "season": 1,
-      "episode": 15,
-      "display_name": "Molly a duch S01E15 - 15. epizoda CZ Dabing",
-      "intent_id": "4a7c33497bc74c47b2bad61d1d89408d",
-      "started_at": "2026-11-19T14:54:06Z",
-      "upload_account": "serialy",
-      "source_id": -19234897288393689,
-      "source_url": "https://prehraj.to/molly-a-duch-s1e15-cs/555757ee8048be19",
-      "size_bytes": 335636368,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334154,5 +1334164,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T14:54:06Z"
+  "last_updated": "2026-11-19T14:56:05Z"
 }
