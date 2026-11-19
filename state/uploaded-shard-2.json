@@ -916946,6 +916946,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2406,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 5,
+      "display_name": "Star proti silám zla S03E05 - 5. epizoda CZ Dabing",
+      "intent_id": "a23bad87e6bf4580ae4edf1b67084c78",
+      "started_at": "2026-11-19T21:42:32Z",
+      "upload_account": "serialy",
+      "source_id": -25779694704961739,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e5-the-battle-for-mewni-part-5-puddle-defender-cs/0e0fd59d7929d1dd",
+      "size_bytes": 334939204,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334970,5 +1334986,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:17:32Z"
+  "last_updated": "2026-11-19T21:42:32Z"
 }
