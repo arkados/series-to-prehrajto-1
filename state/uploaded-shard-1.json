@@ -916479,6 +916479,32 @@
         "download_sec": 19.8,
         "upload_sec": 37.2
       }
+    },
+    {
+      "episode_id": 92437,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 3,
+      "episode": 26,
+      "episode_code": "S03E26",
+      "display_name": "The Secret Life of the American Teenager S03E26 - 26. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -30966246485432808,
+      "external_id": "5f2c63fbe0e47",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-03x26-cz-tit/5f2c63fbe0e47",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31179920,
+      "size_bytes": 358807342,
+      "uploaded_at": "2026-11-19T10:25:22Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 20.5,
+        "upload_sec": 70.8
+      }
     }
   ],
   "pending_uploads": [
@@ -917600,22 +917626,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 92437,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 3,
-      "episode": 26,
-      "display_name": "The Secret Life of the American Teenager S03E26 - 26. epizoda CZ Titulky",
-      "intent_id": "44f7923f8a0a4994ac85e8d532f8e4d9",
-      "started_at": "2026-11-19T10:23:09Z",
-      "upload_account": "primary",
-      "source_id": -30966246485432808,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-03x26-cz-tit/5f2c63fbe0e47",
-      "size_bytes": 358807342,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1335641,5 +1335651,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:23:09Z"
+  "last_updated": "2026-11-19T10:25:22Z"
 }
