@@ -914124,6 +914124,58 @@
         "download_sec": 17.4,
         "upload_sec": 73.0
       }
+    },
+    {
+      "episode_id": 109730,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 2,
+      "episode_code": "S08E02",
+      "display_name": "Dynastie S08E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -68231727828700056,
+      "external_id": "59536960d571b",
+      "source_url": "https://prehraj.to/dynasty-s08e02/59536960d571b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31178211,
+      "size_bytes": 340198270,
+      "uploaded_at": "2026-11-19T09:26:56Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.9,
+        "upload_sec": 25.8
+      }
+    },
+    {
+      "episode_id": 92383,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 3,
+      "episode": 22,
+      "episode_code": "S03E22",
+      "display_name": "The Secret Life of the American Teenager S03E22 - 22. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -52810095263102115,
+      "external_id": "57d8b76d98e40",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s03e22-cztit/57d8b76d98e40",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31178244,
+      "size_bytes": 366290944,
+      "uploaded_at": "2026-11-19T09:28:28Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 22.4,
+        "upload_sec": 64.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915230,38 +915282,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 109730,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 8,
-      "episode": 2,
-      "display_name": "Dynastie S08E02 - 2. epizoda CZ Titulky",
-      "intent_id": "aa29b033c0704e70b305482b109a666d",
-      "started_at": "2026-11-19T09:25:53Z",
-      "upload_account": "serialy",
-      "source_id": -68231727828700056,
-      "source_url": "https://prehraj.to/dynasty-s08e02/59536960d571b",
-      "size_bytes": 340198270,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 92383,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 3,
-      "episode": 22,
-      "display_name": "The Secret Life of the American Teenager S03E22 - 22. epizoda CZ Titulky",
-      "intent_id": "3fe3a1c80df5470e85e10dab27d4fa60",
-      "started_at": "2026-11-19T09:26:26Z",
-      "upload_account": "serialy",
-      "source_id": -52810095263102115,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s03e22-cztit/57d8b76d98e40",
-      "size_bytes": 366290944,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333286,5 +1333306,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T09:26:26Z"
+  "last_updated": "2026-11-19T09:28:28Z"
 }
