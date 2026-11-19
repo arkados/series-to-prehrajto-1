@@ -917471,6 +917471,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 100612,
+      "series_id": 2443,
+      "series_title": "Fresh Meat",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Fresh Meat S01E02 - 2. epizoda CZ Titulky",
+      "intent_id": "dcc3acc41af54087ade33fda0ec3a784",
+      "started_at": "2026-11-19T09:52:35Z",
+      "upload_account": "primary",
+      "source_id": -67727396151976609,
+      "source_url": "https://prehraj.to/fresh-meat-s01e02-hdtv/59b5224170d16",
+      "size_bytes": 366476979,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335495,5 +1335511,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T09:51:34Z"
+  "last_updated": "2026-11-19T09:52:35Z"
 }
