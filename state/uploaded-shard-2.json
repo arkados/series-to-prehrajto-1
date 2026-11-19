@@ -915320,6 +915320,32 @@
         "download_sec": 16.1,
         "upload_sec": 117.6
       }
+    },
+    {
+      "episode_id": 167599,
+      "series_id": 6852,
+      "series_title": "Noblesse",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Noblesse S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -31957059954769697,
+      "external_id": "5fd21a1e1b866",
+      "source_url": "https://prehraj.to/noblesse-s01e03/5fd21a1e1b866",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31187039,
+      "size_bytes": 318094073,
+      "uploaded_at": "2026-11-19T16:19:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.1,
+        "upload_sec": 139.4
+      }
     }
   ],
   "pending_uploads": [
@@ -916426,6 +916452,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187614,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 24,
+      "display_name": "Požárník Sam S07E24 - Ohnivé peklo CZ Dabing",
+      "intent_id": "cdc6b1d537744479b3b9b8970fd72212",
+      "started_at": "2026-11-19T16:23:37Z",
+      "upload_account": "serialy",
+      "source_id": -27596184677502439,
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e24-cz-dabing-pro-deti/5c744b46ae48d",
+      "size_bytes": 349208216,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334450,5 +1334492,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T16:06:04Z"
+  "last_updated": "2026-11-19T16:23:37Z"
 }
