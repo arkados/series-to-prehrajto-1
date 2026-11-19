@@ -914696,6 +914696,32 @@
         "download_sec": 14.8,
         "upload_sec": 60.7
       }
+    },
+    {
+      "episode_id": 110411,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Darling in the Franxx S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -5411057031522339,
+      "external_id": "61479ee65c9fd",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e03/61479ee65c9fd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183581,
+      "size_bytes": 342511268,
+      "uploaded_at": "2026-11-19T13:07:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.2,
+        "upload_sec": 33.9
+      }
     }
   ],
   "pending_uploads": [
@@ -915817,22 +915843,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s07e21-cz-dabing-pro-deti/5c7447ec68af3",
       "size_bytes": 342187163,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 110411,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 3,
-      "display_name": "Darling in the Franxx S01E03 - 3. epizoda CZ Titulky",
-      "intent_id": "dc6d0a9638a74ecfbe3f0432ca1a28de",
-      "started_at": "2026-11-19T13:06:06Z",
-      "upload_account": "serialy",
-      "source_id": -5411057031522339,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e03/61479ee65c9fd",
-      "size_bytes": 342511268,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1333858,5 +1333868,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:06:06Z"
+  "last_updated": "2026-11-19T13:07:58Z"
 }
