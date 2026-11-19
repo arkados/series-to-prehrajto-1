@@ -918429,6 +918429,32 @@
         "download_sec": 49.5,
         "upload_sec": 35.8
       }
+    },
+    {
+      "episode_id": 63069,
+      "series_id": 1411,
+      "series_title": "Případy detektiva Murdocha",
+      "season": 4,
+      "episode": 7,
+      "episode_code": "S04E07",
+      "display_name": "Případy detektiva Murdocha S04E07 - Konfederační poklad CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -17300012096024723,
+      "external_id": "97d2525d126ebcc1",
+      "source_url": "https://prehraj.to/murdoch-mysteries-s4e7-confederate-treasure-cz/97d2525d126ebcc1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192087,
+      "size_bytes": 343271134,
+      "uploaded_at": "2026-11-19T23:07:07Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 19.5,
+        "upload_sec": 63.9
+      }
     }
   ],
   "pending_uploads": [
@@ -919549,22 +919575,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 63069,
-      "series_id": 1411,
-      "series_title": "Případy detektiva Murdocha",
-      "season": 4,
-      "episode": 7,
-      "display_name": "Případy detektiva Murdocha S04E07 - Konfederační poklad CZ Dabing",
-      "intent_id": "fbf3f72df47f47319b047803f2eb255f",
-      "started_at": "2026-11-19T23:05:26Z",
-      "upload_account": "primary",
-      "source_id": -17300012096024723,
-      "source_url": "https://prehraj.to/murdoch-mysteries-s4e7-confederate-treasure-cz/97d2525d126ebcc1",
-      "size_bytes": 343271134,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337591,5 +1337601,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:05:26Z"
+  "last_updated": "2026-11-19T23:07:07Z"
 }
