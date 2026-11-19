@@ -915450,6 +915450,32 @@
         "download_sec": 22.1,
         "upload_sec": 36.0
       }
+    },
+    {
+      "episode_id": 113283,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Sindibádova dobrodružství S01E10 - Hlavolam CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -23899418848762564,
+      "external_id": "5c3559fdead85",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x10/5c3559fdead85",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188434,
+      "size_bytes": 430328133,
+      "uploaded_at": "2026-11-19T17:47:44Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 59.5,
+        "upload_sec": 40.1
+      }
     }
   ],
   "pending_uploads": [
@@ -916554,22 +916580,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 113283,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 10,
-      "display_name": "Sindibádova dobrodružství S01E10 - Hlavolam CZ Dabing",
-      "intent_id": "8f39a739f817419eb8dff31fb5d669cf",
-      "started_at": "2026-11-19T17:46:08Z",
-      "upload_account": "serialy",
-      "source_id": -23899418848762564,
-      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x10/5c3559fdead85",
-      "size_bytes": 430328133,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1334596,5 +1334606,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T17:47:02Z"
+  "last_updated": "2026-11-19T17:49:40Z"
 }
