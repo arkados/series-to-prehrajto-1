@@ -916270,6 +916270,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2415,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 20,
+      "display_name": "Star proti silám zla S02E20 - 20. epizoda CZ Dabing",
+      "intent_id": "00eca067a01540e98760b1248b6c8805",
+      "started_at": "2026-11-19T15:30:53Z",
+      "upload_account": "serialy",
+      "source_id": -6455490010705076,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e20-is-mystery-cs/12ca8e84059bbff9",
+      "size_bytes": 329759432,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334294,5 +1334310,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:16:38Z"
+  "last_updated": "2026-11-19T15:30:53Z"
 }
