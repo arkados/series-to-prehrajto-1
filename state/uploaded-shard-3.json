@@ -917024,6 +917024,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 167623,
+      "series_id": 1582,
+      "series_title": "Ranč Heartland",
+      "season": 16,
+      "episode": 15,
+      "display_name": "Ranč Heartland S16E15 - 15. epizoda CZ Titulky",
+      "intent_id": "c3e0907ddc044cef94be0686c0916f37",
+      "started_at": "2026-11-19T22:01:42Z",
+      "upload_account": "serialy",
+      "source_id": -70858880932682741,
+      "source_url": "https://prehraj.to/ranc-heartland-s16e15-a-light-in-the-dark-en/bd30709d9a0d44dd",
+      "size_bytes": 435468511,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1335048,5 +1335064,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:56:45Z"
+  "last_updated": "2026-11-19T22:01:48Z"
 }
