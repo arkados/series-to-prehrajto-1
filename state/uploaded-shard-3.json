@@ -913938,8 +913938,34 @@
         "download_sec": 34.1,
         "upload_sec": 173.0
       },
-      "description_updated_at": "2026-11-19T07:48:16Z",
+      "description_updated_at": "2026-11-19T07:48:04Z",
       "description_text_hash": "d8a632c84c0c96f2ad79ceaaa6b25c3f01606e42828411b7cc96bdb9a5fa656a"
+    },
+    {
+      "episode_id": 204094,
+      "series_id": 156,
+      "series_title": "Pán prstenů: Prsteny moci",
+      "season": 3,
+      "episode": 5,
+      "episode_code": "S03E05",
+      "display_name": "Pán prstenů: Prsteny moci S03E05 - Paní Lórienu CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -19387022823213978,
+      "external_id": "7de05fc38dbbc496",
+      "source_url": "https://prehraj.to/the-rings-of-power-s03e05-cz-titulky-mkv/7de05fc38dbbc496",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31175213,
+      "size_bytes": 742387915,
+      "uploaded_at": "2026-11-19T07:51:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.2,
+        "upload_sec": 175.2
+      }
     }
   ],
   "pending_uploads": [
@@ -915046,6 +915072,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 92347,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 2,
+      "episode": 10,
+      "display_name": "The Secret Life of the American Teenager S02E10 - 10. epizoda CZ Titulky",
+      "intent_id": "e5cd119c846c40ca9b2696559f137790",
+      "started_at": "2026-11-19T07:53:20Z",
+      "upload_account": "serialy",
+      "source_id": -50529491198621196,
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s02e10-cztit/57d892351167b",
+      "size_bytes": 366860818,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333070,5 +1333112,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T07:40:59Z"
+  "last_updated": "2026-11-19T07:53:20Z"
 }
