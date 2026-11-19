@@ -917961,6 +917961,32 @@
         "download_sec": 17.0,
         "upload_sec": 56.5
       }
+    },
+    {
+      "episode_id": 128797,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "Lovci trolů od Guillerma Del Toro S02E13 - V trůním sále CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -41666685074733570,
+      "external_id": "d079d883eb3ca556",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s2e13-in-the-hall-of-the-gumm-gumm-king-en/d079d883eb3ca556",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189917,
+      "size_bytes": 377201398,
+      "uploaded_at": "2026-11-19T20:03:26Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 632.3,
+        "upload_sec": 47.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1337107,5 +1337133,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:41:33Z"
+  "last_updated": "2026-11-19T20:03:26Z"
 }
