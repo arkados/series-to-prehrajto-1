@@ -913288,6 +913288,58 @@
         "download_sec": 13.6,
         "upload_sec": 25.2
       }
+    },
+    {
+      "episode_id": 127558,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 15,
+      "episode_code": "S01E15",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E15 - 15. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -22092388301880110,
+      "external_id": "dcdb3a3eda4b9966",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e15-sa-time-of-the-machines-machines-desirantes-ja/dcdb3a3eda4b9966",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31164052,
+      "size_bytes": 437370898,
+      "uploaded_at": "2026-11-19T00:11:33Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.8,
+        "upload_sec": 36.9
+      }
+    },
+    {
+      "episode_id": 109762,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 28,
+      "episode_code": "S07E28",
+      "display_name": "Dynastie S07E28 - 28. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -3387558761773608,
+      "external_id": "595399ba57640",
+      "source_url": "https://prehraj.to/dynasty-s07e28/595399ba57640",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31164104,
+      "size_bytes": 366944256,
+      "uploaded_at": "2026-11-19T00:14:06Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 17.6,
+        "upload_sec": 33.0
+      }
     }
   ],
   "pending_uploads": [
@@ -914394,6 +914446,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127567,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 24,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E24 - 24. epizoda CZ Titulky",
+      "intent_id": "85d3457d9147485e92825bf15c1f8a2b",
+      "started_at": "2026-11-19T00:28:03Z",
+      "upload_account": "serialy",
+      "source_id": -59455837156120862,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e24-c-sunset-in-the-lonely-city-annihilation-ja/875b8ee59574b37c",
+      "size_bytes": 383726788,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332418,5 +1332486,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:55:00Z"
+  "last_updated": "2026-11-19T00:28:13Z"
 }
