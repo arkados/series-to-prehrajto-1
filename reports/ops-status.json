@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108484,
-    "manifest_upload_ready_episodes": 6,
-    "uploaded_episodes": 83172,
-    "prepared_source_episodes": 67940,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 83174,
+    "prepared_source_episodes": 67942,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
@@ -14,17 +14,57 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53448,
     "whisper_review_pending_sources": 36114,
-    "upload_pending_checkpoints": 139,
+    "upload_pending_checkpoints": 141,
     "subtitle_followup_sources": 52416,
     "subtitle_followup_pending_sources": 52416
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T15:09:46Z",
+      "databaseId": 44551664474,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:08:39Z",
+      "databaseId": 44551456288,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T15:07:21Z",
+      "databaseId": 44551214722,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:07:17Z",
+      "databaseId": 44551205100,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:07:15Z",
+      "databaseId": 44551197131,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T15:06:00Z",
       "databaseId": 44550964776,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -116,11 +156,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T14:59:59Z",
       "databaseId": 44549820085,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T14:56:17Z",
-      "databaseId": 44549163091,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T14:54:42Z",
-      "databaseId": 44548875748,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T14:52:42Z",
-      "databaseId": 44548516139,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T14:52:27Z",
-      "databaseId": 44548470251,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T14:52:23Z",
-      "databaseId": 44548458632,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
     }
   ],
   "gaps": {
@@ -390260,6 +390260,16 @@
         "episode_id": 154634,
         "display_name": "Monkey Dust S02E01 - 1. epizoda CZ Titulky",
         "video_id": 31185379
+      },
+      {
+        "episode_id": 154635,
+        "display_name": "Monkey Dust S02E02 - 2. epizoda CZ Titulky",
+        "video_id": 31185544
+      },
+      {
+        "episode_id": 113274,
+        "display_name": "Sindibádova dobrodružství S01E07 - Velký Firouz CZ Dabing",
+        "video_id": 31185557
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -780237,6 +780247,16 @@
         "episode_id": 154634,
         "display_name": "Monkey Dust S02E01 - 1. epizoda CZ Titulky",
         "video_id": 31185379
+      },
+      {
+        "episode_id": 154635,
+        "display_name": "Monkey Dust S02E02 - 2. epizoda CZ Titulky",
+        "video_id": 31185544
+      },
+      {
+        "episode_id": 113274,
+        "display_name": "Sindibádova dobrodružství S01E07 - Velký Firouz CZ Dabing",
+        "video_id": 31185557
       }
     ],
     "prepared_not_upload_ready": [
