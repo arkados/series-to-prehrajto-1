@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108623,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83041,
-    "prepared_source_episodes": 67982,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83042,
+    "prepared_source_episodes": 67990,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 39,
@@ -21,18 +21,58 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T00:42:59Z",
-      "databaseId": 44431225473,
+      "createdAt": "2026-11-19T00:50:22Z",
+      "databaseId": 44432214804,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T00:48:05Z",
+      "databaseId": 44431913844,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T00:47:00Z",
+      "databaseId": 44431772819,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T00:44:10Z",
+      "databaseId": 44431388062,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T00:44:07Z",
+      "databaseId": 44431380886,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T00:42:59Z",
+      "databaseId": 44431225473,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T00:42:49Z",
       "databaseId": 44431203690,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -108,19 +148,19 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T00:36:16Z",
       "databaseId": 44430330380,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T00:35:50Z",
       "databaseId": 44430275179,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -135,46 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-19T00:34:38Z",
       "databaseId": 44430108379,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T00:31:56Z",
-      "databaseId": 44429746125,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T00:31:48Z",
-      "databaseId": 44429728799,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T00:28:28Z",
-      "databaseId": 44429273720,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T00:26:59Z",
-      "databaseId": 44429078545,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-19T00:26:51Z",
-      "databaseId": 44429061841,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
@@ -389615,6 +389615,11 @@
         "episode_id": 127567,
         "display_name": "Ghost in the Shell: Stand Alone Complex S01E24 - 24. epizoda CZ Titulky",
         "video_id": 31164372
+      },
+      {
+        "episode_id": 127562,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E19 - 19. epizoda CZ Titulky",
+        "video_id": 31164547
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -778947,6 +778952,11 @@
         "episode_id": 127567,
         "display_name": "Ghost in the Shell: Stand Alone Complex S01E24 - 24. epizoda CZ Titulky",
         "video_id": 31164372
+      },
+      {
+        "episode_id": 127562,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E19 - 19. epizoda CZ Titulky",
+        "video_id": 31164547
       }
     ],
     "prepared_not_upload_ready": [
@@ -780108,8 +780118,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 39,
-    "resolve_failed": 1
+    "ok": 9,
+    "resolve_failed": 31
   },
   "whisper_review_statuses": {
     "needs_whisper": 34919,
