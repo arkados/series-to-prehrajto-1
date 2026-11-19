@@ -917363,6 +917363,32 @@
         "download_sec": 12.4,
         "upload_sec": 87.4
       }
+    },
+    {
+      "episode_id": 167600,
+      "series_id": 6852,
+      "series_title": "Noblesse",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Noblesse S01E05 - 5. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -31964508902584470,
+      "external_id": "5fd21cba28d2c",
+      "source_url": "https://prehraj.to/noblesse-s01e05/5fd21cba28d2c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31185035,
+      "size_bytes": 338541965,
+      "uploaded_at": "2026-11-19T14:35:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.7,
+        "upload_sec": 78.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1336509,5 +1336535,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T14:22:55Z"
+  "last_updated": "2026-11-19T14:35:19Z"
 }
