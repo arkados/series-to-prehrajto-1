@@ -915360,6 +915360,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 92382,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 3,
+      "episode": 21,
+      "display_name": "The Secret Life of the American Teenager S03E21 - 21. epizoda CZ Titulky",
+      "intent_id": "0441be9500164ea9b3528b98d255ee8d",
+      "started_at": "2026-11-19T10:22:33Z",
+      "upload_account": "serialy",
+      "source_id": -61581734473860525,
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s03e21-cztit/57d8b6b25bb5f",
+      "size_bytes": 366364672,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333384,5 +1333400,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:21:34Z"
+  "last_updated": "2026-11-19T10:22:33Z"
 }
