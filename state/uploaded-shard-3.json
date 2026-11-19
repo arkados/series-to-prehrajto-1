@@ -915282,6 +915282,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2431,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 3,
+      "display_name": "Star proti silám zla S02E03 - 3. epizoda CZ Dabing",
+      "intent_id": "075533fdea664594960521debd581a0a",
+      "started_at": "2026-11-19T10:04:58Z",
+      "upload_account": "serialy",
+      "source_id": -39555046720585710,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e3-mr/b3d43ee115345729",
+      "size_bytes": 328300770,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333306,5 +1333322,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T09:54:17Z"
+  "last_updated": "2026-11-19T10:05:02Z"
 }
