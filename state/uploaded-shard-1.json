@@ -918013,6 +918013,32 @@
         "download_sec": 871.4,
         "upload_sec": 40.5
       }
+    },
+    {
+      "episode_id": 187620,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 4,
+      "episode_code": "S09E04",
+      "display_name": "Požárník Sam S09E04 - Na tenkém ledě CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -5892196027222378,
+      "external_id": "5c746abd8fa64",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e04-cz-dabing-pro-deti/5c746abd8fa64",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31190484,
+      "size_bytes": 353026691,
+      "uploaded_at": "2026-11-19T20:51:10Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 581.7,
+        "upload_sec": 48.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1337159,5 +1337185,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T20:36:47Z"
+  "last_updated": "2026-11-19T20:51:10Z"
 }
