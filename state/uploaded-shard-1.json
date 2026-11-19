@@ -918403,6 +918403,32 @@
         "download_sec": 18.4,
         "upload_sec": 46.9
       }
+    },
+    {
+      "episode_id": 2397,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 14,
+      "episode_code": "S03E14",
+      "display_name": "Star proti silám zla S03E14 - 14. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -7891889350024903,
+      "external_id": "2639bd3df3e4f30d",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e14-lint-catcher-cs/2639bd3df3e4f30d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192047,
+      "size_bytes": 342240913,
+      "uploaded_at": "2026-11-19T23:04:28Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 49.5,
+        "upload_sec": 35.8
+      }
     }
   ],
   "pending_uploads": [
@@ -919523,22 +919549,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2397,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 3,
-      "episode": 14,
-      "display_name": "Star proti silám zla S03E14 - 14. epizoda CZ Dabing",
-      "intent_id": "007a548fa3ac4187b80141f28298a3de",
-      "started_at": "2026-11-19T23:03:11Z",
-      "upload_account": "primary",
-      "source_id": -7891889350024903,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e14-lint-catcher-cs/2639bd3df3e4f30d",
-      "size_bytes": 342240913,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337565,5 +1337575,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:03:11Z"
+  "last_updated": "2026-11-19T23:04:28Z"
 }
