@@ -914420,6 +914420,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109762,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 28,
+      "display_name": "Dynastie S07E28 - 28. epizoda CZ Titulky",
+      "intent_id": "e8a1a21db7cd4795865eb907aba3669d",
+      "started_at": "2026-11-19T00:12:22Z",
+      "upload_account": "serialy",
+      "source_id": -3387558761773608,
+      "source_url": "https://prehraj.to/dynasty-s07e28/595399ba57640",
+      "size_bytes": 366944256,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332444,5 +1332460,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T00:11:33Z"
+  "last_updated": "2026-11-19T00:12:22Z"
 }
