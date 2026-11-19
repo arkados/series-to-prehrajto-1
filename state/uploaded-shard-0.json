@@ -918559,6 +918559,32 @@
         "download_sec": 16.0,
         "upload_sec": 49.4
       }
+    },
+    {
+      "episode_id": 100513,
+      "series_id": 2439,
+      "series_title": "Tintinova dobrodružství",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Tintinova dobrodružství S02E09 - Tintin u Pikarů - 2. část CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -4692709457712452,
+      "external_id": "e519f5dced4b75e4",
+      "source_url": "https://prehraj.to/tintinova-dobrodruzstvi-s02e09-tintin-u-pikaru-cast-2-720p/e519f5dced4b75e4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192765,
+      "size_bytes": 401878960,
+      "uploaded_at": "2026-11-19T23:50:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.0,
+        "upload_sec": 35.6
+      }
     }
   ],
   "pending_uploads": [
@@ -919683,18 +919709,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 100513,
-      "series_id": 2439,
-      "series_title": "Tintinova dobrodružství",
-      "season": 2,
-      "episode": 9,
-      "display_name": "Tintinova dobrodružství S02E09 - Tintin u Pikarů - 2. část CZ Dabing",
-      "intent_id": "834825ccbc8841b1ade30b0b643a7dae",
-      "started_at": "2026-11-19T23:48:11Z",
+      "episode_id": 129396,
+      "series_id": 3630,
+      "series_title": "A.P. Bio",
+      "season": 4,
+      "episode": 3,
+      "display_name": "A.P. Bio S04E03 - 3. epizoda CZ Titulky",
+      "intent_id": "a144c8ac798d4de5831991ff9905cd8a",
+      "started_at": "2026-11-19T23:56:07Z",
       "upload_account": "primary",
-      "source_id": -4692709457712452,
-      "source_url": "https://prehraj.to/tintinova-dobrodruzstvi-s02e09-tintin-u-pikaru-cast-2-720p/e519f5dced4b75e4",
-      "size_bytes": 401878960,
+      "source_id": -57518404656095159,
+      "source_url": "https://prehraj.to/a-p-bio-s04e03-3-epizoda-cz-titulky/8aabcc6242835ba5",
+      "size_bytes": 319470344,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1337721,5 +1337747,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:49:43Z"
+  "last_updated": "2026-11-19T23:56:07Z"
 }
