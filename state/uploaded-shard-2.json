@@ -913262,6 +913262,32 @@
         "download_sec": 22.1,
         "upload_sec": 42.7
       }
+    },
+    {
+      "episode_id": 109719,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 23,
+      "episode_code": "S06E23",
+      "display_name": "Dynastie S06E23 - 23. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -59295128017563138,
+      "external_id": "595365d183685",
+      "source_url": "https://prehraj.to/dynasty-s06e23/595365d183685",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31163649,
+      "size_bytes": 365357057,
+      "uploaded_at": "2026-11-18T23:54:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.6,
+        "upload_sec": 25.2
+      }
     }
   ],
   "pending_uploads": [
@@ -914368,6 +914394,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127558,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 15,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E15 - 15. epizoda CZ Titulky",
+      "intent_id": "c157d55ba8a74644ab4bf7be8cd8b02d",
+      "started_at": "2026-11-19T00:10:22Z",
+      "upload_account": "serialy",
+      "source_id": -22092388301880110,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e15-sa-time-of-the-machines-machines-desirantes-ja/dcdb3a3eda4b9966",
+      "size_bytes": 437370898,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332392,5 +1332434,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-18T23:43:27Z"
+  "last_updated": "2026-11-19T00:10:22Z"
 }
