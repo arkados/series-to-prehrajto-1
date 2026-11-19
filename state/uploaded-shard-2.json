@@ -914514,6 +914514,58 @@
         "download_sec": 12.3,
         "upload_sec": 32.2
       }
+    },
+    {
+      "episode_id": 127575,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -64354513264876961,
+      "external_id": "30283af2ffc91794",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e6-di-latent-heat-source-excavation-ja/30283af2ffc91794",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31182574,
+      "size_bytes": 377260373,
+      "uploaded_at": "2026-11-19T12:16:26Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.0,
+        "upload_sec": 76.6
+      }
+    },
+    {
+      "episode_id": 110426,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 19,
+      "episode_code": "S01E19",
+      "display_name": "Darling in the Franxx S01E19 - 19. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -59467600029743638,
+      "external_id": "6147a7a022135",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e19/6147a7a022135",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31182589,
+      "size_bytes": 342896852,
+      "uploaded_at": "2026-11-19T12:16:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.5,
+        "upload_sec": 31.8
+      }
     }
   ],
   "pending_uploads": [
@@ -915620,38 +915672,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 127575,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 2,
-      "episode": 6,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S02E06 - 6. epizoda CZ Titulky",
-      "intent_id": "25105b757b584c209e8261788898153e",
-      "started_at": "2026-11-19T12:14:42Z",
-      "upload_account": "serialy",
-      "source_id": -64354513264876961,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e6-di-latent-heat-source-excavation-ja/30283af2ffc91794",
-      "size_bytes": 377260373,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 110426,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 19,
-      "display_name": "Darling in the Franxx S01E19 - 19. epizoda CZ Titulky",
-      "intent_id": "2ab05649f4a14a1a8ea82b12e87eec14",
-      "started_at": "2026-11-19T12:14:45Z",
-      "upload_account": "serialy",
-      "source_id": -59467600029743638,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e19/6147a7a022135",
-      "size_bytes": 342896852,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333676,5 +1333696,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:14:45Z"
+  "last_updated": "2026-11-19T12:16:38Z"
 }
