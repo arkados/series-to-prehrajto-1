@@ -1,30 +1,78 @@
 {
   "counts": {
     "backlog_episodes": 108527,
-    "manifest_upload_ready_episodes": 7,
-    "uploaded_episodes": 83135,
-    "prepared_source_episodes": 67947,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 83139,
+    "prepared_source_episodes": 67958,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
+    "language_audited_sources": 43,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53451,
-    "whisper_review_pending_sources": 36111,
-    "upload_pending_checkpoints": 139,
+    "whisper_review_sources": 53452,
+    "whisper_review_pending_sources": 36114,
+    "upload_pending_checkpoints": 140,
     "subtitle_followup_sources": 52397,
     "subtitle_followup_pending_sources": 52397
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T12:38:08Z",
+      "databaseId": 44525707877,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T12:37:19Z",
+      "databaseId": 44525579733,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T12:36:00Z",
+      "databaseId": 44525376608,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T12:34:25Z",
+      "databaseId": 44525133706,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T12:34:22Z",
+      "databaseId": 44525123925,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T12:33:57Z",
+      "databaseId": 44525057891,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:32:59Z",
       "databaseId": 44524910046,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -36,11 +84,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-19T12:27:02Z",
       "databaseId": 44523982608,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -60,11 +108,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:24:46Z",
       "databaseId": 44523635429,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -92,11 +140,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:21:51Z",
       "databaseId": 44523184009,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -108,11 +156,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:20:17Z",
       "databaseId": 44522939570,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T12:18:28Z",
-      "databaseId": 44522660779,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:17:48Z",
-      "databaseId": 44522557472,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T12:17:46Z",
-      "databaseId": 44522551256,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:17:43Z",
-      "databaseId": 44522543444,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:16:28Z",
-      "databaseId": 44522352776,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T12:14:57Z",
-      "databaseId": 44522110982,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -204217,6 +204217,16 @@
         "video_id": 31182749
       },
       {
+        "episode_id": 92397,
+        "display_name": "The Secret Life of the American Teenager S04E12 - 12. epizoda CZ Titulky",
+        "video_id": 31182961
+      },
+      {
+        "episode_id": 127584,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S02E15 - 15. epizoda CZ Titulky",
+        "video_id": 31182983
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -390075,6 +390085,16 @@
         "episode_id": 110426,
         "display_name": "Darling in the Franxx S01E19 - 19. epizoda CZ Titulky",
         "video_id": 31182589
+      },
+      {
+        "episode_id": 110414,
+        "display_name": "Darling in the Franxx S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31182954
+      },
+      {
+        "episode_id": 92410,
+        "display_name": "The Secret Life of the American Teenager S04E24 - 24. epizoda CZ Titulky",
+        "video_id": 31183012
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -594009,6 +594029,16 @@
         "video_id": 31182749
       },
       {
+        "episode_id": 92397,
+        "display_name": "The Secret Life of the American Teenager S04E12 - 12. epizoda CZ Titulky",
+        "video_id": 31182961
+      },
+      {
+        "episode_id": 127584,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S02E15 - 15. epizoda CZ Titulky",
+        "video_id": 31182983
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -779867,6 +779897,16 @@
         "episode_id": 110426,
         "display_name": "Darling in the Franxx S01E19 - 19. epizoda CZ Titulky",
         "video_id": 31182589
+      },
+      {
+        "episode_id": 110414,
+        "display_name": "Darling in the Franxx S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31182954
+      },
+      {
+        "episode_id": 92410,
+        "display_name": "The Secret Life of the American Teenager S04E24 - 24. epizoda CZ Titulky",
+        "video_id": 31183012
       }
     ],
     "prepared_not_upload_ready": [
@@ -781028,13 +781068,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "disabled": 3,
     "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34887,
+    "needs_whisper": 34890,
     "whisper_confirmed_cz": 4047,
-    "whisper_non_cz_needs_subtitles": 13293,
+    "whisper_non_cz_needs_subtitles": 13291,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
