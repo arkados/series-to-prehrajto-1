@@ -2,29 +2,61 @@
   "counts": {
     "backlog_episodes": 108527,
     "manifest_upload_ready_episodes": 6,
-    "uploaded_episodes": 83145,
+    "uploaded_episodes": 83147,
     "prepared_source_episodes": 67954,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 47,
-    "language_whisper_attempted_sources": 47,
+    "language_audited_sources": 49,
+    "language_whisper_attempted_sources": 49,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53451,
-    "whisper_review_pending_sources": 36113,
-    "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52402,
-    "subtitle_followup_pending_sources": 52402
+    "whisper_review_sources": 53450,
+    "whisper_review_pending_sources": 36111,
+    "upload_pending_checkpoints": 140,
+    "subtitle_followup_sources": 52404,
+    "subtitle_followup_pending_sources": 52404
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T13:09:07Z",
+      "databaseId": 44530610698,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T13:08:21Z",
+      "databaseId": 44530491124,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T13:06:45Z",
+      "databaseId": 44530229523,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T13:06:40Z",
+      "databaseId": 44530217426,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T13:04:57Z",
       "databaseId": 44529929302,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +76,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-19T13:00:29Z",
       "databaseId": 44529189683,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -76,11 +108,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:57:01Z",
       "databaseId": 44528650928,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:49:08Z",
-      "databaseId": 44527419444,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:47:54Z",
-      "databaseId": 44527232918,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-19T12:47:45Z",
-      "databaseId": 44527210115,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:45:59Z",
-      "databaseId": 44526936044,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -390125,6 +390125,16 @@
         "episode_id": 92403,
         "display_name": "The Secret Life of the American Teenager S04E17 - 17. epizoda CZ Titulky",
         "video_id": 31183435
+      },
+      {
+        "episode_id": 110411,
+        "display_name": "Darling in the Franxx S01E03 - 3. epizoda CZ Titulky",
+        "video_id": 31183581
+      },
+      {
+        "episode_id": 187606,
+        "display_name": "Požárník Sam S07E21 - Den matek CZ Dabing",
+        "video_id": 31183564
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -779967,6 +779977,16 @@
         "episode_id": 92403,
         "display_name": "The Secret Life of the American Teenager S04E17 - 17. epizoda CZ Titulky",
         "video_id": 31183435
+      },
+      {
+        "episode_id": 110411,
+        "display_name": "Darling in the Franxx S01E03 - 3. epizoda CZ Titulky",
+        "video_id": 31183581
+      },
+      {
+        "episode_id": 187606,
+        "display_name": "Požárník Sam S07E21 - Den matek CZ Dabing",
+        "video_id": 31183564
       }
     ],
     "prepared_not_upload_ready": [
@@ -781128,16 +781148,16 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 46,
+    "ok": 48,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34889,
+    "needs_whisper": 34887,
     "whisper_confirmed_cz": 4052,
-    "whisper_non_cz_needs_subtitles": 13286,
+    "whisper_non_cz_needs_subtitles": 13287,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52402
+    "needs_subtitle_setup_after_prehrajto_processing": 52404
   }
 }
