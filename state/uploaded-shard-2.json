@@ -914566,6 +914566,32 @@
         "download_sec": 15.5,
         "upload_sec": 31.8
       }
+    },
+    {
+      "episode_id": 110414,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Darling in the Franxx S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -18732690790070072,
+      "external_id": "6147a1a104294",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e08/6147a1a104294",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31182954,
+      "size_bytes": 342963631,
+      "uploaded_at": "2026-11-19T12:35:17Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.1,
+        "upload_sec": 58.1
+      }
     }
   ],
   "pending_uploads": [
@@ -915672,22 +915698,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 110414,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Darling in the Franxx S01E08 - 8. epizoda CZ Titulky",
-      "intent_id": "7085d17599124102a4558a719333441f",
-      "started_at": "2026-11-19T12:33:37Z",
-      "upload_account": "serialy",
-      "source_id": -18732690790070072,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e08/6147a1a104294",
-      "size_bytes": 342963631,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333712,5 +1333722,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:33:37Z"
+  "last_updated": "2026-11-19T12:35:17Z"
 }
