@@ -1,54 +1,126 @@
 {
   "counts": {
     "backlog_episodes": 108453,
-    "manifest_upload_ready_episodes": 7,
-    "uploaded_episodes": 83199,
-    "prepared_source_episodes": 67948,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 83203,
+    "prepared_source_episodes": 67951,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 45,
-    "language_whisper_attempted_sources": 45,
+    "language_audited_sources": 54,
+    "language_whisper_attempted_sources": 47,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53444,
-    "whisper_review_pending_sources": 36111,
-    "upload_pending_checkpoints": 140,
+    "whisper_review_sources": 53445,
+    "whisper_review_pending_sources": 36117,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52434,
     "subtitle_followup_pending_sources": 52434
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T17:45:52Z",
-      "databaseId": 44580656899,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T17:44:17Z",
-      "databaseId": 44580374564,
+      "createdAt": "2026-11-19T17:54:40Z",
+      "databaseId": 44582190440,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T17:44:10Z",
-      "databaseId": 44580354808,
+      "createdAt": "2026-11-19T17:54:38Z",
+      "databaseId": 44582185563,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T17:53:50Z",
+      "databaseId": 44582046600,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T17:52:44Z",
+      "databaseId": 44581855584,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T17:51:29Z",
+      "databaseId": 44581638332,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T17:51:23Z",
+      "databaseId": 44581622168,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "sync"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T17:50:22Z",
+      "databaseId": 44581444569,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T17:47:26Z",
+      "databaseId": 44580928410,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T17:47:22Z",
+      "databaseId": 44580917084,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T17:45:52Z",
+      "databaseId": 44580656899,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T17:44:17Z",
+      "databaseId": 44580374564,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T17:44:10Z",
+      "databaseId": 44580354808,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T17:41:07Z",
       "databaseId": 44579821212,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -76,11 +148,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T17:36:47Z",
       "databaseId": 44579053541,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -100,84 +172,12 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T17:32:50Z",
       "databaseId": 44578340268,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:32:41Z",
-      "databaseId": 44578313771,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:31:42Z",
-      "databaseId": 44578135544,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:30:39Z",
-      "databaseId": 44577936798,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:30:33Z",
-      "databaseId": 44577916920,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "refresh-backlog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:29:09Z",
-      "databaseId": 44577668998,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:27:00Z",
-      "databaseId": 44577290734,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:26:45Z",
-      "databaseId": 44577249199,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:26:41Z",
-      "databaseId": 44577236867,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:25:39Z",
-      "databaseId": 44577056225,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -204372,6 +204372,16 @@
         "video_id": 31188342
       },
       {
+        "episode_id": 128804,
+        "display_name": "Lovci trolů od Guillerma Del Toro S03E07 - Přísaha CZ Dabing",
+        "video_id": 31188460
+      },
+      {
+        "episode_id": 92421,
+        "display_name": "The Secret Life of the American Teenager S05E12 - 12. epizoda CZ Titulky",
+        "video_id": 31188504
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -390395,6 +390405,16 @@
         "episode_id": 113291,
         "display_name": "Sindibádova dobrodružství S01E08 - Pouta, jenž svazují CZ Dabing",
         "video_id": 31187417
+      },
+      {
+        "episode_id": 127594,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S02E25 - 25. epizoda CZ Titulky",
+        "video_id": 31188429
+      },
+      {
+        "episode_id": 113283,
+        "display_name": "Sindibádova dobrodružství S01E10 - Hlavolam CZ Dabing",
+        "video_id": 31188434
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -594484,6 +594504,16 @@
         "video_id": 31188342
       },
       {
+        "episode_id": 128804,
+        "display_name": "Lovci trolů od Guillerma Del Toro S03E07 - Přísaha CZ Dabing",
+        "video_id": 31188460
+      },
+      {
+        "episode_id": 92421,
+        "display_name": "The Secret Life of the American Teenager S05E12 - 12. epizoda CZ Titulky",
+        "video_id": 31188504
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -780507,6 +780537,16 @@
         "episode_id": 113291,
         "display_name": "Sindibádova dobrodružství S01E08 - Pouta, jenž svazují CZ Dabing",
         "video_id": 31187417
+      },
+      {
+        "episode_id": 127594,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S02E25 - 25. epizoda CZ Titulky",
+        "video_id": 31188429
+      },
+      {
+        "episode_id": 113283,
+        "display_name": "Sindibádova dobrodružství S01E10 - Hlavolam CZ Dabing",
+        "video_id": 31188434
       }
     ],
     "prepared_not_upload_ready": [
@@ -781668,13 +781708,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 44,
+    "ok": 46,
+    "disabled": 7,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34887,
+    "needs_whisper": 34893,
     "whisper_confirmed_cz": 4080,
-    "whisper_non_cz_needs_subtitles": 13253,
+    "whisper_non_cz_needs_subtitles": 13248,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
