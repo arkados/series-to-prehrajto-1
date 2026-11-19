@@ -913968,6 +913968,58 @@
       },
       "description_updated_at": "2026-11-19T07:54:09Z",
       "description_text_hash": "d8a632c84c0c96f2ad79ceaaa6b25c3f01606e42828411b7cc96bdb9a5fa656a"
+    },
+    {
+      "episode_id": 92347,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "The Secret Life of the American Teenager S02E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -50529491198621196,
+      "external_id": "57d892351167b",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s02e10-cztit/57d892351167b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31175455,
+      "size_bytes": 366860818,
+      "uploaded_at": "2026-11-19T07:56:46Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 13.5,
+        "upload_sec": 172.0
+      }
+    },
+    {
+      "episode_id": 109743,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 9,
+      "episode": 8,
+      "episode_code": "S09E08",
+      "display_name": "Dynastie S09E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -25513291573540987,
+      "external_id": "59536d2514d7d",
+      "source_url": "https://prehraj.to/dynasty-s09e08/59536d2514d7d",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31175569,
+      "size_bytes": 364869636,
+      "uploaded_at": "2026-11-19T07:59:13Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.7,
+        "upload_sec": 73.0
+      }
     }
   ],
   "pending_uploads": [
@@ -1333098,5 +1333150,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T07:51:02Z"
+  "last_updated": "2026-11-19T07:59:13Z"
 }
