@@ -914098,6 +914098,32 @@
         "download_sec": 20.7,
         "upload_sec": 34.3
       }
+    },
+    {
+      "episode_id": 16194,
+      "series_id": 630,
+      "series_title": "Nebe s.r.o.",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "Nebe s.r.o. S02E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -64905236833479499,
+      "external_id": "acfc0b518c1411fa",
+      "source_url": "https://prehraj.to/nebe-s-r-o-s02e07-7-epizoda-1080p-cz-dabing-mkv/acfc0b518c1411fa",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31177957,
+      "size_bytes": 365501153,
+      "uploaded_at": "2026-11-19T09:19:01Z",
+      "timing": {
+        "resolve_sec": 2.1,
+        "download_sec": 17.4,
+        "upload_sec": 73.0
+      }
     }
   ],
   "pending_uploads": [
@@ -915202,22 +915228,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 16194,
-      "series_id": 630,
-      "series_title": "Nebe s.r.o.",
-      "season": 2,
-      "episode": 7,
-      "display_name": "Nebe s.r.o. S02E07 - 7. epizoda CZ Dabing",
-      "intent_id": "797df741781842a38fe97e86d82e01f8",
-      "started_at": "2026-11-19T09:17:09Z",
-      "upload_account": "serialy",
-      "source_id": -64905236833479499,
-      "source_url": "https://prehraj.to/nebe-s-r-o-s02e07-7-epizoda-1080p-cz-dabing-mkv/acfc0b518c1411fa",
-      "size_bytes": 365501153,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1333244,5 +1333254,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T09:17:09Z"
+  "last_updated": "2026-11-19T09:19:01Z"
 }
