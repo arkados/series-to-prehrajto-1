@@ -916063,6 +916063,32 @@
         "download_sec": 20.6,
         "upload_sec": 125.2
       }
+    },
+    {
+      "episode_id": 92353,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 2,
+      "episode": 16,
+      "episode_code": "S02E16",
+      "display_name": "The Secret Life of the American Teenager S02E16 - 16. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -7236738426058308,
+      "external_id": "5f2890c54f83a",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-02x16-cz-tit/5f2890c54f83a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31173144,
+      "size_bytes": 317920502,
+      "uploaded_at": "2026-11-19T06:45:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.4,
+        "upload_sec": 45.7
+      }
     }
   ],
   "pending_uploads": [
@@ -917185,22 +917211,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 92353,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 2,
-      "episode": 16,
-      "display_name": "The Secret Life of the American Teenager S02E16 - 16. epizoda CZ Titulky",
-      "intent_id": "9bf588fad5e34bd6a69aaf836471c17c",
-      "started_at": "2026-11-19T06:43:57Z",
-      "upload_account": "primary",
-      "source_id": -7236738426058308,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-02x16-cz-tit/5f2890c54f83a",
-      "size_bytes": 317920502,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1335225,5 +1335235,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T06:43:57Z"
+  "last_updated": "2026-11-19T06:45:21Z"
 }
