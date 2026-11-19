@@ -1,19 +1,19 @@
 {
   "counts": {
     "backlog_episodes": 108527,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83142,
-    "prepared_source_episodes": 67953,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 83143,
+    "prepared_source_episodes": 67951,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 43,
+    "language_audited_sources": 49,
+    "language_whisper_attempted_sources": 42,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53451,
-    "whisper_review_pending_sources": 36111,
+    "whisper_review_sources": 53452,
+    "whisper_review_pending_sources": 36118,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52399,
     "subtitle_followup_pending_sources": 52399
@@ -21,18 +21,58 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T12:47:54Z",
-      "databaseId": 44527232918,
+      "createdAt": "2026-11-19T12:54:49Z",
+      "databaseId": 44528307255,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T12:53:11Z",
+      "databaseId": 44528052416,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T12:53:07Z",
+      "databaseId": 44528041826,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T12:53:05Z",
+      "databaseId": 44528036631,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T12:49:08Z",
+      "databaseId": 44527419444,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T12:47:54Z",
+      "databaseId": 44527232918,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-19T12:47:45Z",
       "databaseId": 44527210115,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -44,11 +84,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-19T12:45:56Z",
       "databaseId": 44526926535,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -68,11 +108,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:42:56Z",
       "databaseId": 44526456357,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -116,11 +156,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:39:46Z",
       "databaseId": 44525957694,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T12:36:00Z",
-      "databaseId": 44525376608,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:34:25Z",
-      "databaseId": 44525133706,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:34:22Z",
-      "databaseId": 44525123925,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:33:57Z",
-      "databaseId": 44525057891,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:32:59Z",
-      "databaseId": 44524910046,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -204235,6 +204235,11 @@
         "episode_id": 113688,
         "display_name": "The Tick S01E02 - 2. epizoda CZ Titulky",
         "video_id": 31183065
+      },
+      {
+        "episode_id": 109740,
+        "display_name": "Dynastie S09E03 - 3. epizoda CZ Titulky",
+        "video_id": 31183275
       },
       {
         "episode_id": 114182,
@@ -594064,6 +594069,11 @@
         "video_id": 31183065
       },
       {
+        "episode_id": 109740,
+        "display_name": "Dynastie S09E03 - 3. epizoda CZ Titulky",
+        "video_id": 31183275
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -781098,13 +781108,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 42,
+    "ok": 41,
+    "disabled": 7,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34887,
+    "needs_whisper": 34894,
     "whisper_confirmed_cz": 4048,
-    "whisper_non_cz_needs_subtitles": 13292,
+    "whisper_non_cz_needs_subtitles": 13286,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
