@@ -913340,6 +913340,32 @@
         "download_sec": 17.6,
         "upload_sec": 33.0
       }
+    },
+    {
+      "episode_id": 127567,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 24,
+      "episode_code": "S01E24",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E24 - 24. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -59455837156120862,
+      "external_id": "875b8ee59574b37c",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e24-c-sunset-in-the-lonely-city-annihilation-ja/875b8ee59574b37c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31164372,
+      "size_bytes": 383726788,
+      "uploaded_at": "2026-11-19T00:30:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.1,
+        "upload_sec": 37.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1332470,5 +1332496,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T00:14:06Z"
+  "last_updated": "2026-11-19T00:30:03Z"
 }
