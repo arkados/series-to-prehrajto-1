@@ -2,29 +2,45 @@
   "counts": {
     "backlog_episodes": 108453,
     "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83210,
-    "prepared_source_episodes": 67945,
+    "uploaded_episodes": 83211,
+    "prepared_source_episodes": 67943,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
     "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 40,
+    "language_whisper_attempted_sources": 43,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53443,
-    "whisper_review_pending_sources": 36117,
-    "upload_pending_checkpoints": 140,
-    "subtitle_followup_sources": 52438,
-    "subtitle_followup_pending_sources": 52438
+    "whisper_review_sources": 53442,
+    "whisper_review_pending_sources": 36114,
+    "upload_pending_checkpoints": 139,
+    "subtitle_followup_sources": 52439,
+    "subtitle_followup_pending_sources": 52439
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T19:00:05Z",
+      "databaseId": 44593688265,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T18:58:31Z",
+      "databaseId": 44593417094,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T18:56:48Z",
       "databaseId": 44593129159,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,11 +76,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T18:55:17Z",
       "databaseId": 44592868877,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -162,22 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T18:47:41Z",
-      "databaseId": 44591550511,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T18:46:04Z",
-      "databaseId": 44591270859,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -204395,6 +204395,11 @@
         "episode_id": 92428,
         "display_name": "The Secret Life of the American Teenager S05E19 - 19. epizoda CZ Titulky",
         "video_id": 31189157
+      },
+      {
+        "episode_id": 203593,
+        "display_name": "Jak Stuart nezachránil vesmír S01E10 - 10. epizoda CZ Dabing",
+        "video_id": 31189194
       },
       {
         "episode_id": 114182,
@@ -594564,6 +594569,11 @@
         "video_id": 31189157
       },
       {
+        "episode_id": 203593,
+        "display_name": "Jak Stuart nezachránil vesmír S01E10 - 10. epizoda CZ Dabing",
+        "video_id": 31189194
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -781778,17 +781788,16 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 3,
-    "ok": 39,
+    "ok": 42,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34890,
-    "whisper_confirmed_cz": 4080,
-    "whisper_non_cz_needs_subtitles": 13246,
+    "needs_whisper": 34887,
+    "whisper_confirmed_cz": 4081,
+    "whisper_non_cz_needs_subtitles": 13247,
     "whisper_failed": 1227
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52438
+    "needs_subtitle_setup_after_prehrajto_processing": 52439
   }
 }
