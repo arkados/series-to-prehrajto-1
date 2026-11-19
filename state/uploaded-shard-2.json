@@ -913522,6 +913522,32 @@
         "download_sec": 21.0,
         "upload_sec": 35.5
       }
+    },
+    {
+      "episode_id": 83910,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 1,
+      "episode": 22,
+      "episode_code": "S01E22",
+      "display_name": "Lovci trolů od Guillerma Del Toro S01E22 - Je na čase CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -29899110834125152,
+      "external_id": "bdd705a0b62c15eb",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e22-it-s-about-time-en/bdd705a0b62c15eb",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31166177,
+      "size_bytes": 399007239,
+      "uploaded_at": "2026-11-19T02:17:35Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 22.7,
+        "upload_sec": 43.1
+      }
     }
   ],
   "pending_uploads": [
@@ -914628,22 +914654,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 83910,
-      "series_id": 1968,
-      "series_title": "Lovci trolů od Guillerma Del Toro",
-      "season": 1,
-      "episode": 22,
-      "display_name": "Lovci trolů od Guillerma Del Toro S01E22 - Je na čase CZ Titulky",
-      "intent_id": "f4c6e3396935412dbf1d94c6bf7b41c0",
-      "started_at": "2026-11-19T02:16:17Z",
-      "upload_account": "serialy",
-      "source_id": -29899110834125152,
-      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s1e22-it-s-about-time-en/bdd705a0b62c15eb",
-      "size_bytes": 399007239,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332668,5 +1332678,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T02:16:17Z"
+  "last_updated": "2026-11-19T02:17:35Z"
 }
