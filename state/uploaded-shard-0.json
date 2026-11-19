@@ -916609,6 +916609,32 @@
         "download_sec": 13.9,
         "upload_sec": 107.7
       }
+    },
+    {
+      "episode_id": 100616,
+      "series_id": 2443,
+      "series_title": "Fresh Meat",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Fresh Meat S01E06 - 6. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -34516922732791,
+      "external_id": "59b5227069ab5",
+      "source_url": "https://prehraj.to/fresh-meat-s01e06-repack-hdtv/59b5227069ab5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180696,
+      "size_bytes": 366874625,
+      "uploaded_at": "2026-11-19T10:52:29Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.5,
+        "upload_sec": 61.0
+      }
     }
   ],
   "pending_uploads": [
@@ -917730,22 +917756,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 100616,
-      "series_id": 2443,
-      "series_title": "Fresh Meat",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Fresh Meat S01E06 - 6. epizoda CZ Titulky",
-      "intent_id": "6c6640b416864050b90aaeb4862a36ea",
-      "started_at": "2026-11-19T10:50:54Z",
-      "upload_account": "primary",
-      "source_id": -34516922732791,
-      "source_url": "https://prehraj.to/fresh-meat-s01e06-repack-hdtv/59b5227069ab5",
-      "size_bytes": 366874625,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1335771,5 +1335781,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:50:54Z"
+  "last_updated": "2026-11-19T10:52:29Z"
 }
