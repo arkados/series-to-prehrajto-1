@@ -915060,6 +915060,32 @@
         "download_sec": 13.9,
         "upload_sec": 32.8
       }
+    },
+    {
+      "episode_id": 154635,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Monkey Dust S02E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -65974958038749050,
+      "external_id": "5a33e0ceb29a2",
+      "source_url": "https://prehraj.to/monkey-dust-s02e02-ws-divx-pres-multiload-cz/5a33e0ceb29a2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31185544,
+      "size_bytes": 315733900,
+      "uploaded_at": "2026-11-19T15:07:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.4,
+        "upload_sec": 42.4
+      }
     }
   ],
   "pending_uploads": [
@@ -916168,19 +916194,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 154635,
-      "series_id": 5458,
-      "series_title": "Monkey Dust",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Monkey Dust S02E02 - 2. epizoda CZ Titulky",
-      "intent_id": "a07850b2c1d14955adefb2bfe63ed66c",
-      "started_at": "2026-11-19T15:06:39Z",
+      "episode_id": 113274,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Sindibádova dobrodružství S01E07 - Velký Firouz CZ Dabing",
+      "intent_id": "c1a445308e884d0687bb36339d38bd95",
+      "started_at": "2026-11-19T15:07:24Z",
       "upload_account": "serialy",
-      "source_id": -65974958038749050,
-      "source_url": "https://prehraj.to/monkey-dust-s02e02-ws-divx-pres-multiload-cz/5a33e0ceb29a2",
-      "size_bytes": 315733900,
-      "source_container": "avi",
+      "source_id": -4532732182942568,
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x7/5c1e596e1ee2f",
+      "size_bytes": 340901559,
+      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1334206,5 +1334232,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:06:39Z"
+  "last_updated": "2026-11-19T15:07:58Z"
 }
