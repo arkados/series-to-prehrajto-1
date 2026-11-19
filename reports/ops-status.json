@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108564,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83101,
-    "prepared_source_episodes": 67965,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83102,
+    "prepared_source_episodes": 67964,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
@@ -14,17 +14,33 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53460,
     "whisper_review_pending_sources": 36119,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52365,
     "subtitle_followup_pending_sources": 52365
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T10:16:43Z",
+      "databaseId": 44504151672,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T10:16:12Z",
+      "databaseId": 44504074137,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T10:14:31Z",
       "databaseId": 44503801849,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "update-descriptions"
     },
     {
@@ -36,19 +52,19 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T10:14:24Z",
       "databaseId": 44503785023,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T10:13:04Z",
       "databaseId": 44503569851,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,19 +76,19 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-19T10:10:08Z",
       "databaseId": 44503110780,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T10:10:00Z",
       "databaseId": 44503088336,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -162,22 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T10:00:01Z",
-      "databaseId": 44501508555,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T09:59:48Z",
-      "databaseId": 44501477884,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -204110,6 +204110,11 @@
         "episode_id": 113692,
         "display_name": "The Tick S01E06 - 6. epizoda CZ Titulky",
         "video_id": 31179393
+      },
+      {
+        "episode_id": 110409,
+        "display_name": "Darling in the Franxx S01E04 - 4. epizoda CZ Titulky",
+        "video_id": 31179594
       },
       {
         "episode_id": 114182,
@@ -593732,6 +593737,11 @@
         "episode_id": 113692,
         "display_name": "The Tick S01E06 - 6. epizoda CZ Titulky",
         "video_id": 31179393
+      },
+      {
+        "episode_id": 110409,
+        "display_name": "Darling in the Franxx S01E04 - 4. epizoda CZ Titulky",
+        "video_id": 31179594
       },
       {
         "episode_id": 114182,
