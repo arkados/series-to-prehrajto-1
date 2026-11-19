@@ -1,30 +1,70 @@
 {
   "counts": {
     "backlog_episodes": 108484,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83191,
-    "prepared_source_episodes": 67963,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83192,
+    "prepared_source_episodes": 67971,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 42,
+    "language_whisper_attempted_sources": 42,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53446,
     "whisper_review_pending_sources": 36115,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52426,
     "subtitle_followup_pending_sources": 52426
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T16:29:01Z",
+      "databaseId": 44566591032,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T16:28:22Z",
+      "databaseId": 44566471390,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T16:28:18Z",
+      "databaseId": 44566460862,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T16:28:15Z",
+      "databaseId": 44566452587,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T16:28:00Z",
+      "databaseId": 44566402702,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T16:26:49Z",
       "databaseId": 44566183808,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -100,19 +140,19 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T16:15:38Z",
       "databaseId": 44564055767,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T16:15:22Z",
       "databaseId": 44563999230,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T16:10:36Z",
-      "databaseId": 44563106157,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T16:09:01Z",
-      "databaseId": 44562810104,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T16:08:02Z",
-      "databaseId": 44562625757,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T16:07:56Z",
-      "databaseId": 44562606218,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T16:06:31Z",
-      "databaseId": 44562332764,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -204340,6 +204340,11 @@
         "episode_id": 154636,
         "display_name": "Monkey Dust S02E03 - 3. epizoda CZ Titulky",
         "video_id": 31187106
+      },
+      {
+        "episode_id": 187613,
+        "display_name": "Požárník Sam S07E23 - Horký vzduch CZ Dabing",
+        "video_id": 31187244
       },
       {
         "episode_id": 114182,
@@ -594414,6 +594419,11 @@
         "video_id": 31187106
       },
       {
+        "episode_id": 187613,
+        "display_name": "Požárník Sam S07E23 - Horký vzduch CZ Dabing",
+        "video_id": 31187244
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -781588,7 +781598,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 39,
+    "ok": 41,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
