@@ -915018,6 +915018,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 204095,
+      "series_id": 156,
+      "series_title": "Pán prstenů: Prsteny moci",
+      "season": 3,
+      "episode": 6,
+      "display_name": "Pán prstenů: Prsteny moci S03E06 - Z Valinoru CZ Dabing",
+      "intent_id": "5a7665fff11840b19ab4f422999a2aaf",
+      "started_at": "2026-11-19T07:37:11Z",
+      "upload_account": "serialy",
+      "source_id": -30175539999810461,
+      "source_url": "https://prehraj.to/the-rings-of-power-s03e06/98f9df065ce076c3",
+      "size_bytes": 898276513,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1333042,5 +1333058,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T07:19:35Z"
+  "last_updated": "2026-11-19T07:37:11Z"
 }
