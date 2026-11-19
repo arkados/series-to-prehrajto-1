@@ -914826,6 +914826,32 @@
         "download_sec": 15.9,
         "upload_sec": 30.2
       }
+    },
+    {
+      "episode_id": 121498,
+      "series_id": 3225,
+      "series_title": "Soap",
+      "season": 4,
+      "episode": 1,
+      "episode_code": "S04E01",
+      "display_name": "Soap S04E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -42883174566661057,
+      "external_id": "59f6f726ccf36",
+      "source_url": "https://prehraj.to/soap-s04e01/59f6f726ccf36",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183841,
+      "size_bytes": 366438400,
+      "uploaded_at": "2026-11-19T13:24:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.8,
+        "upload_sec": 86.4
+      }
     }
   ],
   "pending_uploads": [
@@ -915932,22 +915958,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 121498,
-      "series_id": 3225,
-      "series_title": "Soap",
-      "season": 4,
-      "episode": 1,
-      "display_name": "Soap S04E01 - 1. epizoda CZ Titulky",
-      "intent_id": "133e0b97265c44c2b5bc8afab64ce0e2",
-      "started_at": "2026-11-19T13:22:25Z",
-      "upload_account": "serialy",
-      "source_id": -42883174566661057,
-      "source_url": "https://prehraj.to/soap-s04e01/59f6f726ccf36",
-      "size_bytes": 366438400,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333972,5 +1333982,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:22:25Z"
+  "last_updated": "2026-11-19T13:24:59Z"
 }
