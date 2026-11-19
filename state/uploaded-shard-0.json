@@ -917727,6 +917727,58 @@
         "download_sec": 12.5,
         "upload_sec": 31.6
       }
+    },
+    {
+      "episode_id": 127585,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 16,
+      "episode_code": "S02E16",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E16 - 16. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -22260279516354894,
+      "external_id": "e8b76c47fabfee02",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e16-in-the-fact-of-being-there-another-chance-ja/e8b76c47fabfee02",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188211,
+      "size_bytes": 687019972,
+      "uploaded_at": "2026-11-19T17:35:33Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 394.2,
+        "upload_sec": 128.6
+      }
+    },
+    {
+      "episode_id": 127593,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 24,
+      "episode_code": "S02E24",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E24 - 24. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -50008719302896270,
+      "external_id": "0e29a99d6b87686f",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e24-in-aerial-bombing-of-dejima-nuclear-power-ja/0e29a99d6b87686f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188342,
+      "size_bytes": 443609973,
+      "uploaded_at": "2026-11-19T17:42:29Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 306.6,
+        "upload_sec": 50.8
+      }
     }
   ],
   "pending_uploads": [
@@ -918849,6 +918901,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 128804,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 3,
+      "episode": 7,
+      "display_name": "Lovci trolů od Guillerma Del Toro S03E07 - Přísaha CZ Dabing",
+      "intent_id": "8760878efdfe4577a95827adc31d06db",
+      "started_at": "2026-11-19T17:47:57Z",
+      "upload_account": "primary",
+      "source_id": -600566025851960,
+      "source_url": "https://prehraj.to/lovci-trolu-od-guillerma-del-toro-s03e07-czdab/5fb081302553c",
+      "size_bytes": 359827929,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336873,5 +1336941,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T17:27:45Z"
+  "last_updated": "2026-11-19T17:47:57Z"
 }
