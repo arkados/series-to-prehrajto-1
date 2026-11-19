@@ -918325,6 +918325,32 @@
         "download_sec": 30.8,
         "upload_sec": 42.5
       }
+    },
+    {
+      "episode_id": 46325,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Melissa a Joey S01E03 - 3. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -63135757032847430,
+      "external_id": "dd57940188210832",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e03-3-epizoda-720p-cz-dabing-mkv/dd57940188210832",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191844,
+      "size_bytes": 351143082,
+      "uploaded_at": "2026-11-19T22:51:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.4,
+        "upload_sec": 39.0
+      }
     }
   ],
   "pending_uploads": [
@@ -919445,6 +919471,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2400,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 11,
+      "display_name": "Star proti silám zla S03E11 - 11. epizoda CZ Dabing",
+      "intent_id": "ecd749982e3c424b8b9e88bac68212a0",
+      "started_at": "2026-11-19T22:51:15Z",
+      "upload_account": "primary",
+      "source_id": -8246347815749313,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e11-stranger-danger-cs/e5d8a7d050ffcd26",
+      "size_bytes": 338437313,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337471,5 +1337513,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:35:10Z"
+  "last_updated": "2026-11-19T22:51:19Z"
 }
