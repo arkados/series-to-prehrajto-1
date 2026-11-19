@@ -916088,6 +916088,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187602,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 17,
+      "display_name": "Požárník Sam S07E17 - Plovoucí minikára CZ Dabing",
+      "intent_id": "c03095e0bdd74439b25257ab15435769",
+      "started_at": "2026-11-19T14:50:59Z",
+      "upload_account": "serialy",
+      "source_id": -69757187557536136,
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e17-cz-dabing-pro-deti/5c7447eb4965b",
+      "size_bytes": 344182674,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334112,5 +1334128,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T14:22:55Z"
+  "last_updated": "2026-11-19T14:50:59Z"
 }
