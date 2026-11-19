@@ -913886,6 +913886,32 @@
         "download_sec": 18.6,
         "upload_sec": 33.5
       }
+    },
+    {
+      "episode_id": 92334,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 1,
+      "episode": 17,
+      "episode_code": "S01E17",
+      "display_name": "The Secret Life of the American Teenager S01E17 - 17. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -21247187084850340,
+      "external_id": "57d87d25e1011",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s01e17-cztit/57d87d25e1011",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31174108,
+      "size_bytes": 366867916,
+      "uploaded_at": "2026-11-19T07:19:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.3,
+        "upload_sec": 43.7
+      }
     }
   ],
   "pending_uploads": [
@@ -1333016,5 +1333042,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T07:15:10Z"
+  "last_updated": "2026-11-19T07:19:35Z"
 }
