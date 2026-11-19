@@ -916048,6 +916048,84 @@
         "download_sec": 30.6,
         "upload_sec": 41.9
       }
+    },
+    {
+      "episode_id": 63143,
+      "series_id": 1411,
+      "series_title": "Případy detektiva Murdocha",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Případy detektiva Murdocha S01E04 - Jak prosté, milý Murdochu CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -44054108105224368,
+      "external_id": "161ce04e521b4917",
+      "source_url": "https://prehraj.to/pripady-detektiva-murdocha-s01e04-jak-proste-mily-murdochu-sd-cz-dabing-mp4/161ce04e521b4917",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191618,
+      "size_bytes": 910592751,
+      "uploaded_at": "2026-11-19T22:38:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 57.5,
+        "upload_sec": 203.0
+      }
+    },
+    {
+      "episode_id": 63135,
+      "series_id": 1411,
+      "series_title": "Případy detektiva Murdocha",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Případy detektiva Murdocha S01E05 - Dokud nás smrt nerozdělí CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -66295485596236284,
+      "external_id": "579e90f74d338",
+      "source_url": "https://prehraj.to/pripady-detektiva-murdocha-s01e05-cz-dabing-by-led/579e90f74d338",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191704,
+      "size_bytes": 366354432,
+      "uploaded_at": "2026-11-19T22:41:53Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 68.5,
+        "upload_sec": 65.0
+      }
+    },
+    {
+      "episode_id": 46323,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Melissa a Joey S01E01 - 1. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -71953865549992967,
+      "external_id": "2d003bffb22ece57",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e01-1-epizoda-720p-cz-dabing-mkv/2d003bffb22ece57",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191748,
+      "size_bytes": 759262095,
+      "uploaded_at": "2026-11-19T22:47:14Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 70.2,
+        "upload_sec": 167.6
+      }
     }
   ],
   "pending_uploads": [
@@ -917156,20 +917234,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 63143,
-      "series_id": 1411,
-      "series_title": "Případy detektiva Murdocha",
+      "episode_id": 46326,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
       "season": 1,
       "episode": 4,
-      "display_name": "Případy detektiva Murdocha S01E04 - Jak prosté, milý Murdochu CZ Dabing",
-      "intent_id": "b8fb8f0a64504be5a687ab29cc4e6556",
-      "started_at": "2026-11-19T22:34:23Z",
+      "display_name": "Melissa a Joey S01E04 - 4. epizoda CZ Dabing",
+      "intent_id": "fea232f684f1446a96c097d308e74a5f",
+      "started_at": "2026-11-19T22:50:55Z",
       "upload_account": "serialy",
-      "source_id": -44054108105224368,
-      "source_url": "https://prehraj.to/pripady-detektiva-murdocha-s01e04-jak-proste-mily-murdochu-sd-cz-dabing-mp4/161ce04e521b4917",
-      "size_bytes": 910592751,
+      "source_id": -48410310511053330,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e04-4-epizoda-720p-cz-dabing-mkv/c5582d2b152ffff1",
+      "size_bytes": 341794359,
       "source_container": "mp4",
-      "source_download_kind": "original"
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1335194,5 +1335272,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:37:38Z"
+  "last_updated": "2026-11-19T22:50:55Z"
 }
