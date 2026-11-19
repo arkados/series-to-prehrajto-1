@@ -917701,6 +917701,32 @@
         "download_sec": 22.7,
         "upload_sec": 71.6
       }
+    },
+    {
+      "episode_id": 113292,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Sindibádova dobrodružství S01E11 - Princ, který nebyl CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -56104584053227118,
+      "external_id": "6186388e4338e",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e11/6186388e4338e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188066,
+      "size_bytes": 360515414,
+      "uploaded_at": "2026-11-19T17:27:45Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.5,
+        "upload_sec": 31.6
+      }
     }
   ],
   "pending_uploads": [
@@ -918822,22 +918848,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 113292,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 11,
-      "display_name": "Sindibádova dobrodružství S01E11 - Princ, který nebyl CZ Titulky",
-      "intent_id": "19a77faaa4eb4341a9a39d0fd6a8657a",
-      "started_at": "2026-11-19T17:26:33Z",
-      "upload_account": "primary",
-      "source_id": -56104584053227118,
-      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e11/6186388e4338e",
-      "size_bytes": 360515414,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1336863,5 +1336873,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T17:26:33Z"
+  "last_updated": "2026-11-19T17:27:45Z"
 }
