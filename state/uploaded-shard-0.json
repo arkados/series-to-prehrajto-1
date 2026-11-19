@@ -917311,6 +917311,58 @@
         "download_sec": 40.0,
         "upload_sec": 295.9
       }
+    },
+    {
+      "episode_id": 110425,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Darling in the Franxx S01E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -35853277749131315,
+      "external_id": "6147a230caf8d",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e09/6147a230caf8d",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31184785,
+      "size_bytes": 342831800,
+      "uploaded_at": "2026-11-19T14:20:03Z",
+      "timing": {
+        "resolve_sec": 4.0,
+        "download_sec": 33.7,
+        "upload_sec": 108.1
+      }
+    },
+    {
+      "episode_id": 187601,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 16,
+      "episode_code": "S07E16",
+      "display_name": "Požárník Sam S07E16 - Po stopách dinosaurů CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -3440046100842254,
+      "external_id": "5c7447ead5511",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e16-cz-dabing-pro-deti/5c7447ead5511",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31184840,
+      "size_bytes": 338486897,
+      "uploaded_at": "2026-11-19T14:22:55Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 12.4,
+        "upload_sec": 87.4
+      }
     }
   ],
   "pending_uploads": [
@@ -918433,6 +918485,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 167600,
+      "series_id": 6852,
+      "series_title": "Noblesse",
+      "season": 1,
+      "episode": 5,
+      "display_name": "Noblesse S01E05 - 5. epizoda CZ Titulky",
+      "intent_id": "8146532d8c2b411aa62b4ad77fb44872",
+      "started_at": "2026-11-19T14:32:52Z",
+      "upload_account": "primary",
+      "source_id": -31964508902584470,
+      "source_url": "https://prehraj.to/noblesse-s01e05/5fd21cba28d2c",
+      "size_bytes": 338541965,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336457,5 +1336525,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T14:05:09Z"
+  "last_updated": "2026-11-19T14:32:52Z"
 }
