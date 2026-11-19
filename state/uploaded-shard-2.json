@@ -916478,6 +916478,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 113282,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 9,
+      "display_name": "Sindibádova dobrodružství S01E09 - Potíže s dvojníky CZ Dabing",
+      "intent_id": "a667aaa1da3d460280345a0f4da9ffc2",
+      "started_at": "2026-11-19T16:37:13Z",
+      "upload_account": "serialy",
+      "source_id": -29912214471106727,
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x9/5c34cc8b6271d",
+      "size_bytes": 326593062,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1334502,5 +1334518,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T16:25:16Z"
+  "last_updated": "2026-11-19T16:37:13Z"
 }
