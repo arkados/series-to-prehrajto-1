@@ -914410,6 +914410,32 @@
         "download_sec": 13.9,
         "upload_sec": 35.2
       }
+    },
+    {
+      "episode_id": 110415,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Darling in the Franxx S01E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -72030764091628557,
+      "external_id": "6147a116077fa",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e07/6147a116077fa",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31181520,
+      "size_bytes": 342997824,
+      "uploaded_at": "2026-11-19T11:21:01Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 20.8,
+        "upload_sec": 60.5
+      }
     }
   ],
   "pending_uploads": [
@@ -915516,22 +915542,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 110415,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 7,
-      "display_name": "Darling in the Franxx S01E07 - 7. epizoda CZ Titulky",
-      "intent_id": "b47c87e40d024d35b7941e39520faff4",
-      "started_at": "2026-11-19T11:19:25Z",
-      "upload_account": "serialy",
-      "source_id": -72030764091628557,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e07/6147a116077fa",
-      "size_bytes": 342997824,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333556,5 +1333566,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T11:19:25Z"
+  "last_updated": "2026-11-19T11:21:01Z"
 }
