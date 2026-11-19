@@ -916230,6 +916230,32 @@
         "download_sec": 15.6,
         "upload_sec": 39.4
       }
+    },
+    {
+      "episode_id": 2391,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 20,
+      "episode_code": "S03E20",
+      "display_name": "Star proti silám zla S03E20 - 20. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -43459298479739348,
+      "external_id": "ce6c852b6689db9f",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e20-total-eclipsa-the-moon-cs/ce6c852b6689db9f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192604,
+      "size_bytes": 337814887,
+      "uploaded_at": "2026-11-19T23:38:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.7,
+        "upload_sec": 32.0
+      }
     }
   ],
   "pending_uploads": [
@@ -917352,22 +917378,6 @@
       "size_bytes": 422393562,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2391,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 3,
-      "episode": 20,
-      "display_name": "Star proti silám zla S03E20 - 20. epizoda CZ Dabing",
-      "intent_id": "31aa76d7864f44e8a00212d80e8aa3d3",
-      "started_at": "2026-11-19T23:36:50Z",
-      "upload_account": "serialy",
-      "source_id": -43459298479739348,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e20-total-eclipsa-the-moon-cs/ce6c852b6689db9f",
-      "size_bytes": 337814887,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335392,5 +1335402,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:36:50Z"
+  "last_updated": "2026-11-19T23:38:59Z"
 }
