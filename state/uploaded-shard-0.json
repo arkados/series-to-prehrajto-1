@@ -917935,6 +917935,32 @@
         "download_sec": 17.6,
         "upload_sec": 32.6
       }
+    },
+    {
+      "episode_id": 154640,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 3,
+      "episode": 2,
+      "episode_code": "S03E02",
+      "display_name": "Monkey Dust S03E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -3240093446862015,
+      "external_id": "5a34572f68b17",
+      "source_url": "https://prehraj.to/monkey-dust-s03e02/5a34572f68b17",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189629,
+      "size_bytes": 336906463,
+      "uploaded_at": "2026-11-19T19:38:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.0,
+        "upload_sec": 56.5
+      }
     }
   ],
   "pending_uploads": [
@@ -919055,22 +919081,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 154640,
-      "series_id": 5458,
-      "series_title": "Monkey Dust",
-      "season": 3,
-      "episode": 2,
-      "display_name": "Monkey Dust S03E02 - 2. epizoda CZ Titulky",
-      "intent_id": "b00cd98a43c74893bcbbe539bf3e0c07",
-      "started_at": "2026-11-19T19:36:50Z",
-      "upload_account": "primary",
-      "source_id": -3240093446862015,
-      "source_url": "https://prehraj.to/monkey-dust-s03e02/5a34572f68b17",
-      "size_bytes": 336906463,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337097,5 +1337107,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:36:50Z"
+  "last_updated": "2026-11-19T19:38:32Z"
 }
