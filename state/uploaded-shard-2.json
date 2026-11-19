@@ -915996,6 +915996,32 @@
         "download_sec": 14.7,
         "upload_sec": 33.3
       }
+    },
+    {
+      "episode_id": 46327,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Melissa a Joey S01E05 - 5. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -28643049614337268,
+      "external_id": "014f890a9938294f",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e05-5-epizoda-720p-cz-dabing-mkv/014f890a9938294f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191554,
+      "size_bytes": 351989743,
+      "uploaded_at": "2026-11-19T22:31:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 108.3,
+        "upload_sec": 32.2
+      }
     }
   ],
   "pending_uploads": [
@@ -917102,6 +917128,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 63143,
+      "series_id": 1411,
+      "series_title": "Případy detektiva Murdocha",
+      "season": 1,
+      "episode": 4,
+      "display_name": "Případy detektiva Murdocha S01E04 - Jak prosté, milý Murdochu CZ Dabing",
+      "intent_id": "b8fb8f0a64504be5a687ab29cc4e6556",
+      "started_at": "2026-11-19T22:34:23Z",
+      "upload_account": "serialy",
+      "source_id": -44054108105224368,
+      "source_url": "https://prehraj.to/pripady-detektiva-murdocha-s01e04-jak-proste-mily-murdochu-sd-cz-dabing-mp4/161ce04e521b4917",
+      "size_bytes": 910592751,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2402,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 9,
+      "display_name": "Star proti silám zla S03E09 - 9. epizoda CZ Dabing",
+      "intent_id": "0d865af6928d4410a7ff493445535f51",
+      "started_at": "2026-11-19T22:36:06Z",
+      "upload_account": "serialy",
+      "source_id": -51529230659298399,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e9-rest-in-pudding-cs/c075c3b408ef1ddf",
+      "size_bytes": 338415529,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335126,5 +1335184,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:26:05Z"
+  "last_updated": "2026-11-19T22:36:06Z"
 }
