@@ -914576,6 +914576,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 84150,
+      "series_id": 1975,
+      "series_title": "Teta Mick",
+      "season": 2,
+      "episode": 5,
+      "display_name": "Teta Mick S02E05 - 5. epizoda CZ Dabing",
+      "intent_id": "763b187bcfdb4fff96184bb3d74a4c05",
+      "started_at": "2026-11-19T02:06:44Z",
+      "upload_account": "serialy",
+      "source_id": -26280938333265257,
+      "source_url": "https://prehraj.to/teta-mick-s02e05-5-epizoda-1080p-cz-dabing-mkv/3e5fed662bd9f296",
+      "size_bytes": 779842029,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332600,5 +1332616,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T01:30:47Z"
+  "last_updated": "2026-11-19T02:06:44Z"
 }
