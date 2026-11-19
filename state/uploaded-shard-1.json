@@ -916973,6 +916973,32 @@
         "download_sec": 14.7,
         "upload_sec": 36.9
       }
+    },
+    {
+      "episode_id": 92397,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 4,
+      "episode": 12,
+      "episode_code": "S04E12",
+      "display_name": "The Secret Life of the American Teenager S04E12 - 12. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -44331782122983498,
+      "external_id": "57d8c1df72c25",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s04e12-cztit/57d8c1df72c25",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31182961,
+      "size_bytes": 366476062,
+      "uploaded_at": "2026-11-19T12:35:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.8,
+        "upload_sec": 68.0
+      }
     }
   ],
   "pending_uploads": [
@@ -918097,19 +918123,19 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 92397,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 4,
-      "episode": 12,
-      "display_name": "The Secret Life of the American Teenager S04E12 - 12. epizoda CZ Titulky",
-      "intent_id": "bf27009e5a4d48dcabc9eb26aaae05c0",
-      "started_at": "2026-11-19T12:33:37Z",
+      "episode_id": 127584,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 15,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E15 - 15. epizoda CZ Titulky",
+      "intent_id": "6d280c972fd94e80ab9130c0b76d97dd",
+      "started_at": "2026-11-19T12:33:44Z",
       "upload_account": "primary",
-      "source_id": -44331782122983498,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s04e12-cztit/57d8c1df72c25",
-      "size_bytes": 366476062,
-      "source_container": "avi",
+      "source_id": -2697377218048408,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e15-di-afternoon-of-the-machines-pat/296987bfc1d247f4",
+      "size_bytes": 536551038,
+      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1336135,5 +1336161,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:33:37Z"
+  "last_updated": "2026-11-19T12:35:53Z"
 }
