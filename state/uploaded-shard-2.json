@@ -913496,6 +913496,32 @@
         "download_sec": 29.2,
         "upload_sec": 90.9
       }
+    },
+    {
+      "episode_id": 70926,
+      "series_id": 1654,
+      "series_title": "Vzpomínky",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Vzpomínky S01E04 - Po výbuchu CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -47456871362072735,
+      "external_id": "674a1d24dc927",
+      "source_url": "https://prehraj.to/vzpominky-s01e04-up-in-flames-2011-krimi-mysteriozni-czdab/674a1d24dc927",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31166142,
+      "size_bytes": 366291262,
+      "uploaded_at": "2026-11-19T02:15:13Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 21.0,
+        "upload_sec": 35.5
+      }
     }
   ],
   "pending_uploads": [
@@ -914602,22 +914628,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 70926,
-      "series_id": 1654,
-      "series_title": "Vzpomínky",
-      "season": 1,
-      "episode": 4,
-      "display_name": "Vzpomínky S01E04 - Po výbuchu CZ Dabing",
-      "intent_id": "cfd914cc2eb3420591657b46c7677436",
-      "started_at": "2026-11-19T02:13:57Z",
-      "upload_account": "serialy",
-      "source_id": -47456871362072735,
-      "source_url": "https://prehraj.to/vzpominky-s01e04-up-in-flames-2011-krimi-mysteriozni-czdab/674a1d24dc927",
-      "size_bytes": 366291262,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332642,5 +1332652,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T02:13:57Z"
+  "last_updated": "2026-11-19T02:15:13Z"
 }
