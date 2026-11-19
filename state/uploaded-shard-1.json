@@ -918589,6 +918589,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2417,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 18,
+      "display_name": "Star proti silám zla S02E18 - 18. epizoda CZ Titulky",
+      "intent_id": "a22d63e9bc4843d88a748d973ea43e6d",
+      "started_at": "2026-11-19T15:19:48Z",
+      "upload_account": "primary",
+      "source_id": -8417059717571806,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e18-gift-of-the-card-cs/22aad02c96073dcd",
+      "size_bytes": 326070626,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336613,5 +1336629,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:11:11Z"
+  "last_updated": "2026-11-19T15:19:48Z"
 }
