@@ -917285,6 +917285,32 @@
         "download_sec": 13.6,
         "upload_sec": 28.1
       }
+    },
+    {
+      "episode_id": 155876,
+      "series_id": 5590,
+      "series_title": "Nevysvětlitelná tajemství s Williamem Shatnerem",
+      "season": 4,
+      "episode": 14,
+      "episode_code": "S04E14",
+      "display_name": "Nevysvětlitelná tajemství s Williamem Shatnerem S04E14 - 14. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -23305037003068323,
+      "external_id": "6397d1b47c021",
+      "source_url": "https://prehraj.to/the-unxplained-s04e14-eng/6397d1b47c021",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31184439,
+      "size_bytes": 670477323,
+      "uploaded_at": "2026-11-19T14:05:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 40.0,
+        "upload_sec": 295.9
+      }
     }
   ],
   "pending_uploads": [
@@ -918407,22 +918433,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 155876,
-      "series_id": 5590,
-      "series_title": "Nevysvětlitelná tajemství s Williamem Shatnerem",
-      "season": 4,
-      "episode": 14,
-      "display_name": "Nevysvětlitelná tajemství s Williamem Shatnerem S04E14 - 14. epizoda CZ Titulky",
-      "intent_id": "acb221ec59944239aa52a35baa695c92",
-      "started_at": "2026-11-19T13:59:34Z",
-      "upload_account": "primary",
-      "source_id": -23305037003068323,
-      "source_url": "https://prehraj.to/the-unxplained-s04e14-eng/6397d1b47c021",
-      "size_bytes": 670477323,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336447,5 +1336457,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:59:34Z"
+  "last_updated": "2026-11-19T14:05:09Z"
 }
