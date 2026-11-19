@@ -915606,6 +915606,58 @@
         "download_sec": 847.8,
         "upload_sec": 48.2
       }
+    },
+    {
+      "episode_id": 167622,
+      "series_id": 1582,
+      "series_title": "Ranč Heartland",
+      "season": 16,
+      "episode": 11,
+      "episode_code": "S16E11",
+      "display_name": "Ranč Heartland S16E11 - 11. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -2024032961286661,
+      "external_id": "570d2bba6e8d6ee9",
+      "source_url": "https://prehraj.to/ranc-heartland-s16e11-head-over-heels-en/570d2bba6e8d6ee9",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189398,
+      "size_bytes": 434881170,
+      "uploaded_at": "2026-11-19T19:17:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.2,
+        "upload_sec": 50.1
+      }
+    },
+    {
+      "episode_id": 113278,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Sindibádova dobrodružství S01E12 - Mizející vesnice CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -14155563149645552,
+      "external_id": "5c2b2d0511b9f",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x12/5c2b2d0511b9f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189588,
+      "size_bytes": 420821130,
+      "uploaded_at": "2026-11-19T19:33:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 853.4,
+        "upload_sec": 41.1
+      }
     }
   ],
   "pending_uploads": [
@@ -916712,6 +916764,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 154643,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 3,
+      "episode": 5,
+      "display_name": "Monkey Dust S03E05 - 5. epizoda CZ Titulky",
+      "intent_id": "7d3f7c346ccf4708a59b874a0b3f8468",
+      "started_at": "2026-11-19T19:37:19Z",
+      "upload_account": "serialy",
+      "source_id": -1805319807054963,
+      "source_url": "https://prehraj.to/monkey-dust-s03e05/5a345758252e2",
+      "size_bytes": 318133814,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334736,5 +1334804,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:12:32Z"
+  "last_updated": "2026-11-19T19:37:19Z"
 }
