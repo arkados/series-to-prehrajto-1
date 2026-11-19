@@ -916951,6 +916951,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 174829,
+      "series_id": 7874,
+      "series_title": "Afrika",
+      "season": 1,
+      "episode": 6,
+      "display_name": "Afrika S01E06 - Afrika – budoucnost plná nadějí CZ Dabing",
+      "intent_id": "365e90935b164011992251acc3185c0f",
+      "started_at": "2026-11-19T02:34:26Z",
+      "upload_account": "primary",
+      "source_id": -4450667339269569,
+      "source_url": "https://prehraj.to/afrika-s1e6-the-future-cs/557e3c5a271732f3",
+      "size_bytes": 366737477,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1334975,5 +1334991,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T02:13:57Z"
+  "last_updated": "2026-11-19T02:34:26Z"
 }
