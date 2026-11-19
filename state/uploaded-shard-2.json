@@ -914644,6 +914644,58 @@
         "download_sec": 13.1,
         "upload_sec": 35.4
       }
+    },
+    {
+      "episode_id": 2423,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 11,
+      "episode_code": "S02E11",
+      "display_name": "Star proti silám zla S02E11 - 11. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58839258532065518,
+      "external_id": "f7d674976f6d6314",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e11-starsitting-cs/f7d674976f6d6314",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183383,
+      "size_bytes": 331789219,
+      "uploaded_at": "2026-11-19T12:56:28Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.8,
+        "upload_sec": 38.3
+      }
+    },
+    {
+      "episode_id": 92403,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 4,
+      "episode": 17,
+      "episode_code": "S04E17",
+      "display_name": "The Secret Life of the American Teenager S04E17 - 17. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -40466623165122317,
+      "external_id": "5f78733158872",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-04x17-cz-tit/5f78733158872",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183435,
+      "size_bytes": 363414120,
+      "uploaded_at": "2026-11-19T12:58:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.8,
+        "upload_sec": 60.7
+      }
     }
   ],
   "pending_uploads": [
@@ -915750,6 +915802,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187606,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 21,
+      "display_name": "Požárník Sam S07E21 - Den matek CZ Dabing",
+      "intent_id": "43d01c73c8234bdbbb33499e1814e8cd",
+      "started_at": "2026-11-19T13:06:04Z",
+      "upload_account": "serialy",
+      "source_id": -18855744943862939,
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e21-cz-dabing-pro-deti/5c7447ec68af3",
+      "size_bytes": 342187163,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333774,5 +1333842,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:51:26Z"
+  "last_updated": "2026-11-19T13:06:04Z"
 }
