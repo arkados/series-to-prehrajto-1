@@ -918065,6 +918065,32 @@
         "download_sec": 67.4,
         "upload_sec": 40.7
       }
+    },
+    {
+      "episode_id": 131560,
+      "series_id": 3765,
+      "series_title": "Black Lagoon",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Black Lagoon S01E12 - Guerilly v džungli CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -64687205370454495,
+      "external_id": "60cc8a90a26f1",
+      "source_url": "https://prehraj.to/black-lagoon-s01e12/60cc8a90a26f1",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31190957,
+      "size_bytes": 401979265,
+      "uploaded_at": "2026-11-19T21:40:01Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 841.2,
+        "upload_sec": 38.9
+      }
     }
   ],
   "pending_uploads": [
@@ -919187,6 +919213,38 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 187572,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 11,
+      "display_name": "Požárník Sam S06E11 - Velryba CZ Dabing",
+      "intent_id": "e3148c9c9197495b8a10ccb361d30631",
+      "started_at": "2026-11-19T21:42:32Z",
+      "upload_account": "primary",
+      "source_id": -6588773988121787,
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e11-cz-dabing-pro-deti/5c742c6a4b8fe",
+      "size_bytes": 341165255,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 131557,
+      "series_id": 3765,
+      "series_title": "Black Lagoon",
+      "season": 1,
+      "episode": 9,
+      "display_name": "Black Lagoon S01E09 - Pokojská na zabití CZ Titulky",
+      "intent_id": "342767bcad8f4b718c858b60334371bf",
+      "started_at": "2026-11-19T21:43:23Z",
+      "upload_account": "primary",
+      "source_id": -15311807517017759,
+      "source_url": "https://prehraj.to/black-lagoon-s01e09/60cc8a58965cf",
+      "size_bytes": 387301517,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337211,5 +1337269,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:17:32Z"
+  "last_updated": "2026-11-19T21:43:23Z"
 }
