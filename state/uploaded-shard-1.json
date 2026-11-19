@@ -916635,6 +916635,58 @@
         "download_sec": 13.5,
         "upload_sec": 61.0
       }
+    },
+    {
+      "episode_id": 2424,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Star proti silám zla S02E10 - 10. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -31374548100084848,
+      "external_id": "ee504206cb01c43c",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e10-camping-trip-cs/ee504206cb01c43c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180844,
+      "size_bytes": 326226399,
+      "uploaded_at": "2026-11-19T10:57:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.1,
+        "upload_sec": 48.6
+      }
+    },
+    {
+      "episode_id": 2429,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Star proti silám zla S02E05 - 5. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -37453247119873688,
+      "external_id": "8ee072992e0ee2ad",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e5-star-on-wheels-cs/8ee072992e0ee2ad",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180885,
+      "size_bytes": 333597064,
+      "uploaded_at": "2026-11-19T10:58:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.7,
+        "upload_sec": 74.5
+      }
     }
   ],
   "pending_uploads": [
@@ -917755,38 +917807,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2424,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 2,
-      "episode": 10,
-      "display_name": "Star proti silám zla S02E10 - 10. epizoda CZ Dabing",
-      "intent_id": "3727d35152d84f8f9c372ee5f29eca0d",
-      "started_at": "2026-11-19T10:55:27Z",
-      "upload_account": "primary",
-      "source_id": -31374548100084848,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e10-camping-trip-cs/ee504206cb01c43c",
-      "size_bytes": 326226399,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2429,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 2,
-      "episode": 5,
-      "display_name": "Star proti silám zla S02E05 - 5. epizoda CZ Dabing",
-      "intent_id": "d213d1ea53434015b20273dbb1a3e189",
-      "started_at": "2026-11-19T10:55:25Z",
-      "upload_account": "primary",
-      "source_id": -37453247119873688,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e5-star-on-wheels-cs/8ee072992e0ee2ad",
-      "size_bytes": 333597064,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1335813,5 +1335833,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:55:28Z"
+  "last_updated": "2026-11-19T10:58:37Z"
 }
