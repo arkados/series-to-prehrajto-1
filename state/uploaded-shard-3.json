@@ -915438,6 +915438,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 100615,
+      "series_id": 2443,
+      "series_title": "Fresh Meat",
+      "season": 1,
+      "episode": 5,
+      "display_name": "Fresh Meat S01E05 - 5. epizoda CZ Titulky",
+      "intent_id": "3b0d5833109d46d584c230f7b749fa80",
+      "started_at": "2026-11-19T10:44:08Z",
+      "upload_account": "serialy",
+      "source_id": -66816505563044992,
+      "source_url": "https://prehraj.to/fresh-meat-s01e05-hdtv/59b5225998d4d",
+      "size_bytes": 366725011,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333462,5 +1333478,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:43:23Z"
+  "last_updated": "2026-11-19T10:44:08Z"
 }
