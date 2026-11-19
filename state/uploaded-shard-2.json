@@ -913957,7 +913957,7 @@
       "source_resolution": "720p",
       "source_download_kind": "stream",
       "source_container": "mp4",
-      "description_source": "gemma_episode_or_series",
+      "description_source": "gemma_prepared",
       "prehrajto_video_id": 31175213,
       "size_bytes": 742387915,
       "uploaded_at": "2026-11-19T07:51:02Z",
@@ -913965,7 +913965,9 @@
         "resolve_sec": 1.2,
         "download_sec": 30.2,
         "upload_sec": 175.2
-      }
+      },
+      "description_updated_at": "2026-11-19T07:54:09Z",
+      "description_text_hash": "d8a632c84c0c96f2ad79ceaaa6b25c3f01606e42828411b7cc96bdb9a5fa656a"
     }
   ],
   "pending_uploads": [
