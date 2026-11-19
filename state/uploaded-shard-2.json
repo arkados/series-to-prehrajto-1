@@ -914696,6 +914696,58 @@
         "download_sec": 14.8,
         "upload_sec": 60.7
       }
+    },
+    {
+      "episode_id": 110411,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Darling in the Franxx S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -5411057031522339,
+      "external_id": "61479ee65c9fd",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e03/61479ee65c9fd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183581,
+      "size_bytes": 342511268,
+      "uploaded_at": "2026-11-19T13:07:58Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.2,
+        "upload_sec": 33.9
+      }
+    },
+    {
+      "episode_id": 187606,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 21,
+      "episode_code": "S07E21",
+      "display_name": "Požárník Sam S07E21 - Den matek CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -18855744943862939,
+      "external_id": "5c7447ec68af3",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e21-cz-dabing-pro-deti/5c7447ec68af3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183564,
+      "size_bytes": 342187163,
+      "uploaded_at": "2026-11-19T13:07:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.9,
+        "upload_sec": 50.7
+      }
     }
   ],
   "pending_uploads": [
@@ -915802,22 +915854,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 187606,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 7,
-      "episode": 21,
-      "display_name": "Požárník Sam S07E21 - Den matek CZ Dabing",
-      "intent_id": "43d01c73c8234bdbbb33499e1814e8cd",
-      "started_at": "2026-11-19T13:06:04Z",
-      "upload_account": "serialy",
-      "source_id": -18855744943862939,
-      "source_url": "https://prehraj.to/pozarnik-sam-s07e21-cz-dabing-pro-deti/5c7447ec68af3",
-      "size_bytes": 342187163,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333842,5 +1333878,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:06:04Z"
+  "last_updated": "2026-11-19T13:07:58Z"
 }
