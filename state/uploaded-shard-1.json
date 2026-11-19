@@ -918169,6 +918169,32 @@
         "download_sec": 17.9,
         "upload_sec": 27.8
       }
+    },
+    {
+      "episode_id": 2405,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 6,
+      "episode_code": "S03E06",
+      "display_name": "Star proti silám zla S03E06 - 6. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -60321444403631485,
+      "external_id": "7db2bfcba2b1e630",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e6-the-battle-for-mewni-part-6-king-ludo-cs/7db2bfcba2b1e630",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191191,
+      "size_bytes": 338634646,
+      "uploaded_at": "2026-11-19T22:03:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.3,
+        "upload_sec": 62.0
+      }
     }
   ],
   "pending_uploads": [
@@ -919289,22 +919315,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2405,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 3,
-      "episode": 6,
-      "display_name": "Star proti silám zla S03E06 - 6. epizoda CZ Dabing",
-      "intent_id": "b84db2e6e89e45178792d6d3cb694de8",
-      "started_at": "2026-11-19T22:01:48Z",
-      "upload_account": "primary",
-      "source_id": -60321444403631485,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e6-the-battle-for-mewni-part-6-king-ludo-cs/7db2bfcba2b1e630",
-      "size_bytes": 338634646,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337331,5 +1337341,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:01:48Z"
+  "last_updated": "2026-11-19T22:03:57Z"
 }
