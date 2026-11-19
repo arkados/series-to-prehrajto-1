@@ -917571,6 +917571,32 @@
         "download_sec": 118.6,
         "upload_sec": 30.9
       }
+    },
+    {
+      "episode_id": 92420,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 5,
+      "episode": 11,
+      "episode_code": "S05E11",
+      "display_name": "The Secret Life of the American Teenager S05E11 - 11. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -31380710200960973,
+      "external_id": "57d8d1a056f13",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s05e11-cztit/57d8d1a056f13",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31186533,
+      "size_bytes": 328918944,
+      "uploaded_at": "2026-11-19T15:51:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.8,
+        "upload_sec": 91.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1336717,5 +1336743,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:46:01Z"
+  "last_updated": "2026-11-19T15:52:03Z"
 }
