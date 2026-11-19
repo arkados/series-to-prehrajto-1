@@ -915985,6 +915985,32 @@
         "download_sec": 19.2,
         "upload_sec": 96.5
       }
+    },
+    {
+      "episode_id": 164305,
+      "series_id": 6467,
+      "series_title": "Nauč mě milovat",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Nauč mě milovat S01E05 - 5. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -57067127860938902,
+      "external_id": "36808f3ff4377ba1",
+      "source_url": "https://prehraj.to/nauc-me-milovat-s01e05-40-2023-cz-dabing-1080p-fhd-epizoda-5/36808f3ff4377ba1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31172510,
+      "size_bytes": 1253968541,
+      "uploaded_at": "2026-11-19T06:26:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.9,
+        "upload_sec": 520.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1335131,5 +1335157,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T05:56:02Z"
+  "last_updated": "2026-11-19T06:26:28Z"
 }
