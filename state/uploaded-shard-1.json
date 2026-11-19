@@ -917939,6 +917939,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 110413,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 6,
+      "display_name": "Darling in the Franxx S01E06 - 6. epizoda CZ Titulky",
+      "intent_id": "77fa35b116e34f29948167b995187fa5",
+      "started_at": "2026-11-19T12:06:15Z",
+      "upload_account": "primary",
+      "source_id": -37047899979870676,
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e06/6147a08b7eaa8",
+      "size_bytes": 342286269,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335963,5 +1335979,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:05:22Z"
+  "last_updated": "2026-11-19T12:06:15Z"
 }
