@@ -917181,6 +917181,32 @@
         "download_sec": 16.1,
         "upload_sec": 27.1
       }
+    },
+    {
+      "episode_id": 19953,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 15,
+      "episode_code": "S02E15",
+      "display_name": "Star proti silám zla S02E15 - 15. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -62106642872060178,
+      "external_id": "15f08aeaf20619f3",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e15-game-of-flags-cs/15f08aeaf20619f3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31184038,
+      "size_bytes": 330034426,
+      "uploaded_at": "2026-11-19T13:36:36Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.7,
+        "upload_sec": 37.9
+      }
     }
   ],
   "pending_uploads": [
@@ -918301,6 +918327,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 128796,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 2,
+      "episode": 11,
+      "display_name": "Lovci trolů od Guillerma Del Toro S02E11 - Kouzla zbavený CZ Titulky",
+      "intent_id": "c29aa11c3f044c2d89856058026d52c9",
+      "started_at": "2026-11-19T13:41:56Z",
+      "upload_account": "primary",
+      "source_id": -64893267477965034,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s2e11-unbecoming-en/e64c7fda5172f669",
+      "size_bytes": 416618569,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1336327,5 +1336369,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:31:56Z"
+  "last_updated": "2026-11-19T13:41:56Z"
 }
