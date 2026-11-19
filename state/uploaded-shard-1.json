@@ -919447,6 +919447,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46325,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Melissa a Joey S01E03 - 3. epizoda CZ Dabing",
+      "intent_id": "21fb7c9929384a459d7a9f5818e8661d",
+      "started_at": "2026-11-19T22:50:14Z",
+      "upload_account": "primary",
+      "source_id": -63135757032847430,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e03-3-epizoda-720p-cz-dabing-mkv/dd57940188210832",
+      "size_bytes": 351143082,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337471,5 +1337487,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:35:10Z"
+  "last_updated": "2026-11-19T22:50:14Z"
 }
