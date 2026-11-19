@@ -919551,6 +919551,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 63069,
+      "series_id": 1411,
+      "series_title": "Případy detektiva Murdocha",
+      "season": 4,
+      "episode": 7,
+      "display_name": "Případy detektiva Murdocha S04E07 - Konfederační poklad CZ Dabing",
+      "intent_id": "fbf3f72df47f47319b047803f2eb255f",
+      "started_at": "2026-11-19T23:05:26Z",
+      "upload_account": "primary",
+      "source_id": -17300012096024723,
+      "source_url": "https://prehraj.to/murdoch-mysteries-s4e7-confederate-treasure-cz/97d2525d126ebcc1",
+      "size_bytes": 343271134,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337575,5 +1337591,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:04:28Z"
+  "last_updated": "2026-11-19T23:05:26Z"
 }
