@@ -916152,6 +916152,32 @@
         "download_sec": 16.4,
         "upload_sec": 57.3
       }
+    },
+    {
+      "episode_id": 2399,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 12,
+      "episode_code": "S03E12",
+      "display_name": "Star proti silám zla S03E12 - 12. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -20406557307966450,
+      "external_id": "533cb89b60352a7d",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e12-demoncism-cs/533cb89b60352a7d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191972,
+      "size_bytes": 338251721,
+      "uploaded_at": "2026-11-19T22:58:43Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.0,
+        "upload_sec": 34.6
+      }
     }
   ],
   "pending_uploads": [
@@ -917258,22 +917284,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2399,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 3,
-      "episode": 12,
-      "display_name": "Star proti silám zla S03E12 - 12. epizoda CZ Dabing",
-      "intent_id": "c64384ab1b1543db9168a3fc21e478c1",
-      "started_at": "2026-11-19T22:57:17Z",
-      "upload_account": "serialy",
-      "source_id": -20406557307966450,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e12-demoncism-cs/533cb89b60352a7d",
-      "size_bytes": 338251721,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335298,5 +1335308,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:57:17Z"
+  "last_updated": "2026-11-19T22:58:43Z"
 }
