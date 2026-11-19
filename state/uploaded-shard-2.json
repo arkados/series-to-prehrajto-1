@@ -915580,6 +915580,32 @@
         "download_sec": 14.0,
         "upload_sec": 26.1
       }
+    },
+    {
+      "episode_id": 186603,
+      "series_id": 9710,
+      "series_title": "LEGO Ninjago: Dračí povstání",
+      "season": 4,
+      "episode": 16,
+      "episode_code": "S04E16",
+      "display_name": "LEGO Ninjago: Dračí povstání S04E16 - Tundra nikoho CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -64754842037427649,
+      "external_id": "461e08a7a088e0ab",
+      "source_url": "https://prehraj.to/lego-ninjago-draci-povstani-s04e16-100-oci-ktere-vidi-tvou-dusi-yt-verze/461e08a7a088e0ab",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189325,
+      "size_bytes": 545985774,
+      "uploaded_at": "2026-11-19T19:12:32Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 847.8,
+        "upload_sec": 48.2
+      }
     }
   ],
   "pending_uploads": [
@@ -916684,6 +916710,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 167622,
+      "series_id": 1582,
+      "series_title": "Ranč Heartland",
+      "season": 16,
+      "episode": 11,
+      "display_name": "Ranč Heartland S16E11 - 11. epizoda CZ Titulky",
+      "intent_id": "8c4c5295cf8b4d928c35a610a3b3077c",
+      "started_at": "2026-11-19T19:16:04Z",
+      "upload_account": "serialy",
+      "source_id": -2024032961286661,
+      "source_url": "https://prehraj.to/ranc-heartland-s16e11-head-over-heels-en/570d2bba6e8d6ee9",
+      "size_bytes": 434881170,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1334710,5 +1334752,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T18:54:08Z"
+  "last_updated": "2026-11-19T19:16:04Z"
 }
