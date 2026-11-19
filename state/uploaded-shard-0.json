@@ -916661,6 +916661,110 @@
         "download_sec": 15.1,
         "upload_sec": 48.6
       }
+    },
+    {
+      "episode_id": 2429,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Star proti silám zla S02E05 - 5. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -37453247119873688,
+      "external_id": "8ee072992e0ee2ad",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e5-star-on-wheels-cs/8ee072992e0ee2ad",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180885,
+      "size_bytes": 333597064,
+      "uploaded_at": "2026-11-19T10:58:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.7,
+        "upload_sec": 74.5
+      }
+    },
+    {
+      "episode_id": 2425,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Star proti silám zla S02E09 - 9. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -8866394195372856,
+      "external_id": "34974e19649a2507",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e9-starstruck-cs/34974e19649a2507",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180952,
+      "size_bytes": 329926479,
+      "uploaded_at": "2026-11-19T11:02:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.4,
+        "upload_sec": 133.8
+      }
+    },
+    {
+      "episode_id": 110429,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 14,
+      "episode_code": "S01E14",
+      "display_name": "Darling in the Franxx S01E14 - 14. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -70916718937591439,
+      "external_id": "6147a4e985c53",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e14/6147a4e985c53",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31181049,
+      "size_bytes": 342394512,
+      "uploaded_at": "2026-11-19T11:04:44Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.1,
+        "upload_sec": 80.4
+      }
+    },
+    {
+      "episode_id": 92393,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 4,
+      "episode": 8,
+      "episode_code": "S04E08",
+      "display_name": "The Secret Life of the American Teenager S04E08 - 8. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -44681092886633037,
+      "external_id": "57d8bedf117f8",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s04e08-cztit/57d8bedf117f8",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31181127,
+      "size_bytes": 366713804,
+      "uploaded_at": "2026-11-19T11:07:10Z",
+      "timing": {
+        "resolve_sec": 2.0,
+        "download_sec": 13.6,
+        "upload_sec": 67.9
+      }
     }
   ],
   "pending_uploads": [
@@ -917781,22 +917885,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2429,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 2,
-      "episode": 5,
-      "display_name": "Star proti silám zla S02E05 - 5. epizoda CZ Dabing",
-      "intent_id": "d213d1ea53434015b20273dbb1a3e189",
-      "started_at": "2026-11-19T10:55:25Z",
-      "upload_account": "primary",
-      "source_id": -37453247119873688,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e5-star-on-wheels-cs/8ee072992e0ee2ad",
-      "size_bytes": 333597064,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1335823,5 +1335911,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:57:02Z"
+  "last_updated": "2026-11-19T11:10:03Z"
 }
