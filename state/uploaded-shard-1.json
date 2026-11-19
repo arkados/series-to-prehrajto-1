@@ -917575,6 +917575,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 110417,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 11,
+      "display_name": "Darling in the Franxx S01E11 - 11. epizoda CZ Titulky",
+      "intent_id": "d8019e90e6ba47dfbf9b8e9bd0327bb7",
+      "started_at": "2026-11-19T10:19:26Z",
+      "upload_account": "primary",
+      "source_id": -66966361393338454,
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e11/6147a346c47d5",
+      "size_bytes": 342771565,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335599,5 +1335615,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:14:44Z"
+  "last_updated": "2026-11-19T10:19:28Z"
 }
