@@ -917050,6 +917050,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127555,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 11,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E11 - 11. epizoda CZ Titulky",
+      "intent_id": "a666657fb19c49759b6b720e083cdd08",
+      "started_at": "2026-11-19T22:05:18Z",
+      "upload_account": "serialy",
+      "source_id": -2439268761223955,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e11-c-inside-the-forest-of-the-sub-imagoes-portraitz-ja/9cccdbec229865cd",
+      "size_bytes": 387822829,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335074,5 +1335090,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:04:04Z"
+  "last_updated": "2026-11-19T22:05:18Z"
 }
