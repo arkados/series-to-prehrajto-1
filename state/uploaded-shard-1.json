@@ -917727,6 +917727,32 @@
         "download_sec": 12.5,
         "upload_sec": 31.6
       }
+    },
+    {
+      "episode_id": 127585,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 16,
+      "episode_code": "S02E16",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E16 - 16. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -22260279516354894,
+      "external_id": "e8b76c47fabfee02",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e16-in-the-fact-of-being-there-another-chance-ja/e8b76c47fabfee02",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188211,
+      "size_bytes": 687019972,
+      "uploaded_at": "2026-11-19T17:35:33Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 394.2,
+        "upload_sec": 128.6
+      }
     }
   ],
   "pending_uploads": [
@@ -918847,22 +918873,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 127585,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 2,
-      "episode": 16,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S02E16 - 16. epizoda CZ Titulky",
-      "intent_id": "990792944ded450182139bb63f614200",
-      "started_at": "2026-11-19T17:32:50Z",
-      "upload_account": "primary",
-      "source_id": -22260279516354894,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e16-in-the-fact-of-being-there-another-chance-ja/e8b76c47fabfee02",
-      "size_bytes": 687019972,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1336889,5 +1336899,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T17:32:50Z"
+  "last_updated": "2026-11-19T17:35:33Z"
 }
