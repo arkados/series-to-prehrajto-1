@@ -914436,6 +914436,32 @@
         "download_sec": 20.8,
         "upload_sec": 60.5
       }
+    },
+    {
+      "episode_id": 110430,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 17,
+      "episode_code": "S01E17",
+      "display_name": "Darling in the Franxx S01E17 - 17. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -25759157775603190,
+      "external_id": "6147a68a9874f",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e17/6147a68a9874f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31181889,
+      "size_bytes": 342123220,
+      "uploaded_at": "2026-11-19T11:39:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.0,
+        "upload_sec": 30.7
+      }
     }
   ],
   "pending_uploads": [
@@ -915542,22 +915568,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 110430,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 17,
-      "display_name": "Darling in the Franxx S01E17 - 17. epizoda CZ Titulky",
-      "intent_id": "d78b065c6c4b471c95b3531a8cca744a",
-      "started_at": "2026-11-19T11:38:11Z",
-      "upload_account": "serialy",
-      "source_id": -25759157775603190,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e17/6147a68a9874f",
-      "size_bytes": 342123220,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333582,5 +1333592,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T11:38:11Z"
+  "last_updated": "2026-11-19T11:39:44Z"
 }
