@@ -917076,6 +917076,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127587,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 18,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E18 - 18. epizoda CZ Titulky",
+      "intent_id": "9ea2fd48215b4e30a1dd13bc7679eac6",
+      "started_at": "2026-11-19T22:07:18Z",
+      "upload_account": "serialy",
+      "source_id": -62591498066328658,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e18-di-angel-s-poem-trans-parent-ja/85616b6ddbe8898d",
+      "size_bytes": 403048751,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335100,5 +1335116,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:06:26Z"
+  "last_updated": "2026-11-19T22:07:18Z"
 }
