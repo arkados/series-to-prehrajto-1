@@ -915386,6 +915386,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 100614,
+      "series_id": 2443,
+      "series_title": "Fresh Meat",
+      "season": 1,
+      "episode": 4,
+      "display_name": "Fresh Meat S01E04 - 4. epizoda CZ Titulky",
+      "intent_id": "6794d74c85d54ce386c1873eb2c5d011",
+      "started_at": "2026-11-19T10:25:51Z",
+      "upload_account": "serialy",
+      "source_id": -23412003369690862,
+      "source_url": "https://prehraj.to/fresh-meat-s01e04-hdtv/59b5224d6f902",
+      "size_bytes": 366270459,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333410,5 +1333426,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:24:54Z"
+  "last_updated": "2026-11-19T10:25:51Z"
 }
