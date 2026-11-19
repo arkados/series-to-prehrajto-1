@@ -918221,6 +918221,58 @@
         "download_sec": 510.2,
         "upload_sec": 55.9
       }
+    },
+    {
+      "episode_id": 2404,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 7,
+      "episode_code": "S03E07",
+      "display_name": "Star proti silám zla S03E07 - 7. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -9690804951669046,
+      "external_id": "a8e3b1cdf5f67fb5",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e7-the-battle-for-mewni-part-7-king-ludo-cs/a8e3b1cdf5f67fb5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191439,
+      "size_bytes": 338570105,
+      "uploaded_at": "2026-11-19T22:24:04Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 126.7,
+        "upload_sec": 115.7
+      }
+    },
+    {
+      "episode_id": 46324,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Melissa a Joey S01E02 - 2. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -40017166932814237,
+      "external_id": "c8bacec92d39d446",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e02-2-epizoda-720p-cz-dabing-mkv/c8bacec92d39d446",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191479,
+      "size_bytes": 343194389,
+      "uploaded_at": "2026-11-19T22:26:05Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.1,
+        "upload_sec": 42.0
+      }
     }
   ],
   "pending_uploads": [
@@ -1337367,5 +1337419,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:14:51Z"
+  "last_updated": "2026-11-19T22:26:05Z"
 }
