@@ -915554,6 +915554,32 @@
         "download_sec": 444.1,
         "upload_sec": 28.4
       }
+    },
+    {
+      "episode_id": 89194,
+      "series_id": 2110,
+      "series_title": "Girlboss",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Girlboss S01E12 - 12. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -35423723750649237,
+      "external_id": "5ab9b16bb2417",
+      "source_url": "https://prehraj.to/girlboss-s01e12-i-come-crashing/5ab9b16bb2417",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188862,
+      "size_bytes": 366591933,
+      "uploaded_at": "2026-11-19T18:26:08Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 14.0,
+        "upload_sec": 26.1
+      }
     }
   ],
   "pending_uploads": [
@@ -916660,22 +916686,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 89194,
-      "series_id": 2110,
-      "series_title": "Girlboss",
-      "season": 1,
-      "episode": 12,
-      "display_name": "Girlboss S01E12 - 12. epizoda CZ Titulky",
-      "intent_id": "bcdb88c85c474561b5507df0dfa79400",
-      "started_at": "2026-11-19T18:25:00Z",
-      "upload_account": "serialy",
-      "source_id": -35423723750649237,
-      "source_url": "https://prehraj.to/girlboss-s01e12-i-come-crashing/5ab9b16bb2417",
-      "size_bytes": 366591933,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334700,5 +1334710,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T18:25:00Z"
+  "last_updated": "2026-11-19T18:26:08Z"
 }
