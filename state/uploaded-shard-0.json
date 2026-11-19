@@ -917831,6 +917831,32 @@
         "download_sec": 14.8,
         "upload_sec": 36.0
       }
+    },
+    {
+      "episode_id": 92424,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 5,
+      "episode": 15,
+      "episode_code": "S05E15",
+      "display_name": "The Secret Life of the American Teenager S05E15 - 15. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -58020782638296259,
+      "external_id": "57d8d40cc387c",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s05e15-sktit/57d8d40cc387c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188708,
+      "size_bytes": 317263678,
+      "uploaded_at": "2026-11-19T18:12:38Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.1,
+        "upload_sec": 32.4
+      }
     }
   ],
   "pending_uploads": [
@@ -918951,22 +918977,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 92424,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 5,
-      "episode": 15,
-      "display_name": "The Secret Life of the American Teenager S05E15 - 15. epizoda CZ Titulky",
-      "intent_id": "422bb9b31a234d33a734267ee18ac70e",
-      "started_at": "2026-11-19T18:10:35Z",
-      "upload_account": "primary",
-      "source_id": -58020782638296259,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s05e15-sktit/57d8d40cc387c",
-      "size_bytes": 317263678,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1336993,5 +1337003,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T18:10:35Z"
+  "last_updated": "2026-11-19T18:12:38Z"
 }
