@@ -916821,6 +916821,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 154689,
+      "series_id": 1582,
+      "series_title": "Ranč Heartland",
+      "season": 16,
+      "episode": 7,
+      "display_name": "Ranč Heartland S16E07 - 7. epizoda CZ Titulky",
+      "intent_id": "0b76f6061e5f4aca95073a0abf6c64a9",
+      "started_at": "2026-11-19T00:35:50Z",
+      "upload_account": "primary",
+      "source_id": -50784739592969141,
+      "source_url": "https://prehraj.to/ranc-heartland-s16e7-vigil-en/9b0389b4cffc09b2",
+      "size_bytes": 446521517,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1334845,5 +1334861,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T00:29:27Z"
+  "last_updated": "2026-11-19T00:35:50Z"
 }
