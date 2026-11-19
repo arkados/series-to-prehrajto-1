@@ -913548,6 +913548,32 @@
         "download_sec": 22.7,
         "upload_sec": 43.1
       }
+    },
+    {
+      "episode_id": 109750,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 17,
+      "episode_code": "S08E17",
+      "display_name": "Dynastie S08E17 - 17. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -53853693788579564,
+      "external_id": "595370f360c06",
+      "source_url": "https://prehraj.to/dynasty-s08e17/595370f360c06",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31166219,
+      "size_bytes": 365756417,
+      "uploaded_at": "2026-11-19T02:20:06Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.9,
+        "upload_sec": 57.8
+      }
     }
   ],
   "pending_uploads": [
@@ -914654,22 +914680,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 109750,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 8,
-      "episode": 17,
-      "display_name": "Dynastie S08E17 - 17. epizoda CZ Titulky",
-      "intent_id": "4e4bb5ee90e74367adb686a7f37cd891",
-      "started_at": "2026-11-19T02:18:33Z",
-      "upload_account": "serialy",
-      "source_id": -53853693788579564,
-      "source_url": "https://prehraj.to/dynasty-s08e17/595370f360c06",
-      "size_bytes": 365756417,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332694,5 +1332704,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T02:18:33Z"
+  "last_updated": "2026-11-19T02:20:06Z"
 }
