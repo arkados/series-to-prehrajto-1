@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108596,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83062,
-    "prepared_source_episodes": 67983,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83063,
+    "prepared_source_episodes": 67990,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
@@ -21,26 +21,82 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T04:21:43Z",
-      "databaseId": 44457787688,
+      "createdAt": "2026-11-19T04:29:39Z",
+      "databaseId": 44458694195,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T04:28:45Z",
+      "databaseId": 44458593145,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T04:27:56Z",
+      "databaseId": 44458502914,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T04:26:05Z",
+      "databaseId": 44458293639,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-19T04:23:35Z",
+      "databaseId": 44458001704,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T04:23:14Z",
+      "databaseId": 44457960022,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T04:23:10Z",
+      "databaseId": 44457953374,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T04:21:43Z",
+      "databaseId": 44457787688,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T04:20:29Z",
       "databaseId": 44457645116,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T04:20:25Z",
       "databaseId": 44457635716,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -92,11 +148,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-19T04:17:22Z",
       "databaseId": 44457282459,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-19T04:14:27Z",
-      "databaseId": 44456936018,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T04:14:24Z",
-      "databaseId": 44456931678,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T04:13:31Z",
-      "databaseId": 44456824478,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T04:12:45Z",
-      "databaseId": 44456737683,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T04:12:00Z",
-      "databaseId": 44456652396,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T04:09:39Z",
-      "databaseId": 44456376472,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T04:08:21Z",
-      "databaseId": 44456228661,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -389720,6 +389720,11 @@
         "episode_id": 7499,
         "display_name": "Stargirl S02E06 - Kapitola šestá CZ Dabing",
         "video_id": 31169129
+      },
+      {
+        "episode_id": 109718,
+        "display_name": "Dynastie S06E17 - 17. epizoda CZ Titulky",
+        "video_id": 31170003
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -779157,6 +779162,11 @@
         "episode_id": 7499,
         "display_name": "Stargirl S02E06 - Kapitola šestá CZ Dabing",
         "video_id": 31169129
+      },
+      {
+        "episode_id": 109718,
+        "display_name": "Dynastie S06E17 - 17. epizoda CZ Titulky",
+        "video_id": 31170003
       }
     ],
     "prepared_not_upload_ready": [
