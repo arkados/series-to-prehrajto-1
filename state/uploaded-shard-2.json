@@ -916634,6 +916634,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2418,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 17,
+      "display_name": "Star proti silám zla S02E17 - 17. epizoda CZ Dabing",
+      "intent_id": "88d7bf068dec4317878832a588e577ab",
+      "started_at": "2026-11-19T18:22:59Z",
+      "upload_account": "serialy",
+      "source_id": -61515542154459755,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e17-sleepover-cs/2cf433dbecb087e4",
+      "size_bytes": 329904351,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334658,5 +1334674,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T18:07:29Z"
+  "last_updated": "2026-11-19T18:22:59Z"
 }
