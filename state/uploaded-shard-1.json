@@ -915673,6 +915673,32 @@
         "download_sec": 15.2,
         "upload_sec": 36.7
       }
+    },
+    {
+      "episode_id": 109737,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 4,
+      "episode_code": "S08E04",
+      "display_name": "Dynastie S08E04 - 4. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -54660702876753027,
+      "external_id": "59536bab59846",
+      "source_url": "https://prehraj.to/dynasty-s08e04-the-announcement/59536bab59846",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31164349,
+      "size_bytes": 365701124,
+      "uploaded_at": "2026-11-19T00:29:27Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 21.0,
+        "upload_sec": 39.1
+      }
     }
   ],
   "pending_uploads": [
@@ -916794,22 +916820,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 109737,
-      "series_id": 2321,
-      "series_title": "Dynastie",
-      "season": 8,
-      "episode": 4,
-      "display_name": "Dynastie S08E04 - 4. epizoda CZ Titulky",
-      "intent_id": "6652fd7d71b443cc9e203499e109902f",
-      "started_at": "2026-11-19T00:28:13Z",
-      "upload_account": "primary",
-      "source_id": -54660702876753027,
-      "source_url": "https://prehraj.to/dynasty-s08e04-the-announcement/59536bab59846",
-      "size_bytes": 365701124,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1334835,5 +1334845,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T00:28:13Z"
+  "last_updated": "2026-11-19T00:29:27Z"
 }
