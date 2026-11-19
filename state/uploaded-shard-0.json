@@ -918247,6 +918247,32 @@
         "download_sec": 126.7,
         "upload_sec": 115.7
       }
+    },
+    {
+      "episode_id": 46324,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Melissa a Joey S01E02 - 2. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -40017166932814237,
+      "external_id": "c8bacec92d39d446",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e02-2-epizoda-720p-cz-dabing-mkv/c8bacec92d39d446",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191479,
+      "size_bytes": 343194389,
+      "uploaded_at": "2026-11-19T22:26:05Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.1,
+        "upload_sec": 42.0
+      }
     }
   ],
   "pending_uploads": [
@@ -919369,22 +919395,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46324,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 2,
-      "display_name": "Melissa a Joey S01E02 - 2. epizoda CZ Dabing",
-      "intent_id": "eaaafca6438b4c00acd80cc4238cbbcc",
-      "started_at": "2026-11-19T22:24:52Z",
-      "upload_account": "primary",
-      "source_id": -40017166932814237,
-      "source_url": "https://prehraj.to/melissa-a-joey-s01e02-2-epizoda-720p-cz-dabing-mkv/c8bacec92d39d446",
-      "size_bytes": 343194389,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337409,5 +1337419,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:24:52Z"
+  "last_updated": "2026-11-19T22:26:05Z"
 }
