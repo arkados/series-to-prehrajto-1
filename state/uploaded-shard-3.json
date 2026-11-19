@@ -915476,6 +915476,32 @@
         "download_sec": 59.5,
         "upload_sec": 40.1
       }
+    },
+    {
+      "episode_id": 127595,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 26,
+      "episode_code": "S02E26",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E26 - 26. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -22267475053265646,
+      "external_id": "011634df51cccaa7",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e26-in-return-to-patriotism-endlessgig-ja/011634df51cccaa7",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31188639,
+      "size_bytes": 473205841,
+      "uploaded_at": "2026-11-19T18:05:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 734.9,
+        "upload_sec": 39.1
+      }
     }
   ],
   "pending_uploads": [
@@ -916582,22 +916608,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 127595,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 2,
-      "episode": 26,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S02E26 - 26. epizoda CZ Titulky",
-      "intent_id": "e0bc341aea0b4769addca14e27656571",
-      "started_at": "2026-11-19T18:04:11Z",
-      "upload_account": "serialy",
-      "source_id": -22267475053265646,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e26-in-return-to-patriotism-endlessgig-ja/011634df51cccaa7",
-      "size_bytes": 473205841,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334622,5 +1334632,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T18:04:11Z"
+  "last_updated": "2026-11-19T18:05:33Z"
 }
