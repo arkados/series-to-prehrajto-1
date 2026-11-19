@@ -914966,6 +914966,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109751,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 18,
+      "display_name": "Dynastie S08E18 - 18. epizoda CZ Titulky",
+      "intent_id": "1903d0165d6446ce86ae7d4988e7bef1",
+      "started_at": "2026-11-19T07:13:35Z",
+      "upload_account": "serialy",
+      "source_id": -22697418276230577,
+      "source_url": "https://prehraj.to/dynasty-s08e18/59537106c7391",
+      "size_bytes": 364732421,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332990,5 +1333006,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T06:45:21Z"
+  "last_updated": "2026-11-19T07:13:35Z"
 }
