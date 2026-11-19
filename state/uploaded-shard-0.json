@@ -918169,6 +918169,58 @@
         "download_sec": 17.9,
         "upload_sec": 27.8
       }
+    },
+    {
+      "episode_id": 2405,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 6,
+      "episode_code": "S03E06",
+      "display_name": "Star proti silám zla S03E06 - 6. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -60321444403631485,
+      "external_id": "7db2bfcba2b1e630",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e6-the-battle-for-mewni-part-6-king-ludo-cs/7db2bfcba2b1e630",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191191,
+      "size_bytes": 338634646,
+      "uploaded_at": "2026-11-19T22:03:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.3,
+        "upload_sec": 62.0
+      }
+    },
+    {
+      "episode_id": 129393,
+      "series_id": 3630,
+      "series_title": "A.P. Bio",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "A.P. Bio S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -35717594846263199,
+      "external_id": "5ad4f1f725f4d",
+      "source_url": "https://prehraj.to/a-p-bio-s01e02-teacher-jail/5ad4f1f725f4d",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191338,
+      "size_bytes": 316667563,
+      "uploaded_at": "2026-11-19T22:14:51Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 510.2,
+        "upload_sec": 55.9
+      }
     }
   ],
   "pending_uploads": [
@@ -919289,6 +919341,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2404,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 7,
+      "display_name": "Star proti silám zla S03E07 - 7. epizoda CZ Dabing",
+      "intent_id": "80ba50c2b9ee4bca8ff96dbb558aa7a9",
+      "started_at": "2026-11-19T22:21:36Z",
+      "upload_account": "primary",
+      "source_id": -9690804951669046,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e7-the-battle-for-mewni-part-7-king-ludo-cs/a8e3b1cdf5f67fb5",
+      "size_bytes": 338570105,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337315,5 +1337383,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:56:45Z"
+  "last_updated": "2026-11-19T22:21:36Z"
 }
