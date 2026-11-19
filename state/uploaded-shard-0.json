@@ -916847,6 +916847,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 109728,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 7,
+      "episode": 27,
+      "display_name": "Dynastie S07E27 - 27. epizoda CZ Titulky",
+      "intent_id": "4167312baf2f4eab9c4e545cc399aa07",
+      "started_at": "2026-11-19T01:05:02Z",
+      "upload_account": "primary",
+      "source_id": -2320150956938145,
+      "source_url": "https://prehraj.to/dynasty-s07e27/5953693a70e29",
+      "size_bytes": 366577665,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334871,5 +1334887,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T00:36:59Z"
+  "last_updated": "2026-11-19T01:05:07Z"
 }
