@@ -913940,6 +913940,32 @@
       },
       "description_updated_at": "2026-11-19T07:48:04Z",
       "description_text_hash": "d8a632c84c0c96f2ad79ceaaa6b25c3f01606e42828411b7cc96bdb9a5fa656a"
+    },
+    {
+      "episode_id": 204094,
+      "series_id": 156,
+      "series_title": "Pán prstenů: Prsteny moci",
+      "season": 3,
+      "episode": 5,
+      "episode_code": "S03E05",
+      "display_name": "Pán prstenů: Prsteny moci S03E05 - Paní Lórienu CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -19387022823213978,
+      "external_id": "7de05fc38dbbc496",
+      "source_url": "https://prehraj.to/the-rings-of-power-s03e05-cz-titulky-mkv/7de05fc38dbbc496",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31175213,
+      "size_bytes": 742387915,
+      "uploaded_at": "2026-11-19T07:51:02Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.2,
+        "upload_sec": 175.2
+      }
     }
   ],
   "pending_uploads": [
@@ -915044,22 +915070,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 204094,
-      "series_id": 156,
-      "series_title": "Pán prstenů: Prsteny moci",
-      "season": 3,
-      "episode": 5,
-      "display_name": "Pán prstenů: Prsteny moci S03E05 - Paní Lórienu CZ Titulky",
-      "intent_id": "ede9a1b26abc4aaca39ed60d12015a2f",
-      "started_at": "2026-11-19T07:47:37Z",
-      "upload_account": "serialy",
-      "source_id": -19387022823213978,
-      "source_url": "https://prehraj.to/the-rings-of-power-s03e05-cz-titulky-mkv/7de05fc38dbbc496",
-      "size_bytes": 742387915,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1333086,5 +1333096,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T07:47:37Z"
+  "last_updated": "2026-11-19T07:51:02Z"
 }
