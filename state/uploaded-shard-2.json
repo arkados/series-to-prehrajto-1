@@ -915918,6 +915918,84 @@
         "download_sec": 457.3,
         "upload_sec": 144.0
       }
+    },
+    {
+      "episode_id": 167623,
+      "series_id": 1582,
+      "series_title": "Ranč Heartland",
+      "season": 16,
+      "episode": 15,
+      "episode_code": "S16E15",
+      "display_name": "Ranč Heartland S16E15 - 15. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -70858880932682741,
+      "external_id": "bd30709d9a0d44dd",
+      "source_url": "https://prehraj.to/ranc-heartland-s16e15-a-light-in-the-dark-en/bd30709d9a0d44dd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191198,
+      "size_bytes": 435468511,
+      "uploaded_at": "2026-11-19T22:04:04Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 16.1,
+        "upload_sec": 33.3
+      }
+    },
+    {
+      "episode_id": 127555,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E11 - 11. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -2439268761223955,
+      "external_id": "9cccdbec229865cd",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e11-c-inside-the-forest-of-the-sub-imagoes-portraitz-ja/9cccdbec229865cd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191223,
+      "size_bytes": 387822829,
+      "uploaded_at": "2026-11-19T22:06:26Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 14.5,
+        "upload_sec": 28.6
+      }
+    },
+    {
+      "episode_id": 127587,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 18,
+      "episode_code": "S02E18",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E18 - 18. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -62591498066328658,
+      "external_id": "85616b6ddbe8898d",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e18-di-angel-s-poem-trans-parent-ja/85616b6ddbe8898d",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191240,
+      "size_bytes": 403048751,
+      "uploaded_at": "2026-11-19T22:08:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.7,
+        "upload_sec": 33.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1335048,5 +1335126,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:56:45Z"
+  "last_updated": "2026-11-19T22:14:51Z"
 }
