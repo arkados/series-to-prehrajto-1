@@ -914072,6 +914072,32 @@
         "download_sec": 19.3,
         "upload_sec": 96.3
       }
+    },
+    {
+      "episode_id": 110410,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Darling in the Franxx S01E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -47709077301711061,
+      "external_id": "61479dcdccf6b",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e01/61479dcdccf6b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31176435,
+      "size_bytes": 342265469,
+      "uploaded_at": "2026-11-19T08:27:43Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 20.7,
+        "upload_sec": 34.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915178,22 +915204,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 110410,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 1,
-      "display_name": "Darling in the Franxx S01E01 - 1. epizoda CZ Titulky",
-      "intent_id": "75a5fb8879b049b7938b7fff3d161bae",
-      "started_at": "2026-11-19T08:25:58Z",
-      "upload_account": "serialy",
-      "source_id": -47709077301711061,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e01/61479dcdccf6b",
-      "size_bytes": 342265469,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333218,5 +1333228,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T08:25:58Z"
+  "last_updated": "2026-11-19T08:27:43Z"
 }
