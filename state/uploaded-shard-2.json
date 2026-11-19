@@ -914888,6 +914888,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2434,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 1,
+      "episode": 13,
+      "display_name": "Star proti silám zla S01E13 - 13. epizoda CZ Titulky",
+      "intent_id": "693f8426505744bc821d34ef645074f3",
+      "started_at": "2026-11-19T05:46:29Z",
+      "upload_account": "serialy",
+      "source_id": -48544294502037172,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s1e13-lobster-claws-cs/d492108efe914c00",
+      "size_bytes": 324479490,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332912,5 +1332928,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T05:30:06Z"
+  "last_updated": "2026-11-19T05:46:29Z"
 }
