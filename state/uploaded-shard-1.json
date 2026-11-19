@@ -916505,6 +916505,32 @@
         "download_sec": 20.5,
         "upload_sec": 70.8
       }
+    },
+    {
+      "episode_id": 100613,
+      "series_id": 2443,
+      "series_title": "Fresh Meat",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Fresh Meat S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -52888934083966958,
+      "external_id": "59b52248935a4",
+      "source_url": "https://prehraj.to/fresh-meat-s01e03-hdtv/59b52248935a4",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180001,
+      "size_bytes": 366406915,
+      "uploaded_at": "2026-11-19T10:28:20Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 21.8,
+        "upload_sec": 49.4
+      }
     }
   ],
   "pending_uploads": [
@@ -917626,22 +917652,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 100613,
-      "series_id": 2443,
-      "series_title": "Fresh Meat",
-      "season": 1,
-      "episode": 3,
-      "display_name": "Fresh Meat S01E03 - 3. epizoda CZ Titulky",
-      "intent_id": "1769d0845a9d421992c448ed2ba16e6f",
-      "started_at": "2026-11-19T10:26:24Z",
-      "upload_account": "primary",
-      "source_id": -52888934083966958,
-      "source_url": "https://prehraj.to/fresh-meat-s01e03-hdtv/59b52248935a4",
-      "size_bytes": 366406915,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1335667,5 +1335677,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:26:24Z"
+  "last_updated": "2026-11-19T10:28:20Z"
 }
