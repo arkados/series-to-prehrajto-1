@@ -915620,6 +915620,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127575,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 6,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E06 - 6. epizoda CZ Titulky",
+      "intent_id": "25105b757b584c209e8261788898153e",
+      "started_at": "2026-11-19T12:14:42Z",
+      "upload_account": "serialy",
+      "source_id": -64354513264876961,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e6-di-latent-heat-source-excavation-ja/30283af2ffc91794",
+      "size_bytes": 377260373,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333644,5 +1333660,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T11:56:49Z"
+  "last_updated": "2026-11-19T12:14:42Z"
 }
