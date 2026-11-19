@@ -914384,6 +914384,32 @@
         "download_sec": 15.9,
         "upload_sec": 76.4
       }
+    },
+    {
+      "episode_id": 92402,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 4,
+      "episode": 16,
+      "episode_code": "S04E16",
+      "display_name": "The Secret Life of the American Teenager S04E16 - 16. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -12766186433166974,
+      "external_id": "5f787223ee5a9",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-04x16-cz-tit/5f787223ee5a9",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31181277,
+      "size_bytes": 353356404,
+      "uploaded_at": "2026-11-19T11:11:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.9,
+        "upload_sec": 35.2
+      }
     }
   ],
   "pending_uploads": [
@@ -915492,19 +915518,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 92402,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 4,
-      "episode": 16,
-      "display_name": "The Secret Life of the American Teenager S04E16 - 16. epizoda CZ Titulky",
-      "intent_id": "17294e28f7554e5fab148664fb3f211a",
-      "started_at": "2026-11-19T11:10:03Z",
+      "episode_id": 110415,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Darling in the Franxx S01E07 - 7. epizoda CZ Titulky",
+      "intent_id": "b47c87e40d024d35b7941e39520faff4",
+      "started_at": "2026-11-19T11:19:25Z",
       "upload_account": "serialy",
-      "source_id": -12766186433166974,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-04x16-cz-tit/5f787223ee5a9",
-      "size_bytes": 353356404,
-      "source_container": "avi",
+      "source_id": -72030764091628557,
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e07/6147a116077fa",
+      "size_bytes": 342997824,
+      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1333530,5 +1333556,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T11:10:03Z"
+  "last_updated": "2026-11-19T11:19:25Z"
 }
