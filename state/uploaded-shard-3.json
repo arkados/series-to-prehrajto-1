@@ -915126,6 +915126,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46027,
+      "series_id": 1107,
+      "series_title": "Cesta do neznáma",
+      "season": 3,
+      "episode": 2,
+      "display_name": "Cesta do neznáma S03E02 - Dvojníci CZ Dabing",
+      "intent_id": "8d6ca8e5e9024af18b6b374839831d53",
+      "started_at": "2026-11-19T08:14:05Z",
+      "upload_account": "serialy",
+      "source_id": -57065002942246383,
+      "source_url": "https://prehraj.to/cesta-do-neznama-s03e02-dvojnici-sd-cz-dabing-mp4/2fa8ee3e0b02e990",
+      "size_bytes": 363566530,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333150,5 +1333166,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T07:59:13Z"
+  "last_updated": "2026-11-19T08:14:05Z"
 }
