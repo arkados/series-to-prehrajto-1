@@ -914462,6 +914462,32 @@
         "download_sec": 16.0,
         "upload_sec": 30.7
       }
+    },
+    {
+      "episode_id": 92386,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 3,
+      "episode": 25,
+      "episode_code": "S03E25",
+      "display_name": "The Secret Life of the American Teenager S03E25 - 25. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -3706792157698799,
+      "external_id": "57d8b9afdc5e0",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s03e25-cztit/57d8b9afdc5e0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31181919,
+      "size_bytes": 366313472,
+      "uploaded_at": "2026-11-19T11:41:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.1,
+        "upload_sec": 40.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915568,22 +915594,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 92386,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 3,
-      "episode": 25,
-      "display_name": "The Secret Life of the American Teenager S03E25 - 25. epizoda CZ Titulky",
-      "intent_id": "97f3f75f120e4089a6f5d2fd9319e54a",
-      "started_at": "2026-11-19T11:40:35Z",
-      "upload_account": "serialy",
-      "source_id": -3706792157698799,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s03e25-cztit/57d8b9afdc5e0",
-      "size_bytes": 366313472,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333608,5 +1333618,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T11:40:35Z"
+  "last_updated": "2026-11-19T11:41:52Z"
 }
