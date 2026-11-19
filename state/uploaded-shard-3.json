@@ -915294,6 +915294,32 @@
         "download_sec": 15.8,
         "upload_sec": 94.7
       }
+    },
+    {
+      "episode_id": 193567,
+      "series_id": 9866,
+      "series_title": "ULTRAMAN",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "ULTRAMAN S01E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -13756234057698624,
+      "external_id": "5e5fa78160f77",
+      "source_url": "https://prehraj.to/ultraman-s1e05-eng/5e5fa78160f77",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31186794,
+      "size_bytes": 382093263,
+      "uploaded_at": "2026-11-19T16:06:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.1,
+        "upload_sec": 117.6
+      }
     }
   ],
   "pending_uploads": [
@@ -916398,22 +916424,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 193567,
-      "series_id": 9866,
-      "series_title": "ULTRAMAN",
-      "season": 1,
-      "episode": 5,
-      "display_name": "ULTRAMAN S01E05 - 5. epizoda CZ Titulky",
-      "intent_id": "93e232a1d93c466cb51b11ed7e89ecb6",
-      "started_at": "2026-11-19T16:03:06Z",
-      "upload_account": "serialy",
-      "source_id": -13756234057698624,
-      "source_url": "https://prehraj.to/ultraman-s1e05-eng/5e5fa78160f77",
-      "size_bytes": 382093263,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1334440,5 +1334450,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T16:03:06Z"
+  "last_updated": "2026-11-19T16:06:04Z"
 }
