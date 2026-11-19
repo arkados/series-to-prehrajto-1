@@ -916308,6 +916308,58 @@
         "download_sec": 18.5,
         "upload_sec": 31.4
       }
+    },
+    {
+      "episode_id": 100503,
+      "series_id": 2439,
+      "series_title": "Tintinova dobrodružství",
+      "season": 2,
+      "episode": 3,
+      "episode_code": "S02E03",
+      "display_name": "Tintinova dobrodružství S02E03 - Bůžek s uraženým uchem - 2. část CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -19524913334987215,
+      "external_id": "4640f9e676a4ffc1",
+      "source_url": "https://prehraj.to/tintinova-dobrodruzstvi-s02e03-buzek-s-urazenym-uchem-cast-2-720p/4640f9e676a4ffc1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192637,
+      "size_bytes": 396659397,
+      "uploaded_at": "2026-11-19T23:42:30Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.1,
+        "upload_sec": 93.2
+      }
+    },
+    {
+      "episode_id": 46335,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "Melissa a Joey S01E13 - 13. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -43675410873639978,
+      "external_id": "9e32d82e408bb23f",
+      "source_url": "https://prehraj.to/melissa-a-joey-s1e13-enemies-with-benefits-cs/9e32d82e408bb23f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192695,
+      "size_bytes": 323419348,
+      "uploaded_at": "2026-11-19T23:45:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.2,
+        "upload_sec": 32.3
+      }
     }
   ],
   "pending_uploads": [
@@ -917412,22 +917464,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 100503,
-      "series_id": 2439,
-      "series_title": "Tintinova dobrodružství",
-      "season": 2,
-      "episode": 3,
-      "display_name": "Tintinova dobrodružství S02E03 - Bůžek s uraženým uchem - 2. část CZ Dabing",
-      "intent_id": "908a15026b4a4bd299451ca37e48faeb",
-      "started_at": "2026-11-19T23:39:53Z",
-      "upload_account": "serialy",
-      "source_id": -19524913334987215,
-      "source_url": "https://prehraj.to/tintinova-dobrodruzstvi-s02e03-buzek-s-urazenym-uchem-cast-2-720p/4640f9e676a4ffc1",
-      "size_bytes": 396659397,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1335454,5 +1335490,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:42:08Z"
+  "last_updated": "2026-11-19T23:45:03Z"
 }
