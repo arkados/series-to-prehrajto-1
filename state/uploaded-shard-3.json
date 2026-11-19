@@ -915138,6 +915138,32 @@
         "download_sec": 45.4,
         "upload_sec": 46.4
       }
+    },
+    {
+      "episode_id": 89191,
+      "series_id": 2110,
+      "series_title": "Girlboss",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Girlboss S01E09 - 9. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -30054659121950088,
+      "external_id": "8823f793d7cb20a8",
+      "source_url": "https://prehraj.to/girlboss-s1e9-motherf-ckin-bar-graphs-en/8823f793d7cb20a8",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31185682,
+      "size_bytes": 361279547,
+      "uploaded_at": "2026-11-19T15:16:38Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 14.0,
+        "upload_sec": 52.5
+      }
     }
   ],
   "pending_uploads": [
@@ -916244,22 +916270,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 89191,
-      "series_id": 2110,
-      "series_title": "Girlboss",
-      "season": 1,
-      "episode": 9,
-      "display_name": "Girlboss S01E09 - 9. epizoda CZ Titulky",
-      "intent_id": "583546319ece4e4d96d6ea538fa046e1",
-      "started_at": "2026-11-19T15:14:45Z",
-      "upload_account": "serialy",
-      "source_id": -30054659121950088,
-      "source_url": "https://prehraj.to/girlboss-s1e9-motherf-ckin-bar-graphs-en/8823f793d7cb20a8",
-      "size_bytes": 361279547,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334284,5 +1334294,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:14:45Z"
+  "last_updated": "2026-11-19T15:16:38Z"
 }
