@@ -916140,6 +916140,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 154634,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 2,
+      "episode": 1,
+      "display_name": "Monkey Dust S02E01 - 1. epizoda CZ Titulky",
+      "intent_id": "abd8d0cc53d74fb2bdff89e1fd4c81c1",
+      "started_at": "2026-11-19T14:56:56Z",
+      "upload_account": "serialy",
+      "source_id": -7483969739361921,
+      "source_url": "https://prehraj.to/monkey-dust-s02e01-ws-divx-pres-multiload-cz/5a33e0b90c2d3",
+      "size_bytes": 315906826,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334164,5 +1334180,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T14:56:05Z"
+  "last_updated": "2026-11-19T14:56:56Z"
 }
