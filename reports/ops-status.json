@@ -1,8 +1,8 @@
 {
   "counts": {
     "backlog_episodes": 108623,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83042,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83045,
     "prepared_source_episodes": 67976,
     "description_series": 60,
     "description_episodes": 753,
@@ -21,10 +21,34 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T01:07:36Z",
+      "databaseId": 44434489957,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T01:05:30Z",
+      "databaseId": 44434211181,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T01:05:27Z",
+      "databaseId": 44434203842,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T01:04:01Z",
       "databaseId": 44434009217,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -100,11 +124,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T00:51:46Z",
       "databaseId": 44432402698,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T00:42:49Z",
-      "databaseId": 44431203690,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T00:40:22Z",
-      "databaseId": 44430876860,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T00:40:18Z",
-      "databaseId": 44430867912,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
     }
   ],
   "gaps": {
@@ -203977,6 +203977,11 @@
         "video_id": 31164448
       },
       {
+        "episode_id": 109728,
+        "display_name": "Dynastie S07E27 - 27. epizoda CZ Titulky",
+        "video_id": 31164876
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -389620,6 +389625,16 @@
         "episode_id": 127562,
         "display_name": "Ghost in the Shell: Stand Alone Complex S01E19 - 19. epizoda CZ Titulky",
         "video_id": 31164547
+      },
+      {
+        "episode_id": 127566,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E23 - 23. epizoda CZ Titulky",
+        "video_id": 31164859
+      },
+      {
+        "episode_id": 109731,
+        "display_name": "Dynastie S08E06 - 6. epizoda CZ Titulky",
+        "video_id": 31164882
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -593314,6 +593329,11 @@
         "video_id": 31164448
       },
       {
+        "episode_id": 109728,
+        "display_name": "Dynastie S07E27 - 27. epizoda CZ Titulky",
+        "video_id": 31164876
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -778957,6 +778977,16 @@
         "episode_id": 127562,
         "display_name": "Ghost in the Shell: Stand Alone Complex S01E19 - 19. epizoda CZ Titulky",
         "video_id": 31164547
+      },
+      {
+        "episode_id": 127566,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E23 - 23. epizoda CZ Titulky",
+        "video_id": 31164859
+      },
+      {
+        "episode_id": 109731,
+        "display_name": "Dynastie S08E06 - 6. epizoda CZ Titulky",
+        "video_id": 31164882
       }
     ],
     "prepared_not_upload_ready": [
