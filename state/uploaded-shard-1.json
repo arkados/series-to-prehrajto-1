@@ -917211,6 +917211,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 155877,
+      "series_id": 5590,
+      "series_title": "Nevysvětlitelná tajemství s Williamem Shatnerem",
+      "season": 4,
+      "episode": 15,
+      "display_name": "Nevysvětlitelná tajemství s Williamem Shatnerem S04E15 - 15. epizoda CZ Titulky",
+      "intent_id": "7c87f7b6f1c84612833d9e4da4aedc40",
+      "started_at": "2026-11-19T06:57:24Z",
+      "upload_account": "primary",
+      "source_id": -59653365606506452,
+      "source_url": "https://prehraj.to/the-unxplained-s04e15-eng/6397d1efaa93a",
+      "size_bytes": 338979680,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335235,5 +1335251,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T06:45:21Z"
+  "last_updated": "2026-11-19T06:57:24Z"
 }
