@@ -914810,6 +914810,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 7499,
+      "series_id": 254,
+      "series_title": "Stargirl",
+      "season": 2,
+      "episode": 6,
+      "display_name": "Stargirl S02E06 - Kapitola šestá CZ Dabing",
+      "intent_id": "cc9f0521188b4597a7a2f2e237927243",
+      "started_at": "2026-11-19T03:55:18Z",
+      "upload_account": "serialy",
+      "source_id": -55086852875208636,
+      "source_url": "https://prehraj.to/stargirl-s02e06-kapitola-sesta-1080p-cz-dabing-mkv/6db9f380806cb2d1",
+      "size_bytes": 518563939,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332834,5 +1332850,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T03:43:31Z"
+  "last_updated": "2026-11-19T03:55:18Z"
 }
