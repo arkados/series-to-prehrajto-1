@@ -917388,6 +917388,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 100503,
+      "series_id": 2439,
+      "series_title": "Tintinova dobrodružství",
+      "season": 2,
+      "episode": 3,
+      "display_name": "Tintinova dobrodružství S02E03 - Bůžek s uraženým uchem - 2. část CZ Dabing",
+      "intent_id": "908a15026b4a4bd299451ca37e48faeb",
+      "started_at": "2026-11-19T23:39:53Z",
+      "upload_account": "serialy",
+      "source_id": -19524913334987215,
+      "source_url": "https://prehraj.to/tintinova-dobrodruzstvi-s02e03-buzek-s-urazenym-uchem-cast-2-720p/4640f9e676a4ffc1",
+      "size_bytes": 396659397,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46334,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 12,
+      "display_name": "Melissa a Joey S01E12 - 12. epizoda CZ Dabing",
+      "intent_id": "9f749b7a97fa4267861eb4cb4e84c657",
+      "started_at": "2026-11-19T23:40:39Z",
+      "upload_account": "serialy",
+      "source_id": -16394607414114710,
+      "source_url": "https://prehraj.to/melissa-a-joey-s1e12-joe-knows-cs/7f3bd0451f6946a3",
+      "size_bytes": 329368044,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335412,5 +1335444,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:38:59Z"
+  "last_updated": "2026-11-19T23:40:39Z"
 }
