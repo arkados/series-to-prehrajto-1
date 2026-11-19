@@ -914914,6 +914914,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 113687,
+      "series_id": 2874,
+      "series_title": "The Tick",
+      "season": 1,
+      "episode": 1,
+      "display_name": "The Tick S01E01 - 1. epizoda CZ Titulky",
+      "intent_id": "da91755960054fc39ca811a7a758df5c",
+      "started_at": "2026-11-19T06:29:28Z",
+      "upload_account": "serialy",
+      "source_id": -66073525491264888,
+      "source_url": "https://prehraj.to/the-tick-s1e1-the-tick-en/c481024224964146",
+      "size_bytes": 386464610,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1332938,5 +1332954,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T05:56:02Z"
+  "last_updated": "2026-11-19T06:29:28Z"
 }
