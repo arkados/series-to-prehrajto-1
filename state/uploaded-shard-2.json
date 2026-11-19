@@ -916738,6 +916738,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 113278,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 12,
+      "display_name": "Sindibádova dobrodružství S01E12 - Mizející vesnice CZ Dabing",
+      "intent_id": "ce38365a7dd449908321eb20045e9de8",
+      "started_at": "2026-11-19T19:32:18Z",
+      "upload_account": "serialy",
+      "source_id": -14155563149645552,
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x12/5c2b2d0511b9f",
+      "size_bytes": 420821130,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1334762,5 +1334778,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:17:32Z"
+  "last_updated": "2026-11-19T19:32:18Z"
 }
