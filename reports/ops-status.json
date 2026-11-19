@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108527,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83139,
-    "prepared_source_episodes": 67958,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83141,
+    "prepared_source_episodes": 67954,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
@@ -14,17 +14,65 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53452,
     "whisper_review_pending_sources": 36114,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52397,
     "subtitle_followup_pending_sources": 52397
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T12:41:49Z",
+      "databaseId": 44526280963,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T12:41:43Z",
+      "databaseId": 44526264070,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T12:41:32Z",
+      "databaseId": 44526237078,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T12:39:55Z",
+      "databaseId": 44525979719,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-19T12:39:51Z",
+      "databaseId": 44525969581,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T12:39:46Z",
+      "databaseId": 44525957694,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:38:08Z",
       "databaseId": 44525707877,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +100,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T12:34:22Z",
       "databaseId": 44525123925,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -76,11 +124,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-19T12:32:25Z",
       "databaseId": 44524823487,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:22:32Z",
-      "databaseId": 44523292037,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:21:51Z",
-      "databaseId": 44523184009,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:21:08Z",
-      "databaseId": 44523072436,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:20:17Z",
-      "databaseId": 44522939570,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T12:20:01Z",
-      "databaseId": 44522894854,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T12:19:53Z",
-      "databaseId": 44522874240,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -204225,6 +204225,16 @@
         "episode_id": 127584,
         "display_name": "Ghost in the Shell: Stand Alone Complex S02E15 - 15. epizoda CZ Titulky",
         "video_id": 31182983
+      },
+      {
+        "episode_id": 100617,
+        "display_name": "Fresh Meat S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31183021
+      },
+      {
+        "episode_id": 113688,
+        "display_name": "The Tick S01E02 - 2. epizoda CZ Titulky",
+        "video_id": 31183065
       },
       {
         "episode_id": 114182,
@@ -594037,6 +594047,16 @@
         "episode_id": 127584,
         "display_name": "Ghost in the Shell: Stand Alone Complex S02E15 - 15. epizoda CZ Titulky",
         "video_id": 31182983
+      },
+      {
+        "episode_id": 100617,
+        "display_name": "Fresh Meat S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31183021
+      },
+      {
+        "episode_id": 113688,
+        "display_name": "The Tick S01E02 - 2. epizoda CZ Titulky",
+        "video_id": 31183065
       },
       {
         "episode_id": 114182,
