@@ -915762,6 +915762,32 @@
         "download_sec": 12.7,
         "upload_sec": 26.5
       }
+    },
+    {
+      "episode_id": 187619,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 3,
+      "episode_code": "S09E03",
+      "display_name": "Požárník Sam S09E03 - Divoká sýrová honička CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -15235046997138889,
+      "external_id": "5c746aa08ee02",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e03-cz-dabing-pro-deti/5c746aa08ee02",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31190474,
+      "size_bytes": 350085313,
+      "uploaded_at": "2026-11-19T20:49:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 498.1,
+        "upload_sec": 49.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1334892,5 +1334918,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T20:41:11Z"
+  "last_updated": "2026-11-19T20:51:10Z"
 }
