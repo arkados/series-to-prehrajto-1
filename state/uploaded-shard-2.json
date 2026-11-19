@@ -916022,6 +916022,32 @@
         "download_sec": 108.3,
         "upload_sec": 32.2
       }
+    },
+    {
+      "episode_id": 2402,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 9,
+      "episode_code": "S03E09",
+      "display_name": "Star proti silám zla S03E09 - 9. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -51529230659298399,
+      "external_id": "c075c3b408ef1ddf",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e9-rest-in-pudding-cs/c075c3b408ef1ddf",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191628,
+      "size_bytes": 338415529,
+      "uploaded_at": "2026-11-19T22:37:38Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.6,
+        "upload_sec": 41.9
+      }
     }
   ],
   "pending_uploads": [
@@ -917142,22 +917168,6 @@
       "source_id": -44054108105224368,
       "source_url": "https://prehraj.to/pripady-detektiva-murdocha-s01e04-jak-proste-mily-murdochu-sd-cz-dabing-mp4/161ce04e521b4917",
       "size_bytes": 910592751,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2402,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 3,
-      "episode": 9,
-      "display_name": "Star proti silám zla S03E09 - 9. epizoda CZ Dabing",
-      "intent_id": "0d865af6928d4410a7ff493445535f51",
-      "started_at": "2026-11-19T22:36:06Z",
-      "upload_account": "serialy",
-      "source_id": -51529230659298399,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e9-rest-in-pudding-cs/c075c3b408ef1ddf",
-      "size_bytes": 338415529,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1335184,5 +1335194,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:36:06Z"
+  "last_updated": "2026-11-19T22:37:38Z"
 }
