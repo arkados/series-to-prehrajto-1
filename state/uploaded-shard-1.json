@@ -915855,6 +915855,32 @@
         "download_sec": 16.2,
         "upload_sec": 47.6
       }
+    },
+    {
+      "episode_id": 2441,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Star proti silám zla S01E04 - 4. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -58079861119270497,
+      "external_id": "5a8dd4fd299c5",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s01e04-school-spirit/5a8dd4fd299c5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31168870,
+      "size_bytes": 316776441,
+      "uploaded_at": "2026-11-19T03:48:35Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.1,
+        "upload_sec": 74.8
+      }
     }
   ],
   "pending_uploads": [
@@ -916979,19 +917005,19 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 2441,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 1,
+      "episode_id": 70892,
+      "series_id": 1654,
+      "series_title": "Vzpomínky",
+      "season": 2,
       "episode": 4,
-      "display_name": "Star proti silám zla S01E04 - 4. epizoda CZ Dabing",
-      "intent_id": "59b1c16354764212ac2634a09d7d3336",
-      "started_at": "2026-11-19T03:46:25Z",
+      "display_name": "Vzpomínky S02E04 - Králové paměti CZ Dabing",
+      "intent_id": "bdc1b56736b74527a7929231e9e48180",
+      "started_at": "2026-11-19T03:46:32Z",
       "upload_account": "primary",
-      "source_id": -58079861119270497,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s01e04-school-spirit/5a8dd4fd299c5",
-      "size_bytes": 316776441,
-      "source_container": "mp4",
+      "source_id": -36884921185378758,
+      "source_url": "https://prehraj.to/vzpominky-s02e04/6735bc6352c18",
+      "size_bytes": 364110452,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1335017,5 +1335043,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T03:46:25Z"
+  "last_updated": "2026-11-19T03:48:35Z"
 }
