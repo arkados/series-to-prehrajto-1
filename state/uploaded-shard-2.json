@@ -915112,6 +915112,32 @@
         "download_sec": 77.1,
         "upload_sec": 34.9
       }
+    },
+    {
+      "episode_id": 113275,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Sindibádova dobrodružství S01E05 - Rytíř CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -4027780552586423,
+      "external_id": "6186340ceac38",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e05/6186340ceac38",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31185589,
+      "size_bytes": 360633385,
+      "uploaded_at": "2026-11-19T15:10:49Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 45.4,
+        "upload_sec": 46.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1334242,5 +1334268,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:08:42Z"
+  "last_updated": "2026-11-19T15:11:11Z"
 }
