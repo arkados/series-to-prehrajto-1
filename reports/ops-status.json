@@ -1,30 +1,46 @@
 {
   "counts": {
     "backlog_episodes": 108391,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83261,
-    "prepared_source_episodes": 67918,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 83262,
+    "prepared_source_episodes": 67915,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 53,
-    "language_whisper_attempted_sources": 51,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53434,
-    "whisper_review_pending_sources": 36104,
-    "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52454,
-    "subtitle_followup_pending_sources": 52454
+    "whisper_review_pending_sources": 36102,
+    "upload_pending_checkpoints": 140,
+    "subtitle_followup_sources": 52455,
+    "subtitle_followup_pending_sources": 52455
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T23:42:23Z",
+      "databaseId": 44639885155,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T23:41:08Z",
+      "databaseId": 44639719583,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T23:39:46Z",
       "databaseId": 44639529581,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "update-descriptions"
     },
     {
@@ -36,11 +52,11 @@
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T23:38:05Z",
       "databaseId": 44639305860,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,19 +76,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T23:37:10Z",
       "databaseId": 44639181171,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T23:37:07Z",
       "databaseId": 44639175668,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -159,22 +175,6 @@
       "conclusion": "cancelled",
       "createdAt": "2026-11-19T23:22:35Z",
       "databaseId": 44637121593,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T23:21:36Z",
-      "databaseId": 44636975453,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T23:20:40Z",
-      "databaseId": 44636838383,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
@@ -390705,6 +390705,11 @@
         "episode_id": 100506,
         "display_name": "Tintinova dobrodružství S02E06 - Tintin v Tibetu - 1. část CZ Dabing",
         "video_id": 31192584
+      },
+      {
+        "episode_id": 46334,
+        "display_name": "Melissa a Joey S01E12 - 12. epizoda CZ Dabing",
+        "video_id": 31192652
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -781127,6 +781132,11 @@
         "episode_id": 100506,
         "display_name": "Tintinova dobrodružství S02E06 - Tintin v Tibetu - 1. část CZ Dabing",
         "video_id": 31192584
+      },
+      {
+        "episode_id": 46334,
+        "display_name": "Melissa a Joey S01E12 - 12. epizoda CZ Dabing",
+        "video_id": 31192652
       }
     ],
     "prepared_not_upload_ready": [
@@ -782288,17 +782298,16 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 50,
-    "disabled": 2,
-    "resolve_failed": 1
+    "ok": 9,
+    "resolve_failed": 31
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34877,
-    "whisper_confirmed_cz": 4121,
-    "whisper_non_cz_needs_subtitles": 13209,
+    "needs_whisper": 34875,
+    "whisper_confirmed_cz": 4122,
+    "whisper_non_cz_needs_subtitles": 13210,
     "whisper_failed": 1227
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52454
+    "needs_subtitle_setup_after_prehrajto_processing": 52455
   }
 }
