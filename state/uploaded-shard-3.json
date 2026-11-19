@@ -915242,6 +915242,32 @@
         "download_sec": 15.9,
         "upload_sec": 37.9
       }
+    },
+    {
+      "episode_id": 127590,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 21,
+      "episode_code": "S02E21",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E21 - 21. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -6729303871014877,
+      "external_id": "a788f8529726f3a5",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e21-in-escape-in-defeat-embarrassment-ja/a788f8529726f3a5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31186554,
+      "size_bytes": 416138616,
+      "uploaded_at": "2026-11-19T15:52:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 82.4,
+        "upload_sec": 83.9
+      }
     }
   ],
   "pending_uploads": [
@@ -916350,19 +916376,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 127590,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 2,
-      "episode": 21,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S02E21 - 21. epizoda CZ Titulky",
-      "intent_id": "7b410a525b814df99ef532e83609eb04",
-      "started_at": "2026-11-19T15:50:07Z",
+      "episode_id": 161534,
+      "series_id": 6151,
+      "series_title": "Perfect Harmony",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Perfect Harmony S01E02 - 2. epizoda CZ Titulky",
+      "intent_id": "3e27592de296483798d3d921ab44a1ea",
+      "started_at": "2026-11-19T15:57:34Z",
       "upload_account": "serialy",
-      "source_id": -6729303871014877,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e21-in-escape-in-defeat-embarrassment-ja/a788f8529726f3a5",
-      "size_bytes": 416138616,
-      "source_container": "mp4",
+      "source_id": -38419225158058515,
+      "source_url": "https://prehraj.to/perfect-harmony-s01e02-eng/5e25b908e6887",
+      "size_bytes": 318139648,
+      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1334388,5 +1334414,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:50:38Z"
+  "last_updated": "2026-11-19T15:57:34Z"
 }
