@@ -916178,6 +916178,32 @@
         "download_sec": 22.0,
         "upload_sec": 34.6
       }
+    },
+    {
+      "episode_id": 2394,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 17,
+      "episode_code": "S03E17",
+      "display_name": "Star proti silám zla S03E17 - 17. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -12140394000169526,
+      "external_id": "04c5dc0167764ce8",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e17-starfari-cs/04c5dc0167764ce8",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192216,
+      "size_bytes": 338733751,
+      "uploaded_at": "2026-11-19T23:13:34Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.2,
+        "upload_sec": 33.7
+      }
     }
   ],
   "pending_uploads": [
@@ -917282,6 +917308,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46331,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 9,
+      "display_name": "Melissa a Joey S01E09 - 9. epizoda CZ Dabing",
+      "intent_id": "45e6b7a93b194658a43dcf3598c670b2",
+      "started_at": "2026-11-19T23:16:46Z",
+      "upload_account": "serialy",
+      "source_id": -41256296375204418,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e09-9-epizoda-720p-cz-dabing-mkv/4dabdcfde4833b08",
+      "size_bytes": 345440890,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1335308,5 +1335350,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:09:13Z"
+  "last_updated": "2026-11-19T23:16:46Z"
 }
