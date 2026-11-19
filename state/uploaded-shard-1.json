@@ -917909,6 +917909,32 @@
         "download_sec": 16.7,
         "upload_sec": 32.3
       }
+    },
+    {
+      "episode_id": 203593,
+      "series_id": 10454,
+      "series_title": "Jak Stuart nezachránil vesmír",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Jak Stuart nezachránil vesmír S01E10 - 10. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -5326288455734011,
+      "external_id": "d64044fc83e7d2ec",
+      "source_url": "https://prehraj.to/jak-stuart-nezachranil-vesmir-s01e10-spoiler-nataceno-pred-zivym-publikem-4k-cz-dabing-mkv/d64044fc83e7d2ec",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189194,
+      "size_bytes": 389741570,
+      "uploaded_at": "2026-11-19T18:58:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.6,
+        "upload_sec": 32.6
+      }
     }
   ],
   "pending_uploads": [
@@ -919031,22 +919057,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 203593,
-      "series_id": 10454,
-      "series_title": "Jak Stuart nezachránil vesmír",
-      "season": 1,
-      "episode": 10,
-      "display_name": "Jak Stuart nezachránil vesmír S01E10 - 10. epizoda CZ Dabing",
-      "intent_id": "94e521f864824dc7bb011c3d502244e7",
-      "started_at": "2026-11-19T18:57:03Z",
-      "upload_account": "primary",
-      "source_id": -5326288455734011,
-      "source_url": "https://prehraj.to/jak-stuart-nezachranil-vesmir-s01e10-spoiler-nataceno-pred-zivym-publikem-4k-cz-dabing-mkv/d64044fc83e7d2ec",
-      "size_bytes": 389741570,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337071,5 +1337081,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T18:57:03Z"
+  "last_updated": "2026-11-19T18:58:13Z"
 }
