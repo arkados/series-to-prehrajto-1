@@ -916282,6 +916282,32 @@
         "download_sec": 15.3,
         "upload_sec": 30.6
       }
+    },
+    {
+      "episode_id": 46334,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Melissa a Joey S01E12 - 12. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -16394607414114710,
+      "external_id": "7f3bd0451f6946a3",
+      "source_url": "https://prehraj.to/melissa-a-joey-s1e12-joe-knows-cs/7f3bd0451f6946a3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192652,
+      "size_bytes": 329368044,
+      "uploaded_at": "2026-11-19T23:42:08Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.5,
+        "upload_sec": 31.4
+      }
     }
   ],
   "pending_uploads": [
@@ -917404,22 +917430,6 @@
       "size_bytes": 396659397,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46334,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 12,
-      "display_name": "Melissa a Joey S01E12 - 12. epizoda CZ Dabing",
-      "intent_id": "9f749b7a97fa4267861eb4cb4e84c657",
-      "started_at": "2026-11-19T23:40:39Z",
-      "upload_account": "serialy",
-      "source_id": -16394607414114710,
-      "source_url": "https://prehraj.to/melissa-a-joey-s1e12-joe-knows-cs/7f3bd0451f6946a3",
-      "size_bytes": 329368044,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335444,5 +1335454,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:40:39Z"
+  "last_updated": "2026-11-19T23:42:08Z"
 }
