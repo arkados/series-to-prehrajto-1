@@ -914748,6 +914748,32 @@
         "download_sec": 16.9,
         "upload_sec": 50.7
       }
+    },
+    {
+      "episode_id": 113691,
+      "series_id": 2874,
+      "series_title": "The Tick",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "The Tick S01E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -23677317679221406,
+      "external_id": "5a9c0d9b64320",
+      "source_url": "https://prehraj.to/the-tick-s01e05-fear-of-flying/5a9c0d9b64320",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183610,
+      "size_bytes": 315555016,
+      "uploaded_at": "2026-11-19T13:10:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.1,
+        "upload_sec": 28.0
+      }
     }
   ],
   "pending_uploads": [
@@ -915854,22 +915880,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 113691,
-      "series_id": 2874,
-      "series_title": "The Tick",
-      "season": 1,
-      "episode": 5,
-      "display_name": "The Tick S01E05 - 5. epizoda CZ Titulky",
-      "intent_id": "f72951c1500c40bfbf1dd14c2a103413",
-      "started_at": "2026-11-19T13:08:50Z",
-      "upload_account": "serialy",
-      "source_id": -23677317679221406,
-      "source_url": "https://prehraj.to/the-tick-s01e05-fear-of-flying/5a9c0d9b64320",
-      "size_bytes": 315555016,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333894,5 +1333904,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:08:50Z"
+  "last_updated": "2026-11-19T13:10:08Z"
 }
