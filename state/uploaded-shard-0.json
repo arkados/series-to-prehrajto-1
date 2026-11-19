@@ -918979,6 +918979,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 110416,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Darling in the Franxx S01E10 - 10. epizoda CZ Titulky",
+      "intent_id": "fabc7dca17424b208a3bb9e1f0200339",
+      "started_at": "2026-11-19T18:51:17Z",
+      "upload_account": "primary",
+      "source_id": -13138745382541283,
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e10/6147a2bb9f6ad",
+      "size_bytes": 342289707,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337003,5 +1337019,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T18:26:08Z"
+  "last_updated": "2026-11-19T18:51:17Z"
 }
