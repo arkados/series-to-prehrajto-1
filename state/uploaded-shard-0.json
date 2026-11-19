@@ -916947,6 +916947,32 @@
         "download_sec": 19.7,
         "upload_sec": 35.5
       }
+    },
+    {
+      "episode_id": 200004,
+      "series_id": 9979,
+      "series_title": "Molly a duch",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Molly a duch S01E12 - 12. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -4119510577853510,
+      "external_id": "ba1f9b7f0796e4b5",
+      "source_url": "https://prehraj.to/molly-a-duch-s1e12-cs/ba1f9b7f0796e4b5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31182749,
+      "size_bytes": 335067433,
+      "uploaded_at": "2026-11-19T12:25:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.7,
+        "upload_sec": 36.9
+      }
     }
   ],
   "pending_uploads": [
@@ -918067,22 +918093,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 200004,
-      "series_id": 9979,
-      "series_title": "Molly a duch",
-      "season": 1,
-      "episode": 12,
-      "display_name": "Molly a duch S01E12 - 12. epizoda CZ Dabing",
-      "intent_id": "2164132c0d6a4b4280d242188c2c8807",
-      "started_at": "2026-11-19T12:23:41Z",
-      "upload_account": "primary",
-      "source_id": -4119510577853510,
-      "source_url": "https://prehraj.to/molly-a-duch-s1e12-cs/ba1f9b7f0796e4b5",
-      "size_bytes": 335067433,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1336109,5 +1336119,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:23:41Z"
+  "last_updated": "2026-11-19T12:25:13Z"
 }
