@@ -915334,6 +915334,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2430,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 4,
+      "display_name": "Star proti silám zla S02E04 - 4. epizoda CZ Dabing",
+      "intent_id": "52202c94dcb74d199e980c493dad75af",
+      "started_at": "2026-11-19T10:19:28Z",
+      "upload_account": "serialy",
+      "source_id": -18878817986015617,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e4-red-belt-cs/7db97023b47c0b6c",
+      "size_bytes": 324077530,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333358,5 +1333374,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:08:04Z"
+  "last_updated": "2026-11-19T10:19:28Z"
 }
