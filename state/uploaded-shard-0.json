@@ -919499,6 +919499,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2396,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 15,
+      "display_name": "Star proti silám zla S03E15 - 15. epizoda CZ Dabing",
+      "intent_id": "6906ccd763854d56a3a62c6a4a9e81ec",
+      "started_at": "2026-11-19T22:57:15Z",
+      "upload_account": "primary",
+      "source_id": -3825450530410003,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e15-trial-by-squire-cs/bae65a59ae02efcd",
+      "size_bytes": 338192473,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337523,5 +1337539,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:53:11Z"
+  "last_updated": "2026-11-19T22:57:17Z"
 }
