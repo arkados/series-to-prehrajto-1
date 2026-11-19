@@ -914644,6 +914644,32 @@
         "download_sec": 13.1,
         "upload_sec": 35.4
       }
+    },
+    {
+      "episode_id": 2423,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 11,
+      "episode_code": "S02E11",
+      "display_name": "Star proti silám zla S02E11 - 11. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58839258532065518,
+      "external_id": "f7d674976f6d6314",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e11-starsitting-cs/f7d674976f6d6314",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183383,
+      "size_bytes": 331789219,
+      "uploaded_at": "2026-11-19T12:56:28Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.8,
+        "upload_sec": 38.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915750,22 +915776,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2423,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 2,
-      "episode": 11,
-      "display_name": "Star proti silám zla S02E11 - 11. epizoda CZ Dabing",
-      "intent_id": "0ec166c4f41544a4ba1ce1530579aadf",
-      "started_at": "2026-11-19T12:54:23Z",
-      "upload_account": "serialy",
-      "source_id": -58839258532065518,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e11-starsitting-cs/f7d674976f6d6314",
-      "size_bytes": 331789219,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333790,5 +1333800,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:54:23Z"
+  "last_updated": "2026-11-19T12:56:28Z"
 }
