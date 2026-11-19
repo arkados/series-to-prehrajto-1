@@ -919655,6 +919655,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2388,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 1,
+      "display_name": "Star proti silám zla S04E01 - 1. epizoda CZ Titulky",
+      "intent_id": "a4bb548729234bdca05c85f0983c1078",
+      "started_at": "2026-11-19T23:48:13Z",
+      "upload_account": "primary",
+      "source_id": -42397471582087800,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e1-butterfly-follies-cs/34115792945cb6cc",
+      "size_bytes": 343934914,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337679,5 +1337695,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:38:19Z"
+  "last_updated": "2026-11-19T23:48:13Z"
 }
