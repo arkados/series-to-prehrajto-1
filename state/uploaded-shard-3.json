@@ -915984,6 +915984,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 110427,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 20,
+      "display_name": "Darling in the Franxx S01E20 - 20. epizoda CZ Titulky",
+      "intent_id": "3309196ecf8c4e57ba43f5c586167827",
+      "started_at": "2026-11-19T13:30:45Z",
+      "upload_account": "serialy",
+      "source_id": -32923209705425801,
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e20/6147a82b5818f",
+      "size_bytes": 343081992,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334008,5 +1334024,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:29:47Z"
+  "last_updated": "2026-11-19T13:30:45Z"
 }
