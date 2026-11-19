@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108453,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83205,
-    "prepared_source_episodes": 67960,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83207,
+    "prepared_source_episodes": 67962,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
@@ -21,10 +21,74 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T18:25:14Z",
+      "databaseId": 44587595895,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-19T18:21:40Z",
+      "databaseId": 44586962122,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T18:19:01Z",
+      "databaseId": 44586494930,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T18:14:34Z",
+      "databaseId": 44585703854,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T18:14:27Z",
+      "databaseId": 44585679933,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T18:13:56Z",
+      "databaseId": 44585586370,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T18:13:52Z",
+      "databaseId": 44585576428,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T18:13:46Z",
+      "databaseId": 44585555643,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T18:12:25Z",
       "databaseId": 44585314578,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +108,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T18:11:32Z",
       "databaseId": 44585158108,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -76,11 +140,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-19T18:09:13Z",
       "databaseId": 44584743392,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -100,11 +164,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T18:04:14Z",
       "databaseId": 44583862303,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -114,70 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:56:36Z",
-      "databaseId": 44582527555,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:56:18Z",
-      "databaseId": 44582478398,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T17:56:15Z",
-      "databaseId": 44582469505,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:56:11Z",
-      "databaseId": 44582457264,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:56:06Z",
-      "databaseId": 44582443883,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T17:54:40Z",
-      "databaseId": 44582190440,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:54:38Z",
-      "databaseId": 44582185563,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T17:53:50Z",
-      "databaseId": 44582046600,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -204382,6 +204382,11 @@
         "video_id": 31188504
       },
       {
+        "episode_id": 92424,
+        "display_name": "The Secret Life of the American Teenager S05E15 - 15. epizoda CZ Titulky",
+        "video_id": 31188708
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -390425,6 +390430,11 @@
         "episode_id": 96087,
         "display_name": "Zoey's Extraordinary Playlist S01E04 - 4. epizoda CZ Titulky",
         "video_id": 31188663
+      },
+      {
+        "episode_id": 2418,
+        "display_name": "Star proti silám zla S02E17 - 17. epizoda CZ Dabing",
+        "video_id": 31188842
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -594524,6 +594534,11 @@
         "video_id": 31188504
       },
       {
+        "episode_id": 92424,
+        "display_name": "The Secret Life of the American Teenager S05E15 - 15. epizoda CZ Titulky",
+        "video_id": 31188708
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -780567,6 +780582,11 @@
         "episode_id": 96087,
         "display_name": "Zoey's Extraordinary Playlist S01E04 - 4. epizoda CZ Titulky",
         "video_id": 31188663
+      },
+      {
+        "episode_id": 2418,
+        "display_name": "Star proti silám zla S02E17 - 17. epizoda CZ Dabing",
+        "video_id": 31188842
       }
     ],
     "prepared_not_upload_ready": [
