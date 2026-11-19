@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108431,
-    "manifest_upload_ready_episodes": 6,
-    "uploaded_episodes": 83233,
-    "prepared_source_episodes": 67939,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 83235,
+    "prepared_source_episodes": 67940,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
@@ -14,17 +14,49 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53439,
     "whisper_review_pending_sources": 36114,
-    "upload_pending_checkpoints": 139,
+    "upload_pending_checkpoints": 140,
     "subtitle_followup_sources": 52454,
     "subtitle_followup_pending_sources": 52454
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T22:06:19Z",
+      "databaseId": 44625357260,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T22:06:12Z",
+      "databaseId": 44625337514,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T22:02:21Z",
+      "databaseId": 44624697427,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T22:02:18Z",
+      "databaseId": 44624691006,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T22:00:40Z",
       "databaseId": 44624417691,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +76,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T21:53:57Z",
       "databaseId": 44623342224,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -76,11 +108,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T21:52:21Z",
       "databaseId": 44623080931,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T21:35:39Z",
-      "databaseId": 44620325869,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T21:35:09Z",
-      "databaseId": 44620236017,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T21:35:04Z",
-      "databaseId": 44620222679,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T21:33:31Z",
-      "databaseId": 44619960972,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -204447,6 +204447,11 @@
         "video_id": 31191054
       },
       {
+        "episode_id": 2405,
+        "display_name": "Star proti silám zla S03E06 - 6. epizoda CZ Dabing",
+        "video_id": 31191191
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -390565,6 +390570,11 @@
         "episode_id": 128799,
         "display_name": "Lovci trolů od Guillerma Del Toro S03E02 - Nejhledanější v Arkádii CZ Titulky",
         "video_id": 31191108
+      },
+      {
+        "episode_id": 167623,
+        "display_name": "Ranč Heartland S16E15 - 15. epizoda CZ Titulky",
+        "video_id": 31191198
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -594729,6 +594739,11 @@
         "video_id": 31191054
       },
       {
+        "episode_id": 2405,
+        "display_name": "Star proti silám zla S03E06 - 6. epizoda CZ Dabing",
+        "video_id": 31191191
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -780847,6 +780862,11 @@
         "episode_id": 128799,
         "display_name": "Lovci trolů od Guillerma Del Toro S03E02 - Nejhledanější v Arkádii CZ Titulky",
         "video_id": 31191108
+      },
+      {
+        "episode_id": 167623,
+        "display_name": "Ranč Heartland S16E15 - 15. epizoda CZ Titulky",
+        "video_id": 31191198
       }
     ],
     "prepared_not_upload_ready": [
