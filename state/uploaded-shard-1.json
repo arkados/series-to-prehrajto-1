@@ -917935,6 +917935,32 @@
         "download_sec": 17.6,
         "upload_sec": 32.6
       }
+    },
+    {
+      "episode_id": 154640,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 3,
+      "episode": 2,
+      "episode_code": "S03E02",
+      "display_name": "Monkey Dust S03E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -3240093446862015,
+      "external_id": "5a34572f68b17",
+      "source_url": "https://prehraj.to/monkey-dust-s03e02/5a34572f68b17",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189629,
+      "size_bytes": 336906463,
+      "uploaded_at": "2026-11-19T19:38:32Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.0,
+        "upload_sec": 56.5
+      }
     }
   ],
   "pending_uploads": [
@@ -919057,6 +919083,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 128797,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 2,
+      "episode": 13,
+      "display_name": "Lovci trolů od Guillerma Del Toro S02E13 - V trůním sále CZ Titulky",
+      "intent_id": "28263049278c43eda439ef5ce7a24afa",
+      "started_at": "2026-11-19T20:02:06Z",
+      "upload_account": "primary",
+      "source_id": -41666685074733570,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s2e13-in-the-hall-of-the-gumm-gumm-king-en/d079d883eb3ca556",
+      "size_bytes": 377201398,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337081,5 +1337123,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:33:43Z"
+  "last_updated": "2026-11-19T20:02:06Z"
 }
