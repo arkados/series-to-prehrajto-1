@@ -914982,6 +914982,84 @@
         "download_sec": 22.5,
         "upload_sec": 45.4
       }
+    },
+    {
+      "episode_id": 187602,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 17,
+      "episode_code": "S07E17",
+      "display_name": "Požárník Sam S07E17 - Plovoucí minikára CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -69757187557536136,
+      "external_id": "5c7447eb4965b",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e17-cz-dabing-pro-deti/5c7447eb4965b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31185289,
+      "size_bytes": 344182674,
+      "uploaded_at": "2026-11-19T14:53:13Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.1,
+        "upload_sec": 74.1
+      }
+    },
+    {
+      "episode_id": 200006,
+      "series_id": 9979,
+      "series_title": "Molly a duch",
+      "season": 1,
+      "episode": 15,
+      "episode_code": "S01E15",
+      "display_name": "Molly a duch S01E15 - 15. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -19234897288393689,
+      "external_id": "555757ee8048be19",
+      "source_url": "https://prehraj.to/molly-a-duch-s1e15-cs/555757ee8048be19",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31185339,
+      "size_bytes": 335636368,
+      "uploaded_at": "2026-11-19T14:56:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.0,
+        "upload_sec": 60.0
+      }
+    },
+    {
+      "episode_id": 154634,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 2,
+      "episode": 1,
+      "episode_code": "S02E01",
+      "display_name": "Monkey Dust S02E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -7483969739361921,
+      "external_id": "5a33e0b90c2d3",
+      "source_url": "https://prehraj.to/monkey-dust-s02e01-ws-divx-pres-multiload-cz/5a33e0b90c2d3",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31185379,
+      "size_bytes": 315906826,
+      "uploaded_at": "2026-11-19T14:58:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.9,
+        "upload_sec": 32.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1334112,5 +1334190,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T14:35:19Z"
+  "last_updated": "2026-11-19T14:58:05Z"
 }
