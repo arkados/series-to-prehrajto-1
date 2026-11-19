@@ -914436,6 +914436,58 @@
         "download_sec": 20.8,
         "upload_sec": 60.5
       }
+    },
+    {
+      "episode_id": 110430,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 17,
+      "episode_code": "S01E17",
+      "display_name": "Darling in the Franxx S01E17 - 17. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -25759157775603190,
+      "external_id": "6147a68a9874f",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e17/6147a68a9874f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31181889,
+      "size_bytes": 342123220,
+      "uploaded_at": "2026-11-19T11:39:44Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.0,
+        "upload_sec": 30.7
+      }
+    },
+    {
+      "episode_id": 92386,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 3,
+      "episode": 25,
+      "episode_code": "S03E25",
+      "display_name": "The Secret Life of the American Teenager S03E25 - 25. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -3706792157698799,
+      "external_id": "57d8b9afdc5e0",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s03e25-cztit/57d8b9afdc5e0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31181919,
+      "size_bytes": 366313472,
+      "uploaded_at": "2026-11-19T11:41:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.1,
+        "upload_sec": 40.3
+      }
     }
   ],
   "pending_uploads": [
@@ -915542,6 +915594,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 110431,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 18,
+      "display_name": "Darling in the Franxx S01E18 - 18. epizoda CZ Titulky",
+      "intent_id": "a92c5ff5c3ef4854b2c6c18e742405b6",
+      "started_at": "2026-11-19T11:54:50Z",
+      "upload_account": "serialy",
+      "source_id": -46025043849306988,
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e18/6147a71504fd2",
+      "size_bytes": 343091618,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333566,5 +1333634,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T11:25:52Z"
+  "last_updated": "2026-11-19T11:54:50Z"
 }
