@@ -913626,6 +913626,32 @@
         "download_sec": 56.5,
         "upload_sec": 127.0
       }
+    },
+    {
+      "episode_id": 127571,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -30306321084297117,
+      "external_id": "6bad3d09a3bc9fa8",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e2-di-well-fed-me-night-cruise-ja/6bad3d09a3bc9fa8",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31168390,
+      "size_bytes": 397301778,
+      "uploaded_at": "2026-11-19T03:30:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.0,
+        "upload_sec": 45.5
+      }
     }
   ],
   "pending_uploads": [
@@ -914732,22 +914758,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 127571,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S02E02 - 2. epizoda CZ Titulky",
-      "intent_id": "95cf929f0aa44f43b8eb47bbb56cf806",
-      "started_at": "2026-11-19T03:28:52Z",
-      "upload_account": "serialy",
-      "source_id": -30306321084297117,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e2-di-well-fed-me-night-cruise-ja/6bad3d09a3bc9fa8",
-      "size_bytes": 397301778,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332772,5 +1332782,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T03:28:52Z"
+  "last_updated": "2026-11-19T03:30:10Z"
 }
