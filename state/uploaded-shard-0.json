@@ -917679,6 +917679,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 110420,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 13,
+      "display_name": "Darling in the Franxx S01E13 - 13. epizoda CZ Titulky",
+      "intent_id": "e553aa6977be45db9265c9a60371560c",
+      "started_at": "2026-11-19T10:44:37Z",
+      "upload_account": "primary",
+      "source_id": -28376801766410483,
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e13/6147a45de30a6",
+      "size_bytes": 342826520,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335703,5 +1335719,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:43:35Z"
+  "last_updated": "2026-11-19T10:44:37Z"
 }
