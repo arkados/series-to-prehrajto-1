@@ -915320,6 +915320,32 @@
         "download_sec": 16.1,
         "upload_sec": 117.6
       }
+    },
+    {
+      "episode_id": 167599,
+      "series_id": 6852,
+      "series_title": "Noblesse",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Noblesse S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -31957059954769697,
+      "external_id": "5fd21a1e1b866",
+      "source_url": "https://prehraj.to/noblesse-s01e03/5fd21a1e1b866",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31187039,
+      "size_bytes": 318094073,
+      "uploaded_at": "2026-11-19T16:19:27Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 17.1,
+        "upload_sec": 139.4
+      }
     }
   ],
   "pending_uploads": [
@@ -916424,22 +916450,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 167599,
-      "series_id": 6852,
-      "series_title": "Noblesse",
-      "season": 1,
-      "episode": 3,
-      "display_name": "Noblesse S01E03 - 3. epizoda CZ Titulky",
-      "intent_id": "5ddf2e83d69b4713ab163f3fe958d87b",
-      "started_at": "2026-11-19T16:16:07Z",
-      "upload_account": "serialy",
-      "source_id": -31957059954769697,
-      "source_url": "https://prehraj.to/noblesse-s01e03/5fd21a1e1b866",
-      "size_bytes": 318094073,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1334466,5 +1334476,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T16:16:07Z"
+  "last_updated": "2026-11-19T16:19:27Z"
 }
