@@ -913626,6 +913626,58 @@
         "download_sec": 56.5,
         "upload_sec": 127.0
       }
+    },
+    {
+      "episode_id": 127571,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -30306321084297117,
+      "external_id": "6bad3d09a3bc9fa8",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e2-di-well-fed-me-night-cruise-ja/6bad3d09a3bc9fa8",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31168390,
+      "size_bytes": 397301778,
+      "uploaded_at": "2026-11-19T03:30:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.0,
+        "upload_sec": 45.5
+      }
+    },
+    {
+      "episode_id": 170515,
+      "series_id": 7223,
+      "series_title": "American Playboy: The Hugh Hefner Story",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "American Playboy: The Hugh Hefner Story S01E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -46604864932472440,
+      "external_id": "6821f29304a88",
+      "source_url": "https://prehraj.to/american-playboy-the-hugh-hefner-story-s01e07/6821f29304a88",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31168433,
+      "size_bytes": 360169482,
+      "uploaded_at": "2026-11-19T03:34:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.0,
+        "upload_sec": 150.7
+      }
     }
   ],
   "pending_uploads": [
@@ -914730,6 +914782,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 7494,
+      "series_id": 254,
+      "series_title": "Stargirl",
+      "season": 2,
+      "episode": 1,
+      "display_name": "Stargirl S02E01 - Kapitola první CZ Dabing",
+      "intent_id": "ea9ab73cf83b4b96891d35c2b41b1a8e",
+      "started_at": "2026-11-19T03:37:36Z",
+      "upload_account": "serialy",
+      "source_id": -63464731139447520,
+      "source_url": "https://prehraj.to/stargirl-s02e01-kapitola-prvni-1080p-cz-dabing-mkv/cb4b3fd58f8cc1f9",
+      "size_bytes": 654598552,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1332756,5 +1332824,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T03:20:32Z"
+  "last_updated": "2026-11-19T03:37:36Z"
 }
