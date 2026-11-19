@@ -916920,6 +916920,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109763,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 8,
+      "episode": 13,
+      "display_name": "Dynastie S08E13 - 13. epizoda CZ Titulky",
+      "intent_id": "c0225026a6a241618ba85656be4b37d4",
+      "started_at": "2026-11-19T21:16:26Z",
+      "upload_account": "serialy",
+      "source_id": -49058941005003285,
+      "source_url": "https://prehraj.to/dynasty-s08e13/59539a1992188",
+      "size_bytes": 365088768,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334944,5 +1334960,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:15:31Z"
+  "last_updated": "2026-11-19T21:16:26Z"
 }
