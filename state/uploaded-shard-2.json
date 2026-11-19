@@ -914618,6 +914618,32 @@
         "download_sec": 16.8,
         "upload_sec": 50.5
       }
+    },
+    {
+      "episode_id": 110419,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 16,
+      "episode_code": "S01E16",
+      "display_name": "Darling in the Franxx S01E16 - 16. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -34161988926276140,
+      "external_id": "6147a5ffca800",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e16/6147a5ffca800",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183131,
+      "size_bytes": 343072755,
+      "uploaded_at": "2026-11-19T12:44:10Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 13.1,
+        "upload_sec": 35.4
+      }
     }
   ],
   "pending_uploads": [
@@ -915724,22 +915750,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 110419,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 16,
-      "display_name": "Darling in the Franxx S01E16 - 16. epizoda CZ Titulky",
-      "intent_id": "9c19889d8175463f91c5a997706efdee",
-      "started_at": "2026-11-19T12:43:02Z",
-      "upload_account": "serialy",
-      "source_id": -34161988926276140,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e16/6147a5ffca800",
-      "size_bytes": 343072755,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333764,5 +1333774,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:43:02Z"
+  "last_updated": "2026-11-19T12:44:10Z"
 }
