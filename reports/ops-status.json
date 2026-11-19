@@ -1,19 +1,19 @@
 {
   "counts": {
     "backlog_episodes": 108623,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83031,
-    "prepared_source_episodes": 67970,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83034,
+    "prepared_source_episodes": 67973,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 39,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
     "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 43,
+    "language_whisper_attempted_sources": 41,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53476,
-    "whisper_review_pending_sources": 36148,
+    "whisper_review_sources": 53477,
+    "whisper_review_pending_sources": 36150,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52313,
     "subtitle_followup_pending_sources": 52313
@@ -21,26 +21,74 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T23:51:48Z",
-      "databaseId": 44424301571,
+      "createdAt": "2026-11-19T00:01:08Z",
+      "databaseId": 44425557947,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-18T23:51:41Z",
-      "databaseId": 44424285340,
+      "createdAt": "2026-11-19T00:00:05Z",
+      "databaseId": 44425400754,
       "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "sync"
+      "status": "pending",
+      "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T00:00:04Z",
+      "databaseId": 44425397604,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-18T23:57:05Z",
+      "databaseId": 44425014233,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T23:53:18Z",
+      "databaseId": 44424502720,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T23:53:15Z",
+      "databaseId": 44424495684,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T23:51:48Z",
+      "databaseId": 44424301571,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-18T23:51:41Z",
+      "databaseId": 44424285340,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-18T23:47:49Z",
       "databaseId": 44423758076,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -60,11 +108,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-18T23:47:05Z",
       "databaseId": 44423658415,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-18T23:40:22Z",
-      "databaseId": 44422731849,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T23:39:09Z",
-      "databaseId": 44422562849,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-18T23:37:14Z",
-      "databaseId": 44422301219,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T23:35:45Z",
-      "databaseId": 44422088843,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T23:32:05Z",
-      "databaseId": 44421559673,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-18T23:32:01Z",
-      "databaseId": 44421549719,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
     }
   ],
   "gaps": {
@@ -203947,6 +203947,16 @@
         "video_id": 31163264
       },
       {
+        "episode_id": 109760,
+        "display_name": "Dynastie S06E18 - 18. epizoda CZ Titulky",
+        "video_id": 31163636
+      },
+      {
+        "episode_id": 127545,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E01 - 1. epizoda CZ Titulky",
+        "video_id": 31163659
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -389565,6 +389575,11 @@
         "episode_id": 109726,
         "display_name": "Dynastie S07E24 - 24. epizoda CZ Titulky",
         "video_id": 31163320
+      },
+      {
+        "episode_id": 109719,
+        "display_name": "Dynastie S06E23 - 23. epizoda CZ Titulky",
+        "video_id": 31163649
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -593229,6 +593244,16 @@
         "video_id": 31163264
       },
       {
+        "episode_id": 109760,
+        "display_name": "Dynastie S06E18 - 18. epizoda CZ Titulky",
+        "video_id": 31163636
+      },
+      {
+        "episode_id": 127545,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E01 - 1. epizoda CZ Titulky",
+        "video_id": 31163659
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -778847,6 +778872,11 @@
         "episode_id": 109726,
         "display_name": "Dynastie S07E24 - 24. epizoda CZ Titulky",
         "video_id": 31163320
+      },
+      {
+        "episode_id": 109719,
+        "display_name": "Dynastie S06E23 - 23. epizoda CZ Titulky",
+        "video_id": 31163649
       }
     ],
     "prepared_not_upload_ready": [
@@ -780008,13 +780038,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 42,
+    "ok": 40,
+    "disabled": 2,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34920,
+    "needs_whisper": 34922,
     "whisper_confirmed_cz": 4019,
-    "whisper_non_cz_needs_subtitles": 13309,
+    "whisper_non_cz_needs_subtitles": 13308,
     "whisper_failed": 1228
   },
   "subtitle_followup_statuses": {
