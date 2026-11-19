@@ -914358,6 +914358,32 @@
         "download_sec": 16.9,
         "upload_sec": 69.5
       }
+    },
+    {
+      "episode_id": 100607,
+      "series_id": 2443,
+      "series_title": "Fresh Meat",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Fresh Meat S01E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -44338412110821312,
+      "external_id": "59a49ee842082",
+      "source_url": "https://prehraj.to/fresh-meat-s01e07-hdtv/59a49ee842082",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31180866,
+      "size_bytes": 366885504,
+      "uploaded_at": "2026-11-19T10:58:04Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.9,
+        "upload_sec": 76.4
+      }
     }
   ],
   "pending_uploads": [
@@ -915464,6 +915490,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 92402,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 4,
+      "episode": 16,
+      "display_name": "The Secret Life of the American Teenager S04E16 - 16. epizoda CZ Titulky",
+      "intent_id": "17294e28f7554e5fab148664fb3f211a",
+      "started_at": "2026-11-19T11:10:03Z",
+      "upload_account": "serialy",
+      "source_id": -12766186433166974,
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-04x16-cz-tit/5f787223ee5a9",
+      "size_bytes": 353356404,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333488,5 +1333530,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T10:52:29Z"
+  "last_updated": "2026-11-19T11:10:03Z"
 }
