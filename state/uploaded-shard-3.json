@@ -914472,6 +914472,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127562,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 19,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E19 - 19. epizoda CZ Titulky",
+      "intent_id": "f4e532dce87e4b9fb32ec84fd7c698ba",
+      "started_at": "2026-11-19T00:44:13Z",
+      "upload_account": "serialy",
+      "source_id": -23863126795236483,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e19-sa-embraced-by-a-disguised-net-captivated-ja/7bc3aebf75f0f5e0",
+      "size_bytes": 657384980,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332496,5 +1332512,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T00:30:03Z"
+  "last_updated": "2026-11-19T00:44:13Z"
 }
