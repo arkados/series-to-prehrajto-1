@@ -913730,6 +913730,32 @@
         "download_sec": 28.6,
         "upload_sec": 71.0
       }
+    },
+    {
+      "episode_id": 109718,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 6,
+      "episode": 17,
+      "episode_code": "S06E17",
+      "display_name": "Dynastie S06E17 - 17. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -18489167125568524,
+      "external_id": "5953656f4b9af",
+      "source_url": "https://prehraj.to/dynasty-s06e17/5953656f4b9af",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31170003,
+      "size_bytes": 365588484,
+      "uploaded_at": "2026-11-19T04:24:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.3,
+        "upload_sec": 124.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1332860,5 +1332886,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T03:57:06Z"
+  "last_updated": "2026-11-19T04:24:37Z"
 }
