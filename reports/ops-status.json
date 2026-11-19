@@ -1,30 +1,54 @@
 {
   "counts": {
     "backlog_episodes": 108484,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83192,
-    "prepared_source_episodes": 67971,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 83193,
+    "prepared_source_episodes": 67970,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 42,
-    "language_whisper_attempted_sources": 42,
+    "language_audited_sources": 46,
+    "language_whisper_attempted_sources": 46,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53446,
-    "whisper_review_pending_sources": 36115,
+    "whisper_review_sources": 53445,
+    "whisper_review_pending_sources": 36111,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52426,
-    "subtitle_followup_pending_sources": 52426
+    "subtitle_followup_sources": 52427,
+    "subtitle_followup_pending_sources": 52427
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T16:34:07Z",
+      "databaseId": 44567551400,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T16:30:27Z",
+      "databaseId": 44566858186,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T16:30:20Z",
+      "databaseId": 44566836036,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T16:29:01Z",
       "databaseId": 44566591032,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -36,11 +60,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T16:28:18Z",
       "databaseId": 44566460862,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T16:14:52Z",
-      "databaseId": 44563901301,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T16:13:37Z",
-      "databaseId": 44563660672,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T16:10:40Z",
-      "databaseId": 44563118890,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -204345,6 +204345,11 @@
         "episode_id": 187613,
         "display_name": "Požárník Sam S07E23 - Horký vzduch CZ Dabing",
         "video_id": 31187244
+      },
+      {
+        "episode_id": 200005,
+        "display_name": "Molly a duch S01E13 - 13. epizoda CZ Dabing",
+        "video_id": 31187335
       },
       {
         "episode_id": 114182,
@@ -594424,6 +594429,11 @@
         "video_id": 31187244
       },
       {
+        "episode_id": 200005,
+        "display_name": "Molly a duch S01E13 - 13. epizoda CZ Dabing",
+        "video_id": 31187335
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -781598,16 +781608,16 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 41,
+    "ok": 45,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34891,
-    "whisper_confirmed_cz": 4074,
+    "needs_whisper": 34887,
+    "whisper_confirmed_cz": 4077,
     "whisper_non_cz_needs_subtitles": 13257,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52426
+    "needs_subtitle_setup_after_prehrajto_processing": 52427
   }
 }
