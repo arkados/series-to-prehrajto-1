@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108623,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83046,
-    "prepared_source_episodes": 67981,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83049,
+    "prepared_source_episodes": 67991,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 39,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 43,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53473,
     "whisper_review_pending_sources": 36145,
@@ -21,18 +21,130 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T01:25:46Z",
-      "databaseId": 44436830304,
+      "createdAt": "2026-11-19T01:36:05Z",
+      "databaseId": 44438129370,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T01:35:58Z",
+      "databaseId": 44438114927,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T01:35:39Z",
+      "databaseId": 44438073039,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T01:35:09Z",
+      "databaseId": 44438007817,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T01:34:47Z",
+      "databaseId": 44437960978,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T01:33:13Z",
+      "databaseId": 44437763343,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T01:32:28Z",
+      "databaseId": 44437670447,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T01:32:01Z",
+      "databaseId": 44437613096,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T01:29:07Z",
+      "databaseId": 44437239030,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T01:28:40Z",
+      "databaseId": 44437183861,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T01:27:40Z",
+      "databaseId": 44437063421,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T01:27:04Z",
+      "databaseId": 44436990288,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T01:27:01Z",
+      "databaseId": 44436982487,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T01:26:39Z",
+      "databaseId": 44436937226,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T01:25:46Z",
+      "databaseId": 44436830304,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T01:25:38Z",
       "databaseId": 44436812962,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -66,118 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T01:21:08Z",
-      "databaseId": 44436241702,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:21:05Z",
-      "databaseId": 44436235668,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:19:24Z",
-      "databaseId": 44436017331,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:17:45Z",
-      "databaseId": 44435810663,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-19T01:17:42Z",
-      "databaseId": 44435803448,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:17:39Z",
-      "databaseId": 44435797764,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:16:57Z",
-      "databaseId": 44435706906,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:16:11Z",
-      "databaseId": 44435609546,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T01:15:10Z",
-      "databaseId": 44435471869,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T01:14:14Z",
-      "databaseId": 44435349486,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T01:11:04Z",
-      "databaseId": 44434934711,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:09:23Z",
-      "databaseId": 44434716102,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:09:18Z",
-      "databaseId": 44434705000,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T01:09:03Z",
-      "databaseId": 44434672078,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -203980,6 +203980,21 @@
         "episode_id": 109728,
         "display_name": "Dynastie S07E27 - 27. epizoda CZ Titulky",
         "video_id": 31164876
+      },
+      {
+        "episode_id": 109733,
+        "display_name": "Dynastie S08E11 - 11. epizoda CZ Titulky",
+        "video_id": 31165260
+      },
+      {
+        "episode_id": 127568,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E25 - 25. epizoda CZ Titulky",
+        "video_id": 31165273
+      },
+      {
+        "episode_id": 109732,
+        "display_name": "Dynastie S08E09 - 9. epizoda CZ Titulky",
+        "video_id": 31165318
       },
       {
         "episode_id": 114182,
@@ -593339,6 +593354,21 @@
         "video_id": 31164876
       },
       {
+        "episode_id": 109733,
+        "display_name": "Dynastie S08E11 - 11. epizoda CZ Titulky",
+        "video_id": 31165260
+      },
+      {
+        "episode_id": 127568,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S01E25 - 25. epizoda CZ Titulky",
+        "video_id": 31165273
+      },
+      {
+        "episode_id": 109732,
+        "display_name": "Dynastie S08E09 - 9. epizoda CZ Titulky",
+        "video_id": 31165318
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -780158,7 +780188,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 42,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
