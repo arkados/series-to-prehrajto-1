@@ -915268,6 +915268,32 @@
         "download_sec": 82.4,
         "upload_sec": 83.9
       }
+    },
+    {
+      "episode_id": 161534,
+      "series_id": 6151,
+      "series_title": "Perfect Harmony",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Perfect Harmony S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -38419225158058515,
+      "external_id": "5e25b908e6887",
+      "source_url": "https://prehraj.to/perfect-harmony-s01e02-eng/5e25b908e6887",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31186671,
+      "size_bytes": 318139648,
+      "uploaded_at": "2026-11-19T15:59:56Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.8,
+        "upload_sec": 94.7
+      }
     }
   ],
   "pending_uploads": [
@@ -916376,20 +916402,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 161534,
-      "series_id": 6151,
-      "series_title": "Perfect Harmony",
+      "episode_id": 193567,
+      "series_id": 9866,
+      "series_title": "ULTRAMAN",
       "season": 1,
-      "episode": 2,
-      "display_name": "Perfect Harmony S01E02 - 2. epizoda CZ Titulky",
-      "intent_id": "3e27592de296483798d3d921ab44a1ea",
-      "started_at": "2026-11-19T15:57:34Z",
+      "episode": 5,
+      "display_name": "ULTRAMAN S01E05 - 5. epizoda CZ Titulky",
+      "intent_id": "93e232a1d93c466cb51b11ed7e89ecb6",
+      "started_at": "2026-11-19T16:03:06Z",
       "upload_account": "serialy",
-      "source_id": -38419225158058515,
-      "source_url": "https://prehraj.to/perfect-harmony-s01e02-eng/5e25b908e6887",
-      "size_bytes": 318139648,
-      "source_container": "mkv",
-      "source_download_kind": "original"
+      "source_id": -13756234057698624,
+      "source_url": "https://prehraj.to/ultraman-s1e05-eng/5e5fa78160f77",
+      "size_bytes": 382093263,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1334414,5 +1334440,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:57:34Z"
+  "last_updated": "2026-11-19T16:03:06Z"
 }
