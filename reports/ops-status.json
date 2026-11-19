@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108564,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83100,
-    "prepared_source_episodes": 67950,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83101,
+    "prepared_source_episodes": 67965,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 56,
-    "language_whisper_attempted_sources": 48,
+    "language_audited_sources": 41,
+    "language_whisper_attempted_sources": 41,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53460,
     "whisper_review_pending_sources": 36119,
@@ -21,10 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T10:13:04Z",
+      "databaseId": 44503569851,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T10:12:58Z",
+      "databaseId": 44503553729,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T10:10:08Z",
+      "databaseId": 44503110780,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T10:10:00Z",
+      "databaseId": 44503088336,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T10:09:06Z",
+      "databaseId": 44502947849,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T10:08:30Z",
+      "databaseId": 44502857237,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T10:08:27Z",
+      "databaseId": 44502848639,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T10:06:57Z",
       "databaseId": 44502613561,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +100,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T10:05:26Z",
       "databaseId": 44502377169,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -68,11 +124,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-19T10:03:58Z",
       "databaseId": 44502145477,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -116,68 +172,12 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T09:56:58Z",
       "databaseId": 44501068523,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T09:56:58Z",
-      "databaseId": 44501068077,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T09:56:01Z",
-      "databaseId": 44500928746,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T09:55:56Z",
-      "databaseId": 44500916762,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T09:55:50Z",
-      "databaseId": 44500900356,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T09:54:23Z",
-      "databaseId": 44500682520,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T09:54:20Z",
-      "databaseId": 44500673116,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T09:54:17Z",
-      "databaseId": 44500666909,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
     }
   ],
   "gaps": {
@@ -389900,6 +389900,11 @@
         "episode_id": 2431,
         "display_name": "Star proti silám zla S02E03 - 3. epizoda CZ Dabing",
         "video_id": 31179408
+      },
+      {
+        "episode_id": 92378,
+        "display_name": "The Secret Life of the American Teenager S03E17 - 17. epizoda CZ Titulky",
+        "video_id": 31179431
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -779517,6 +779522,11 @@
         "episode_id": 2431,
         "display_name": "Star proti silám zla S02E03 - 3. epizoda CZ Dabing",
         "video_id": 31179408
+      },
+      {
+        "episode_id": 92378,
+        "display_name": "The Secret Life of the American Teenager S03E17 - 17. epizoda CZ Titulky",
+        "video_id": 31179431
       }
     ],
     "prepared_not_upload_ready": [
@@ -780678,9 +780688,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 47,
-    "disabled": 8,
-    "resolve_failed": 1
+    "ok": 10,
+    "resolve_failed": 31
   },
   "whisper_review_statuses": {
     "needs_whisper": 34895,
