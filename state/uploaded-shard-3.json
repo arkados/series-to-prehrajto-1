@@ -913652,6 +913652,32 @@
         "download_sec": 21.0,
         "upload_sec": 45.5
       }
+    },
+    {
+      "episode_id": 170515,
+      "series_id": 7223,
+      "series_title": "American Playboy: The Hugh Hefner Story",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "American Playboy: The Hugh Hefner Story S01E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -46604864932472440,
+      "external_id": "6821f29304a88",
+      "source_url": "https://prehraj.to/american-playboy-the-hugh-hefner-story-s01e07/6821f29304a88",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31168433,
+      "size_bytes": 360169482,
+      "uploaded_at": "2026-11-19T03:34:05Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.0,
+        "upload_sec": 150.7
+      }
     }
   ],
   "pending_uploads": [
@@ -914758,22 +914784,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 170515,
-      "series_id": 7223,
-      "series_title": "American Playboy: The Hugh Hefner Story",
-      "season": 1,
-      "episode": 7,
-      "display_name": "American Playboy: The Hugh Hefner Story S01E07 - 7. epizoda CZ Titulky",
-      "intent_id": "7380f2c335a14769b08ca280a6da3d27",
-      "started_at": "2026-11-19T03:31:01Z",
-      "upload_account": "serialy",
-      "source_id": -46604864932472440,
-      "source_url": "https://prehraj.to/american-playboy-the-hugh-hefner-story-s01e07/6821f29304a88",
-      "size_bytes": 360169482,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332798,5 +1332808,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T03:31:01Z"
+  "last_updated": "2026-11-19T03:34:05Z"
 }
