@@ -915632,6 +915632,32 @@
         "download_sec": 25.2,
         "upload_sec": 50.1
       }
+    },
+    {
+      "episode_id": 113278,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Sindibádova dobrodružství S01E12 - Mizející vesnice CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -14155563149645552,
+      "external_id": "5c2b2d0511b9f",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x12/5c2b2d0511b9f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189588,
+      "size_bytes": 420821130,
+      "uploaded_at": "2026-11-19T19:33:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 853.4,
+        "upload_sec": 41.1
+      }
     }
   ],
   "pending_uploads": [
@@ -916736,22 +916762,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 113278,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 12,
-      "display_name": "Sindibádova dobrodružství S01E12 - Mizející vesnice CZ Dabing",
-      "intent_id": "ce38365a7dd449908321eb20045e9de8",
-      "started_at": "2026-11-19T19:32:18Z",
-      "upload_account": "serialy",
-      "source_id": -14155563149645552,
-      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x12/5c2b2d0511b9f",
-      "size_bytes": 420821130,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1334778,5 +1334788,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:32:18Z"
+  "last_updated": "2026-11-19T19:33:43Z"
 }
