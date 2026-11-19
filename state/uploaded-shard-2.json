@@ -915190,6 +915190,32 @@
         "download_sec": 20.7,
         "upload_sec": 39.2
       }
+    },
+    {
+      "episode_id": 2414,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 21,
+      "episode_code": "S02E21",
+      "display_name": "Star proti silám zla S02E21 - 21. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -5806441787722223,
+      "external_id": "f14143177f5337cd",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e21-hungry-larry-cs/f14143177f5337cd",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31186445,
+      "size_bytes": 329655898,
+      "uploaded_at": "2026-11-19T15:46:01Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 430.4,
+        "upload_sec": 33.3
+      }
     }
   ],
   "pending_uploads": [
@@ -916296,22 +916322,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2414,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 2,
-      "episode": 21,
-      "display_name": "Star proti silám zla S02E21 - 21. epizoda CZ Dabing",
-      "intent_id": "5cbf0bbcb0374aa4b22bc86fa96f4020",
-      "started_at": "2026-11-19T15:44:33Z",
-      "upload_account": "serialy",
-      "source_id": -5806441787722223,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e21-hungry-larry-cs/f14143177f5337cd",
-      "size_bytes": 329655898,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334336,5 +1334346,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:44:33Z"
+  "last_updated": "2026-11-19T15:46:01Z"
 }
