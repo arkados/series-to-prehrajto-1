@@ -915372,6 +915372,32 @@
         "download_sec": 13.9,
         "upload_sec": 57.6
       }
+    },
+    {
+      "episode_id": 113282,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Sindibádova dobrodružství S01E09 - Potíže s dvojníky CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -29912214471106727,
+      "external_id": "5c34cc8b6271d",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x9/5c34cc8b6271d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31187407,
+      "size_bytes": 326593062,
+      "uploaded_at": "2026-11-19T16:38:47Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.4,
+        "upload_sec": 55.7
+      }
     }
   ],
   "pending_uploads": [
@@ -916480,18 +916506,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 113282,
+      "episode_id": 113291,
       "series_id": 2855,
       "series_title": "Sindibádova dobrodružství",
       "season": 1,
-      "episode": 9,
-      "display_name": "Sindibádova dobrodružství S01E09 - Potíže s dvojníky CZ Dabing",
-      "intent_id": "a667aaa1da3d460280345a0f4da9ffc2",
-      "started_at": "2026-11-19T16:37:13Z",
+      "episode": 8,
+      "display_name": "Sindibádova dobrodružství S01E08 - Pouta, jenž svazují CZ Dabing",
+      "intent_id": "c69362dc6d274d19a9ff8deae10cec86",
+      "started_at": "2026-11-19T16:37:44Z",
       "upload_account": "serialy",
-      "source_id": -29912214471106727,
-      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x9/5c34cc8b6271d",
-      "size_bytes": 326593062,
+      "source_id": -48410809951308253,
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e08/6186340cc833e",
+      "size_bytes": 407262525,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1334518,5 +1334544,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T16:37:13Z"
+  "last_updated": "2026-11-19T16:38:47Z"
 }
