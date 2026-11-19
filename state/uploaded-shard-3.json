@@ -915100,6 +915100,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109743,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 9,
+      "episode": 8,
+      "display_name": "Dynastie S09E08 - 8. epizoda CZ Titulky",
+      "intent_id": "a6e2aeaafd2248d1995498a28642d4a7",
+      "started_at": "2026-11-19T07:57:30Z",
+      "upload_account": "serialy",
+      "source_id": -25513291573540987,
+      "source_url": "https://prehraj.to/dynasty-s09e08/59536d2514d7d",
+      "size_bytes": 364869636,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1333124,5 +1333140,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T07:56:46Z"
+  "last_updated": "2026-11-19T07:57:30Z"
 }
