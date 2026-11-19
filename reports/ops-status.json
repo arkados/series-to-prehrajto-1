@@ -1,38 +1,118 @@
 {
   "counts": {
     "backlog_episodes": 108391,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83262,
-    "prepared_source_episodes": 67915,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 83266,
+    "prepared_source_episodes": 67925,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 40,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
+    "language_audited_sources": 46,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53434,
-    "whisper_review_pending_sources": 36102,
-    "upload_pending_checkpoints": 140,
+    "whisper_review_pending_sources": 36103,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52455,
     "subtitle_followup_pending_sources": 52455
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T23:42:23Z",
-      "databaseId": 44639885155,
+      "createdAt": "2026-11-19T23:54:49Z",
+      "databaseId": 44641547709,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T23:54:47Z",
+      "databaseId": 44641542438,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T23:53:46Z",
+      "databaseId": 44641407748,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T23:53:15Z",
+      "databaseId": 44641339829,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T23:53:00Z",
+      "databaseId": 44641306096,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T23:51:52Z",
+      "databaseId": 44641155656,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T23:47:00Z",
+      "databaseId": 44640510110,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T23:46:54Z",
+      "databaseId": 44640497215,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T23:43:56Z",
+      "databaseId": 44640093075,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T23:43:53Z",
+      "databaseId": 44640085792,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T23:42:23Z",
+      "databaseId": 44639885155,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T23:41:08Z",
       "databaseId": 44639719583,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -44,11 +124,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T23:39:41Z",
       "databaseId": 44639517948,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -98,86 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "refresh-backlog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T23:37:01Z",
-      "databaseId": 44639160651,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T23:36:09Z",
-      "databaseId": 44639038639,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T23:35:27Z",
-      "databaseId": 44638940667,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T23:35:18Z",
-      "databaseId": 44638918095,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-19T23:33:35Z",
-      "databaseId": 44638672238,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T23:27:34Z",
-      "databaseId": 44637821018,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T23:23:06Z",
-      "databaseId": 44637194587,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T23:23:03Z",
-      "databaseId": 44637186761,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T23:23:01Z",
-      "databaseId": 44637181035,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T23:22:35Z",
-      "databaseId": 44637121593,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -204517,6 +204517,16 @@
         "video_id": 31192594
       },
       {
+        "episode_id": 2388,
+        "display_name": "Star proti silám zla S04E01 - 1. epizoda CZ Titulky",
+        "video_id": 31192749
+      },
+      {
+        "episode_id": 100513,
+        "display_name": "Tintinova dobrodružství S02E09 - Tintin u Pikarů - 2. část CZ Dabing",
+        "video_id": 31192765
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -390710,6 +390720,16 @@
         "episode_id": 46334,
         "display_name": "Melissa a Joey S01E12 - 12. epizoda CZ Dabing",
         "video_id": 31192652
+      },
+      {
+        "episode_id": 100503,
+        "display_name": "Tintinova dobrodružství S02E03 - Bůžek s uraženým uchem - 2. část CZ Dabing",
+        "video_id": 31192637
+      },
+      {
+        "episode_id": 46335,
+        "display_name": "Melissa a Joey S01E13 - 13. epizoda CZ Dabing",
+        "video_id": 31192695
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -594944,6 +594964,16 @@
         "video_id": 31192594
       },
       {
+        "episode_id": 2388,
+        "display_name": "Star proti silám zla S04E01 - 1. epizoda CZ Titulky",
+        "video_id": 31192749
+      },
+      {
+        "episode_id": 100513,
+        "display_name": "Tintinova dobrodružství S02E09 - Tintin u Pikarů - 2. část CZ Dabing",
+        "video_id": 31192765
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -781137,6 +781167,16 @@
         "episode_id": 46334,
         "display_name": "Melissa a Joey S01E12 - 12. epizoda CZ Dabing",
         "video_id": 31192652
+      },
+      {
+        "episode_id": 100503,
+        "display_name": "Tintinova dobrodružství S02E03 - Bůžek s uraženým uchem - 2. část CZ Dabing",
+        "video_id": 31192637
+      },
+      {
+        "episode_id": 46335,
+        "display_name": "Melissa a Joey S01E13 - 13. epizoda CZ Dabing",
+        "video_id": 31192695
       }
     ],
     "prepared_not_upload_ready": [
@@ -782298,13 +782338,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 9,
-    "resolve_failed": 31
+    "disabled": 6,
+    "ok": 39,
+    "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34875,
+    "needs_whisper": 34876,
     "whisper_confirmed_cz": 4122,
-    "whisper_non_cz_needs_subtitles": 13210,
+    "whisper_non_cz_needs_subtitles": 13209,
     "whisper_failed": 1227
   },
   "subtitle_followup_statuses": {
