@@ -915684,6 +915684,32 @@
         "download_sec": 41.9,
         "upload_sec": 29.7
       }
+    },
+    {
+      "episode_id": 113287,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "Sindibádova dobrodružství S01E13 - Maskovaní lupiči CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -26768907059190991,
+      "external_id": "6186388f2f1f0",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e13/6186388f2f1f0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189652,
+      "size_bytes": 441307439,
+      "uploaded_at": "2026-11-19T19:41:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 35.6,
+        "upload_sec": 36.1
+      }
     }
   ],
   "pending_uploads": [
@@ -916788,22 +916814,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 113287,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 13,
-      "display_name": "Sindibádova dobrodružství S01E13 - Maskovaní lupiči CZ Titulky",
-      "intent_id": "5fb581a38c9f454b8a7f52ee65499c44",
-      "started_at": "2026-11-19T19:40:18Z",
-      "upload_account": "serialy",
-      "source_id": -26768907059190991,
-      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e13/6186388f2f1f0",
-      "size_bytes": 441307439,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1334830,5 +1334840,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:40:18Z"
+  "last_updated": "2026-11-19T19:41:33Z"
 }
