@@ -2,29 +2,77 @@
   "counts": {
     "backlog_episodes": 108484,
     "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83174,
-    "prepared_source_episodes": 67942,
+    "uploaded_episodes": 83176,
+    "prepared_source_episodes": 67941,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 43,
+    "language_whisper_attempted_sources": 43,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53448,
-    "whisper_review_pending_sources": 36114,
-    "upload_pending_checkpoints": 141,
-    "subtitle_followup_sources": 52416,
-    "subtitle_followup_pending_sources": 52416
+    "whisper_review_sources": 53447,
+    "whisper_review_pending_sources": 36111,
+    "upload_pending_checkpoints": 139,
+    "subtitle_followup_sources": 52418,
+    "subtitle_followup_pending_sources": 52418
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T15:13:58Z",
+      "databaseId": 44552443424,
+      "headBranch": "main",
+      "status": "queued",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:13:21Z",
+      "databaseId": 44552328124,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:13:13Z",
+      "databaseId": 44552306212,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:12:49Z",
+      "databaseId": 44552230167,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T15:11:14Z",
+      "databaseId": 44551937985,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:11:07Z",
+      "databaseId": 44551917121,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T15:09:46Z",
       "databaseId": 44551664474,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +92,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T15:07:17Z",
       "databaseId": 44551205100,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -68,19 +116,19 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-19T15:05:06Z",
       "databaseId": 44550789841,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-19T15:04:58Z",
       "databaseId": 44550764505,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -127,54 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-19T15:01:30Z",
       "databaseId": 44550119852,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T15:00:16Z",
-      "databaseId": 44549876376,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-19T15:00:07Z",
-      "databaseId": 44549847680,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T15:00:05Z",
-      "databaseId": 44549838938,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T14:59:59Z",
-      "databaseId": 44549820085,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-19T14:59:17Z",
-      "databaseId": 44549694654,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T14:56:24Z",
-      "databaseId": 44549181181,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
@@ -204307,6 +204307,11 @@
         "video_id": 31185471
       },
       {
+        "episode_id": 2416,
+        "display_name": "Star proti silám zla S02E19 - 19. epizoda CZ Dabing",
+        "video_id": 31185603
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -390270,6 +390275,11 @@
         "episode_id": 113274,
         "display_name": "Sindibádova dobrodružství S01E07 - Velký Firouz CZ Dabing",
         "video_id": 31185557
+      },
+      {
+        "episode_id": 113275,
+        "display_name": "Sindibádova dobrodružství S01E05 - Rytíř CZ Dabing",
+        "video_id": 31185589
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -594294,6 +594304,11 @@
         "video_id": 31185471
       },
       {
+        "episode_id": 2416,
+        "display_name": "Star proti silám zla S02E19 - 19. epizoda CZ Dabing",
+        "video_id": 31185603
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -780257,6 +780272,11 @@
         "episode_id": 113274,
         "display_name": "Sindibádova dobrodružství S01E07 - Velký Firouz CZ Dabing",
         "video_id": 31185557
+      },
+      {
+        "episode_id": 113275,
+        "display_name": "Sindibádova dobrodružství S01E05 - Rytíř CZ Dabing",
+        "video_id": 31185589
       }
     ],
     "prepared_not_upload_ready": [
@@ -781418,16 +781438,16 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 39,
+    "ok": 42,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34890,
+    "needs_whisper": 34887,
     "whisper_confirmed_cz": 4068,
-    "whisper_non_cz_needs_subtitles": 13266,
+    "whisper_non_cz_needs_subtitles": 13268,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52416
+    "needs_subtitle_setup_after_prehrajto_processing": 52418
   }
 }
