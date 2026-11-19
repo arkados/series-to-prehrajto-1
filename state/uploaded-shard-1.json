@@ -916947,6 +916947,32 @@
         "download_sec": 19.7,
         "upload_sec": 35.5
       }
+    },
+    {
+      "episode_id": 200004,
+      "series_id": 9979,
+      "series_title": "Molly a duch",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Molly a duch S01E12 - 12. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -4119510577853510,
+      "external_id": "ba1f9b7f0796e4b5",
+      "source_url": "https://prehraj.to/molly-a-duch-s1e12-cs/ba1f9b7f0796e4b5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31182749,
+      "size_bytes": 335067433,
+      "uploaded_at": "2026-11-19T12:25:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.7,
+        "upload_sec": 36.9
+      }
     }
   ],
   "pending_uploads": [
@@ -918068,6 +918094,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 92397,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 4,
+      "episode": 12,
+      "display_name": "The Secret Life of the American Teenager S04E12 - 12. epizoda CZ Titulky",
+      "intent_id": "bf27009e5a4d48dcabc9eb26aaae05c0",
+      "started_at": "2026-11-19T12:33:37Z",
+      "upload_account": "primary",
+      "source_id": -44331782122983498,
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s04e12-cztit/57d8c1df72c25",
+      "size_bytes": 366476062,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1336093,5 +1336135,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:23:13Z"
+  "last_updated": "2026-11-19T12:33:37Z"
 }
