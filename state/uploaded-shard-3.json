@@ -915736,6 +915736,32 @@
         "download_sec": 18.4,
         "upload_sec": 34.7
       }
+    },
+    {
+      "episode_id": 200002,
+      "series_id": 9979,
+      "series_title": "Molly a duch",
+      "season": 1,
+      "episode": 14,
+      "episode_code": "S01E14",
+      "display_name": "Molly a duch S01E14 - 14. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -15493870745079753,
+      "external_id": "9d0c3d269b470f34",
+      "source_url": "https://prehraj.to/molly-a-duch-s1e14-cs/9d0c3d269b470f34",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31190369,
+      "size_bytes": 335539646,
+      "uploaded_at": "2026-11-19T20:41:11Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.7,
+        "upload_sec": 26.5
+      }
     }
   ],
   "pending_uploads": [
@@ -916842,6 +916868,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187619,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 3,
+      "display_name": "Požárník Sam S09E03 - Divoká sýrová honička CZ Dabing",
+      "intent_id": "d367c9f3b23244739742c923759080e9",
+      "started_at": "2026-11-19T20:48:22Z",
+      "upload_account": "serialy",
+      "source_id": -15235046997138889,
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e03-cz-dabing-pro-deti/5c746aa08ee02",
+      "size_bytes": 350085313,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334866,5 +1334908,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T20:17:33Z"
+  "last_updated": "2026-11-19T20:48:22Z"
 }
