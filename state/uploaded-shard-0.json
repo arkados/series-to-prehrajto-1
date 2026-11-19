@@ -916037,6 +916037,58 @@
         "download_sec": 13.8,
         "upload_sec": 40.5
       }
+    },
+    {
+      "episode_id": 127569,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 26,
+      "episode_code": "S01E26",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E26 - 26. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -70836616911016031,
+      "external_id": "7a00931be756e1cc",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e26-c-public-security-section-9-once-again-stand-alone-complex-ja/7a00931be756e1cc",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31173056,
+      "size_bytes": 416611448,
+      "uploaded_at": "2026-11-19T06:42:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.6,
+        "upload_sec": 125.2
+      }
+    },
+    {
+      "episode_id": 92353,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 2,
+      "episode": 16,
+      "episode_code": "S02E16",
+      "display_name": "The Secret Life of the American Teenager S02E16 - 16. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -7236738426058308,
+      "external_id": "5f2890c54f83a",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-02x16-cz-tit/5f2890c54f83a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31173144,
+      "size_bytes": 317920502,
+      "uploaded_at": "2026-11-19T06:45:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 29.4,
+        "upload_sec": 45.7
+      }
     }
   ],
   "pending_uploads": [
@@ -917157,22 +917209,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 127569,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 1,
-      "episode": 26,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S01E26 - 26. epizoda CZ Titulky",
-      "intent_id": "6c9a7cc1383d46efa6f39e81d912b0a6",
-      "started_at": "2026-11-19T06:39:45Z",
-      "upload_account": "primary",
-      "source_id": -70836616911016031,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e26-c-public-security-section-9-once-again-stand-alone-complex-ja/7a00931be756e1cc",
-      "size_bytes": 416611448,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1335199,5 +1335235,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T06:40:47Z"
+  "last_updated": "2026-11-19T06:45:21Z"
 }
