@@ -918299,6 +918299,32 @@
         "download_sec": 16.3,
         "upload_sec": 36.2
       }
+    },
+    {
+      "episode_id": 2401,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 10,
+      "episode_code": "S03E10",
+      "display_name": "Star proti silám zla S03E10 - 10. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -44271920228767578,
+      "external_id": "186a8669706a7a2b",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e10-club-snubbed-cs/186a8669706a7a2b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191612,
+      "size_bytes": 334838044,
+      "uploaded_at": "2026-11-19T22:35:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 30.8,
+        "upload_sec": 42.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1337445,5 +1337471,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T22:30:05Z"
+  "last_updated": "2026-11-19T22:35:10Z"
 }
