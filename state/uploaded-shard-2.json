@@ -914498,6 +914498,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127566,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 23,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E23 - 23. epizoda CZ Titulky",
+      "intent_id": "397628578c23433c9a8389aaf251f903",
+      "started_at": "2026-11-19T01:05:07Z",
+      "upload_account": "serialy",
+      "source_id": -65663381173882060,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e23-c-the-other-side-of-good-and-evil-equinox-ja/2c202b843a93f244",
+      "size_bytes": 363652586,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1332522,5 +1332538,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T00:45:46Z"
+  "last_updated": "2026-11-19T01:05:07Z"
 }
