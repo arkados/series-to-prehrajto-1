@@ -916360,6 +916360,32 @@
         "download_sec": 15.2,
         "upload_sec": 32.3
       }
+    },
+    {
+      "episode_id": 129398,
+      "series_id": 3630,
+      "series_title": "A.P. Bio",
+      "season": 4,
+      "episode": 5,
+      "episode_code": "S04E05",
+      "display_name": "A.P. Bio S04E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -31692584648651264,
+      "external_id": "32feafe27f8157fa",
+      "source_url": "https://prehraj.to/a-p-bio-s04e05-5-epizoda-cz-titulky/32feafe27f8157fa",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192863,
+      "size_bytes": 343215045,
+      "uploaded_at": "2026-11-19T23:57:03Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.4,
+        "upload_sec": 35.4
+      }
     }
   ],
   "pending_uploads": [
@@ -917464,22 +917490,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 129398,
-      "series_id": 3630,
-      "series_title": "A.P. Bio",
-      "season": 4,
-      "episode": 5,
-      "display_name": "A.P. Bio S04E05 - 5. epizoda CZ Titulky",
-      "intent_id": "ff52792081b54be3814f41efa0d5b22e",
-      "started_at": "2026-11-19T23:55:58Z",
-      "upload_account": "serialy",
-      "source_id": -31692584648651264,
-      "source_url": "https://prehraj.to/a-p-bio-s04e05-5-epizoda-cz-titulky/32feafe27f8157fa",
-      "size_bytes": 343215045,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1335506,5 +1335516,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:55:58Z"
+  "last_updated": "2026-11-19T23:57:03Z"
 }
