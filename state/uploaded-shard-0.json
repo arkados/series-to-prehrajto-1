@@ -917103,6 +917103,32 @@
         "download_sec": 22.4,
         "upload_sec": 71.5
       }
+    },
+    {
+      "episode_id": 127548,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S01E04 - 4. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -56351320423580259,
+      "external_id": "f9f8611e029b9b84",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e4-c-the-visual-device-will-laugh-intercepter-ja/f9f8611e029b9b84",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31183583,
+      "size_bytes": 402976141,
+      "uploaded_at": "2026-11-19T13:08:40Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.9,
+        "upload_sec": 43.2
+      }
     }
   ],
   "pending_uploads": [
@@ -918223,22 +918249,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 127548,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 1,
-      "episode": 4,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S01E04 - 4. epizoda CZ Titulky",
-      "intent_id": "1d9abcd1216d4da0a5dcbb58bbaaa933",
-      "started_at": "2026-11-19T13:06:31Z",
-      "upload_account": "primary",
-      "source_id": -56351320423580259,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s1e4-c-the-visual-device-will-laugh-intercepter-ja/f9f8611e029b9b84",
-      "size_bytes": 402976141,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1336265,5 +1336275,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T13:06:31Z"
+  "last_updated": "2026-11-19T13:08:50Z"
 }
