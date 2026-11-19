@@ -915866,6 +915866,32 @@
         "download_sec": 19.9,
         "upload_sec": 48.3
       }
+    },
+    {
+      "episode_id": 129410,
+      "series_id": 3630,
+      "series_title": "A.P. Bio",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "A.P. Bio S02E09 - 9. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -70136237466045845,
+      "external_id": "6e9dd5368e4f7cf5",
+      "source_url": "https://prehraj.to/a-p-bio-s2e9-dr/6e9dd5368e4f7cf5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191036,
+      "size_bytes": 319280865,
+      "uploaded_at": "2026-11-19T21:46:05Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 17.2,
+        "upload_sec": 39.7
+      }
     }
   ],
   "pending_uploads": [
@@ -916972,22 +916998,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 129410,
-      "series_id": 3630,
-      "series_title": "A.P. Bio",
-      "season": 2,
-      "episode": 9,
-      "display_name": "A.P. Bio S02E09 - 9. epizoda CZ Titulky",
-      "intent_id": "ebf9a97b5cff44468694c4406d272ac8",
-      "started_at": "2026-11-19T21:44:44Z",
-      "upload_account": "serialy",
-      "source_id": -70136237466045845,
-      "source_url": "https://prehraj.to/a-p-bio-s2e9-dr/6e9dd5368e4f7cf5",
-      "size_bytes": 319280865,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335012,5 +1335022,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:44:44Z"
+  "last_updated": "2026-11-19T21:46:05Z"
 }
