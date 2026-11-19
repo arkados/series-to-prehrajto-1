@@ -918163,6 +918163,22 @@
       "size_bytes": 366643863,
       "source_container": "avi",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 113688,
+      "series_id": 2874,
+      "series_title": "The Tick",
+      "season": 1,
+      "episode": 2,
+      "display_name": "The Tick S01E02 - 2. epizoda CZ Titulky",
+      "intent_id": "e046630045b04aa8a17d13a4398cac03",
+      "started_at": "2026-11-19T12:38:19Z",
+      "upload_account": "primary",
+      "source_id": -18481605445565982,
+      "source_url": "https://prehraj.to/the-tick-s01e02-where-s-my-mind/5ac4e467d79bc",
+      "size_bytes": 356048139,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336187,5 +1336203,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T12:36:56Z"
+  "last_updated": "2026-11-19T12:38:19Z"
 }
