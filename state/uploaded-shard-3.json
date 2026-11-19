@@ -916062,6 +916062,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187611,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 15,
+      "display_name": "Požárník Sam S07E15 - Ta která upláchla CZ Dabing",
+      "intent_id": "89c4b2dfcfb04b5a997f79b890148776",
+      "started_at": "2026-11-19T14:17:02Z",
+      "upload_account": "serialy",
+      "source_id": -37528731072939504,
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e15-cz-dabing-pro-deti/5c744abdadc7e",
+      "size_bytes": 340128462,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334086,5 +1334102,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T14:02:28Z"
+  "last_updated": "2026-11-19T14:17:02Z"
 }
