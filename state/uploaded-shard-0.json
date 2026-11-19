@@ -918507,6 +918507,32 @@
         "download_sec": 18.5,
         "upload_sec": 58.2
       }
+    },
+    {
+      "episode_id": 2392,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 19,
+      "episode_code": "S03E19",
+      "display_name": "Star proti silám zla S03E19 - 19. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -64095329861599436,
+      "external_id": "d500f8bb5b90419d",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e19-the-bogbeast-of-boggabah-cs/d500f8bb5b90419d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192594,
+      "size_bytes": 334368860,
+      "uploaded_at": "2026-11-19T23:38:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.8,
+        "upload_sec": 27.6
+      }
     }
   ],
   "pending_uploads": [
@@ -919627,22 +919653,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2392,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 3,
-      "episode": 19,
-      "display_name": "Star proti silám zla S03E19 - 19. epizoda CZ Dabing",
-      "intent_id": "3ffec76733ed47a9a06e947f98985578",
-      "started_at": "2026-11-19T23:36:44Z",
-      "upload_account": "primary",
-      "source_id": -64095329861599436,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e19-the-bogbeast-of-boggabah-cs/d500f8bb5b90419d",
-      "size_bytes": 334368860,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337669,5 +1337679,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:36:44Z"
+  "last_updated": "2026-11-19T23:38:19Z"
 }
