@@ -918117,6 +918117,58 @@
         "download_sec": 22.5,
         "upload_sec": 38.3
       }
+    },
+    {
+      "episode_id": 187572,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 11,
+      "episode_code": "S06E11",
+      "display_name": "Požárník Sam S06E11 - Velryba CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -6588773988121787,
+      "external_id": "5c742c6a4b8fe",
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e11-cz-dabing-pro-deti/5c742c6a4b8fe",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191011,
+      "size_bytes": 341165255,
+      "uploaded_at": "2026-11-19T21:44:30Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.1,
+        "upload_sec": 58.8
+      }
+    },
+    {
+      "episode_id": 187596,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 10,
+      "episode_code": "S07E10",
+      "display_name": "Požárník Sam S07E10 - Kočičí kouzla CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -69924109375837126,
+      "external_id": "5c743fcd6ae40",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e10-cz-dabing-pro-deti/5c743fcd6ae40",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191054,
+      "size_bytes": 336357652,
+      "uploaded_at": "2026-11-19T21:47:42Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.9,
+        "upload_sec": 27.8
+      }
     }
   ],
   "pending_uploads": [
@@ -919241,18 +919293,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 187572,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 6,
-      "episode": 11,
-      "display_name": "Požárník Sam S06E11 - Velryba CZ Dabing",
-      "intent_id": "e3148c9c9197495b8a10ccb361d30631",
-      "started_at": "2026-11-19T21:42:32Z",
+      "episode_id": 2405,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 6,
+      "display_name": "Star proti silám zla S03E06 - 6. epizoda CZ Dabing",
+      "intent_id": "b84db2e6e89e45178792d6d3cb694de8",
+      "started_at": "2026-11-19T22:01:48Z",
       "upload_account": "primary",
-      "source_id": -6588773988121787,
-      "source_url": "https://prehraj.to/pozarnik-sam-s06e11-cz-dabing-pro-deti/5c742c6a4b8fe",
-      "size_bytes": 341165255,
+      "source_id": -60321444403631485,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e6-the-battle-for-mewni-part-6-king-ludo-cs/7db2bfcba2b1e630",
+      "size_bytes": 338634646,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337279,5 +1337331,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:44:34Z"
+  "last_updated": "2026-11-19T22:01:48Z"
 }
