@@ -2,45 +2,101 @@
   "counts": {
     "backlog_episodes": 108484,
     "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83182,
-    "prepared_source_episodes": 67961,
+    "uploaded_episodes": 83186,
+    "prepared_source_episodes": 67964,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 44,
+    "language_whisper_attempted_sources": 43,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53447,
-    "whisper_review_pending_sources": 36114,
+    "whisper_review_sources": 53446,
+    "whisper_review_pending_sources": 36112,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52419,
-    "subtitle_followup_pending_sources": 52419
+    "subtitle_followup_sources": 52422,
+    "subtitle_followup_pending_sources": 52422
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T15:40:47Z",
-      "databaseId": 44557514945,
+      "createdAt": "2026-11-19T15:52:21Z",
+      "databaseId": 44559672860,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T15:40:00Z",
-      "databaseId": 44557360205,
+      "createdAt": "2026-11-19T15:51:29Z",
+      "databaseId": 44559512822,
       "headBranch": "main",
-      "status": "pending",
+      "status": "in_progress",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-19T15:51:08Z",
+      "databaseId": 44559449450,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T15:47:45Z",
+      "databaseId": 44558821307,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:47:36Z",
+      "databaseId": 44558794690,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T15:42:18Z",
+      "databaseId": 44557798776,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T15:42:11Z",
+      "databaseId": 44557777395,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T15:40:47Z",
+      "databaseId": 44557514945,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T15:40:00Z",
+      "databaseId": 44557360205,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-19T15:39:12Z",
       "databaseId": 44557214463,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -52,19 +108,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T15:37:37Z",
       "databaseId": 44556922320,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T15:37:34Z",
       "databaseId": 44556912758,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -76,19 +132,19 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T15:36:04Z",
       "databaseId": 44556620584,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T15:35:56Z",
       "databaseId": 44556597425,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-19T15:29:21Z",
-      "databaseId": 44555338931,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T15:27:17Z",
-      "databaseId": 44554957664,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T15:26:54Z",
-      "databaseId": 44554885458,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T15:26:49Z",
-      "databaseId": 44554869762,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T15:26:32Z",
-      "databaseId": 44554818729,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T15:25:06Z",
-      "databaseId": 44554549917,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T15:23:32Z",
-      "databaseId": 44554252654,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -204332,6 +204332,11 @@
         "video_id": 31186159
       },
       {
+        "episode_id": 92420,
+        "display_name": "The Secret Life of the American Teenager S05E11 - 11. epizoda CZ Titulky",
+        "video_id": 31186533
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -390310,6 +390315,21 @@
         "episode_id": 2415,
         "display_name": "Star proti silám zla S02E20 - 20. epizoda CZ Dabing",
         "video_id": 31186115
+      },
+      {
+        "episode_id": 2414,
+        "display_name": "Star proti silám zla S02E21 - 21. epizoda CZ Dabing",
+        "video_id": 31186445
+      },
+      {
+        "episode_id": 127591,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S02E22 - 22. epizoda CZ Titulky",
+        "video_id": 31186541
+      },
+      {
+        "episode_id": 127590,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S02E21 - 21. epizoda CZ Titulky",
+        "video_id": 31186554
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -594359,6 +594379,11 @@
         "video_id": 31186159
       },
       {
+        "episode_id": 92420,
+        "display_name": "The Secret Life of the American Teenager S05E11 - 11. epizoda CZ Titulky",
+        "video_id": 31186533
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -780337,6 +780362,21 @@
         "episode_id": 2415,
         "display_name": "Star proti silám zla S02E20 - 20. epizoda CZ Dabing",
         "video_id": 31186115
+      },
+      {
+        "episode_id": 2414,
+        "display_name": "Star proti silám zla S02E21 - 21. epizoda CZ Dabing",
+        "video_id": 31186445
+      },
+      {
+        "episode_id": 127591,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S02E22 - 22. epizoda CZ Titulky",
+        "video_id": 31186541
+      },
+      {
+        "episode_id": 127590,
+        "display_name": "Ghost in the Shell: Stand Alone Complex S02E21 - 21. epizoda CZ Titulky",
+        "video_id": 31186554
       }
     ],
     "prepared_not_upload_ready": [
@@ -781498,16 +781538,17 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 39,
+    "ok": 42,
+    "disabled": 1,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34890,
+    "needs_whisper": 34888,
     "whisper_confirmed_cz": 4070,
-    "whisper_non_cz_needs_subtitles": 13263,
+    "whisper_non_cz_needs_subtitles": 13264,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52419
+    "needs_subtitle_setup_after_prehrajto_processing": 52422
   }
 }
