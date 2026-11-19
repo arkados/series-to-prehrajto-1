@@ -913912,6 +913912,32 @@
         "download_sec": 13.3,
         "upload_sec": 43.7
       }
+    },
+    {
+      "episode_id": 204095,
+      "series_id": 156,
+      "series_title": "Pán prstenů: Prsteny moci",
+      "season": 3,
+      "episode": 6,
+      "episode_code": "S03E06",
+      "display_name": "Pán prstenů: Prsteny moci S03E06 - Z Valinoru CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -30175539999810461,
+      "external_id": "98f9df065ce076c3",
+      "source_url": "https://prehraj.to/the-rings-of-power-s03e06/98f9df065ce076c3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31174906,
+      "size_bytes": 898276513,
+      "uploaded_at": "2026-11-19T07:40:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.1,
+        "upload_sec": 173.0
+      }
     }
   ],
   "pending_uploads": [
@@ -915016,22 +915042,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 204095,
-      "series_id": 156,
-      "series_title": "Pán prstenů: Prsteny moci",
-      "season": 3,
-      "episode": 6,
-      "display_name": "Pán prstenů: Prsteny moci S03E06 - Z Valinoru CZ Dabing",
-      "intent_id": "5a7665fff11840b19ab4f422999a2aaf",
-      "started_at": "2026-11-19T07:37:11Z",
-      "upload_account": "serialy",
-      "source_id": -30175539999810461,
-      "source_url": "https://prehraj.to/the-rings-of-power-s03e06/98f9df065ce076c3",
-      "size_bytes": 898276513,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1333058,5 +1333068,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T07:37:11Z"
+  "last_updated": "2026-11-19T07:40:59Z"
 }
