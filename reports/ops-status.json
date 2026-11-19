@@ -1,19 +1,19 @@
 {
   "counts": {
     "backlog_episodes": 108527,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83160,
-    "prepared_source_episodes": 67970,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83163,
+    "prepared_source_episodes": 67982,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
     "language_audited_sources": 43,
-    "language_whisper_attempted_sources": 43,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53449,
-    "whisper_review_pending_sources": 36111,
+    "whisper_review_pending_sources": 36114,
     "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52410,
     "subtitle_followup_pending_sources": 52410
@@ -21,18 +21,74 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-19T13:58:11Z",
-      "databaseId": 44538751680,
+      "createdAt": "2026-11-19T14:09:44Z",
+      "databaseId": 44540757903,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-19T14:09:05Z",
+      "databaseId": 44540642878,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T14:07:03Z",
+      "databaseId": 44540286422,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T14:06:47Z",
+      "databaseId": 44540239602,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-19T14:01:14Z",
+      "databaseId": 44539269132,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
       "conclusion": "",
+      "createdAt": "2026-11-19T14:01:10Z",
+      "databaseId": 44539256845,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T13:59:23Z",
+      "databaseId": 44538944216,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-19T13:58:11Z",
+      "databaseId": 44538751680,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-19T13:58:04Z",
       "databaseId": 44538730936,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -52,27 +108,27 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T13:53:46Z",
       "databaseId": 44538015989,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T13:53:43Z",
       "databaseId": 44538007377,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-19T13:53:17Z",
       "databaseId": 44537931987,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T13:43:06Z",
-      "databaseId": 44536230995,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T13:42:05Z",
-      "databaseId": 44536064141,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T13:40:38Z",
-      "databaseId": 44535827967,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-19T13:38:23Z",
-      "databaseId": 44535458166,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T13:36:14Z",
-      "databaseId": 44535100444,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T13:36:10Z",
-      "databaseId": 44535090054,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-19T13:36:07Z",
-      "databaseId": 44535080599,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
     }
   ],
   "gaps": {
@@ -204277,6 +204277,11 @@
         "video_id": 31184186
       },
       {
+        "episode_id": 155876,
+        "display_name": "Nevysvětlitelná tajemství s Williamem Shatnerem S04E14 - 14. epizoda CZ Titulky",
+        "video_id": 31184439
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -390200,6 +390205,16 @@
         "episode_id": 110427,
         "display_name": "Darling in the Franxx S01E20 - 20. epizoda CZ Titulky",
         "video_id": 31183957
+      },
+      {
+        "episode_id": 187570,
+        "display_name": "Požárník Sam S06E04 - Ohňostroj pro Mandy CZ Dabing",
+        "video_id": 31184423
+      },
+      {
+        "episode_id": 187575,
+        "display_name": "Požárník Sam S06E03 - Elvis zpívá blues CZ Dabing",
+        "video_id": 31184460
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -594194,6 +594209,11 @@
         "video_id": 31184186
       },
       {
+        "episode_id": 155876,
+        "display_name": "Nevysvětlitelná tajemství s Williamem Shatnerem S04E14 - 14. epizoda CZ Titulky",
+        "video_id": 31184439
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -780117,6 +780137,16 @@
         "episode_id": 110427,
         "display_name": "Darling in the Franxx S01E20 - 20. epizoda CZ Titulky",
         "video_id": 31183957
+      },
+      {
+        "episode_id": 187570,
+        "display_name": "Požárník Sam S06E04 - Ohňostroj pro Mandy CZ Dabing",
+        "video_id": 31184423
+      },
+      {
+        "episode_id": 187575,
+        "display_name": "Požárník Sam S06E03 - Elvis zpívá blues CZ Dabing",
+        "video_id": 31184460
       }
     ],
     "prepared_not_upload_ready": [
@@ -781278,13 +781308,14 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 42,
-    "resolve_failed": 1
+    "disabled": 3,
+    "ok": 9,
+    "resolve_failed": 31
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34887,
+    "needs_whisper": 34890,
     "whisper_confirmed_cz": 4056,
-    "whisper_non_cz_needs_subtitles": 13282,
+    "whisper_non_cz_needs_subtitles": 13279,
     "whisper_failed": 1224
   },
   "subtitle_followup_statuses": {
