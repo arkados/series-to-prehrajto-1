@@ -918533,6 +918533,32 @@
         "download_sec": 12.8,
         "upload_sec": 27.6
       }
+    },
+    {
+      "episode_id": 2388,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 1,
+      "episode_code": "S04E01",
+      "display_name": "Star proti silám zla S04E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -42397471582087800,
+      "external_id": "34115792945cb6cc",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e1-butterfly-follies-cs/34115792945cb6cc",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192749,
+      "size_bytes": 343934914,
+      "uploaded_at": "2026-11-19T23:49:43Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.0,
+        "upload_sec": 49.4
+      }
     }
   ],
   "pending_uploads": [
@@ -919657,20 +919683,20 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 2388,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 4,
-      "episode": 1,
-      "display_name": "Star proti silám zla S04E01 - 1. epizoda CZ Titulky",
-      "intent_id": "a4bb548729234bdca05c85f0983c1078",
-      "started_at": "2026-11-19T23:48:13Z",
+      "episode_id": 100513,
+      "series_id": 2439,
+      "series_title": "Tintinova dobrodružství",
+      "season": 2,
+      "episode": 9,
+      "display_name": "Tintinova dobrodružství S02E09 - Tintin u Pikarů - 2. část CZ Dabing",
+      "intent_id": "834825ccbc8841b1ade30b0b643a7dae",
+      "started_at": "2026-11-19T23:48:11Z",
       "upload_account": "primary",
-      "source_id": -42397471582087800,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e1-butterfly-follies-cs/34115792945cb6cc",
-      "size_bytes": 343934914,
+      "source_id": -4692709457712452,
+      "source_url": "https://prehraj.to/tintinova-dobrodruzstvi-s02e09-tintin-u-pikaru-cast-2-720p/e519f5dced4b75e4",
+      "size_bytes": 401878960,
       "source_container": "mp4",
-      "source_download_kind": "original"
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337695,5 +1337721,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T23:48:13Z"
+  "last_updated": "2026-11-19T23:49:43Z"
 }
