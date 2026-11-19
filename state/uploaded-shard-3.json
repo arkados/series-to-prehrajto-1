@@ -915892,6 +915892,32 @@
         "download_sec": 17.2,
         "upload_sec": 39.7
       }
+    },
+    {
+      "episode_id": 128799,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 3,
+      "episode": 2,
+      "episode_code": "S03E02",
+      "display_name": "Lovci trolů od Guillerma Del Toro S03E02 - Nejhledanější v Arkádii CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -16507762198829087,
+      "external_id": "34f5804d94521494",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s3e2-arcadia-s-most-wanted-en/34f5804d94521494",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31191108,
+      "size_bytes": 830854381,
+      "uploaded_at": "2026-11-19T21:56:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 457.3,
+        "upload_sec": 144.0
+      }
     }
   ],
   "pending_uploads": [
@@ -916998,22 +917024,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 128799,
-      "series_id": 1968,
-      "series_title": "Lovci trolů od Guillerma Del Toro",
-      "season": 3,
-      "episode": 2,
-      "display_name": "Lovci trolů od Guillerma Del Toro S03E02 - Nejhledanější v Arkádii CZ Titulky",
-      "intent_id": "92764354d1df4c3ab22cdaafbc0fceef",
-      "started_at": "2026-11-19T21:53:48Z",
-      "upload_account": "serialy",
-      "source_id": -16507762198829087,
-      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s3e2-arcadia-s-most-wanted-en/34f5804d94521494",
-      "size_bytes": 830854381,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335038,5 +1335048,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T21:53:48Z"
+  "last_updated": "2026-11-19T21:56:45Z"
 }
