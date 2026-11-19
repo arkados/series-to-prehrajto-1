@@ -916530,6 +916530,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127594,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 25,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E25 - 25. epizoda CZ Titulky",
+      "intent_id": "135a6d58bf1843f6bb37becc48104dcd",
+      "started_at": "2026-11-19T17:45:46Z",
+      "upload_account": "serialy",
+      "source_id": -49681679632203277,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e25-in-to-the-other-side-of-paradise-this-side-of-justice-ja/940bf94de38ba323",
+      "size_bytes": 396056858,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334554,5 +1334570,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T16:45:00Z"
+  "last_updated": "2026-11-19T17:45:46Z"
 }
