@@ -915190,6 +915190,32 @@
         "download_sec": 20.7,
         "upload_sec": 39.2
       }
+    },
+    {
+      "episode_id": 2414,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 2,
+      "episode": 21,
+      "episode_code": "S02E21",
+      "display_name": "Star proti silám zla S02E21 - 21. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -5806441787722223,
+      "external_id": "f14143177f5337cd",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s2e21-hungry-larry-cs/f14143177f5337cd",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31186445,
+      "size_bytes": 329655898,
+      "uploaded_at": "2026-11-19T15:46:01Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 430.4,
+        "upload_sec": 33.3
+      }
     }
   ],
   "pending_uploads": [
@@ -916296,6 +916322,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 127591,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 22,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E22 - 22. epizoda CZ Titulky",
+      "intent_id": "1391c0e4a12a40daa5625a51066f9d34",
+      "started_at": "2026-11-19T15:48:53Z",
+      "upload_account": "serialy",
+      "source_id": -69097123999712849,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e22-du-abandoned-city-reversal-process-ja/0a52b3c5da073f69",
+      "size_bytes": 354123354,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1334320,5 +1334362,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T15:33:59Z"
+  "last_updated": "2026-11-19T15:48:56Z"
 }
