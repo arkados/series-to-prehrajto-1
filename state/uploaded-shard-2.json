@@ -915606,6 +915606,32 @@
         "download_sec": 847.8,
         "upload_sec": 48.2
       }
+    },
+    {
+      "episode_id": 167622,
+      "series_id": 1582,
+      "series_title": "Ranč Heartland",
+      "season": 16,
+      "episode": 11,
+      "episode_code": "S16E11",
+      "display_name": "Ranč Heartland S16E11 - 11. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -2024032961286661,
+      "external_id": "570d2bba6e8d6ee9",
+      "source_url": "https://prehraj.to/ranc-heartland-s16e11-head-over-heels-en/570d2bba6e8d6ee9",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31189398,
+      "size_bytes": 434881170,
+      "uploaded_at": "2026-11-19T19:17:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.2,
+        "upload_sec": 50.1
+      }
     }
   ],
   "pending_uploads": [
@@ -916710,22 +916736,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 167622,
-      "series_id": 1582,
-      "series_title": "Ranč Heartland",
-      "season": 16,
-      "episode": 11,
-      "display_name": "Ranč Heartland S16E11 - 11. epizoda CZ Titulky",
-      "intent_id": "8c4c5295cf8b4d928c35a610a3b3077c",
-      "started_at": "2026-11-19T19:16:04Z",
-      "upload_account": "serialy",
-      "source_id": -2024032961286661,
-      "source_url": "https://prehraj.to/ranc-heartland-s16e11-head-over-heels-en/570d2bba6e8d6ee9",
-      "size_bytes": 434881170,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1334752,5 +1334762,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T19:16:04Z"
+  "last_updated": "2026-11-19T19:17:32Z"
 }
