@@ -918039,6 +918039,32 @@
         "download_sec": 581.7,
         "upload_sec": 48.5
       }
+    },
+    {
+      "episode_id": 92433,
+      "series_id": 2204,
+      "series_title": "The Secret Life of the American Teenager",
+      "season": 5,
+      "episode": 24,
+      "episode_code": "S05E24",
+      "display_name": "The Secret Life of the American Teenager S05E24 - 24. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -21554160882908471,
+      "external_id": "57d8d960cc509",
+      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s05e24-sktit/57d8d960cc509",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31190563,
+      "size_bytes": 357784822,
+      "uploaded_at": "2026-11-19T20:59:29Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 67.4,
+        "upload_sec": 40.7
+      }
     }
   ],
   "pending_uploads": [
@@ -919159,22 +919185,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 92433,
-      "series_id": 2204,
-      "series_title": "The Secret Life of the American Teenager",
-      "season": 5,
-      "episode": 24,
-      "display_name": "The Secret Life of the American Teenager S05E24 - 24. epizoda CZ Titulky",
-      "intent_id": "982bb88b5dde45be882185f80b8d8c86",
-      "started_at": "2026-11-19T20:58:06Z",
-      "upload_account": "primary",
-      "source_id": -21554160882908471,
-      "source_url": "https://prehraj.to/the-secret-life-of-the-american-teenager-s05e24-sktit/57d8d960cc509",
-      "size_bytes": 357784822,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337201,5 +1337211,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T20:58:06Z"
+  "last_updated": "2026-11-19T20:59:29Z"
 }
