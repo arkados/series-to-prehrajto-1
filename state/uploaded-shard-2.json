@@ -913574,6 +913574,32 @@
         "download_sec": 21.9,
         "upload_sec": 57.8
       }
+    },
+    {
+      "episode_id": 83915,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 2,
+      "episode": 1,
+      "episode_code": "S02E01",
+      "display_name": "Lovci trolů od Guillerma Del Toro S02E01 - Útěk ze Země temna CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -51807225845926058,
+      "external_id": "6cae94954e7f97c6",
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s2e1-escape-from-the-darklands-en/6cae94954e7f97c6",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31167293,
+      "size_bytes": 497943433,
+      "uploaded_at": "2026-11-19T02:51:20Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.5,
+        "upload_sec": 48.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1332704,5 +1332730,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-19T02:36:20Z"
+  "last_updated": "2026-11-19T02:51:20Z"
 }
