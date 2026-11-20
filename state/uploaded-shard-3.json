@@ -918648,6 +918648,32 @@
         "download_sec": 15.6,
         "upload_sec": 36.0
       }
+    },
+    {
+      "episode_id": 46382,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 17,
+      "episode_code": "S03E17",
+      "display_name": "Melissa a Joey S03E17 - 17. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -10390728872230413,
+      "external_id": "aa7b89ee9e3a4b20",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e17-a-decent-proposal-cs/aa7b89ee9e3a4b20",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31205762,
+      "size_bytes": 388806420,
+      "uploaded_at": "2026-11-20T13:58:59Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.5,
+        "upload_sec": 41.8
+      }
     }
   ],
   "pending_uploads": [
@@ -919756,20 +919782,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 46382,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 17,
-      "display_name": "Melissa a Joey S03E17 - 17. epizoda CZ Dabing",
-      "intent_id": "14fbb4ace8a542ceba7f4c696d7d8f41",
-      "started_at": "2026-11-20T13:57:26Z",
+      "episode_id": 71863,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 6,
+      "display_name": "Highlander S02E06 - 6. epizoda CZ Titulky",
+      "intent_id": "44e893b6a01f47fb95280b082e1d0979",
+      "started_at": "2026-11-20T14:04:22Z",
       "upload_account": "serialy",
-      "source_id": -10390728872230413,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e17-a-decent-proposal-cs/aa7b89ee9e3a4b20",
-      "size_bytes": 388806420,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
+      "source_id": -8502225403019008,
+      "source_url": "https://prehraj.to/highlander-s02e06-cz-tit/58a0d2c42398f",
+      "size_bytes": 363321639,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337794,5 +1337820,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:58:15Z"
+  "last_updated": "2026-11-20T14:04:22Z"
 }
