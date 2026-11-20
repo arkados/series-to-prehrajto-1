@@ -919130,6 +919130,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 203599,
+      "series_id": 10470,
+      "series_title": "Lanterns",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Lanterns S01E07 - Jordanův odkaz CZ Dabing",
+      "intent_id": "2d494869ea0f43bcbe73566062fa5800",
+      "started_at": "2026-11-20T11:11:13Z",
+      "upload_account": "serialy",
+      "source_id": -65929001085204933,
+      "source_url": "https://prehraj.to/lanterns-s01e07-2160p-cz-dabing/a0dba10e992f81f8",
+      "size_bytes": 621242734,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337154,5 +1337170,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:07:50Z"
+  "last_updated": "2026-11-20T11:11:13Z"
 }
