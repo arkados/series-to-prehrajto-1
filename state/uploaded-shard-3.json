@@ -916568,6 +916568,32 @@
         "download_sec": 21.7,
         "upload_sec": 37.1
       }
+    },
+    {
+      "episode_id": 113286,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 17,
+      "episode_code": "S01E17",
+      "display_name": "Sindibádova dobrodružství S01E17 - Netvor CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -61849992778618417,
+      "external_id": "61863d0ca2b3a",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e17/61863d0ca2b3a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193396,
+      "size_bytes": 442405857,
+      "uploaded_at": "2026-11-20T00:43:09Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.9,
+        "upload_sec": 40.1
+      }
     }
   ],
   "pending_uploads": [
@@ -917674,6 +917700,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187627,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 11,
+      "display_name": "Požárník Sam S09E11 - Světla kamera lavina CZ Dabing",
+      "intent_id": "68fb44a42fe441ef93d114ab5ea47e73",
+      "started_at": "2026-11-20T00:50:40Z",
+      "upload_account": "serialy",
+      "source_id": -15107064470546474,
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e11-cz-dabing-pro-deti/5c746dc13cbb9",
+      "size_bytes": 337567546,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335698,5 +1335740,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:35:46Z"
+  "last_updated": "2026-11-20T00:50:40Z"
 }
