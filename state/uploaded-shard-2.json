@@ -919312,6 +919312,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 186594,
+      "series_id": 9710,
+      "series_title": "LEGO Ninjago: Dračí povstání",
+      "season": 3,
+      "episode": 17,
+      "display_name": "LEGO Ninjago: Dračí povstání S03E17 - Trezor soustředění CZ Titulky",
+      "intent_id": "a9e820e434f9439b805afb17a7d87acb",
+      "started_at": "2026-11-20T11:58:00Z",
+      "upload_account": "serialy",
+      "source_id": -9556911797235726,
+      "source_url": "https://prehraj.to/lego-ninjago-draci-povstani-s03e17-trezor-soustredeni-yt/cfc292dce7e64010",
+      "size_bytes": 489318025,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337336,5 +1337352,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:54:45Z"
+  "last_updated": "2026-11-20T11:58:00Z"
 }
