@@ -916542,6 +916542,32 @@
         "download_sec": 20.4,
         "upload_sec": 32.2
       }
+    },
+    {
+      "episode_id": 113294,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 15,
+      "episode_code": "S01E15",
+      "display_name": "Sindibádova dobrodružství S01E15 - Záchrana CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -52928605319646044,
+      "external_id": "61863890274ce",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e15/61863890274ce",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193250,
+      "size_bytes": 382935297,
+      "uploaded_at": "2026-11-20T00:32:15Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.7,
+        "upload_sec": 37.1
+      }
     }
   ],
   "pending_uploads": [
@@ -917646,22 +917672,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 113294,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 15,
-      "display_name": "Sindibádova dobrodružství S01E15 - Záchrana CZ Dabing",
-      "intent_id": "1061edf24e7148aa997ca7247099fb03",
-      "started_at": "2026-11-20T00:30:59Z",
-      "upload_account": "serialy",
-      "source_id": -52928605319646044,
-      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e15/61863890274ce",
-      "size_bytes": 382935297,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1335688,5 +1335698,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:30:59Z"
+  "last_updated": "2026-11-20T00:32:15Z"
 }
