@@ -919038,6 +919038,32 @@
         "download_sec": 33.3,
         "upload_sec": 43.5
       }
+    },
+    {
+      "episode_id": 46386,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 21,
+      "episode_code": "S03E21",
+      "display_name": "Melissa a Joey S03E21 - 21. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -4035814239701664,
+      "external_id": "3140d17b3f444ad6",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e21-plus-one-cs/3140d17b3f444ad6",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31209268,
+      "size_bytes": 382411068,
+      "uploaded_at": "2026-11-20T17:05:55Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 21.3,
+        "upload_sec": 46.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1338168,5 +1338194,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T17:01:09Z"
+  "last_updated": "2026-11-20T17:05:55Z"
 }
