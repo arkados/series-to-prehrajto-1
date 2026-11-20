@@ -917726,6 +917726,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2386,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 3,
+      "display_name": "Star proti silám zla S04E03 - 3. epizoda CZ Dabing",
+      "intent_id": "21d94ad43305434e8e8ea62db4d8f019",
+      "started_at": "2026-11-20T00:55:26Z",
+      "upload_account": "serialy",
+      "source_id": -69520627047923283,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e3-moon-remembers-cs/3888c1a2e2ffee7c",
+      "size_bytes": 338220981,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2383,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 5,
+      "display_name": "Star proti silám zla S04E05 - 5. epizoda CZ Dabing",
+      "intent_id": "fd6f69af94014f98b8f89ee2fdc66ee5",
+      "started_at": "2026-11-20T00:55:41Z",
+      "upload_account": "serialy",
+      "source_id": -21505613717086352,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e5-ransomgram-cs/eb5938a5d3442853",
+      "size_bytes": 338172519,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335750,5 +1335782,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:52:06Z"
+  "last_updated": "2026-11-20T00:55:41Z"
 }
