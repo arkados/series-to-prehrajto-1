@@ -918726,6 +918726,32 @@
         "download_sec": 14.6,
         "upload_sec": 35.3
       }
+    },
+    {
+      "episode_id": 46383,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 19,
+      "episode_code": "S03E19",
+      "display_name": "Melissa a Joey S03E19 - 19. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -45799808968088516,
+      "external_id": "4d9054318830b070",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e19-the-new-deal-cs/4d9054318830b070",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31205993,
+      "size_bytes": 389408292,
+      "uploaded_at": "2026-11-20T14:12:24Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 18.1,
+        "upload_sec": 74.7
+      }
     }
   ],
   "pending_uploads": [
@@ -919830,22 +919856,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46383,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 19,
-      "display_name": "Melissa a Joey S03E19 - 19. epizoda CZ Dabing",
-      "intent_id": "4a64257b50084c208e93e46592141833",
-      "started_at": "2026-11-20T14:10:40Z",
-      "upload_account": "serialy",
-      "source_id": -45799808968088516,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e19-the-new-deal-cs/4d9054318830b070",
-      "size_bytes": 389408292,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1337872,5 +1337882,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:10:40Z"
+  "last_updated": "2026-11-20T14:12:24Z"
 }
