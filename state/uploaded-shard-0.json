@@ -923191,6 +923191,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71948,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 3,
+      "display_name": "Highlander S05E03 - 3. epizoda CZ Titulky",
+      "intent_id": "393c23216a404d879a148a5085fd848c",
+      "started_at": "2026-11-20T23:39:31Z",
+      "upload_account": "primary",
+      "source_id": -45287736335039496,
+      "source_url": "https://prehraj.to/highlander-s05e03-cz-tit/59787b0cc5b28",
+      "size_bytes": 363268313,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1341215,5 +1341231,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:29:34Z"
+  "last_updated": "2026-11-20T23:39:31Z"
 }
