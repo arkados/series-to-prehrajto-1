@@ -916776,6 +916776,32 @@
         "download_sec": 14.9,
         "upload_sec": 28.4
       }
+    },
+    {
+      "episode_id": 113279,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 19,
+      "episode_code": "S01E19",
+      "display_name": "Sindibádova dobrodružství S01E19 - Rarach CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -40958956016693312,
+      "external_id": "61863d0ed91e1",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e19/61863d0ed91e1",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31194105,
+      "size_bytes": 421213731,
+      "uploaded_at": "2026-11-20T01:34:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 20.2,
+        "upload_sec": 46.8
+      }
     }
   ],
   "pending_uploads": [
@@ -917880,6 +917906,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 152062,
+      "series_id": 5235,
+      "series_title": "The Amazing Digital Circus",
+      "season": 1,
+      "episode": 4,
+      "display_name": "The Amazing Digital Circus S01E04 - 4. epizoda CZ Dabing",
+      "intent_id": "cbce1b3438424ce9ac60d595e22e3c5a",
+      "started_at": "2026-11-20T01:37:08Z",
+      "upload_account": "serialy",
+      "source_id": -58811237587127982,
+      "source_url": "https://prehraj.to/the-amazing-digital-circus-s01e04-4-epizoda-1080p-cz-dabing-mp4/e771013d385d79f1",
+      "size_bytes": 320567636,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1335906,5 +1335948,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:29:51Z"
+  "last_updated": "2026-11-20T01:37:08Z"
 }
