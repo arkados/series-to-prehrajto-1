@@ -920404,6 +920404,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187647,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 6,
+      "display_name": "Požárník Sam S10E06 - Trampoty s autobusem CZ Dabing",
+      "intent_id": "579ef28e31c4488590274dfd0b031c3b",
+      "started_at": "2026-11-20T19:28:06Z",
+      "upload_account": "serialy",
+      "source_id": -48950970209702338,
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e06-cz-dabing-pro-deti/5c75f00b7cc71",
+      "size_bytes": 342517865,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338428,5 +1338444,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:53:55Z"
+  "last_updated": "2026-11-20T19:28:06Z"
 }
