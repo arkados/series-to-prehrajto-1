@@ -917556,6 +917556,32 @@
         "download_sec": 10.7,
         "upload_sec": 24.6
       }
+    },
+    {
+      "episode_id": 46366,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 11,
+      "episode_code": "S02E11",
+      "display_name": "Melissa a Joey S02E11 - 11. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -33623921852761919,
+      "external_id": "b59834268f77c89d",
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e11-a-pair-of-sneakers-cs/b59834268f77c89d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31200712,
+      "size_bytes": 336724538,
+      "uploaded_at": "2026-11-20T09:21:47Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 18.8,
+        "upload_sec": 44.9
+      }
     }
   ],
   "pending_uploads": [
@@ -918660,22 +918686,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46366,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 2,
-      "episode": 11,
-      "display_name": "Melissa a Joey S02E11 - 11. epizoda CZ Dabing",
-      "intent_id": "dcbbc787a11544d3ae1b40eab156236c",
-      "started_at": "2026-11-20T09:20:22Z",
-      "upload_account": "serialy",
-      "source_id": -33623921852761919,
-      "source_url": "https://prehraj.to/melissa-a-joey-s2e11-a-pair-of-sneakers-cs/b59834268f77c89d",
-      "size_bytes": 336724538,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1336702,5 +1336712,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:20:22Z"
+  "last_updated": "2026-11-20T09:21:47Z"
 }
