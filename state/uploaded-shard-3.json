@@ -918740,6 +918740,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46359,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 10,
+      "display_name": "Melissa a Joey S02E10 - 10. epizoda CZ Dabing",
+      "intent_id": "aa998ff16f1c4775bdf36d0130df39f1",
+      "started_at": "2026-11-20T09:29:47Z",
+      "upload_account": "serialy",
+      "source_id": -8315281623448128,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e10-pretty-big-liars-cs/6b6019ac8505de0f",
+      "size_bytes": 317972611,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336764,5 +1336780,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:29:01Z"
+  "last_updated": "2026-11-20T09:29:47Z"
 }
