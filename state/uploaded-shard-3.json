@@ -917882,6 +917882,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 113279,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 19,
+      "display_name": "Sindibádova dobrodružství S01E19 - Rarach CZ Titulky",
+      "intent_id": "45a1d0b7b28f44b582c0d8e34a6dffc3",
+      "started_at": "2026-11-20T01:32:45Z",
+      "upload_account": "serialy",
+      "source_id": -40958956016693312,
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e19/61863d0ed91e1",
+      "size_bytes": 421213731,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1335906,5 +1335922,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:25:30Z"
+  "last_updated": "2026-11-20T01:32:45Z"
 }
