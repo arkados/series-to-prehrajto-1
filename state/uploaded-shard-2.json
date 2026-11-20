@@ -918688,6 +918688,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71906,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Highlander S01E10 - 10. epizoda CZ Titulky",
+      "intent_id": "cd4f3d2694194103b9c28e7eb7911d08",
+      "started_at": "2026-11-20T09:22:40Z",
+      "upload_account": "serialy",
+      "source_id": -54298184958790350,
+      "source_url": "https://prehraj.to/highlander-s01e10-cz-tit/58c1096fccddd",
+      "size_bytes": 347010498,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336712,5 +1336728,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:21:47Z"
+  "last_updated": "2026-11-20T09:22:40Z"
 }
