@@ -920799,6 +920799,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 123404,
+      "series_id": 3311,
+      "series_title": "Kill La Kill",
+      "season": 1,
+      "episode": 13,
+      "display_name": "Kill La Kill S01E13 - 13. epizoda CZ Titulky",
+      "intent_id": "98125422ec7444be8f4ce1c95fd35501",
+      "started_at": "2026-11-20T07:10:55Z",
+      "upload_account": "primary",
+      "source_id": -69951801364772770,
+      "source_url": "https://prehraj.to/kill-la-kill-s01e13-cztitulky/64c011b2d9a4c",
+      "size_bytes": 363663162,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338823,5 +1338839,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:01:38Z"
+  "last_updated": "2026-11-20T07:10:55Z"
 }
