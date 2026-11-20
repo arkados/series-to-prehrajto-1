@@ -919012,6 +919012,32 @@
         "download_sec": 26.8,
         "upload_sec": 79.4
       }
+    },
+    {
+      "episode_id": 123807,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "Flashpoint S02E06 - 6. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -22507328452782221,
+      "external_id": "2cce664568ec5d88",
+      "source_url": "https://prehraj.to/flashpoint-s2e6-remote-control-cs/2cce664568ec5d88",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31209084,
+      "size_bytes": 322538462,
+      "uploaded_at": "2026-11-20T17:00:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.3,
+        "upload_sec": 43.5
+      }
     }
   ],
   "pending_uploads": [
@@ -920116,6 +920142,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46386,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 21,
+      "display_name": "Melissa a Joey S03E21 - 21. epizoda CZ Dabing",
+      "intent_id": "e73fa86e45874cad96234a12f49359eb",
+      "started_at": "2026-11-20T17:04:17Z",
+      "upload_account": "serialy",
+      "source_id": -4035814239701664,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e21-plus-one-cs/3140d17b3f444ad6",
+      "size_bytes": 382411068,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338142,5 +1338184,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T16:44:52Z"
+  "last_updated": "2026-11-20T17:04:17Z"
 }
