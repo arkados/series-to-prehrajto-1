@@ -919662,6 +919662,32 @@
         "download_sec": 16.8,
         "upload_sec": 31.7
       }
+    },
+    {
+      "episode_id": 71882,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 2,
+      "episode_code": "S04E02",
+      "display_name": "Highlander S04E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -14725989374753754,
+      "external_id": "5978799f69935",
+      "source_url": "https://prehraj.to/highlander-s04e02-cz-tit/5978799f69935",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214200,
+      "size_bytes": 363258255,
+      "uploaded_at": "2026-11-20T22:07:02Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 479.5,
+        "upload_sec": 26.6
+      }
     }
   ],
   "pending_uploads": [
@@ -920768,6 +920794,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46415,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 10,
+      "display_name": "Melissa a Joey S04E10 - 10. epizoda CZ Dabing",
+      "intent_id": "d41352fb83ca4912b5b221f783ae24c1",
+      "started_at": "2026-11-20T22:09:48Z",
+      "upload_account": "serialy",
+      "source_id": -53627482164280127,
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e10-parental-guidance-1-cs/05ccd06b5afe68f6",
+      "size_bytes": 326003750,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338792,5 +1338834,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:59:25Z"
+  "last_updated": "2026-11-20T22:09:48Z"
 }
