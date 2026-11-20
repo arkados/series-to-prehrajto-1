@@ -917348,6 +917348,32 @@
         "download_sec": 21.4,
         "upload_sec": 43.2
       }
+    },
+    {
+      "episode_id": 204098,
+      "series_id": 581,
+      "series_title": "Král Tulsy",
+      "season": 4,
+      "episode": 5,
+      "episode_code": "S04E05",
+      "display_name": "Král Tulsy S04E05 - 5. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -20935770249820067,
+      "external_id": "b52191fea7be6eca",
+      "source_url": "https://prehraj.to/kral-tulsy-s04e05-1080p-cz-dabing/b52191fea7be6eca",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31199030,
+      "size_bytes": 516678186,
+      "uploaded_at": "2026-11-20T07:17:07Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.1,
+        "upload_sec": 60.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1336478,5 +1336504,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:12:15Z"
+  "last_updated": "2026-11-20T07:17:07Z"
 }
