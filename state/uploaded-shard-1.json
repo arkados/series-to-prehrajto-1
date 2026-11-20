@@ -921445,6 +921445,32 @@
         "download_sec": 693.9,
         "upload_sec": 43.5
       }
+    },
+    {
+      "episode_id": 152168,
+      "series_id": 5244,
+      "series_title": "Burnout Syndrome",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Burnout Syndrome S01E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -41185199682675220,
+      "external_id": "1823a8dbc32dc074",
+      "source_url": "https://prehraj.to/burnout-syndrome-s01e01-thai-bl-mkv/1823a8dbc32dc074",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212291,
+      "size_bytes": 700599116,
+      "uploaded_at": "2026-11-20T19:55:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 880.1,
+        "upload_sec": 51.7
+      }
     }
   ],
   "pending_uploads": [
@@ -922567,6 +922593,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46405,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 2,
+      "display_name": "Melissa a Joey S04E02 - 2. epizoda CZ Dabing",
+      "intent_id": "165356b00bf143368c7fc132b42410ba",
+      "started_at": "2026-11-20T19:58:38Z",
+      "upload_account": "primary",
+      "source_id": -52089373946093590,
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e2-a-melanie-josiah-christmas-cs/07d45b04e295248a",
+      "size_bytes": 337237213,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340591,5 +1340633,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T19:41:03Z"
+  "last_updated": "2026-11-20T19:58:38Z"
 }
