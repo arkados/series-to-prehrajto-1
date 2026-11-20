@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108208,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83446,
-    "prepared_source_episodes": 67891,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83447,
+    "prepared_source_episodes": 67903,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
@@ -21,10 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T14:38:50Z",
+      "databaseId": 44755456873,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T14:36:11Z",
+      "databaseId": 44755039770,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T14:36:05Z",
+      "databaseId": 44755022465,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T14:34:21Z",
+      "databaseId": 44754736217,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T14:34:17Z",
+      "databaseId": 44754726576,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T14:34:14Z",
+      "databaseId": 44754717384,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T14:33:47Z",
+      "databaseId": 44754647096,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T14:32:40Z",
       "databaseId": 44754464084,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +108,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T14:29:02Z",
       "databaseId": 44753873288,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -68,11 +124,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T14:25:22Z",
       "databaseId": 44753299224,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -119,62 +175,6 @@
       "conclusion": "cancelled",
       "createdAt": "2026-11-20T14:18:04Z",
       "databaseId": 44752118351,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-20T14:17:58Z",
-      "databaseId": 44752101948,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:17:06Z",
-      "databaseId": 44751966176,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:17:03Z",
-      "databaseId": 44751957055,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "refresh-backlog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:15:47Z",
-      "databaseId": 44751759840,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:15:22Z",
-      "databaseId": 44751689326,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:15:19Z",
-      "databaseId": 44751678465,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:14:58Z",
-      "databaseId": 44751616980,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
@@ -204955,6 +204955,11 @@
         "episode_id": 179365,
         "display_name": "Angi: Crimen y mentira S01E02 - 2. epizoda CZ Titulky",
         "video_id": 31206235
+      },
+      {
+        "episode_id": 91425,
+        "display_name": "Magnum P.I S01E08 - Zemři, řekl CZ Dabing",
+        "video_id": 31206330
       },
       {
         "episode_id": 114182,
@@ -596302,6 +596307,11 @@
         "episode_id": 179365,
         "display_name": "Angi: Crimen y mentira S01E02 - 2. epizoda CZ Titulky",
         "video_id": 31206235
+      },
+      {
+        "episode_id": 91425,
+        "display_name": "Magnum P.I S01E08 - Zemři, řekl CZ Dabing",
+        "video_id": 31206330
       },
       {
         "episode_id": 114182,
