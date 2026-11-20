@@ -919286,6 +919286,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46374,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 7,
+      "display_name": "Melissa a Joey S03E07 - 7. epizoda CZ Dabing",
+      "intent_id": "2390030d03704aee8125bffd998c420e",
+      "started_at": "2026-11-20T11:53:02Z",
+      "upload_account": "serialy",
+      "source_id": -60392780623762013,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e7-the-unkindest-cut-cs/a0ed9264a3788211",
+      "size_bytes": 369632604,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337310,5 +1337326,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:41:41Z"
+  "last_updated": "2026-11-20T11:53:02Z"
 }
