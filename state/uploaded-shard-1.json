@@ -919963,6 +919963,32 @@
         "download_sec": 13.4,
         "upload_sec": 43.2
       }
+    },
+    {
+      "episode_id": 157101,
+      "series_id": 5700,
+      "series_title": "Crashing",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Crashing S01E04 - Letáky CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -35777928025746127,
+      "external_id": "5f1dfcc7e0199",
+      "source_url": "https://prehraj.to/crashing-s01e04-2017-czdab/5f1dfcc7e0199",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31200203,
+      "size_bytes": 371835423,
+      "uploaded_at": "2026-11-20T08:45:30Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.1,
+        "upload_sec": 50.0
+      }
     }
   ],
   "pending_uploads": [
@@ -921087,18 +921113,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 157101,
-      "series_id": 5700,
-      "series_title": "Crashing",
+      "episode_id": 159480,
+      "series_id": 5933,
+      "series_title": "Apokalypsa: 2. světová válka",
       "season": 1,
       "episode": 4,
-      "display_name": "Crashing S01E04 - Letáky CZ Dabing",
-      "intent_id": "c76f6670b39b4b0287ea4b25aabb323b",
-      "started_at": "2026-11-20T08:43:22Z",
+      "display_name": "Apokalypsa: 2. světová válka S01E04 - Spojení CZ Dabing",
+      "intent_id": "e1227e187ffb46a88105c2e9ab5c6c5f",
+      "started_at": "2026-11-20T08:44:36Z",
       "upload_account": "primary",
-      "source_id": -35777928025746127,
-      "source_url": "https://prehraj.to/crashing-s01e04-2017-czdab/5f1dfcc7e0199",
-      "size_bytes": 371835423,
+      "source_id": -12736818836339055,
+      "source_url": "https://prehraj.to/apokalypsa-2-svetova-valka-s01e04-spojeni-1080p-cz-dabing-mp4/a7353dc4ae8f4dfb",
+      "size_bytes": 3042456684,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1339125,5 +1339151,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T08:43:22Z"
+  "last_updated": "2026-11-20T08:45:30Z"
 }
