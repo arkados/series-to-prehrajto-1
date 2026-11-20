@@ -917920,6 +917920,32 @@
         "download_sec": 77.3,
         "upload_sec": 117.4
       }
+    },
+    {
+      "episode_id": 87010,
+      "series_id": 2043,
+      "series_title": "My Mad Fat Diary",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "My Mad Fat Diary S02E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -70816074020684113,
+      "external_id": "a650b2df1c88e886",
+      "source_url": "https://prehraj.to/my-mad-fat-diary-s2e6-not-i-part-1-en/a650b2df1c88e886",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31202473,
+      "size_bytes": 351155820,
+      "uploaded_at": "2026-11-20T10:58:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.0,
+        "upload_sec": 43.6
+      }
     }
   ],
   "pending_uploads": [
@@ -919026,22 +919052,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 87010,
-      "series_id": 2043,
-      "series_title": "My Mad Fat Diary",
-      "season": 2,
-      "episode": 6,
-      "display_name": "My Mad Fat Diary S02E06 - 6. epizoda CZ Titulky",
-      "intent_id": "ed6e8fd48ed041559afaa3870d4a2222",
-      "started_at": "2026-11-20T10:57:32Z",
-      "upload_account": "serialy",
-      "source_id": -70816074020684113,
-      "source_url": "https://prehraj.to/my-mad-fat-diary-s2e6-not-i-part-1-en/a650b2df1c88e886",
-      "size_bytes": 351155820,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337066,5 +1337076,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T10:57:32Z"
+  "last_updated": "2026-11-20T10:58:58Z"
 }
