@@ -2,45 +2,133 @@
   "counts": {
     "backlog_episodes": 108344,
     "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83311,
-    "prepared_source_episodes": 67961,
+    "uploaded_episodes": 83313,
+    "prepared_source_episodes": 67948,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 43,
+    "language_audited_sources": 46,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53431,
-    "whisper_review_pending_sources": 36099,
+    "whisper_review_pending_sources": 36102,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52466,
-    "subtitle_followup_pending_sources": 52466
+    "subtitle_followup_sources": 52468,
+    "subtitle_followup_pending_sources": 52468
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-20T02:52:09Z",
-      "databaseId": 44663798980,
+      "createdAt": "2026-11-20T03:01:56Z",
+      "databaseId": 44664900445,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-20T02:51:59Z",
-      "databaseId": 44663780484,
+      "createdAt": "2026-11-20T03:01:12Z",
+      "databaseId": 44664813633,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T03:01:05Z",
+      "databaseId": 44664799480,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T03:00:59Z",
+      "databaseId": 44664786786,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "sync"
     },
     {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T03:00:28Z",
+      "databaseId": 44664722257,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T02:56:44Z",
+      "databaseId": 44664311413,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-20T02:56:37Z",
+      "databaseId": 44664297745,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T02:53:33Z",
+      "databaseId": 44663952785,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
       "conclusion": "",
+      "createdAt": "2026-11-20T02:53:30Z",
+      "databaseId": 44663947485,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T02:53:25Z",
+      "databaseId": 44663938501,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-20T02:53:02Z",
+      "databaseId": 44663898215,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T02:52:09Z",
+      "databaseId": 44663798980,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T02:51:59Z",
+      "databaseId": 44663780484,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
       "createdAt": "2026-11-20T02:51:02Z",
       "databaseId": 44663675144,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -60,19 +148,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T02:47:14Z",
       "databaseId": 44663243364,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T02:47:12Z",
       "databaseId": 44663238996,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -90,94 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T02:45:06Z",
-      "databaseId": 44662995267,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T02:44:02Z",
-      "databaseId": 44662873744,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T02:42:01Z",
-      "databaseId": 44662649469,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T02:41:54Z",
-      "databaseId": 44662636977,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T02:38:24Z",
-      "databaseId": 44662231700,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T02:38:21Z",
-      "databaseId": 44662226617,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T02:38:18Z",
-      "databaseId": 44662220854,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-20T02:37:24Z",
-      "databaseId": 44662113790,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T02:37:02Z",
-      "databaseId": 44662070694,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-20T02:36:51Z",
-      "databaseId": 44662049177,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T02:33:05Z",
-      "databaseId": 44661601063,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -390955,6 +390955,16 @@
         "episode_id": 128790,
         "display_name": "Lovci trolů od Guillerma Del Toro S02E05 - Zpátky domů CZ Titulky",
         "video_id": 31194934
+      },
+      {
+        "episode_id": 129399,
+        "display_name": "A.P. Bio S04E06 - 6. epizoda CZ Titulky",
+        "video_id": 31195183
+      },
+      {
+        "episode_id": 167603,
+        "display_name": "Noblesse S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31195251
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -781627,6 +781637,16 @@
         "episode_id": 128790,
         "display_name": "Lovci trolů od Guillerma Del Toro S02E05 - Zpátky domů CZ Titulky",
         "video_id": 31194934
+      },
+      {
+        "episode_id": 129399,
+        "display_name": "A.P. Bio S04E06 - 6. epizoda CZ Titulky",
+        "video_id": 31195183
+      },
+      {
+        "episode_id": 167603,
+        "display_name": "Noblesse S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31195251
       }
     ],
     "prepared_not_upload_ready": [
@@ -782788,17 +782808,17 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 3,
+    "disabled": 6,
     "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34872,
+    "needs_whisper": 34873,
     "whisper_confirmed_cz": 4150,
-    "whisper_non_cz_needs_subtitles": 13182,
-    "whisper_failed": 1227
+    "whisper_non_cz_needs_subtitles": 13179,
+    "whisper_failed": 1229
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52466
+    "needs_subtitle_setup_after_prehrajto_processing": 52468
   }
 }
