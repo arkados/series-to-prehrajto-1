@@ -918818,6 +918818,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46362,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 14,
+      "display_name": "Melissa a Joey S02E14 - 14. epizoda CZ Dabing",
+      "intent_id": "9fe372e93d194665b68a69fa04bd33d5",
+      "started_at": "2026-11-20T09:52:28Z",
+      "upload_account": "serialy",
+      "source_id": -42794045039687148,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e14-from-russia-with-love-cs/8b4a1e53d639e6bc",
+      "size_bytes": 323749044,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336842,5 +1336858,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:42:19Z"
+  "last_updated": "2026-11-20T09:52:28Z"
 }
