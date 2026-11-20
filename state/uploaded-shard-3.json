@@ -918974,6 +918974,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 100519,
+      "series_id": 2439,
+      "series_title": "Tintinova dobrodružství",
+      "season": 3,
+      "episode": 13,
+      "display_name": "Tintinova dobrodružství S03E13 - Tintin v Americe CZ Dabing",
+      "intent_id": "77b895b298c94a829c6e26fcbb103405",
+      "started_at": "2026-11-20T10:45:07Z",
+      "upload_account": "serialy",
+      "source_id": -41782513140657801,
+      "source_url": "https://prehraj.to/tintinova-dobrodruzstvi-s03e13-tintin-v-americe-720p-cz-dabing-mkv/48c487e06200ebf3",
+      "size_bytes": 424676118,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336998,5 +1337014,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T10:19:05Z"
+  "last_updated": "2026-11-20T10:45:07Z"
 }
