@@ -922723,6 +922723,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71868,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 3,
+      "display_name": "Highlander S03E03 - 3. epizoda CZ Titulky",
+      "intent_id": "12aa998908f248dc9b04ed5ac492d954",
+      "started_at": "2026-11-20T20:57:05Z",
+      "upload_account": "primary",
+      "source_id": -41955498672826899,
+      "source_url": "https://prehraj.to/highlander-s03e03-cz-tit/5978787ad5ea2",
+      "size_bytes": 362755796,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340747,5 +1340763,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T20:56:14Z"
+  "last_updated": "2026-11-20T20:57:05Z"
 }
