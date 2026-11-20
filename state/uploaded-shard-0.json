@@ -921991,6 +921991,32 @@
         "download_sec": 166.6,
         "upload_sec": 33.7
       }
+    },
+    {
+      "episode_id": 46421,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 20,
+      "episode_code": "S04E20",
+      "display_name": "Melissa a Joey S04E20 - 20. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -26234579961724919,
+      "external_id": "2768cba0b39cc8c3",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e20-game-night-cs/2768cba0b39cc8c3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215123,
+      "size_bytes": 321372163,
+      "uploaded_at": "2026-11-20T23:09:11Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.4,
+        "upload_sec": 31.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1341137,5 +1341163,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:04:36Z"
+  "last_updated": "2026-11-20T23:09:11Z"
 }
