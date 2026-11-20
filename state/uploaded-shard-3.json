@@ -917244,6 +917244,32 @@
         "download_sec": 14.4,
         "upload_sec": 29.6
       }
+    },
+    {
+      "episode_id": 109746,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 9,
+      "episode": 17,
+      "episode_code": "S09E17",
+      "display_name": "Dynastie S09E17 - 17. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -19881565825187230,
+      "external_id": "59536d9588d48",
+      "source_url": "https://prehraj.to/dynasty-s09e17/59536d9588d48",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31198586,
+      "size_bytes": 365998086,
+      "uploaded_at": "2026-11-20T06:40:56Z",
+      "timing": {
+        "resolve_sec": 4.3,
+        "download_sec": 21.6,
+        "upload_sec": 44.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1336374,5 +1336400,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T06:06:57Z"
+  "last_updated": "2026-11-20T06:40:56Z"
 }
