@@ -921263,6 +921263,58 @@
         "download_sec": 63.3,
         "upload_sec": 42.7
       }
+    },
+    {
+      "episode_id": 71929,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 4,
+      "episode_code": "S03E04",
+      "display_name": "Highlander S03E04 - 4. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -7081365928277404,
+      "external_id": "59787886a021f",
+      "source_url": "https://prehraj.to/highlander-s03e04-cz-tit/59787886a021f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211343,
+      "size_bytes": 363977694,
+      "uploaded_at": "2026-11-20T18:48:45Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 13.0,
+        "upload_sec": 32.0
+      }
+    },
+    {
+      "episode_id": 187645,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 4,
+      "episode_code": "S10E04",
+      "display_name": "Požárník Sam S10E04 - Ďábelská pizza CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -53611114222533193,
+      "external_id": "5c75eea45d027",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e04-cz-dabing-pro-deti/5c75eea45d027",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211414,
+      "size_bytes": 347318385,
+      "uploaded_at": "2026-11-20T18:53:55Z",
+      "timing": {
+        "resolve_sec": 0.6,
+        "download_sec": 208.5,
+        "upload_sec": 25.0
+      }
     }
   ],
   "pending_uploads": [
@@ -1340409,5 +1340461,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:41:31Z"
+  "last_updated": "2026-11-20T18:53:55Z"
 }
