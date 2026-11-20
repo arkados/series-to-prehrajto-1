@@ -917778,6 +917778,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2395,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 16,
+      "display_name": "Star proti silám zla S03E16 - 16. epizoda CZ Dabing",
+      "intent_id": "042be23118cd49968dea5a2770a3f306",
+      "started_at": "2026-11-20T01:10:29Z",
+      "upload_account": "serialy",
+      "source_id": -18984200726421791,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e16-princess-turdina-cs/b9481ee75ba89288",
+      "size_bytes": 338739575,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335802,5 +1335818,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:05:49Z"
+  "last_updated": "2026-11-20T01:10:39Z"
 }
