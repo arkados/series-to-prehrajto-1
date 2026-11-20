@@ -918116,6 +918116,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46342,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 20,
+      "display_name": "Melissa a Joey S01E20 - 20. epizoda CZ Dabing",
+      "intent_id": "6a43dc26bd2740b8bf3efa1b89af4b17",
+      "started_at": "2026-11-20T04:44:48Z",
+      "upload_account": "serialy",
+      "source_id": -68494471002149658,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e20-20-epizoda-720p-cz-dabing-mkv/59c126fbfea726d4",
+      "size_bytes": 368425400,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336140,5 +1336156,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:45:02Z"
+  "last_updated": "2026-11-20T04:44:48Z"
 }
