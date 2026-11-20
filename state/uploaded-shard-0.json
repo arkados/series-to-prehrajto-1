@@ -919027,6 +919027,32 @@
         "download_sec": 13.2,
         "upload_sec": 36.7
       }
+    },
+    {
+      "episode_id": 113280,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 20,
+      "episode_code": "S01E20",
+      "display_name": "Sindibádova dobrodružství S01E20 - Píseň sirény CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -14775207517625355,
+      "external_id": "5c2eb98ec7d3d",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x20/5c2eb98ec7d3d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31194381,
+      "size_bytes": 334622341,
+      "uploaded_at": "2026-11-20T01:55:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.7,
+        "upload_sec": 23.2
+      }
     }
   ],
   "pending_uploads": [
@@ -920149,22 +920175,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 113280,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 20,
-      "display_name": "Sindibádova dobrodružství S01E20 - Píseň sirény CZ Dabing",
-      "intent_id": "dbb04aa3691045289e3f6ff6c652c815",
-      "started_at": "2026-11-20T01:54:02Z",
-      "upload_account": "primary",
-      "source_id": -14775207517625355,
-      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x20/5c2eb98ec7d3d",
-      "size_bytes": 334622341,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338189,5 +1338199,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:54:02Z"
+  "last_updated": "2026-11-20T01:55:19Z"
 }
