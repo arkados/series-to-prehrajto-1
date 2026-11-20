@@ -922775,6 +922775,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71925,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 20,
+      "display_name": "Highlander S02E20 - 20. epizoda CZ Titulky",
+      "intent_id": "1e618331d6514adc9a4b74a73151bb1c",
+      "started_at": "2026-11-20T21:04:18Z",
+      "upload_account": "primary",
+      "source_id": -16385443398974180,
+      "source_url": "https://prehraj.to/highlander-s02e20-cz-tit/58c1125d9222a",
+      "size_bytes": 363327476,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340799,5 +1340815,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:03:30Z"
+  "last_updated": "2026-11-20T21:04:18Z"
 }
