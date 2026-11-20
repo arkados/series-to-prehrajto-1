@@ -917608,6 +917608,32 @@
         "download_sec": 20.4,
         "upload_sec": 31.3
       }
+    },
+    {
+      "episode_id": 46363,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Melissa a Joey S02E09 - 9. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -21617956645182556,
+      "external_id": "02e142203c774e7f",
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e9-eat-pray-date-cs/02e142203c774e7f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31200835,
+      "size_bytes": 321436799,
+      "uploaded_at": "2026-11-20T09:29:01Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 10.2,
+        "upload_sec": 58.1
+      }
     }
   ],
   "pending_uploads": [
@@ -918712,22 +918738,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46363,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 2,
-      "episode": 9,
-      "display_name": "Melissa a Joey S02E09 - 9. epizoda CZ Dabing",
-      "intent_id": "7293f9b6af71427196718b330af880ef",
-      "started_at": "2026-11-20T09:27:06Z",
-      "upload_account": "serialy",
-      "source_id": -21617956645182556,
-      "source_url": "https://prehraj.to/melissa-a-joey-s2e9-eat-pray-date-cs/02e142203c774e7f",
-      "size_bytes": 321436799,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1336754,5 +1336764,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:27:06Z"
+  "last_updated": "2026-11-20T09:29:01Z"
 }
