@@ -919272,6 +919272,32 @@
         "download_sec": 18.7,
         "upload_sec": 37.2
       }
+    },
+    {
+      "episode_id": 187646,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 5,
+      "episode_code": "S10E05",
+      "display_name": "Požárník Sam S10E05 - Katastrofický den se psem CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -18582727627780290,
+      "external_id": "5c75ef5b27b42",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e05-cz-dabing-pro-deti/5c75ef5b27b42",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211320,
+      "size_bytes": 344457745,
+      "uploaded_at": "2026-11-20T18:48:03Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.8,
+        "upload_sec": 36.7
+      }
     }
   ],
   "pending_uploads": [
@@ -920378,22 +920404,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 187646,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 10,
-      "episode": 5,
-      "display_name": "Požárník Sam S10E05 - Katastrofický den se psem CZ Dabing",
-      "intent_id": "74dce56ca5d2416dae88bdd47aeb9837",
-      "started_at": "2026-11-20T18:46:54Z",
-      "upload_account": "serialy",
-      "source_id": -18582727627780290,
-      "source_url": "https://prehraj.to/pozarnik-sam-s10e05-cz-dabing-pro-deti/5c75ef5b27b42",
-      "size_bytes": 344457745,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338418,5 +1338428,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:46:54Z"
+  "last_updated": "2026-11-20T18:48:03Z"
 }
