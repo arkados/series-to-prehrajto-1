@@ -920691,6 +920691,32 @@
         "download_sec": 16.8,
         "upload_sec": 34.9
       }
+    },
+    {
+      "episode_id": 46380,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 14,
+      "episode_code": "S03E14",
+      "display_name": "Melissa a Joey S03E14 - 14. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -45236290652133250,
+      "external_id": "671dd6fd84e27a74",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e14-what-happens-in-jersey-1-cs/671dd6fd84e27a74",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31205496,
+      "size_bytes": 407374645,
+      "uploaded_at": "2026-11-20T13:40:39Z",
+      "timing": {
+        "resolve_sec": 2.2,
+        "download_sec": 18.7,
+        "upload_sec": 37.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1339837,5 +1339863,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:31:36Z"
+  "last_updated": "2026-11-20T13:40:39Z"
 }
