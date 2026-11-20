@@ -921471,6 +921471,32 @@
         "download_sec": 880.1,
         "upload_sec": 51.7
       }
+    },
+    {
+      "episode_id": 46405,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 2,
+      "episode_code": "S04E02",
+      "display_name": "Melissa a Joey S04E02 - 2. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -52089373946093590,
+      "external_id": "07d45b04e295248a",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e2-a-melanie-josiah-christmas-cs/07d45b04e295248a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212346,
+      "size_bytes": 337237213,
+      "uploaded_at": "2026-11-20T19:59:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 12.6,
+        "upload_sec": 32.8
+      }
     }
   ],
   "pending_uploads": [
@@ -922593,22 +922619,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46405,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 4,
-      "episode": 2,
-      "display_name": "Melissa a Joey S04E02 - 2. epizoda CZ Dabing",
-      "intent_id": "165356b00bf143368c7fc132b42410ba",
-      "started_at": "2026-11-20T19:58:38Z",
-      "upload_account": "primary",
-      "source_id": -52089373946093590,
-      "source_url": "https://prehraj.to/melissa-a-joey-s4e2-a-melanie-josiah-christmas-cs/07d45b04e295248a",
-      "size_bytes": 337237213,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340633,5 +1340643,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T19:58:38Z"
+  "last_updated": "2026-11-20T19:59:45Z"
 }
