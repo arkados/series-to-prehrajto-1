@@ -916672,6 +916672,58 @@
         "download_sec": 12.9,
         "upload_sec": 27.4
       }
+    },
+    {
+      "episode_id": 2395,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 16,
+      "episode_code": "S03E16",
+      "display_name": "Star proti silám zla S03E16 - 16. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -18984200726421791,
+      "external_id": "b9481ee75ba89288",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e16-princess-turdina-cs/b9481ee75ba89288",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193788,
+      "size_bytes": 338739575,
+      "uploaded_at": "2026-11-20T01:12:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 13.4,
+        "upload_sec": 26.8
+      }
+    },
+    {
+      "episode_id": 46339,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 17,
+      "episode_code": "S01E17",
+      "display_name": "Melissa a Joey S01E17 - 17. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -29594021318159355,
+      "external_id": "2184ec2cdf9405b4",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e17-17-epizoda-720p-cz-dabing-mkv/2184ec2cdf9405b4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193808,
+      "size_bytes": 362891919,
+      "uploaded_at": "2026-11-20T01:13:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.0,
+        "upload_sec": 23.7
+      }
     }
   ],
   "pending_uploads": [
@@ -1335802,5 +1335854,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:07:14Z"
+  "last_updated": "2026-11-20T01:13:48Z"
 }
