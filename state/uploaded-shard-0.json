@@ -919889,6 +919889,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 113288,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 16,
+      "display_name": "Sindibádova dobrodružství S01E16 - Kratovo oko CZ Dabing",
+      "intent_id": "ee36aaa302324a58b22671282772ef3d",
+      "started_at": "2026-11-20T00:46:27Z",
+      "upload_account": "primary",
+      "source_id": -26573046494387500,
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x16/5c44779271dcf",
+      "size_bytes": 343826038,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337913,5 +1337929,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:45:33Z"
+  "last_updated": "2026-11-20T00:46:27Z"
 }
