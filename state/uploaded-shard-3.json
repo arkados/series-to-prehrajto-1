@@ -919832,6 +919832,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46383,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 19,
+      "display_name": "Melissa a Joey S03E19 - 19. epizoda CZ Dabing",
+      "intent_id": "4a64257b50084c208e93e46592141833",
+      "started_at": "2026-11-20T14:10:40Z",
+      "upload_account": "serialy",
+      "source_id": -45799808968088516,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e19-the-new-deal-cs/4d9054318830b070",
+      "size_bytes": 389408292,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337856,5 +1337872,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:07:45Z"
+  "last_updated": "2026-11-20T14:10:40Z"
 }
