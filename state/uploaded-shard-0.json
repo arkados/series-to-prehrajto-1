@@ -920981,6 +920981,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71904,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Highlander S01E07 - 7. epizoda CZ Titulky",
+      "intent_id": "63b59003b88843758b736e044efe1e92",
+      "started_at": "2026-11-20T07:57:49Z",
+      "upload_account": "primary",
+      "source_id": -10094948133001131,
+      "source_url": "https://prehraj.to/highlander-s01e07-cz-tit/58c1084d4495d",
+      "size_bytes": 439376966,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339005,5 +1339021,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:56:48Z"
+  "last_updated": "2026-11-20T07:57:49Z"
 }
