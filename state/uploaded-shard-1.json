@@ -921449,6 +921449,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46365,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 2,
+      "display_name": "Melissa a Joey S03E02 - 2. epizoda CZ Dabing",
+      "intent_id": "829aa42478a1482ea9f0756e18e6b41f",
+      "started_at": "2026-11-20T11:03:41Z",
+      "upload_account": "primary",
+      "source_id": -1238383030109841,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e2-toxic-parents-cs/9e5ee6d77b2b9a90",
+      "size_bytes": 365349913,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339473,5 +1339489,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T10:59:19Z"
+  "last_updated": "2026-11-20T11:03:41Z"
 }
