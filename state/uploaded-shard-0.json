@@ -919183,6 +919183,58 @@
         "download_sec": 12.4,
         "upload_sec": 27.5
       }
+    },
+    {
+      "episode_id": 109749,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 9,
+      "episode": 21,
+      "episode_code": "S09E21",
+      "display_name": "Dynastie S09E21 - 21. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -23388495733315344,
+      "external_id": "59536e19d7263",
+      "source_url": "https://prehraj.to/dynasty-s09e21/59536e19d7263",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195007,
+      "size_bytes": 365707269,
+      "uploaded_at": "2026-11-20T02:44:51Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.1,
+        "upload_sec": 37.0
+      }
+    },
+    {
+      "episode_id": 187633,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 17,
+      "episode_code": "S09E17",
+      "display_name": "Požárník Sam S09E17 - Hon na želvy CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -65662266098198853,
+      "external_id": "5c7470ad00062",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e17-cz-dabing-pro-deti/5c7470ad00062",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195049,
+      "size_bytes": 326692232,
+      "uploaded_at": "2026-11-20T02:46:48Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.5,
+        "upload_sec": 28.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1338329,5 +1338381,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T02:40:16Z"
+  "last_updated": "2026-11-20T02:46:48Z"
 }
