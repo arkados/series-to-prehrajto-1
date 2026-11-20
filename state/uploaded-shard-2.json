@@ -916750,6 +916750,32 @@
         "download_sec": 12.2,
         "upload_sec": 22.4
       }
+    },
+    {
+      "episode_id": 187615,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 25,
+      "episode_code": "S07E25",
+      "display_name": "Požárník Sam S07E25 - Dvojnásobné ohrožení CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -41743077187619885,
+      "external_id": "5c744d60696ba",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e25-cz-dabing-pro-deti/5c744d60696ba",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193970,
+      "size_bytes": 348102731,
+      "uploaded_at": "2026-11-20T01:23:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.9,
+        "upload_sec": 28.4
+      }
     }
   ],
   "pending_uploads": [
@@ -917856,22 +917882,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 187615,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 7,
-      "episode": 25,
-      "display_name": "Požárník Sam S07E25 - Dvojnásobné ohrožení CZ Dabing",
-      "intent_id": "d1dbb93482534f56a1b6f39ea7741e18",
-      "started_at": "2026-11-20T01:22:48Z",
-      "upload_account": "serialy",
-      "source_id": -41743077187619885,
-      "source_url": "https://prehraj.to/pozarnik-sam-s07e25-cz-dabing-pro-deti/5c744d60696ba",
-      "size_bytes": 348102731,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335896,5 +1335906,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:22:48Z"
+  "last_updated": "2026-11-20T01:25:30Z"
 }
