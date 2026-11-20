@@ -918611,6 +918611,32 @@
         "download_sec": 16.9,
         "upload_sec": 29.7
       }
+    },
+    {
+      "episode_id": 187621,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 5,
+      "episode_code": "S09E05",
+      "display_name": "Požárník Sam S09E05 - Kouzelník Norman CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -2816382414341928,
+      "external_id": "5c746b419705c",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e05-cz-dabing-pro-deti/5c746b419705c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192971,
+      "size_bytes": 349036426,
+      "uploaded_at": "2026-11-20T00:05:47Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.8,
+        "upload_sec": 24.9
+      }
     }
   ],
   "pending_uploads": [
@@ -919731,22 +919757,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187621,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 9,
-      "episode": 5,
-      "display_name": "Požárník Sam S09E05 - Kouzelník Norman CZ Dabing",
-      "intent_id": "729e6c7c9b61411cbd8b617249d8655c",
-      "started_at": "2026-11-20T00:04:22Z",
-      "upload_account": "primary",
-      "source_id": -2816382414341928,
-      "source_url": "https://prehraj.to/pozarnik-sam-s09e05-cz-dabing-pro-deti/5c746b419705c",
-      "size_bytes": 349036426,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337773,5 +1337783,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:04:22Z"
+  "last_updated": "2026-11-20T00:05:47Z"
 }
