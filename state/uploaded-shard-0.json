@@ -921211,6 +921211,32 @@
         "download_sec": 581.7,
         "upload_sec": 33.7
       }
+    },
+    {
+      "episode_id": 46401,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 37,
+      "episode_code": "S03E37",
+      "display_name": "Melissa a Joey S03E37 - 37. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -22070417445721118,
+      "external_id": "694287e9a8bb9b2d",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e37-at-last-cs/694287e9a8bb9b2d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211145,
+      "size_bytes": 335745472,
+      "uploaded_at": "2026-11-20T18:35:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 28.1,
+        "upload_sec": 39.1
+      }
     }
   ],
   "pending_uploads": [
@@ -922332,6 +922358,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71928,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 2,
+      "display_name": "Highlander S03E02 - 2. epizoda CZ Titulky",
+      "intent_id": "7e5ca8a86ae04fc5ae4b088388d1ea4f",
+      "started_at": "2026-11-20T18:40:19Z",
+      "upload_account": "primary",
+      "source_id": -2269172031277408,
+      "source_url": "https://prehraj.to/highlander-s03e02-cz-tit/58c1138ddf65a",
+      "size_bytes": 362698433,
+      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1340357,5 +1340399,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:31:30Z"
+  "last_updated": "2026-11-20T18:40:19Z"
 }
