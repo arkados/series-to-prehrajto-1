@@ -919636,6 +919636,32 @@
         "download_sec": 18.3,
         "upload_sec": 32.3
       }
+    },
+    {
+      "episode_id": 46411,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 9,
+      "episode_code": "S04E09",
+      "display_name": "Melissa a Joey S04E09 - 9. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -50300461548574440,
+      "external_id": "5a98a48ad9ffa",
+      "source_url": "https://prehraj.to/melissa-a-joey-s04e09-being-there/5a98a48ad9ffa",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214074,
+      "size_bytes": 334633912,
+      "uploaded_at": "2026-11-20T21:59:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.8,
+        "upload_sec": 31.7
+      }
     }
   ],
   "pending_uploads": [
@@ -920742,22 +920768,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46411,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 4,
-      "episode": 9,
-      "display_name": "Melissa a Joey S04E09 - 9. epizoda CZ Dabing",
-      "intent_id": "3c91bef75e6d4f18a35b12b7cb981015",
-      "started_at": "2026-11-20T21:58:21Z",
-      "upload_account": "serialy",
-      "source_id": -50300461548574440,
-      "source_url": "https://prehraj.to/melissa-a-joey-s04e09-being-there/5a98a48ad9ffa",
-      "size_bytes": 334633912,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338782,5 +1338792,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:58:21Z"
+  "last_updated": "2026-11-20T21:59:25Z"
 }
