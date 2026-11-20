@@ -918830,6 +918830,32 @@
         "download_sec": 79.0,
         "upload_sec": 254.2
       }
+    },
+    {
+      "episode_id": 123779,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Flashpoint S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -44207158185146964,
+      "external_id": "16731dce8408b47b",
+      "source_url": "https://prehraj.to/flashpoint-s01e08-8-epizoda-sd-cz-dabing-avi/16731dce8408b47b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31206549,
+      "size_bytes": 357010840,
+      "uploaded_at": "2026-11-20T14:48:14Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 20.6,
+        "upload_sec": 32.7
+      }
     }
   ],
   "pending_uploads": [
@@ -919936,22 +919962,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 123779,
-      "series_id": 3331,
-      "series_title": "Flashpoint",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Flashpoint S01E08 - 8. epizoda CZ Titulky",
-      "intent_id": "612418e61f664754a14f8059b9ed9faf",
-      "started_at": "2026-11-20T14:46:14Z",
-      "upload_account": "serialy",
-      "source_id": -44207158185146964,
-      "source_url": "https://prehraj.to/flashpoint-s01e08-8-epizoda-sd-cz-dabing-avi/16731dce8408b47b",
-      "size_bytes": 357010840,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337976,5 +1337986,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:46:14Z"
+  "last_updated": "2026-11-20T14:48:14Z"
 }
