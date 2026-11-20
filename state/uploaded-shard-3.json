@@ -919142,6 +919142,32 @@
         "download_sec": 732.7,
         "upload_sec": 39.1
       }
+    },
+    {
+      "episode_id": 46391,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 26,
+      "episode_code": "S03E26",
+      "display_name": "Melissa a Joey S03E26 - 26. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -5068893055961149,
+      "external_id": "374db9f053a2d56d",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e26-the-chaperones-cs/374db9f053a2d56d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31210224,
+      "size_bytes": 399362770,
+      "uploaded_at": "2026-11-20T17:48:16Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 20.0,
+        "upload_sec": 41.0
+      }
     }
   ],
   "pending_uploads": [
@@ -920246,22 +920272,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46391,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 26,
-      "display_name": "Melissa a Joey S03E26 - 26. epizoda CZ Dabing",
-      "intent_id": "62ee38ca1d0347b0a3d5dd022f77cefa",
-      "started_at": "2026-11-20T17:46:07Z",
-      "upload_account": "serialy",
-      "source_id": -5068893055961149,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e26-the-chaperones-cs/374db9f053a2d56d",
-      "size_bytes": 399362770,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338288,5 +1338298,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T17:46:07Z"
+  "last_updated": "2026-11-20T17:48:16Z"
 }
