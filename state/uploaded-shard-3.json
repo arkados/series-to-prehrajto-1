@@ -919520,6 +919520,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46423,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 15,
+      "display_name": "Melissa a Joey S02E15 - 15. epizoda CZ Dabing",
+      "intent_id": "8859da16c550474593e6bd83b4b7c7d4",
+      "started_at": "2026-11-20T12:53:55Z",
+      "upload_account": "serialy",
+      "source_id": -29456402093878951,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e15-mel-marries-joe-cs/0afa8201ebc3c37c",
+      "size_bytes": 330913013,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337544,5 +1337560,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:50:21Z"
+  "last_updated": "2026-11-20T12:53:55Z"
 }
