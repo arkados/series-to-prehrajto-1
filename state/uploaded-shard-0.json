@@ -920539,6 +920539,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46332,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Melissa a Joey S01E10 - 10. epizoda CZ Dabing",
+      "intent_id": "686ef5f6ce704a9984f76ca244a86f77",
+      "started_at": "2026-11-20T04:49:39Z",
+      "upload_account": "primary",
+      "source_id": -17060029025564445,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e10-10-epizoda-720p-cz-dabing-mkv/86a2eda0c33815d1",
+      "size_bytes": 339034610,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338563,5 +1338579,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T04:38:55Z"
+  "last_updated": "2026-11-20T04:49:39Z"
 }
