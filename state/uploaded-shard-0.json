@@ -921995,6 +921995,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46388,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 22,
+      "display_name": "Melissa a Joey S03E22 - 22. epizoda CZ Dabing",
+      "intent_id": "b17f9e5f5c6744c78f66d8735d30f1f1",
+      "started_at": "2026-11-20T15:35:29Z",
+      "upload_account": "primary",
+      "source_id": -1163101501458559,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e22-house-broken-cs/2384825ac3bc8afd",
+      "size_bytes": 374448014,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340019,5 +1340035,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T15:00:06Z"
+  "last_updated": "2026-11-20T15:35:29Z"
 }
