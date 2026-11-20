@@ -917622,6 +917622,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187626,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 10,
+      "display_name": "Požárník Sam S09E10 - Nahoru a pryč CZ Dabing",
+      "intent_id": "1e7af4e5677249afa7a389b0cf523fb5",
+      "started_at": "2026-11-20T00:28:46Z",
+      "upload_account": "serialy",
+      "source_id": -12821410810387126,
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e10-cz-dabing-pro-deti/5c746dbc68776",
+      "size_bytes": 358190043,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335646,5 +1335662,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:27:41Z"
+  "last_updated": "2026-11-20T00:28:46Z"
 }
