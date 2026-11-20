@@ -916906,6 +916906,32 @@
         "download_sec": 17.9,
         "upload_sec": 31.3
       }
+    },
+    {
+      "episode_id": 167603,
+      "series_id": 6852,
+      "series_title": "Noblesse",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Noblesse S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -6543527569747077,
+      "external_id": "6005d75400a07",
+      "source_url": "https://prehraj.to/noblesse-s01e08/6005d75400a07",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195251,
+      "size_bytes": 318734345,
+      "uploaded_at": "2026-11-20T02:59:20Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.1,
+        "upload_sec": 23.2
+      }
     }
   ],
   "pending_uploads": [
@@ -918012,22 +918038,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 167603,
-      "series_id": 6852,
-      "series_title": "Noblesse",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Noblesse S01E08 - 8. epizoda CZ Titulky",
-      "intent_id": "0ccff6c26320434f90e3c262847cb3a6",
-      "started_at": "2026-11-20T02:58:00Z",
-      "upload_account": "serialy",
-      "source_id": -6543527569747077,
-      "source_url": "https://prehraj.to/noblesse-s01e08/6005d75400a07",
-      "size_bytes": 318734345,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336052,5 +1336062,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T02:58:00Z"
+  "last_updated": "2026-11-20T02:59:20Z"
 }
