@@ -921054,6 +921054,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46418,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 22,
+      "display_name": "Melissa a Joey S04E22 - 22. epizoda CZ Dabing",
+      "intent_id": "d2257a5d317349219de5c83793db2bab",
+      "started_at": "2026-11-20T23:47:31Z",
+      "upload_account": "serialy",
+      "source_id": -63776961614365300,
+      "source_url": "https://prehraj.to/melissa-a-joey-s04e22-double-happiness/5ab46337d1ac9",
+      "size_bytes": 318934500,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339078,5 +1339094,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:41:20Z"
+  "last_updated": "2026-11-20T23:47:31Z"
 }
