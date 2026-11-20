@@ -919740,6 +919740,32 @@
         "download_sec": 33.7,
         "upload_sec": 31.3
       }
+    },
+    {
+      "episode_id": 71938,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 7,
+      "episode_code": "S04E07",
+      "display_name": "Highlander S04E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -55888890863702932,
+      "external_id": "58c11ae0ada07",
+      "source_url": "https://prehraj.to/highlander-s04e07-cz-tit/58c11ae0ada07",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214468,
+      "size_bytes": 363270845,
+      "uploaded_at": "2026-11-20T22:24:34Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 30.2,
+        "upload_sec": 35.3
+      }
     }
   ],
   "pending_uploads": [
@@ -920846,22 +920872,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71938,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 4,
-      "episode": 7,
-      "display_name": "Highlander S04E07 - 7. epizoda CZ Titulky",
-      "intent_id": "2bbe9d9f42444a45a1f80c50c52720d4",
-      "started_at": "2026-11-20T22:23:26Z",
-      "upload_account": "serialy",
-      "source_id": -55888890863702932,
-      "source_url": "https://prehraj.to/highlander-s04e07-cz-tit/58c11ae0ada07",
-      "size_bytes": 363270845,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338886,5 +1338896,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:23:26Z"
+  "last_updated": "2026-11-20T22:24:34Z"
 }
