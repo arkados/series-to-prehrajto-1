@@ -918050,6 +918050,32 @@
         "download_sec": 27.8,
         "upload_sec": 47.3
       }
+    },
+    {
+      "episode_id": 71910,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 20,
+      "episode_code": "S01E20",
+      "display_name": "Highlander S01E20 - 20. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -4509287713257413,
+      "external_id": "58c10c7ddfb38",
+      "source_url": "https://prehraj.to/highlander-s01e20-cz-tit/58c10c7ddfb38",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31202908,
+      "size_bytes": 363316204,
+      "uploaded_at": "2026-11-20T11:21:28Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.3,
+        "upload_sec": 26.0
+      }
     }
   ],
   "pending_uploads": [
@@ -919158,20 +919184,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 71910,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 1,
-      "episode": 20,
-      "display_name": "Highlander S01E20 - 20. epizoda CZ Titulky",
-      "intent_id": "ea38ac80a4da42cf9dfd61ca4f1b468f",
-      "started_at": "2026-11-20T11:20:31Z",
+      "episode_id": 46367,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 4,
+      "display_name": "Melissa a Joey S03E04 - 4. epizoda CZ Dabing",
+      "intent_id": "80cfb089ba9d410a81b99d436f0d306a",
+      "started_at": "2026-11-20T11:20:54Z",
       "upload_account": "serialy",
-      "source_id": -4509287713257413,
-      "source_url": "https://prehraj.to/highlander-s01e20-cz-tit/58c10c7ddfb38",
-      "size_bytes": 363316204,
-      "source_container": "mkv",
-      "source_download_kind": "original"
+      "source_id": -4606017972162747,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e4-can-t-hardly-wait-cs/ccd743c6c74c80a1",
+      "size_bytes": 354828187,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337196,5 +1337222,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:20:31Z"
+  "last_updated": "2026-11-20T11:21:28Z"
 }
