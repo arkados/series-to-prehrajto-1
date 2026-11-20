@@ -1,46 +1,86 @@
 {
   "counts": {
     "backlog_episodes": 108391,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83289,
-    "prepared_source_episodes": 67927,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 83290,
+    "prepared_source_episodes": 67925,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 49,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 42,
+    "language_whisper_attempted_sources": 42,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53432,
-    "whisper_review_pending_sources": 36097,
-    "upload_pending_checkpoints": 140,
+    "whisper_review_pending_sources": 36095,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52460,
     "subtitle_followup_pending_sources": 52460
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-20T01:07:06Z",
-      "databaseId": 44651186152,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T01:07:01Z",
-      "databaseId": 44651175630,
+      "createdAt": "2026-11-20T01:09:36Z",
+      "databaseId": 44651503292,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T01:09:26Z",
+      "databaseId": 44651481413,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T01:09:19Z",
+      "databaseId": 44651466765,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T01:08:34Z",
+      "databaseId": 44651372763,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T01:08:31Z",
+      "databaseId": 44651368137,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-20T01:07:06Z",
+      "databaseId": 44651186152,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T01:07:01Z",
+      "databaseId": 44651175630,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
       "createdAt": "2026-11-20T01:06:28Z",
       "databaseId": 44651106436,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -52,11 +92,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T01:06:00Z",
       "databaseId": 44651046084,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -76,11 +116,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-20T01:04:56Z",
       "databaseId": 44650902853,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -124,11 +164,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T01:01:30Z",
       "databaseId": 44650456358,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T01:01:00Z",
-      "databaseId": 44650388988,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T01:00:12Z",
-      "databaseId": 44650277996,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T01:00:08Z",
-      "databaseId": 44650268035,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T01:00:02Z",
-      "databaseId": 44650253148,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T00:59:55Z",
-      "databaseId": 44650237210,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -204580,6 +204580,11 @@
         "episode_id": 187629,
         "display_name": "Požárník Sam S09E13 - Potíže s vyhlídkou na stromě CZ Dabing",
         "video_id": 31193672
+      },
+      {
+        "episode_id": 46329,
+        "display_name": "Melissa a Joey S01E07 - 7. epizoda CZ Dabing",
+        "video_id": 31193722
       },
       {
         "episode_id": 114182,
@@ -595144,6 +595149,11 @@
         "video_id": 31193672
       },
       {
+        "episode_id": 46329,
+        "display_name": "Melissa a Joey S01E07 - 7. epizoda CZ Dabing",
+        "video_id": 31193722
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -782568,13 +782578,12 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 9,
-    "ok": 39,
+    "ok": 41,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34870,
-    "whisper_confirmed_cz": 4136,
+    "needs_whisper": 34868,
+    "whisper_confirmed_cz": 4138,
     "whisper_non_cz_needs_subtitles": 13199,
     "whisper_failed": 1227
   },
