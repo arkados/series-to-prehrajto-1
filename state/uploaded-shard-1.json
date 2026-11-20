@@ -922333,6 +922333,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46401,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 37,
+      "display_name": "Melissa a Joey S03E37 - 37. epizoda CZ Dabing",
+      "intent_id": "2042ac9f8abc437187360473fc7395ff",
+      "started_at": "2026-11-20T18:34:30Z",
+      "upload_account": "primary",
+      "source_id": -22070417445721118,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e37-at-last-cs/694287e9a8bb9b2d",
+      "size_bytes": 335745472,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340357,5 +1340373,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:17:57Z"
+  "last_updated": "2026-11-20T18:34:30Z"
 }
