@@ -918949,6 +918949,32 @@
         "download_sec": 19.8,
         "upload_sec": 34.9
       }
+    },
+    {
+      "episode_id": 113273,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 18,
+      "episode_code": "S01E18",
+      "display_name": "Sindibádova dobrodružství S01E18 - Velikán CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -23712833924544072,
+      "external_id": "5c1da6a46034d",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x18/5c1da6a46034d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31194048,
+      "size_bytes": 403560825,
+      "uploaded_at": "2026-11-20T01:29:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.7,
+        "upload_sec": 31.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1338095,5 +1338121,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:25:30Z"
+  "last_updated": "2026-11-20T01:29:51Z"
 }
