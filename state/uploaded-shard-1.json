@@ -920405,6 +920405,32 @@
         "download_sec": 12.0,
         "upload_sec": 24.4
       }
+    },
+    {
+      "episode_id": 46369,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "Melissa a Joey S03E03 - 3. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -9720864368515203,
+      "external_id": "f9d5fd3824bd6fa0",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e3-inside-job-cs/f9d5fd3824bd6fa0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31202923,
+      "size_bytes": 352348878,
+      "uploaded_at": "2026-11-20T11:22:06Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 17.0,
+        "upload_sec": 34.7
+      }
     }
   ],
   "pending_uploads": [
@@ -921527,22 +921553,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46369,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 3,
-      "display_name": "Melissa a Joey S03E03 - 3. epizoda CZ Dabing",
-      "intent_id": "d7f619a75dea4ea783b585ee984dda31",
-      "started_at": "2026-11-20T11:20:34Z",
-      "upload_account": "primary",
-      "source_id": -9720864368515203,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e3-inside-job-cs/f9d5fd3824bd6fa0",
-      "size_bytes": 352348878,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339567,5 +1339577,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:20:34Z"
+  "last_updated": "2026-11-20T11:22:06Z"
 }
