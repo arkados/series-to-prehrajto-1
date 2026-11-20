@@ -922125,6 +922125,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71921,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 15,
+      "display_name": "Highlander S02E15 - 15. epizoda CZ Titulky",
+      "intent_id": "df53b2ea31b94cde8af1db65027071ba",
+      "started_at": "2026-11-20T16:28:22Z",
+      "upload_account": "primary",
+      "source_id": -52445985677771882,
+      "source_url": "https://prehraj.to/highlander-s02e15-cz-tit/58c11111b32ca",
+      "size_bytes": 363315775,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340149,5 +1340165,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T16:17:06Z"
+  "last_updated": "2026-11-20T16:28:22Z"
 }
