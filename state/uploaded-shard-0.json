@@ -921523,6 +921523,32 @@
         "download_sec": 580.0,
         "upload_sec": 35.8
       }
+    },
+    {
+      "episode_id": 46396,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 30,
+      "episode_code": "S03E30",
+      "display_name": "Melissa a Joey S03E30 - 30. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -17921262350856105,
+      "external_id": "44472a38dc3678fc",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e30-more-than-roommates-cs/44472a38dc3678fc",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213089,
+      "size_bytes": 401674649,
+      "uploaded_at": "2026-11-20T20:49:08Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 672.7,
+        "upload_sec": 34.2
+      }
     }
   ],
   "pending_uploads": [
@@ -922645,22 +922671,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46396,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 30,
-      "display_name": "Melissa a Joey S03E30 - 30. epizoda CZ Dabing",
-      "intent_id": "56dac2cbeb754b98a77f596ce1a1f0e6",
-      "started_at": "2026-11-20T20:47:48Z",
-      "upload_account": "primary",
-      "source_id": -17921262350856105,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e30-more-than-roommates-cs/44472a38dc3678fc",
-      "size_bytes": 401674649,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340685,5 +1340695,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T20:47:48Z"
+  "last_updated": "2026-11-20T20:49:08Z"
 }
