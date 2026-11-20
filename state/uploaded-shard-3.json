@@ -917660,6 +917660,32 @@
         "download_sec": 12.8,
         "upload_sec": 26.4
       }
+    },
+    {
+      "episode_id": 71907,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Highlander S01E11 - 11. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -60348842977499460,
+      "external_id": "58c10977b68c9",
+      "source_url": "https://prehraj.to/highlander-s01e11-cz-tit/58c10977b68c9",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31200934,
+      "size_bytes": 363191849,
+      "uploaded_at": "2026-11-20T09:33:44Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.4,
+        "upload_sec": 26.5
+      }
     }
   ],
   "pending_uploads": [
@@ -918766,22 +918792,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71907,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 1,
-      "episode": 11,
-      "display_name": "Highlander S01E11 - 11. epizoda CZ Titulky",
-      "intent_id": "df4142df94df4d05ab8775003a0a998c",
-      "started_at": "2026-11-20T09:32:19Z",
-      "upload_account": "serialy",
-      "source_id": -60348842977499460,
-      "source_url": "https://prehraj.to/highlander-s01e11-cz-tit/58c10977b68c9",
-      "size_bytes": 363191849,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336806,5 +1336816,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:32:19Z"
+  "last_updated": "2026-11-20T09:33:44Z"
 }
