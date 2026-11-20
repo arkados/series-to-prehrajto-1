@@ -918362,6 +918362,58 @@
         "download_sec": 10.2,
         "upload_sec": 38.1
       }
+    },
+    {
+      "episode_id": 202663,
+      "series_id": 10363,
+      "series_title": "Město v plamenech",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Město v plamenech S01E02 - Scény ze soukromého života CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -9437650453457497,
+      "external_id": "7aff515718b6117f",
+      "source_url": "https://prehraj.to/mesto-v-plamenech-s1e2-scenes-from-private-life-en/7aff515718b6117f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204588,
+      "size_bytes": 422180356,
+      "uploaded_at": "2026-11-20T12:48:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.8,
+        "upload_sec": 38.9
+      }
+    },
+    {
+      "episode_id": 187635,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 19,
+      "episode_code": "S09E19",
+      "display_name": "Požárník Sam S09E19 - Záchrana v horách CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -43005638913929215,
+      "external_id": "5c7470e7183ee",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e19-cz-dabing-pro-deti/5c7470e7183ee",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204625,
+      "size_bytes": 336647100,
+      "uploaded_at": "2026-11-20T12:50:21Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.6,
+        "upload_sec": 38.3
+      }
     }
   ],
   "pending_uploads": [
@@ -919470,19 +919522,35 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 202663,
-      "series_id": 10363,
-      "series_title": "Město v plamenech",
-      "season": 1,
-      "episode": 2,
-      "display_name": "Město v plamenech S01E02 - Scény ze soukromého života CZ Titulky",
-      "intent_id": "1c66e3af2d974dfbabe559933e9d2af8",
-      "started_at": "2026-11-20T12:47:03Z",
+      "episode_id": 46423,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 15,
+      "display_name": "Melissa a Joey S02E15 - 15. epizoda CZ Dabing",
+      "intent_id": "8859da16c550474593e6bd83b4b7c7d4",
+      "started_at": "2026-11-20T12:53:55Z",
       "upload_account": "serialy",
-      "source_id": -9437650453457497,
-      "source_url": "https://prehraj.to/mesto-v-plamenech-s1e2-scenes-from-private-life-en/7aff515718b6117f",
-      "size_bytes": 422180356,
+      "source_id": -29456402093878951,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e15-mel-marries-joe-cs/0afa8201ebc3c37c",
+      "size_bytes": 330913013,
       "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71858,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 18,
+      "display_name": "Highlander S01E18 - 18. epizoda CZ Titulky",
+      "intent_id": "828670b817ef4685b722f390457bd1e3",
+      "started_at": "2026-11-20T12:53:56Z",
+      "upload_account": "serialy",
+      "source_id": -7279790570734809,
+      "source_url": "https://prehraj.to/highlander-s01e18-cz-tit/597876e0aed79",
+      "size_bytes": 363213994,
+      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1337508,5 +1337576,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:47:46Z"
+  "last_updated": "2026-11-20T12:53:56Z"
 }
