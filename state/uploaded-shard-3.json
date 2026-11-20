@@ -918324,6 +918324,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71851,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 1,
+      "display_name": "Highlander S01E01 - 1. epizoda CZ Titulky",
+      "intent_id": "68d5f69f308b48f6a5c9f757956509a3",
+      "started_at": "2026-11-20T05:55:02Z",
+      "upload_account": "serialy",
+      "source_id": -17420688431637802,
+      "source_url": "https://prehraj.to/highlander-s01e01-cz-tit/58a0c79009f9b",
+      "size_bytes": 363004227,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336348,5 +1336364,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:54:15Z"
+  "last_updated": "2026-11-20T05:55:02Z"
 }
