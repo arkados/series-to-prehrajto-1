@@ -920431,6 +920431,32 @@
         "download_sec": 17.0,
         "upload_sec": 34.7
       }
+    },
+    {
+      "episode_id": 71860,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 22,
+      "episode_code": "S01E22",
+      "display_name": "Highlander S01E22 - 22. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -18216528821506674,
+      "external_id": "59787724ea716",
+      "source_url": "https://prehraj.to/highlander-s01e22-cz-tit/59787724ea716",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31203060,
+      "size_bytes": 363493779,
+      "uploaded_at": "2026-11-20T11:29:03Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 22.5,
+        "upload_sec": 40.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1339577,5 +1339603,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:26:04Z"
+  "last_updated": "2026-11-20T11:29:03Z"
 }
