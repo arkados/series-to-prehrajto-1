@@ -919818,6 +919818,32 @@
         "download_sec": 16.6,
         "upload_sec": 38.0
       }
+    },
+    {
+      "episode_id": 46419,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 17,
+      "episode_code": "S04E17",
+      "display_name": "Melissa a Joey S04E17 - 17. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -30303640586871456,
+      "external_id": "3cb420573075f8d6",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e17-the-parent-trap-cs/3cb420573075f8d6",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214682,
+      "size_bytes": 315443473,
+      "uploaded_at": "2026-11-20T22:38:39Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.4,
+        "upload_sec": 23.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1338948,5 +1338974,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:37:13Z"
+  "last_updated": "2026-11-20T22:43:22Z"
 }
