@@ -920300,6 +920300,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71927,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 22,
+      "display_name": "Highlander S02E22 - 22. epizoda CZ Titulky",
+      "intent_id": "81abea8c499b4844865c92166750a150",
+      "started_at": "2026-11-20T18:17:57Z",
+      "upload_account": "serialy",
+      "source_id": -28914940129435661,
+      "source_url": "https://prehraj.to/highlander-s02e22-cz-tit/58c11302a5f9a",
+      "size_bytes": 363338869,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338324,5 +1338340,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:01:02Z"
+  "last_updated": "2026-11-20T18:17:57Z"
 }
