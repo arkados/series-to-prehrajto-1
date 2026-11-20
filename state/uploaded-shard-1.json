@@ -919495,6 +919495,32 @@
         "download_sec": 13.6,
         "upload_sec": 31.0
       }
+    },
+    {
+      "episode_id": 46345,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 23,
+      "episode_code": "S01E23",
+      "display_name": "Melissa a Joey S01E23 - 23. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -63904266136119001,
+      "external_id": "c971dc8fc34f9d75",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e23-23-epizoda-720p-cz-dabing-mkv/c971dc8fc34f9d75",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197523,
+      "size_bytes": 373428018,
+      "uploaded_at": "2026-11-20T05:23:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.1,
+        "upload_sec": 35.2
+      }
     }
   ],
   "pending_uploads": [
@@ -920617,22 +920643,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46345,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 23,
-      "display_name": "Melissa a Joey S01E23 - 23. epizoda CZ Dabing",
-      "intent_id": "ac41092898b54b5b9a6d72b6f5b7ac8b",
-      "started_at": "2026-11-20T05:21:20Z",
-      "upload_account": "primary",
-      "source_id": -63904266136119001,
-      "source_url": "https://prehraj.to/melissa-a-joey-s01e23-23-epizoda-720p-cz-dabing-mkv/c971dc8fc34f9d75",
-      "size_bytes": 373428018,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338657,5 +1338667,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:21:20Z"
+  "last_updated": "2026-11-20T05:23:09Z"
 }
