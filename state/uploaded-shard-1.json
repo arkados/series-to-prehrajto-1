@@ -922281,6 +922281,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46397,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 32,
+      "display_name": "Melissa a Joey S03E32 - 32. epizoda CZ Dabing",
+      "intent_id": "ff6f4bacacda43c6be2347892448fb49",
+      "started_at": "2026-11-20T17:45:56Z",
+      "upload_account": "primary",
+      "source_id": -8614932408061129,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e32-right-time-right-place-cs/27ea3b23192529ba",
+      "size_bytes": 357471973,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340305,5 +1340321,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T17:42:44Z"
+  "last_updated": "2026-11-20T17:45:56Z"
 }
