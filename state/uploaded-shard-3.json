@@ -919714,6 +919714,32 @@
         "download_sec": 591.8,
         "upload_sec": 36.8
       }
+    },
+    {
+      "episode_id": 71935,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 1,
+      "episode_code": "S04E01",
+      "display_name": "Highlander S04E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -1978228131523786,
+      "external_id": "5978799173a44",
+      "source_url": "https://prehraj.to/highlander-s04e01-cz-tit/5978799173a44",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214295,
+      "size_bytes": 363269779,
+      "uploaded_at": "2026-11-20T22:13:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 33.7,
+        "upload_sec": 31.3
+      }
     }
   ],
   "pending_uploads": [
@@ -920820,22 +920846,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71935,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 4,
-      "episode": 1,
-      "display_name": "Highlander S04E01 - 1. epizoda CZ Titulky",
-      "intent_id": "ae42f83aad974a8c9ae73da05ce890cd",
-      "started_at": "2026-11-20T22:12:14Z",
-      "upload_account": "serialy",
-      "source_id": -1978228131523786,
-      "source_url": "https://prehraj.to/highlander-s04e01-cz-tit/5978799173a44",
-      "size_bytes": 363269779,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338860,5 +1338870,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:12:14Z"
+  "last_updated": "2026-11-20T22:13:21Z"
 }
