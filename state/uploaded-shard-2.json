@@ -920014,6 +920014,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 167606,
+      "series_id": 6852,
+      "series_title": "Noblesse",
+      "season": 1,
+      "episode": 11,
+      "display_name": "Noblesse S01E11 - 11. epizoda CZ Titulky",
+      "intent_id": "677572a20abe4b0aa5f33a432a8d447b",
+      "started_at": "2026-11-20T15:43:23Z",
+      "upload_account": "serialy",
+      "source_id": -63519719679161571,
+      "source_url": "https://prehraj.to/noblesse-s01e11/6005e01395d85",
+      "size_bytes": 317664052,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338038,5 +1338054,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T15:41:21Z"
+  "last_updated": "2026-11-20T15:43:23Z"
 }
