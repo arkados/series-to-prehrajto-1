@@ -2,15 +2,15 @@
   "counts": {
     "backlog_episodes": 108208,
     "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83448,
-    "prepared_source_episodes": 67902,
+    "uploaded_episodes": 83449,
+    "prepared_source_episodes": 67893,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
     "language_audited_sources": 46,
-    "language_whisper_attempted_sources": 44,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53420,
     "whisper_review_pending_sources": 36093,
@@ -21,6 +21,54 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T14:50:05Z",
+      "databaseId": 44757261038,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T14:50:02Z",
+      "databaseId": 44757252194,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T14:49:54Z",
+      "databaseId": 44757232337,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T14:49:18Z",
+      "databaseId": 44757138064,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T14:47:55Z",
+      "databaseId": 44756915587,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T14:46:14Z",
+      "databaseId": 44756646228,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
       "createdAt": "2026-11-20T14:45:35Z",
       "databaseId": 44756539103,
       "headBranch": "main",
@@ -28,27 +76,27 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T14:45:02Z",
       "databaseId": 44756444327,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T14:44:53Z",
       "databaseId": 44756420784,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-20T14:44:33Z",
       "databaseId": 44756369409,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -60,11 +108,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T14:40:17Z",
       "databaseId": 44755687019,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -108,11 +156,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T14:34:14Z",
       "databaseId": 44754717384,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T14:31:48Z",
-      "databaseId": 44754326547,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T14:29:34Z",
-      "databaseId": 44753956908,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T14:29:09Z",
-      "databaseId": 44753893714,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:29:02Z",
-      "databaseId": 44753873288,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:25:29Z",
-      "databaseId": 44753316434,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T14:25:22Z",
-      "databaseId": 44753299224,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
     }
   ],
   "gaps": {
@@ -391640,6 +391640,11 @@
         "episode_id": 91403,
         "display_name": "Magnum P.I S02E15 - Pozdrav svou minulost CZ Dabing",
         "video_id": 31206431
+      },
+      {
+        "episode_id": 123779,
+        "display_name": "Flashpoint S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31206549
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -782997,6 +783002,11 @@
         "episode_id": 91403,
         "display_name": "Magnum P.I S02E15 - Pozdrav svou minulost CZ Dabing",
         "video_id": 31206431
+      },
+      {
+        "episode_id": 123779,
+        "display_name": "Flashpoint S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31206549
       }
     ],
     "prepared_not_upload_ready": [
@@ -784158,10 +784168,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "sample_failed": 2,
-    "ok": 40,
-    "disabled": 2,
-    "stream_undersized": 1,
+    "disabled": 6,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
