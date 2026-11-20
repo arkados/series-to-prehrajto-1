@@ -916386,6 +916386,32 @@
         "download_sec": 17.4,
         "upload_sec": 35.4
       }
+    },
+    {
+      "episode_id": 110418,
+      "series_id": 2768,
+      "series_title": "Darling in the Franxx",
+      "season": 1,
+      "episode": 15,
+      "episode_code": "S01E15",
+      "display_name": "Darling in the Franxx S01E15 - 15. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -63672271422800671,
+      "external_id": "6147a574b1df5",
+      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e15/6147a574b1df5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31192959,
+      "size_bytes": 342296587,
+      "uploaded_at": "2026-11-20T00:05:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.7,
+        "upload_sec": 27.6
+      }
     }
   ],
   "pending_uploads": [
@@ -917492,22 +917518,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 110418,
-      "series_id": 2768,
-      "series_title": "Darling in the Franxx",
-      "season": 1,
-      "episode": 15,
-      "display_name": "Darling in the Franxx S01E15 - 15. epizoda CZ Titulky",
-      "intent_id": "535f8c999b4044beb51703f0df8c7877",
-      "started_at": "2026-11-20T00:04:18Z",
-      "upload_account": "serialy",
-      "source_id": -63672271422800671,
-      "source_url": "https://prehraj.to/darling-in-the-franxx-s01e15/6147a574b1df5",
-      "size_bytes": 342296587,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335532,5 +1335542,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:04:18Z"
+  "last_updated": "2026-11-20T00:05:22Z"
 }
