@@ -916984,6 +916984,32 @@
         "download_sec": 16.4,
         "upload_sec": 38.7
       }
+    },
+    {
+      "episode_id": 2379,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 10,
+      "episode_code": "S04E10",
+      "display_name": "Star proti silám zla S04E10 - 10. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -3599252390433162,
+      "external_id": "8c06bb232d16158d",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e10-surviving-the-spiderbites-cs/8c06bb232d16158d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195700,
+      "size_bytes": 338732227,
+      "uploaded_at": "2026-11-20T03:29:46Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.5,
+        "upload_sec": 34.6
+      }
     }
   ],
   "pending_uploads": [
@@ -918090,22 +918116,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2379,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 4,
-      "episode": 10,
-      "display_name": "Star proti silám zla S04E10 - 10. epizoda CZ Dabing",
-      "intent_id": "c425c54fe3a94334ab38beb545fc3b68",
-      "started_at": "2026-11-20T03:27:58Z",
-      "upload_account": "serialy",
-      "source_id": -3599252390433162,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e10-surviving-the-spiderbites-cs/8c06bb232d16158d",
-      "size_bytes": 338732227,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336130,5 +1336140,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:29:17Z"
+  "last_updated": "2026-11-20T03:29:46Z"
 }
