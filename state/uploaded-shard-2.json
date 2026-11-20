@@ -919844,6 +919844,32 @@
         "download_sec": 25.4,
         "upload_sec": 23.9
       }
+    },
+    {
+      "episode_id": 71939,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 9,
+      "episode_code": "S04E09",
+      "display_name": "Highlander S04E09 - 9. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -51039727325962125,
+      "external_id": "58c11b2e65fc4",
+      "source_url": "https://prehraj.to/highlander-s04e09-cz-tit/58c11b2e65fc4",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214840,
+      "size_bytes": 363257125,
+      "uploaded_at": "2026-11-20T22:47:21Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 13.0,
+        "upload_sec": 27.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1338974,5 +1339000,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:43:22Z"
+  "last_updated": "2026-11-20T22:49:58Z"
 }
