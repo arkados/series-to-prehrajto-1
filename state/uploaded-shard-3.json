@@ -918934,6 +918934,32 @@
         "download_sec": 87.7,
         "upload_sec": 41.9
       }
+    },
+    {
+      "episode_id": 123778,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Flashpoint S01E05 - 5. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -15157972810149837,
+      "external_id": "026048a4bc1fdf2c",
+      "source_url": "https://prehraj.to/flashpoint-s01e05-5-epizoda-sd-cz-dabing-avi/026048a4bc1fdf2c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31207846,
+      "size_bytes": 367074194,
+      "uploaded_at": "2026-11-20T15:55:05Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 367.2,
+        "upload_sec": 42.6
+      }
     }
   ],
   "pending_uploads": [
@@ -920038,6 +920064,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 159479,
+      "series_id": 5933,
+      "series_title": "Apokalypsa: 2. světová válka",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Apokalypsa: 2. světová válka S01E03 - Šok CZ Dabing",
+      "intent_id": "fe8775985cd642ada637b6c2c9e01d4e",
+      "started_at": "2026-11-20T15:59:19Z",
+      "upload_account": "serialy",
+      "source_id": -2544998302910272,
+      "source_url": "https://prehraj.to/apokalypsa-2-svetova-valka-s01e03-sok-1080p-cz-dabing/719d8351f4a03b85",
+      "size_bytes": 3343243479,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338064,5 +1338106,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T15:44:44Z"
+  "last_updated": "2026-11-20T15:59:19Z"
 }
