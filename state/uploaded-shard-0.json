@@ -918741,6 +918741,32 @@
         "download_sec": 16.0,
         "upload_sec": 33.8
       }
+    },
+    {
+      "episode_id": 187628,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 12,
+      "episode_code": "S09E12",
+      "display_name": "Požárník Sam S09E12 - Pontypandyjský pohár CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -51166616895940275,
+      "external_id": "5c746dc394861",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e12-cz-dabing-pro-deti/5c746dc394861",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193428,
+      "size_bytes": 352192263,
+      "uploaded_at": "2026-11-20T00:45:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.5,
+        "upload_sec": 26.3
+      }
     }
   ],
   "pending_uploads": [
@@ -919861,22 +919887,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187628,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 9,
-      "episode": 12,
-      "display_name": "Požárník Sam S09E12 - Pontypandyjský pohár CZ Dabing",
-      "intent_id": "f0e0482b2eb848b4b31f220e54c65ca9",
-      "started_at": "2026-11-20T00:44:28Z",
-      "upload_account": "primary",
-      "source_id": -51166616895940275,
-      "source_url": "https://prehraj.to/pozarnik-sam-s09e12-cz-dabing-pro-deti/5c746dc394861",
-      "size_bytes": 352192263,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1337903,5 +1337913,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:44:28Z"
+  "last_updated": "2026-11-20T00:45:33Z"
 }
