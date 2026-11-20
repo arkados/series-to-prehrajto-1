@@ -918570,6 +918570,32 @@
         "download_sec": 31.1,
         "upload_sec": 36.9
       }
+    },
+    {
+      "episode_id": 46378,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 13,
+      "episode_code": "S03E13",
+      "display_name": "Melissa a Joey S03E13 - 13. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -34901903722218434,
+      "external_id": "a67563482a03b74a",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e13-teach-your-children-cs/a67563482a03b74a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31205584,
+      "size_bytes": 376873671,
+      "uploaded_at": "2026-11-20T13:46:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.8,
+        "upload_sec": 41.5
+      }
     }
   ],
   "pending_uploads": [
@@ -919674,22 +919700,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46378,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 13,
-      "display_name": "Melissa a Joey S03E13 - 13. epizoda CZ Dabing",
-      "intent_id": "4fa39552a7344849957d30feb131efab",
-      "started_at": "2026-11-20T13:45:13Z",
-      "upload_account": "serialy",
-      "source_id": -34901903722218434,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e13-teach-your-children-cs/a67563482a03b74a",
-      "size_bytes": 376873671,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1337716,5 +1337726,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:45:13Z"
+  "last_updated": "2026-11-20T13:46:23Z"
 }
