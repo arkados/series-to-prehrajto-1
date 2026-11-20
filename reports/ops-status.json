@@ -2,18 +2,18 @@
   "counts": {
     "backlog_episodes": 108159,
     "manifest_upload_ready_episodes": 5,
-    "uploaded_episodes": 83522,
-    "prepared_source_episodes": 67803,
+    "uploaded_episodes": 83523,
+    "prepared_source_episodes": 67769,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 59,
-    "language_whisper_attempted_sources": 49,
+    "language_audited_sources": 67,
+    "language_whisper_attempted_sources": 50,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53414,
-    "whisper_review_pending_sources": 36102,
+    "whisper_review_sources": 53415,
+    "whisper_review_pending_sources": 36105,
     "upload_pending_checkpoints": 140,
     "subtitle_followup_sources": 52557,
     "subtitle_followup_pending_sources": 52557
@@ -21,10 +21,34 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T22:31:28Z",
+      "databaseId": 44829646881,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T22:29:41Z",
+      "databaseId": 44829395754,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-20T22:29:38Z",
+      "databaseId": 44829388211,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T22:28:04Z",
       "databaseId": 44829185165,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -148,36 +172,12 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T22:14:02Z",
       "databaseId": 44827232646,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T22:12:40Z",
-      "databaseId": 44827026124,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T22:09:55Z",
-      "databaseId": 44826617997,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T22:08:16Z",
-      "databaseId": 44826379065,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -392010,6 +392010,11 @@
         "episode_id": 71938,
         "display_name": "Highlander S04E07 - 7. epizoda CZ Titulky",
         "video_id": 31214468
+      },
+      {
+        "episode_id": 71883,
+        "display_name": "Highlander S04E04 - 4. epizoda CZ Titulky",
+        "video_id": 31214533
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -783737,6 +783742,11 @@
         "episode_id": 71938,
         "display_name": "Highlander S04E07 - 7. epizoda CZ Titulky",
         "video_id": 31214468
+      },
+      {
+        "episode_id": 71883,
+        "display_name": "Highlander S04E04 - 4. epizoda CZ Titulky",
+        "video_id": 31214533
       }
     ],
     "prepared_not_upload_ready": [
@@ -784898,15 +784908,15 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 10,
+    "ok": 14,
+    "disabled": 17,
     "sample_failed": 5,
-    "ok": 13,
     "resolve_failed": 31
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34838,
+    "needs_whisper": 34841,
     "whisper_confirmed_cz": 4214,
-    "whisper_non_cz_needs_subtitles": 13098,
+    "whisper_non_cz_needs_subtitles": 13096,
     "whisper_failed": 1264
   },
   "subtitle_followup_statuses": {
