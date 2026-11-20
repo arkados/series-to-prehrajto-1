@@ -918871,6 +918871,32 @@
         "download_sec": 21.7,
         "upload_sec": 48.6
       }
+    },
+    {
+      "episode_id": 46329,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Melissa a Joey S01E07 - 7. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -11300483696146196,
+      "external_id": "c9ac1fc51694344d",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e07-7-epizoda-720p-cz-dabing-mkv/c9ac1fc51694344d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193722,
+      "size_bytes": 339014808,
+      "uploaded_at": "2026-11-20T01:07:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 15.1,
+        "upload_sec": 35.0
+      }
     }
   ],
   "pending_uploads": [
@@ -919995,20 +920021,20 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 46329,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 7,
-      "display_name": "Melissa a Joey S01E07 - 7. epizoda CZ Dabing",
-      "intent_id": "e6eac59a8d794744a939bc8ce78d4b8a",
-      "started_at": "2026-11-20T01:05:49Z",
+      "episode_id": 2384,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 6,
+      "display_name": "Star proti silám zla S04E06 - 6. epizoda CZ Dabing",
+      "intent_id": "5796061a19d44d1ca3cb20f9ff93506b",
+      "started_at": "2026-11-20T01:10:39Z",
       "upload_account": "primary",
-      "source_id": -11300483696146196,
-      "source_url": "https://prehraj.to/melissa-a-joey-s01e07-7-epizoda-720p-cz-dabing-mkv/c9ac1fc51694344d",
-      "size_bytes": 339014808,
+      "source_id": -32531445117756125,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e6-lake-house-fever-cs/2d5e6752d7953e29",
+      "size_bytes": 343613865,
       "source_container": "mp4",
-      "source_download_kind": "stream"
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338033,5 +1338059,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:05:49Z"
+  "last_updated": "2026-11-20T01:10:39Z"
 }
