@@ -917764,6 +917764,58 @@
         "download_sec": 17.4,
         "upload_sec": 31.9
       }
+    },
+    {
+      "episode_id": 187638,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 22,
+      "episode_code": "S09E22",
+      "display_name": "Požárník Sam S09E22 - Jednosměrka CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -33647258159970140,
+      "external_id": "5c7471c2a3e7f",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e22-cz-dabing-pro-deti/5c7471c2a3e7f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31201483,
+      "size_bytes": 336591634,
+      "uploaded_at": "2026-11-20T10:06:07Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.0,
+        "upload_sec": 43.4
+      }
+    },
+    {
+      "episode_id": 154639,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "Monkey Dust S02E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -23111134239891386,
+      "external_id": "5a33e1590d8e0",
+      "source_url": "https://prehraj.to/monkey-dust-s02e06-ws-divx-pres-multiload-cz/5a33e1590d8e0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31201509,
+      "size_bytes": 316688890,
+      "uploaded_at": "2026-11-20T10:07:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.6,
+        "upload_sec": 38.5
+      }
     }
   ],
   "pending_uploads": [
@@ -918870,38 +918922,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 187638,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 9,
-      "episode": 22,
-      "display_name": "Požárník Sam S09E22 - Jednosměrka CZ Dabing",
-      "intent_id": "80c173a8c40b40f79dcc515aa11ad391",
-      "started_at": "2026-11-20T10:04:03Z",
-      "upload_account": "serialy",
-      "source_id": -33647258159970140,
-      "source_url": "https://prehraj.to/pozarnik-sam-s09e22-cz-dabing-pro-deti/5c7471c2a3e7f",
-      "size_bytes": 336591634,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 154639,
-      "series_id": 5458,
-      "series_title": "Monkey Dust",
-      "season": 2,
-      "episode": 6,
-      "display_name": "Monkey Dust S02E06 - 6. epizoda CZ Titulky",
-      "intent_id": "8f8673fad6754c90a193f5dfa7677cc0",
-      "started_at": "2026-11-20T10:06:03Z",
-      "upload_account": "serialy",
-      "source_id": -23111134239891386,
-      "source_url": "https://prehraj.to/monkey-dust-s02e06-ws-divx-pres-multiload-cz/5a33e1590d8e0",
-      "size_bytes": 316688890,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336926,5 +1336946,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T10:06:03Z"
+  "last_updated": "2026-11-20T10:07:32Z"
 }
