@@ -1,15 +1,18 @@
 {
-  "count": 0,
-  "new_count": 0,
+  "count": 4,
+  "new_count": 4,
   "retained_count": 0,
   "stats": {
-    "not_upload_ready": 44995,
+    "not_upload_ready": 44997,
     "github_availability_failed": 0,
     "selected_source_burned": 20135,
     "selected_source_undersize": 1819,
     "selected_source_no_size_info": 826,
     "already_uploaded_episode_id": 168,
-    "missing_source_plan": 40343,
+    "missing_source_plan": 40337,
+    "ready": 4,
+    "description_fallback": 4,
+    "language_whisper": 4,
     "already_uploaded_episode_key": 1
   }
 }
