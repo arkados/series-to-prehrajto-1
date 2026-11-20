@@ -920795,6 +920795,32 @@
         "download_sec": 18.5,
         "upload_sec": 51.1
       }
+    },
+    {
+      "episode_id": 179365,
+      "series_id": 8860,
+      "series_title": "Angi: Crimen y mentira",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Angi: Crimen y mentira S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -39089800491339783,
+      "external_id": "6890ed53b3e97",
+      "source_url": "https://prehraj.to/angi-crimen-y-mentira-s01e02-web-spanish-h264-rbb/6890ed53b3e97",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31206235,
+      "size_bytes": 330152798,
+      "uploaded_at": "2026-11-20T14:27:24Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 160.4,
+        "upload_sec": 46.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1339941,5 +1339967,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:20:35Z"
+  "last_updated": "2026-11-20T14:30:23Z"
 }
