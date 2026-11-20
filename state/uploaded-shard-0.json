@@ -920535,6 +920535,32 @@
         "download_sec": 10.5,
         "upload_sec": 72.5
       }
+    },
+    {
+      "episode_id": 46372,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 8,
+      "episode_code": "S03E08",
+      "display_name": "Melissa a Joey S03E08 - 8. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -38232553173636087,
+      "external_id": "f135514b68a276cb",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e8-the-unfriending-cs/f135514b68a276cb",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204730,
+      "size_bytes": 374933079,
+      "uploaded_at": "2026-11-20T12:55:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.1,
+        "upload_sec": 35.7
+      }
     }
   ],
   "pending_uploads": [
@@ -921657,22 +921683,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46372,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 8,
-      "display_name": "Melissa a Joey S03E08 - 8. epizoda CZ Dabing",
-      "intent_id": "c381768ba6e14274a9cc5a9976ea48e6",
-      "started_at": "2026-11-20T12:53:52Z",
-      "upload_account": "primary",
-      "source_id": -38232553173636087,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e8-the-unfriending-cs/f135514b68a276cb",
-      "size_bytes": 374933079,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339697,5 +1339707,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:53:56Z"
+  "last_updated": "2026-11-20T12:55:51Z"
 }
