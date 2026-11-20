@@ -919676,6 +919676,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46378,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 13,
+      "display_name": "Melissa a Joey S03E13 - 13. epizoda CZ Dabing",
+      "intent_id": "4fa39552a7344849957d30feb131efab",
+      "started_at": "2026-11-20T13:45:13Z",
+      "upload_account": "serialy",
+      "source_id": -34901903722218434,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e13-teach-your-children-cs/a67563482a03b74a",
+      "size_bytes": 376873671,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337700,5 +1337716,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:31:36Z"
+  "last_updated": "2026-11-20T13:45:13Z"
 }
