@@ -918428,6 +918428,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46350,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 28,
+      "display_name": "Melissa a Joey S01E28 - 28. epizoda CZ Dabing",
+      "intent_id": "956b0ddc25f94f878da3ca3215daceee",
+      "started_at": "2026-11-20T07:07:24Z",
+      "upload_account": "serialy",
+      "source_id": -18476349788850734,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e28-28-epizoda-720p-cz-dabing-mkv/d1ce0bc40648d982",
+      "size_bytes": 420286919,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336452,5 +1336468,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:06:33Z"
+  "last_updated": "2026-11-20T07:07:24Z"
 }
