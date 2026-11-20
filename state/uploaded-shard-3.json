@@ -919156,6 +919156,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71910,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 20,
+      "display_name": "Highlander S01E20 - 20. epizoda CZ Titulky",
+      "intent_id": "ea38ac80a4da42cf9dfd61ca4f1b468f",
+      "started_at": "2026-11-20T11:20:31Z",
+      "upload_account": "serialy",
+      "source_id": -4509287713257413,
+      "source_url": "https://prehraj.to/highlander-s01e20-cz-tit/58c10c7ddfb38",
+      "size_bytes": 363316204,
+      "source_container": "mkv",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46367,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 4,
+      "display_name": "Melissa a Joey S03E04 - 4. epizoda CZ Dabing",
+      "intent_id": "80cfb089ba9d410a81b99d436f0d306a",
+      "started_at": "2026-11-20T11:20:54Z",
+      "upload_account": "serialy",
+      "source_id": -4606017972162747,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e4-can-t-hardly-wait-cs/ccd743c6c74c80a1",
+      "size_bytes": 354828187,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337180,5 +1337212,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:12:33Z"
+  "last_updated": "2026-11-20T11:20:54Z"
 }
