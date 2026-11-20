@@ -919104,6 +919104,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 87011,
+      "series_id": 2043,
+      "series_title": "My Mad Fat Diary",
+      "season": 2,
+      "episode": 7,
+      "display_name": "My Mad Fat Diary S02E07 - 7. epizoda CZ Titulky",
+      "intent_id": "6c299416852e4d0eb16d8aa73d783004",
+      "started_at": "2026-11-20T11:06:20Z",
+      "upload_account": "serialy",
+      "source_id": -69043692432725344,
+      "source_url": "https://prehraj.to/my-mad-fat-diary-s02e07-cz-titulky/5794280f03644",
+      "size_bytes": 321863680,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337128,5 +1337144,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:05:08Z"
+  "last_updated": "2026-11-20T11:06:20Z"
 }
