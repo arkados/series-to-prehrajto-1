@@ -916620,6 +916620,32 @@
         "download_sec": 20.2,
         "upload_sec": 34.6
       }
+    },
+    {
+      "episode_id": 2383,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 5,
+      "episode_code": "S04E05",
+      "display_name": "Star proti silám zla S04E05 - 5. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -21505613717086352,
+      "external_id": "eb5938a5d3442853",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e5-ransomgram-cs/eb5938a5d3442853",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193585,
+      "size_bytes": 338172519,
+      "uploaded_at": "2026-11-20T00:57:07Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.2,
+        "upload_sec": 24.3
+      }
     }
   ],
   "pending_uploads": [
@@ -917740,22 +917766,6 @@
       "source_id": -69520627047923283,
       "source_url": "https://prehraj.to/star-proti-silam-zla-s4e3-moon-remembers-cs/3888c1a2e2ffee7c",
       "size_bytes": 338220981,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 2383,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 4,
-      "episode": 5,
-      "display_name": "Star proti silám zla S04E05 - 5. epizoda CZ Dabing",
-      "intent_id": "fd6f69af94014f98b8f89ee2fdc66ee5",
-      "started_at": "2026-11-20T00:55:41Z",
-      "upload_account": "serialy",
-      "source_id": -21505613717086352,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e5-ransomgram-cs/eb5938a5d3442853",
-      "size_bytes": 338172519,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1335782,5 +1335792,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:55:41Z"
+  "last_updated": "2026-11-20T00:57:07Z"
 }
