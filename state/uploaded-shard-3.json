@@ -917270,6 +917270,32 @@
         "download_sec": 21.6,
         "upload_sec": 44.9
       }
+    },
+    {
+      "episode_id": 122987,
+      "series_id": 3285,
+      "series_title": "Bude líp",
+      "season": 4,
+      "episode": 7,
+      "episode_code": "S04E07",
+      "display_name": "Bude líp S04E07 - Nazdar chlape. Měj se chlape. CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -62199723708491673,
+      "external_id": "36f02909325a7b46",
+      "source_url": "https://prehraj.to/bude-lip-s4e7-high-man-bye-man/36f02909325a7b46",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31198694,
+      "size_bytes": 358334690,
+      "uploaded_at": "2026-11-20T06:50:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.1,
+        "upload_sec": 50.7
+      }
     }
   ],
   "pending_uploads": [
@@ -918376,22 +918402,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 122987,
-      "series_id": 3285,
-      "series_title": "Bude líp",
-      "season": 4,
-      "episode": 7,
-      "display_name": "Bude líp S04E07 - Nazdar chlape. Měj se chlape. CZ Dabing",
-      "intent_id": "951dba9248a5459db42d56599688782d",
-      "started_at": "2026-11-20T06:49:10Z",
-      "upload_account": "serialy",
-      "source_id": -62199723708491673,
-      "source_url": "https://prehraj.to/bude-lip-s4e7-high-man-bye-man/36f02909325a7b46",
-      "size_bytes": 358334690,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336416,5 +1336426,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T06:49:10Z"
+  "last_updated": "2026-11-20T06:50:57Z"
 }
