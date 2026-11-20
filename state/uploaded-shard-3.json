@@ -919494,6 +919494,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187635,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 19,
+      "display_name": "Požárník Sam S09E19 - Záchrana v horách CZ Dabing",
+      "intent_id": "20a91795ee9a48fd8966230f3ceb3e0c",
+      "started_at": "2026-11-20T12:49:02Z",
+      "upload_account": "serialy",
+      "source_id": -43005638913929215,
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e19-cz-dabing-pro-deti/5c7470e7183ee",
+      "size_bytes": 336647100,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337518,5 +1337534,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:48:15Z"
+  "last_updated": "2026-11-20T12:49:02Z"
 }
