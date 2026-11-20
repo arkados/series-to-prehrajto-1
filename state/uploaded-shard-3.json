@@ -916880,6 +916880,32 @@
         "download_sec": 18.7,
         "upload_sec": 37.7
       }
+    },
+    {
+      "episode_id": 129399,
+      "series_id": 3630,
+      "series_title": "A.P. Bio",
+      "season": 4,
+      "episode": 6,
+      "episode_code": "S04E06",
+      "display_name": "A.P. Bio S04E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -46794505701196598,
+      "external_id": "589dbfc22e0c864f",
+      "source_url": "https://prehraj.to/a-p-bio-s04e06-6-epizoda-cz-titulky/589dbfc22e0c864f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195183,
+      "size_bytes": 328178543,
+      "uploaded_at": "2026-11-20T02:54:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.9,
+        "upload_sec": 31.3
+      }
     }
   ],
   "pending_uploads": [
@@ -917984,22 +918010,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 129399,
-      "series_id": 3630,
-      "series_title": "A.P. Bio",
-      "season": 4,
-      "episode": 6,
-      "display_name": "A.P. Bio S04E06 - 6. epizoda CZ Titulky",
-      "intent_id": "bf600792e3fb4606a2e178f6ac827019",
-      "started_at": "2026-11-20T02:53:18Z",
-      "upload_account": "serialy",
-      "source_id": -46794505701196598,
-      "source_url": "https://prehraj.to/a-p-bio-s04e06-6-epizoda-cz-titulky/589dbfc22e0c864f",
-      "size_bytes": 328178543,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1336026,5 +1336036,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T02:53:18Z"
+  "last_updated": "2026-11-20T02:54:57Z"
 }
