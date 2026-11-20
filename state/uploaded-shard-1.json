@@ -920847,6 +920847,32 @@
         "download_sec": 61.4,
         "upload_sec": 101.8
       }
+    },
+    {
+      "episode_id": 71916,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 8,
+      "episode_code": "S02E08",
+      "display_name": "Highlander S02E08 - 8. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -49227473188536986,
+      "external_id": "58c10f2276eb8",
+      "source_url": "https://prehraj.to/highlander-s02e08-cz-tit/58c10f2276eb8",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31206687,
+      "size_bytes": 363349567,
+      "uploaded_at": "2026-11-20T15:00:06Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.2,
+        "upload_sec": 35.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1339993,5 +1340019,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:53:39Z"
+  "last_updated": "2026-11-20T15:00:06Z"
 }
