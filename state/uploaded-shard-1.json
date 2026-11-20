@@ -921315,6 +921315,32 @@
         "download_sec": 208.5,
         "upload_sec": 25.0
       }
+    },
+    {
+      "episode_id": 126525,
+      "series_id": 3483,
+      "series_title": "Továrna na panenky",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Továrna na panenky S01E01 - 1. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -34303928439894119,
+      "external_id": "65ccccda4e0a8",
+      "source_url": "https://prehraj.to/tovarna-na-panenky-s01e01-cz-dabing-1080p/65ccccda4e0a8",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211678,
+      "size_bytes": 779137838,
+      "uploaded_at": "2026-11-20T19:09:22Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 38.6,
+        "upload_sec": 64.8
+      }
     }
   ],
   "pending_uploads": [
@@ -922437,22 +922463,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 126525,
-      "series_id": 3483,
-      "series_title": "Továrna na panenky",
-      "season": 1,
-      "episode": 1,
-      "display_name": "Továrna na panenky S01E01 - 1. epizoda CZ Dabing",
-      "intent_id": "d2cc485f2d3e4de69bf5f3eaa282a5a5",
-      "started_at": "2026-11-20T19:07:01Z",
-      "upload_account": "primary",
-      "source_id": -34303928439894119,
-      "source_url": "https://prehraj.to/tovarna-na-panenky-s01e01-cz-dabing-1080p/65ccccda4e0a8",
-      "size_bytes": 779137838,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340477,5 +1340487,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T19:07:01Z"
+  "last_updated": "2026-11-20T19:09:22Z"
 }
