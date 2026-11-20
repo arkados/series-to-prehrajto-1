@@ -918336,6 +918336,32 @@
         "download_sec": 18.9,
         "upload_sec": 35.6
       }
+    },
+    {
+      "episode_id": 193826,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Bing S01E04 - Kostky CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68298882345239488,
+      "external_id": "d8d10c54f080311e",
+      "source_url": "https://prehraj.to/bing-s01e04-78-2014-cz-dabing-1080p-fhd-kostky/d8d10c54f080311e",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204576,
+      "size_bytes": 330043290,
+      "uploaded_at": "2026-11-20T12:47:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 10.2,
+        "upload_sec": 38.1
+      }
     }
   ],
   "pending_uploads": [
@@ -919444,19 +919470,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 193826,
-      "series_id": 9877,
-      "series_title": "Bing",
+      "episode_id": 202663,
+      "series_id": 10363,
+      "series_title": "Město v plamenech",
       "season": 1,
-      "episode": 4,
-      "display_name": "Bing S01E04 - Kostky CZ Dabing",
-      "intent_id": "8ddbfb64d22546818ab3c3d20b7dc105",
-      "started_at": "2026-11-20T12:46:24Z",
+      "episode": 2,
+      "display_name": "Město v plamenech S01E02 - Scény ze soukromého života CZ Titulky",
+      "intent_id": "1c66e3af2d974dfbabe559933e9d2af8",
+      "started_at": "2026-11-20T12:47:03Z",
       "upload_account": "serialy",
-      "source_id": -68298882345239488,
-      "source_url": "https://prehraj.to/bing-s01e04-78-2014-cz-dabing-1080p-fhd-kostky/d8d10c54f080311e",
-      "size_bytes": 330043290,
-      "source_container": "mkv",
+      "source_id": -9437650453457497,
+      "source_url": "https://prehraj.to/mesto-v-plamenech-s1e2-scenes-from-private-life-en/7aff515718b6117f",
+      "size_bytes": 422180356,
+      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1337482,5 +1337508,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:46:24Z"
+  "last_updated": "2026-11-20T12:47:46Z"
 }
