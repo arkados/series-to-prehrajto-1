@@ -918923,6 +918923,32 @@
         "download_sec": 12.5,
         "upload_sec": 33.0
       }
+    },
+    {
+      "episode_id": 187616,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 7,
+      "episode": 26,
+      "episode_code": "S07E26",
+      "display_name": "Požárník Sam S07E26 - Když se blázni rojí CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -49610043599468874,
+      "external_id": "5c74647a71f8c",
+      "source_url": "https://prehraj.to/pozarnik-sam-s07e26-cz-dabing-pro-deti/5c74647a71f8c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193985,
+      "size_bytes": 343256216,
+      "uploaded_at": "2026-11-20T01:25:30Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.8,
+        "upload_sec": 34.9
+      }
     }
   ],
   "pending_uploads": [
@@ -920045,6 +920071,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 113273,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 18,
+      "display_name": "Sindibádova dobrodružství S01E18 - Velikán CZ Dabing",
+      "intent_id": "f35faf0a0df8401eb21435db8815e9e0",
+      "started_at": "2026-11-20T01:28:31Z",
+      "upload_account": "primary",
+      "source_id": -23712833924544072,
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x18/5c1da6a46034d",
+      "size_bytes": 403560825,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338069,5 +1338111,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:19:29Z"
+  "last_updated": "2026-11-20T01:28:31Z"
 }
