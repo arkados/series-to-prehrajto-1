@@ -3,7 +3,7 @@
     "backlog_episodes": 108391,
     "manifest_upload_ready_episodes": 0,
     "uploaded_episodes": 83300,
-    "prepared_source_episodes": 67941,
+    "prepared_source_episodes": 67939,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
@@ -21,10 +21,18 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T01:43:26Z",
+      "databaseId": 44655678982,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-20T01:42:46Z",
       "databaseId": 44655602782,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -36,35 +44,35 @@
       "workflowName": "prepare-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T01:42:09Z",
       "databaseId": 44655527951,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T01:42:05Z",
       "databaseId": 44655521431,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-status"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T01:41:39Z",
       "databaseId": 44655466314,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-20T01:41:34Z",
       "databaseId": 44655457229,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -170,14 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-20T01:32:36Z",
-      "databaseId": 44654368843,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
