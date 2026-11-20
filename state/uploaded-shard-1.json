@@ -921185,6 +921185,32 @@
         "download_sec": 17.1,
         "upload_sec": 42.0
       }
+    },
+    {
+      "episode_id": 46424,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 34,
+      "episode_code": "S03E34",
+      "display_name": "Melissa a Joey S03E34 - 34. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -44192835907158379,
+      "external_id": "f107b9699f552741",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e34-uninvited-cs/f107b9699f552741",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31210830,
+      "size_bytes": 360936116,
+      "uploaded_at": "2026-11-20T18:14:57Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 581.7,
+        "upload_sec": 33.7
+      }
     }
   ],
   "pending_uploads": [
@@ -1340331,5 +1340357,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:01:02Z"
+  "last_updated": "2026-11-20T18:17:57Z"
 }
