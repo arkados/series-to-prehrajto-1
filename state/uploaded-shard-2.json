@@ -919246,6 +919246,32 @@
         "download_sec": 711.4,
         "upload_sec": 44.9
       }
+    },
+    {
+      "episode_id": 46399,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 35,
+      "episode_code": "S03E35",
+      "display_name": "Melissa a Joey S03E35 - 35. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -3833003488588091,
+      "external_id": "3418e8066cdde600",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e35-you-re-the-one-that-i-want-cs/3418e8066cdde600",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211150,
+      "size_bytes": 352156718,
+      "uploaded_at": "2026-11-20T18:36:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 18.7,
+        "upload_sec": 37.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1338376,5 +1338402,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:31:30Z"
+  "last_updated": "2026-11-20T18:36:15Z"
 }
