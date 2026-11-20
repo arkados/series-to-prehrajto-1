@@ -919338,6 +919338,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 202667,
+      "series_id": 10363,
+      "series_title": "Město v plamenech",
+      "season": 1,
+      "episode": 1,
+      "display_name": "Město v plamenech S01E01 - Sami sobě nepřáteli CZ Titulky",
+      "intent_id": "eb30881a152d4dd7a6aa27ab49e32223",
+      "started_at": "2026-11-20T12:36:02Z",
+      "upload_account": "serialy",
+      "source_id": -41511469866268326,
+      "source_url": "https://prehraj.to/city-on-fire-s01e01-cztit/67bd058a94742",
+      "size_bytes": 427561278,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337362,5 +1337378,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:29:46Z"
+  "last_updated": "2026-11-20T12:36:02Z"
 }
