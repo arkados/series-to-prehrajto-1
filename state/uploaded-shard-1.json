@@ -920509,6 +920509,32 @@
         "download_sec": 36.4,
         "upload_sec": 69.3
       }
+    },
+    {
+      "episode_id": 193825,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Bing S01E03 - Houpačka CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -53727319765092947,
+      "external_id": "d864b8bf497ce364",
+      "source_url": "https://prehraj.to/bing-s01e03-78-2014-cz-dabing-1080p-fhd-houpacka/d864b8bf497ce364",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204621,
+      "size_bytes": 330316260,
+      "uploaded_at": "2026-11-20T12:50:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 10.5,
+        "upload_sec": 72.5
+      }
     }
   ],
   "pending_uploads": [
@@ -921630,22 +921656,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 193825,
-      "series_id": 9877,
-      "series_title": "Bing",
-      "season": 1,
-      "episode": 3,
-      "display_name": "Bing S01E03 - Houpačka CZ Dabing",
-      "intent_id": "1ed36cacf8f245a08bd7818bd17fd329",
-      "started_at": "2026-11-20T12:44:30Z",
-      "upload_account": "primary",
-      "source_id": -53727319765092947,
-      "source_url": "https://prehraj.to/bing-s01e03-78-2014-cz-dabing-1080p-fhd-houpacka/d864b8bf497ce364",
-      "size_bytes": 330316260,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1339671,5 +1339681,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:48:15Z"
+  "last_updated": "2026-11-20T12:50:34Z"
 }
