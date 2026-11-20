@@ -918752,6 +918752,32 @@
         "download_sec": 18.1,
         "upload_sec": 74.7
       }
+    },
+    {
+      "episode_id": 178510,
+      "series_id": 8624,
+      "series_title": "Social Distance",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Social Distance S01E06 - Humánní past na zvířata CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -47557214925267379,
+      "external_id": "5f8a34579e950",
+      "source_url": "https://prehraj.to/social-distance-s01e06-cztit-v-obraze/5f8a34579e950",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31206196,
+      "size_bytes": 687940696,
+      "uploaded_at": "2026-11-20T14:25:28Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 48.3,
+        "upload_sec": 57.0
+      }
     }
   ],
   "pending_uploads": [
@@ -919856,22 +919882,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 178510,
-      "series_id": 8624,
-      "series_title": "Social Distance",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Social Distance S01E06 - Humánní past na zvířata CZ Titulky",
-      "intent_id": "a2e53d8f993c4fd28da1ebfdf3c0f037",
-      "started_at": "2026-11-20T14:23:51Z",
-      "upload_account": "serialy",
-      "source_id": -47557214925267379,
-      "source_url": "https://prehraj.to/social-distance-s01e06-cztit-v-obraze/5f8a34579e950",
-      "size_bytes": 687940696,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1337898,5 +1337908,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:23:51Z"
+  "last_updated": "2026-11-20T14:25:28Z"
 }
