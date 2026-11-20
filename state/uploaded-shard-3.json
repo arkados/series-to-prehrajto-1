@@ -919506,6 +919506,32 @@
         "download_sec": 18.5,
         "upload_sec": 32.4
       }
+    },
+    {
+      "episode_id": 71923,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 18,
+      "episode_code": "S02E18",
+      "display_name": "Highlander S02E18 - 18. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -7210510567410256,
+      "external_id": "5978781b21f22",
+      "source_url": "https://prehraj.to/highlander-s02e18-cz-tit/5978781b21f22",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213312,
+      "size_bytes": 363332409,
+      "uploaded_at": "2026-11-20T21:05:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 575.5,
+        "upload_sec": 29.6
+      }
     }
   ],
   "pending_uploads": [
@@ -920612,22 +920638,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71923,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 2,
-      "episode": 18,
-      "display_name": "Highlander S02E18 - 18. epizoda CZ Titulky",
-      "intent_id": "13e3abd804d74fc38bceb659476f41e8",
-      "started_at": "2026-11-20T21:04:05Z",
-      "upload_account": "serialy",
-      "source_id": -7210510567410256,
-      "source_url": "https://prehraj.to/highlander-s02e18-cz-tit/5978781b21f22",
-      "size_bytes": 363332409,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338652,5 +1338662,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:04:05Z"
+  "last_updated": "2026-11-20T21:05:18Z"
 }
