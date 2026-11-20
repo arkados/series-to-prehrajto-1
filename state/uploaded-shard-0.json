@@ -920899,6 +920899,32 @@
         "download_sec": 21.5,
         "upload_sec": 41.2
       }
+    },
+    {
+      "episode_id": 46385,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 23,
+      "episode_code": "S03E23",
+      "display_name": "Melissa a Joey S03E23 - 23. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -20708286332882327,
+      "external_id": "cdfd48ca76e8bfab",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e23-couples-therapy-cz/cdfd48ca76e8bfab",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31207516,
+      "size_bytes": 375134932,
+      "uploaded_at": "2026-11-20T15:41:53Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.4,
+        "upload_sec": 34.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1340045,5 +1340071,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T15:37:11Z"
+  "last_updated": "2026-11-20T15:44:44Z"
 }
