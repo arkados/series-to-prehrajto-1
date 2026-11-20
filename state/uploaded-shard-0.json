@@ -920461,6 +920461,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 134476,
+      "series_id": 3975,
+      "series_title": "Walker, Texas Ranger",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Walker, Texas Ranger S01E02 - Hranice CZ Dabing",
+      "intent_id": "ac4ef45d54f346cfbcdbdacf5aabb2a1",
+      "started_at": "2026-11-20T03:43:10Z",
+      "upload_account": "primary",
+      "source_id": -18293623836297087,
+      "source_url": "https://prehraj.to/walker-texas-ranger-s01e02-hranice-sd-cz-dabing-avi/e140af24401d78de",
+      "size_bytes": 386863104,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338485,5 +1338501,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:25:13Z"
+  "last_updated": "2026-11-20T03:43:10Z"
 }
