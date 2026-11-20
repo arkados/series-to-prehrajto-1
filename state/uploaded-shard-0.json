@@ -920769,6 +920769,32 @@
         "download_sec": 14.0,
         "upload_sec": 31.9
       }
+    },
+    {
+      "episode_id": 179364,
+      "series_id": 8860,
+      "series_title": "Angi: Crimen y mentira",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Angi: Crimen y mentira S01E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -7371445884225122,
+      "external_id": "6890ed4897730",
+      "source_url": "https://prehraj.to/angi-crimen-y-mentira-s01e01-web-spanish-h264-rbb/6890ed4897730",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31206129,
+      "size_bytes": 332820193,
+      "uploaded_at": "2026-11-20T14:20:35Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 18.5,
+        "upload_sec": 51.1
+      }
     }
   ],
   "pending_uploads": [
@@ -921889,22 +921915,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 179364,
-      "series_id": 8860,
-      "series_title": "Angi: Crimen y mentira",
-      "season": 1,
-      "episode": 1,
-      "display_name": "Angi: Crimen y mentira S01E01 - 1. epizoda CZ Titulky",
-      "intent_id": "23ee31938f96490199ee97bd59dcc88f",
-      "started_at": "2026-11-20T14:19:17Z",
-      "upload_account": "primary",
-      "source_id": -7371445884225122,
-      "source_url": "https://prehraj.to/angi-crimen-y-mentira-s01e01-web-spanish-h264-rbb/6890ed4897730",
-      "size_bytes": 332820193,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1339931,5 +1339941,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:19:17Z"
+  "last_updated": "2026-11-20T14:20:35Z"
 }
