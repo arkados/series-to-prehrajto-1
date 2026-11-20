@@ -922043,6 +922043,32 @@
         "download_sec": 24.5,
         "upload_sec": 27.6
       }
+    },
+    {
+      "episode_id": 146416,
+      "series_id": 4797,
+      "series_title": "Lidský terč",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Lidský terč S01E05 - 5. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -58613163258605021,
+      "external_id": "14041ae51505e003",
+      "source_url": "https://prehraj.to/lidsky-terc-s01e05-5-epizoda-sd-cz-dabing-avi/14041ae51505e003",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215408,
+      "size_bytes": 395611936,
+      "uploaded_at": "2026-11-20T23:29:34Z",
+      "timing": {
+        "resolve_sec": 3.0,
+        "download_sec": 14.5,
+        "upload_sec": 28.9
+      }
     }
   ],
   "pending_uploads": [
@@ -923164,22 +923190,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 146416,
-      "series_id": 4797,
-      "series_title": "Lidský terč",
-      "season": 1,
-      "episode": 5,
-      "display_name": "Lidský terč S01E05 - 5. epizoda CZ Dabing",
-      "intent_id": "d46d887ad22f4e87a22cab7f379e08ee",
-      "started_at": "2026-11-20T23:28:28Z",
-      "upload_account": "primary",
-      "source_id": -58613163258605021,
-      "source_url": "https://prehraj.to/lidsky-terc-s01e05-5-epizoda-sd-cz-dabing-avi/14041ae51505e003",
-      "size_bytes": 395611936,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1341205,5 +1341215,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:28:28Z"
+  "last_updated": "2026-11-20T23:29:34Z"
 }
