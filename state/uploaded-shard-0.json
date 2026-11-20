@@ -921731,6 +921731,32 @@
         "download_sec": 437.1,
         "upload_sec": 31.4
       }
+    },
+    {
+      "episode_id": 71932,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 9,
+      "episode_code": "S03E09",
+      "display_name": "Highlander S03E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -4276349777603535,
+      "external_id": "58c11527da4d3",
+      "source_url": "https://prehraj.to/highlander-s03e09-cz-tit/58c11527da4d3",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213915,
+      "size_bytes": 364015779,
+      "uploaded_at": "2026-11-20T21:48:05Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.4,
+        "upload_sec": 28.8
+      }
     }
   ],
   "pending_uploads": [
@@ -922852,22 +922878,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 71932,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 3,
-      "episode": 9,
-      "display_name": "Highlander S03E09 - 9. epizoda CZ Titulky",
-      "intent_id": "525b5822684f4091a49664b760e70f4c",
-      "started_at": "2026-11-20T21:47:00Z",
-      "upload_account": "primary",
-      "source_id": -4276349777603535,
-      "source_url": "https://prehraj.to/highlander-s03e09-cz-tit/58c11527da4d3",
-      "size_bytes": 364015779,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1340893,5 +1340903,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:47:00Z"
+  "last_updated": "2026-11-20T21:48:05Z"
 }
