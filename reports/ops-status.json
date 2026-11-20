@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108319,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83333,
-    "prepared_source_episodes": 67934,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83335,
+    "prepared_source_episodes": 67935,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
@@ -21,34 +21,74 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-20T05:33:31Z",
-      "databaseId": 44681818719,
+      "createdAt": "2026-11-20T05:37:54Z",
+      "databaseId": 44682308682,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-20T05:33:25Z",
-      "databaseId": 44681806625,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T05:33:10Z",
-      "databaseId": 44681779831,
+      "createdAt": "2026-11-20T05:37:41Z",
+      "databaseId": 44682284046,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T05:36:33Z",
+      "databaseId": 44682158277,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T05:34:37Z",
+      "databaseId": 44681940918,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T05:34:34Z",
+      "databaseId": 44681935788,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T05:33:31Z",
+      "databaseId": 44681818719,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-20T05:33:25Z",
+      "databaseId": 44681806625,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T05:33:10Z",
+      "databaseId": 44681779831,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T05:31:39Z",
       "databaseId": 44681607963,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -132,52 +172,12 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T05:24:29Z",
       "databaseId": 44680820649,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T05:23:37Z",
-      "databaseId": 44680725493,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T05:22:52Z",
-      "databaseId": 44680641969,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T05:22:03Z",
-      "databaseId": 44680549164,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T05:20:21Z",
-      "databaseId": 44680362597,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-20T05:20:15Z",
-      "databaseId": 44680350091,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -204707,6 +204707,11 @@
         "video_id": 31197523
       },
       {
+        "episode_id": 46344,
+        "display_name": "Melissa a Joey S01E21 - 21. epizoda CZ Dabing",
+        "video_id": 31197715
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -391065,6 +391070,11 @@
         "episode_id": 87007,
         "display_name": "My Mad Fat Diary S02E03 - 3. epizoda CZ Titulky",
         "video_id": 31197620
+      },
+      {
+        "episode_id": 46346,
+        "display_name": "Melissa a Joey S01E24 - 24. epizoda CZ Dabing",
+        "video_id": 31197711
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -595489,6 +595499,11 @@
         "video_id": 31197523
       },
       {
+        "episode_id": 46344,
+        "display_name": "Melissa a Joey S01E21 - 21. epizoda CZ Dabing",
+        "video_id": 31197715
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -781847,6 +781862,11 @@
         "episode_id": 87007,
         "display_name": "My Mad Fat Diary S02E03 - 3. epizoda CZ Titulky",
         "video_id": 31197620
+      },
+      {
+        "episode_id": 46346,
+        "display_name": "Melissa a Joey S01E24 - 24. epizoda CZ Dabing",
+        "video_id": 31197711
       }
     ],
     "prepared_not_upload_ready": [
