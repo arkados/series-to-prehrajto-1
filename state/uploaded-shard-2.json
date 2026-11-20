@@ -917192,6 +917192,58 @@
         "download_sec": 11.8,
         "upload_sec": 35.6
       }
+    },
+    {
+      "episode_id": 46347,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 25,
+      "episode_code": "S01E25",
+      "display_name": "Melissa a Joey S01E25 - 25. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -23274949901694021,
+      "external_id": "6842f28e3056a977",
+      "source_url": "https://prehraj.to/melissa-a-joey-s1e25-the-other-longo-cs/6842f28e3056a977",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197962,
+      "size_bytes": 326051270,
+      "uploaded_at": "2026-11-20T05:54:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.5,
+        "upload_sec": 40.8
+      }
+    },
+    {
+      "episode_id": 71851,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Highlander S01E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -17420688431637802,
+      "external_id": "58a0c79009f9b",
+      "source_url": "https://prehraj.to/highlander-s01e01-cz-tit/58a0c79009f9b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197992,
+      "size_bytes": 363004227,
+      "uploaded_at": "2026-11-20T05:56:14Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.4,
+        "upload_sec": 29.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1336322,5 +1336374,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:42:15Z"
+  "last_updated": "2026-11-20T05:56:14Z"
 }
