@@ -918246,6 +918246,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 87007,
+      "series_id": 2043,
+      "series_title": "My Mad Fat Diary",
+      "season": 2,
+      "episode": 3,
+      "display_name": "My Mad Fat Diary S02E03 - 3. epizoda CZ Titulky",
+      "intent_id": "8d266979e3244a9698eb824c19221e54",
+      "started_at": "2026-11-20T05:27:32Z",
+      "upload_account": "serialy",
+      "source_id": -63457963515753539,
+      "source_url": "https://prehraj.to/my-mad-fat-diary-s02e03-cz-titulky/5794275eed1f1",
+      "size_bytes": 365821952,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336270,5 +1336286,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:11:08Z"
+  "last_updated": "2026-11-20T05:27:32Z"
 }
