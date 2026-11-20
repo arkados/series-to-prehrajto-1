@@ -919417,6 +919417,32 @@
         "download_sec": 17.4,
         "upload_sec": 76.6
       }
+    },
+    {
+      "episode_id": 46332,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Melissa a Joey S01E10 - 10. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -17060029025564445,
+      "external_id": "86a2eda0c33815d1",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e10-10-epizoda-720p-cz-dabing-mkv/86a2eda0c33815d1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197065,
+      "size_bytes": 339034610,
+      "uploaded_at": "2026-11-20T04:50:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 10.2,
+        "upload_sec": 25.0
+      }
     }
   ],
   "pending_uploads": [
@@ -920537,6 +920563,22 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2373,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 16,
+      "display_name": "Star proti silám zla S04E16 - 16. epizoda CZ Dabing",
+      "intent_id": "4fb7dc216e1a47989e8da309b8e36b33",
+      "started_at": "2026-11-20T04:49:54Z",
+      "upload_account": "primary",
+      "source_id": -53339468827374202,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e16-cornball-cs/ad5278f68c9c2f26",
+      "size_bytes": 341418047,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1338563,5 +1338605,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T04:38:55Z"
+  "last_updated": "2026-11-20T04:50:35Z"
 }
