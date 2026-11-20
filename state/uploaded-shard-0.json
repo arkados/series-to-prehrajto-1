@@ -919313,6 +919313,32 @@
         "download_sec": 15.3,
         "upload_sec": 29.4
       }
+    },
+    {
+      "episode_id": 46341,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 19,
+      "episode_code": "S01E19",
+      "display_name": "Melissa a Joey S01E19 - 19. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -23207509027613231,
+      "external_id": "d6c0c9fee69019c8",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e19-19-epizoda-720p-cz-dabing-mkv/d6c0c9fee69019c8",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195564,
+      "size_bytes": 383129195,
+      "uploaded_at": "2026-11-20T03:19:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.2,
+        "upload_sec": 35.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1338459,5 +1338485,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:15:06Z"
+  "last_updated": "2026-11-20T03:19:01Z"
 }
