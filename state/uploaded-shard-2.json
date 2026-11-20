@@ -919298,6 +919298,32 @@
         "download_sec": 16.8,
         "upload_sec": 36.7
       }
+    },
+    {
+      "episode_id": 187647,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 6,
+      "episode_code": "S10E06",
+      "display_name": "Požárník Sam S10E06 - Trampoty s autobusem CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -48950970209702338,
+      "external_id": "5c75f00b7cc71",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e06-cz-dabing-pro-deti/5c75f00b7cc71",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211986,
+      "size_bytes": 342517865,
+      "uploaded_at": "2026-11-20T19:29:15Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.3,
+        "upload_sec": 41.7
+      }
     }
   ],
   "pending_uploads": [
@@ -920402,6 +920428,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46394,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 29,
+      "display_name": "Melissa a Joey S03E29 - 29. epizoda CZ Dabing",
+      "intent_id": "d19134cb992d46839967670e76a14980",
+      "started_at": "2026-11-20T19:58:39Z",
+      "upload_account": "serialy",
+      "source_id": -23676538973025501,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e29-born-to-run-cs/53dedd39a97bf6d3",
+      "size_bytes": 379205174,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338428,5 +1338470,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T19:25:33Z"
+  "last_updated": "2026-11-20T19:58:39Z"
 }
