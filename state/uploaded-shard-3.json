@@ -918506,6 +918506,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46354,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 1,
+      "display_name": "Melissa a Joey S02E01 - 1. epizoda CZ Dabing",
+      "intent_id": "69f65c4349ff4440b66623f388968a77",
+      "started_at": "2026-11-20T07:44:31Z",
+      "upload_account": "serialy",
+      "source_id": -13282200739005803,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e1-i-can-manage-cs/70f3cb6860467af5",
+      "size_bytes": 328856599,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71903,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 6,
+      "display_name": "Highlander S01E06 - 6. epizoda CZ Titulky",
+      "intent_id": "38de8915be11487fb85b5b7f1e5ce21e",
+      "started_at": "2026-11-20T07:44:43Z",
+      "upload_account": "serialy",
+      "source_id": -49507584066495974,
+      "source_url": "https://prehraj.to/highlander-s01e06-cz-tit/597876395ffb7",
+      "size_bytes": 363985711,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336530,5 +1336562,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:37:03Z"
+  "last_updated": "2026-11-20T07:44:43Z"
 }
