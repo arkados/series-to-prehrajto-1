@@ -917010,6 +917010,32 @@
         "download_sec": 15.5,
         "upload_sec": 34.6
       }
+    },
+    {
+      "episode_id": 46342,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 20,
+      "episode_code": "S01E20",
+      "display_name": "Melissa a Joey S01E20 - 20. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68494471002149658,
+      "external_id": "59c126fbfea726d4",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e20-20-epizoda-720p-cz-dabing-mkv/59c126fbfea726d4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31196979,
+      "size_bytes": 368425400,
+      "uploaded_at": "2026-11-20T04:47:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.4,
+        "upload_sec": 75.6
+      }
     }
   ],
   "pending_uploads": [
@@ -918116,6 +918142,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 2371,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 18,
+      "display_name": "Star proti silám zla S04E18 - 18. epizoda CZ Dabing",
+      "intent_id": "9dba4133cd00422b8ed216cd295d3620",
+      "started_at": "2026-11-20T04:49:53Z",
+      "upload_account": "serialy",
+      "source_id": -61061375838241206,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e18-the-knight-shift-cs/8ec585ec575c7c28",
+      "size_bytes": 336909275,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336140,5 +1336182,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T04:38:55Z"
+  "last_updated": "2026-11-20T04:49:53Z"
 }
