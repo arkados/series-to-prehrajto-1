@@ -919469,6 +919469,32 @@
         "download_sec": 19.6,
         "upload_sec": 29.4
       }
+    },
+    {
+      "episode_id": 2368,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 21,
+      "episode_code": "S04E21",
+      "display_name": "Star proti silám zla S04E21 - 21. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -68644603942421347,
+      "external_id": "d010538c16f04e71",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e21-a-spell-with-no-name-cs/d010538c16f04e71",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197294,
+      "size_bytes": 358468240,
+      "uploaded_at": "2026-11-20T05:08:35Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.6,
+        "upload_sec": 31.0
+      }
     }
   ],
   "pending_uploads": [
@@ -920591,6 +920617,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46345,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 23,
+      "display_name": "Melissa a Joey S01E23 - 23. epizoda CZ Dabing",
+      "intent_id": "ac41092898b54b5b9a6d72b6f5b7ac8b",
+      "started_at": "2026-11-20T05:21:20Z",
+      "upload_account": "primary",
+      "source_id": -63904266136119001,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e23-23-epizoda-720p-cz-dabing-mkv/c971dc8fc34f9d75",
+      "size_bytes": 373428018,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338615,5 +1338657,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:03:56Z"
+  "last_updated": "2026-11-20T05:21:20Z"
 }
