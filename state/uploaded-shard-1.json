@@ -918715,6 +918715,84 @@
         "download_sec": 13.7,
         "upload_sec": 25.1
       }
+    },
+    {
+      "episode_id": 109748,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 9,
+      "episode": 20,
+      "episode_code": "S09E20",
+      "display_name": "Dynastie S09E20 - 20. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -56112833232273688,
+      "external_id": "59536e1965478",
+      "source_url": "https://prehraj.to/dynasty-s09e20/59536e1965478",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193402,
+      "size_bytes": 365199365,
+      "uploaded_at": "2026-11-20T00:43:35Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.0,
+        "upload_sec": 33.8
+      }
+    },
+    {
+      "episode_id": 187628,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 12,
+      "episode_code": "S09E12",
+      "display_name": "Požárník Sam S09E12 - Pontypandyjský pohár CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -51166616895940275,
+      "external_id": "5c746dc394861",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e12-cz-dabing-pro-deti/5c746dc394861",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193428,
+      "size_bytes": 352192263,
+      "uploaded_at": "2026-11-20T00:45:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.5,
+        "upload_sec": 26.3
+      }
+    },
+    {
+      "episode_id": 113288,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 16,
+      "episode_code": "S01E16",
+      "display_name": "Sindibádova dobrodružství S01E16 - Kratovo oko CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -26573046494387500,
+      "external_id": "5c44779271dcf",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x16/5c44779271dcf",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193458,
+      "size_bytes": 343826038,
+      "uploaded_at": "2026-11-20T00:47:36Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.7,
+        "upload_sec": 28.8
+      }
     }
   ],
   "pending_uploads": [
@@ -919837,6 +919915,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46337,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 15,
+      "display_name": "Melissa a Joey S01E15 - 15. epizoda CZ Dabing",
+      "intent_id": "080f4d8c59534d1fb773f04b43e44d41",
+      "started_at": "2026-11-20T00:50:12Z",
+      "upload_account": "primary",
+      "source_id": -69438451562245319,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e15-15-epizoda-720p-cz-dabing-mkv/010c96fe01f0da55",
+      "size_bytes": 351698292,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337861,5 +1337955,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:35:46Z"
+  "last_updated": "2026-11-20T00:50:12Z"
 }
