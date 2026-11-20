@@ -916958,6 +916958,32 @@
         "download_sec": 11.8,
         "upload_sec": 35.6
       }
+    },
+    {
+      "episode_id": 46330,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Melissa a Joey S01E08 - 8. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -24812434858589025,
+      "external_id": "68580bab8f92b",
+      "source_url": "https://prehraj.to/melissa-a-joey-01x08/68580bab8f92b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195692,
+      "size_bytes": 343476454,
+      "uploaded_at": "2026-11-20T03:29:17Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.4,
+        "upload_sec": 38.7
+      }
     }
   ],
   "pending_uploads": [
@@ -918066,19 +918092,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 46330,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Melissa a Joey S01E08 - 8. epizoda CZ Dabing",
-      "intent_id": "21098fb7beca4f1aa1d91fcca76979e3",
-      "started_at": "2026-11-20T03:27:56Z",
+      "episode_id": 2379,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 10,
+      "display_name": "Star proti silám zla S04E10 - 10. epizoda CZ Dabing",
+      "intent_id": "c425c54fe3a94334ab38beb545fc3b68",
+      "started_at": "2026-11-20T03:27:58Z",
       "upload_account": "serialy",
-      "source_id": -24812434858589025,
-      "source_url": "https://prehraj.to/melissa-a-joey-01x08/68580bab8f92b",
-      "size_bytes": 343476454,
-      "source_container": "avi",
+      "source_id": -3599252390433162,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e10-surviving-the-spiderbites-cs/8c06bb232d16158d",
+      "size_bytes": 338732227,
+      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1336104,5 +1336130,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:27:56Z"
+  "last_updated": "2026-11-20T03:29:17Z"
 }
