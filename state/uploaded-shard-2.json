@@ -918128,6 +918128,32 @@
         "download_sec": 18.4,
         "upload_sec": 37.3
       }
+    },
+    {
+      "episode_id": 157103,
+      "series_id": 5700,
+      "series_title": "Crashing",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Crashing S01E06 - Zahřívač CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -9048179587942440,
+      "external_id": "5f1dfd4ea94f1",
+      "source_url": "https://prehraj.to/crashing-s01e06-2017-czdab/5f1dfd4ea94f1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31203217,
+      "size_bytes": 328495581,
+      "uploaded_at": "2026-11-20T11:37:16Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 15.3,
+        "upload_sec": 30.9
+      }
     }
   ],
   "pending_uploads": [
@@ -919236,18 +919262,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 157103,
-      "series_id": 5700,
-      "series_title": "Crashing",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Crashing S01E06 - Zahřívač CZ Dabing",
-      "intent_id": "ce5788bd09464abd805c5c4976a7a200",
-      "started_at": "2026-11-20T11:36:04Z",
+      "episode_id": 46370,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 5,
+      "display_name": "Melissa a Joey S03E05 - 5. epizoda CZ Dabing",
+      "intent_id": "2285198f998f4929b72a708b96cb6ea6",
+      "started_at": "2026-11-20T11:39:57Z",
       "upload_account": "serialy",
-      "source_id": -9048179587942440,
-      "source_url": "https://prehraj.to/crashing-s01e06-2017-czdab/5f1dfd4ea94f1",
-      "size_bytes": 328495581,
+      "source_id": -42309297229954074,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e5-oh-brother-cs/2812c6911634313c",
+      "size_bytes": 372607435,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1337274,5 +1337300,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:36:04Z"
+  "last_updated": "2026-11-20T11:40:02Z"
 }
