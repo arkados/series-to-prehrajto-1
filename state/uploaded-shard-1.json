@@ -921835,6 +921835,58 @@
         "download_sec": 20.7,
         "upload_sec": 34.1
       }
+    },
+    {
+      "episode_id": 71936,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 3,
+      "episode_code": "S04E03",
+      "display_name": "Highlander S04E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -40434780058173163,
+      "external_id": "58c119bc6b180",
+      "source_url": "https://prehraj.to/highlander-s04e03-cz-tit/58c119bc6b180",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214578,
+      "size_bytes": 363256346,
+      "uploaded_at": "2026-11-20T22:31:44Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 446.1,
+        "upload_sec": 29.5
+      }
+    },
+    {
+      "episode_id": 71884,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 6,
+      "episode_code": "S04E06",
+      "display_name": "Highlander S04E06 - 6. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -23746269941196763,
+      "external_id": "597879d44a8e2",
+      "source_url": "https://prehraj.to/highlander-s04e06-cz-tit/597879d44a8e2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214607,
+      "size_bytes": 363257512,
+      "uploaded_at": "2026-11-20T22:33:51Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 21.0,
+        "upload_sec": 31.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1340981,5 +1341033,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:17:30Z"
+  "last_updated": "2026-11-20T22:36:07Z"
 }
