@@ -917582,6 +917582,32 @@
         "download_sec": 18.8,
         "upload_sec": 44.9
       }
+    },
+    {
+      "episode_id": 71906,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Highlander S01E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -54298184958790350,
+      "external_id": "58c1096fccddd",
+      "source_url": "https://prehraj.to/highlander-s01e10-cz-tit/58c1096fccddd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31200759,
+      "size_bytes": 347010498,
+      "uploaded_at": "2026-11-20T09:24:12Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 20.4,
+        "upload_sec": 31.3
+      }
     }
   ],
   "pending_uploads": [
@@ -918686,22 +918712,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71906,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 1,
-      "episode": 10,
-      "display_name": "Highlander S01E10 - 10. epizoda CZ Titulky",
-      "intent_id": "cd4f3d2694194103b9c28e7eb7911d08",
-      "started_at": "2026-11-20T09:22:40Z",
-      "upload_account": "serialy",
-      "source_id": -54298184958790350,
-      "source_url": "https://prehraj.to/highlander-s01e10-cz-tit/58c1096fccddd",
-      "size_bytes": 347010498,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1336728,5 +1336738,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:22:40Z"
+  "last_updated": "2026-11-20T09:24:12Z"
 }
