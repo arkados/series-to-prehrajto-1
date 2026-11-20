@@ -923243,6 +923243,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 123809,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 3,
+      "episode": 9,
+      "display_name": "Flashpoint S03E09 - 9. epizoda CZ Dabing",
+      "intent_id": "13778e246d884ec39c1e0dcc00b0dec1",
+      "started_at": "2026-11-20T23:52:59Z",
+      "upload_account": "primary",
+      "source_id": -50443411614221714,
+      "source_url": "https://prehraj.to/flashpoint-s03e09-9-epizoda-sd-cz-dabing-avi/17b060a9bb055aef",
+      "size_bytes": 374031874,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1341267,5 +1341283,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:41:20Z"
+  "last_updated": "2026-11-20T23:53:10Z"
 }
