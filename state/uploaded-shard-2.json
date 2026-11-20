@@ -921002,6 +921002,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71890,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 1,
+      "display_name": "Highlander S05E01 - 1. epizoda CZ Titulky",
+      "intent_id": "9edaa7535a0c4e6699ce4951d7393775",
+      "started_at": "2026-11-20T23:25:40Z",
+      "upload_account": "serialy",
+      "source_id": -63465409035271002,
+      "source_url": "https://prehraj.to/highlander-s05e01-cz-tit/59787aef95551",
+      "size_bytes": 363244996,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339026,5 +1339042,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:14:18Z"
+  "last_updated": "2026-11-20T23:25:40Z"
 }
