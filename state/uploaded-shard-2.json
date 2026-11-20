@@ -917374,6 +917374,32 @@
         "download_sec": 24.1,
         "upload_sec": 60.9
       }
+    },
+    {
+      "episode_id": 46351,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 29,
+      "episode_code": "S01E29",
+      "display_name": "Melissa a Joey S01E29 - 29. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -279738750292582,
+      "external_id": "8a69551e573be382",
+      "source_url": "https://prehraj.to/melissa-a-joey-s1e29-do-as-i-say-not-as-i-did-cs/8a69551e573be382",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31199281,
+      "size_bytes": 321025329,
+      "uploaded_at": "2026-11-20T07:37:03Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 15.5,
+        "upload_sec": 43.1
+      }
     }
   ],
   "pending_uploads": [
@@ -918478,6 +918504,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46354,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 1,
+      "display_name": "Melissa a Joey S02E01 - 1. epizoda CZ Dabing",
+      "intent_id": "69f65c4349ff4440b66623f388968a77",
+      "started_at": "2026-11-20T07:44:31Z",
+      "upload_account": "serialy",
+      "source_id": -13282200739005803,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e1-i-can-manage-cs/70f3cb6860467af5",
+      "size_bytes": 328856599,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1336504,5 +1336546,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:32:52Z"
+  "last_updated": "2026-11-20T07:44:31Z"
 }
