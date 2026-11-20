@@ -921705,6 +921705,58 @@
         "download_sec": 94.6,
         "upload_sec": 46.6
       }
+    },
+    {
+      "episode_id": 46404,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 1,
+      "episode_code": "S04E01",
+      "display_name": "Melissa a Joey S04E01 - 1. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -56995232697352785,
+      "external_id": "c3ef45d01a450842",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e1-witch-came-first-cs/c3ef45d01a450842",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213891,
+      "size_bytes": 334845797,
+      "uploaded_at": "2026-11-20T21:46:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 437.1,
+        "upload_sec": 31.4
+      }
+    },
+    {
+      "episode_id": 71932,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 9,
+      "episode_code": "S03E09",
+      "display_name": "Highlander S03E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -4276349777603535,
+      "external_id": "58c11527da4d3",
+      "source_url": "https://prehraj.to/highlander-s03e09-cz-tit/58c11527da4d3",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213915,
+      "size_bytes": 364015779,
+      "uploaded_at": "2026-11-20T21:48:05Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.4,
+        "upload_sec": 28.8
+      }
     }
   ],
   "pending_uploads": [
@@ -922827,6 +922879,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46425,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 12,
+      "display_name": "Melissa a Joey S04E12 - 12. epizoda CZ Dabing",
+      "intent_id": "517ef1f9faf44a7492ce329ed2426f43",
+      "started_at": "2026-11-20T21:53:38Z",
+      "upload_account": "primary",
+      "source_id": -57617023336050036,
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e12-you-say-you-want-an-ovulation-cs/c7bbd07266019d1a",
+      "size_bytes": 322553288,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340851,5 +1340919,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:21:50Z"
+  "last_updated": "2026-11-20T21:53:38Z"
 }
