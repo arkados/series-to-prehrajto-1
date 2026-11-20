@@ -919636,6 +919636,32 @@
         "download_sec": 18.3,
         "upload_sec": 32.3
       }
+    },
+    {
+      "episode_id": 46411,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 9,
+      "episode_code": "S04E09",
+      "display_name": "Melissa a Joey S04E09 - 9. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -50300461548574440,
+      "external_id": "5a98a48ad9ffa",
+      "source_url": "https://prehraj.to/melissa-a-joey-s04e09-being-there/5a98a48ad9ffa",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214074,
+      "size_bytes": 334633912,
+      "uploaded_at": "2026-11-20T21:59:25Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.8,
+        "upload_sec": 31.7
+      }
     }
   ],
   "pending_uploads": [
@@ -920742,6 +920768,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71882,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 2,
+      "display_name": "Highlander S04E02 - 2. epizoda CZ Titulky",
+      "intent_id": "4a7a7f17e4e443f589a334b447fab2ab",
+      "started_at": "2026-11-20T22:05:54Z",
+      "upload_account": "serialy",
+      "source_id": -14725989374753754,
+      "source_url": "https://prehraj.to/highlander-s04e02-cz-tit/5978799f69935",
+      "size_bytes": 363258255,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338766,5 +1338808,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:52:11Z"
+  "last_updated": "2026-11-20T22:05:54Z"
 }
