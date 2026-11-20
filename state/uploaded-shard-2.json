@@ -919052,6 +919052,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 123406,
+      "series_id": 3311,
+      "series_title": "Kill La Kill",
+      "season": 1,
+      "episode": 16,
+      "display_name": "Kill La Kill S01E16 - 16. epizoda CZ Titulky",
+      "intent_id": "142c6c0dc6d94d92ba9ee13eaa8d6d4b",
+      "started_at": "2026-11-20T10:59:42Z",
+      "upload_account": "serialy",
+      "source_id": -67809206391610792,
+      "source_url": "https://prehraj.to/kill-la-kill-s01e16-cztitulky/64c012c9aa349",
+      "size_bytes": 363392005,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337076,5 +1337092,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T10:58:58Z"
+  "last_updated": "2026-11-20T10:59:42Z"
 }
