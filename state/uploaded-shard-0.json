@@ -921107,6 +921107,58 @@
         "download_sec": 11.9,
         "upload_sec": 32.7
       }
+    },
+    {
+      "episode_id": 71865,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "Highlander S02E13 - 13. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -64577606260238245,
+      "external_id": "597877d5cacaa",
+      "source_url": "https://prehraj.to/highlander-s02e13-cz-tit/597877d5cacaa",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31210013,
+      "size_bytes": 377759965,
+      "uploaded_at": "2026-11-20T17:39:42Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 805.9,
+        "upload_sec": 68.2
+      }
+    },
+    {
+      "episode_id": 187569,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 9,
+      "episode_code": "S06E09",
+      "display_name": "Požárník Sam S06E09 - Po krk ve vodě CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -63936784940018769,
+      "external_id": "5c742c68623e7",
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e09-cz-dabing-pro-deti/5c742c68623e7",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31210086,
+      "size_bytes": 340807218,
+      "uploaded_at": "2026-11-20T17:42:44Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 20.1,
+        "upload_sec": 85.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1340253,5 +1340305,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T17:27:22Z"
+  "last_updated": "2026-11-20T17:42:44Z"
 }
