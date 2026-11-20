@@ -917816,6 +917816,32 @@
         "download_sec": 16.6,
         "upload_sec": 38.5
       }
+    },
+    {
+      "episode_id": 154638,
+      "series_id": 5458,
+      "series_title": "Monkey Dust",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Monkey Dust S02E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -53948470373086341,
+      "external_id": "5a33e146be9fd",
+      "source_url": "https://prehraj.to/monkey-dust-s02e05-ws-divx-pres-multiload-cz/5a33e146be9fd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31201554,
+      "size_bytes": 315689368,
+      "uploaded_at": "2026-11-20T10:09:39Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.0,
+        "upload_sec": 29.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1336946,5 +1336972,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T10:07:32Z"
+  "last_updated": "2026-11-20T10:09:39Z"
 }
