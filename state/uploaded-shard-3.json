@@ -919442,6 +919442,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 193826,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 4,
+      "display_name": "Bing S01E04 - Kostky CZ Dabing",
+      "intent_id": "8ddbfb64d22546818ab3c3d20b7dc105",
+      "started_at": "2026-11-20T12:46:24Z",
+      "upload_account": "serialy",
+      "source_id": -68298882345239488,
+      "source_url": "https://prehraj.to/bing-s01e04-78-2014-cz-dabing-1080p-fhd-kostky/d8d10c54f080311e",
+      "size_bytes": 330043290,
+      "source_container": "mkv",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 202663,
+      "series_id": 10363,
+      "series_title": "Město v plamenech",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Město v plamenech S01E02 - Scény ze soukromého života CZ Titulky",
+      "intent_id": "1c66e3af2d974dfbabe559933e9d2af8",
+      "started_at": "2026-11-20T12:47:03Z",
+      "upload_account": "serialy",
+      "source_id": -9437650453457497,
+      "source_url": "https://prehraj.to/mesto-v-plamenech-s1e2-scenes-from-private-life-en/7aff515718b6117f",
+      "size_bytes": 422180356,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337466,5 +1337498,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:46:15Z"
+  "last_updated": "2026-11-20T12:47:03Z"
 }
