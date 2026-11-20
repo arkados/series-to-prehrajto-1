@@ -916594,6 +916594,32 @@
         "download_sec": 23.9,
         "upload_sec": 40.1
       }
+    },
+    {
+      "episode_id": 187627,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 11,
+      "episode_code": "S09E11",
+      "display_name": "Požárník Sam S09E11 - Světla kamera lavina CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -15107064470546474,
+      "external_id": "5c746dc13cbb9",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e11-cz-dabing-pro-deti/5c746dc13cbb9",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193514,
+      "size_bytes": 337567546,
+      "uploaded_at": "2026-11-20T00:52:06Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 20.2,
+        "upload_sec": 34.6
+      }
     }
   ],
   "pending_uploads": [
@@ -917700,22 +917726,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 187627,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 9,
-      "episode": 11,
-      "display_name": "Požárník Sam S09E11 - Světla kamera lavina CZ Dabing",
-      "intent_id": "68fb44a42fe441ef93d114ab5ea47e73",
-      "started_at": "2026-11-20T00:50:40Z",
-      "upload_account": "serialy",
-      "source_id": -15107064470546474,
-      "source_url": "https://prehraj.to/pozarnik-sam-s09e11-cz-dabing-pro-deti/5c746dc13cbb9",
-      "size_bytes": 337567546,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335740,5 +1335750,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:50:40Z"
+  "last_updated": "2026-11-20T00:52:06Z"
 }
