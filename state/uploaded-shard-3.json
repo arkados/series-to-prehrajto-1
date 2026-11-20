@@ -919220,6 +919220,32 @@
         "download_sec": 16.0,
         "upload_sec": 32.7
       }
+    },
+    {
+      "episode_id": 71926,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 21,
+      "episode_code": "S02E21",
+      "display_name": "Highlander S02E21 - 21. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -63706112694244170,
+      "external_id": "58c112f4ea650",
+      "source_url": "https://prehraj.to/highlander-s02e21-cz-tit/58c112f4ea650",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211094,
+      "size_bytes": 363320885,
+      "uploaded_at": "2026-11-20T18:31:30Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 711.4,
+        "upload_sec": 44.9
+      }
     }
   ],
   "pending_uploads": [
@@ -920324,6 +920350,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46399,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 35,
+      "display_name": "Melissa a Joey S03E35 - 35. epizoda CZ Dabing",
+      "intent_id": "d223ab56158248b490e007ac50f8fadd",
+      "started_at": "2026-11-20T18:34:29Z",
+      "upload_account": "serialy",
+      "source_id": -3833003488588091,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e35-you-re-the-one-that-i-want-cs/3418e8066cdde600",
+      "size_bytes": 352156718,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338350,5 +1338392,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:19:48Z"
+  "last_updated": "2026-11-20T18:34:30Z"
 }
