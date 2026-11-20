@@ -918232,6 +918232,58 @@
         "download_sec": 14.8,
         "upload_sec": 48.9
       }
+    },
+    {
+      "episode_id": 202667,
+      "series_id": 10363,
+      "series_title": "Město v plamenech",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Město v plamenech S01E01 - Sami sobě nepřáteli CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -41511469866268326,
+      "external_id": "67bd058a94742",
+      "source_url": "https://prehraj.to/city-on-fire-s01e01-cztit/67bd058a94742",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204391,
+      "size_bytes": 427561278,
+      "uploaded_at": "2026-11-20T12:37:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.4,
+        "upload_sec": 50.5
+      }
+    },
+    {
+      "episode_id": 200091,
+      "series_id": 10111,
+      "series_title": "Štěněcí akademie",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Štěněcí akademie S01E03 - Co si kdo navaří… CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -39594722654574749,
+      "external_id": "5f95d9493e1b6",
+      "source_url": "https://prehraj.to/pup-academy-s01e03-cztit-v-obraze/5f95d9493e1b6",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204425,
+      "size_bytes": 781032435,
+      "uploaded_at": "2026-11-20T12:40:32Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.9,
+        "upload_sec": 113.6
+      }
     }
   ],
   "pending_uploads": [
@@ -919338,6 +919390,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187634,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 18,
+      "display_name": "Požárník Sam S09E18 - Poklad s léčkou CZ Dabing",
+      "intent_id": "34a4d171572c408493989bd4dee6ff77",
+      "started_at": "2026-11-20T12:44:32Z",
+      "upload_account": "serialy",
+      "source_id": -29010628629843528,
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e18-cz-dabing-pro-deti/5c7470c569370",
+      "size_bytes": 334060270,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337362,5 +1337430,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:29:46Z"
+  "last_updated": "2026-11-20T12:44:32Z"
 }
