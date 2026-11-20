@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108185,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83481,
-    "prepared_source_episodes": 67832,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 83483,
+    "prepared_source_episodes": 67837,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 44,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 48,
-    "language_whisper_attempted_sources": 48,
+    "language_audited_sources": 41,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53414,
     "whisper_review_pending_sources": 36087,
@@ -21,10 +21,42 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T18:49:25Z",
+      "databaseId": 44796382039,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T18:48:38Z",
+      "databaseId": 44796259802,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T18:47:39Z",
+      "databaseId": 44796112879,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T18:47:35Z",
+      "databaseId": 44796102953,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T18:45:47Z",
       "databaseId": 44795823392,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,11 +92,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-20T18:42:43Z",
       "databaseId": 44795337675,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T18:34:48Z",
-      "databaseId": 44794098331,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T18:34:26Z",
-      "databaseId": 44794042000,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T18:34:22Z",
-      "databaseId": 44794030342,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T18:33:10Z",
-      "databaseId": 44793837861,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -205042,6 +205042,11 @@
         "video_id": 31211247
       },
       {
+        "episode_id": 71929,
+        "display_name": "Highlander S03E04 - 4. epizoda CZ Titulky",
+        "video_id": 31211343
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -391805,6 +391810,11 @@
         "episode_id": 46399,
         "display_name": "Melissa a Joey S03E35 - 35. epizoda CZ Dabing",
         "video_id": 31211150
+      },
+      {
+        "episode_id": 187646,
+        "display_name": "Požárník Sam S10E05 - Katastrofický den se psem CZ Dabing",
+        "video_id": 31211320
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -596564,6 +596574,11 @@
         "video_id": 31211247
       },
       {
+        "episode_id": 71929,
+        "display_name": "Highlander S03E04 - 4. epizoda CZ Titulky",
+        "video_id": 31211343
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -783327,6 +783342,11 @@
         "episode_id": 46399,
         "display_name": "Melissa a Joey S03E35 - 35. epizoda CZ Dabing",
         "video_id": 31211150
+      },
+      {
+        "episode_id": 187646,
+        "display_name": "Požárník Sam S10E05 - Katastrofický den se psem CZ Dabing",
+        "video_id": 31211320
       }
     ],
     "prepared_not_upload_ready": [
@@ -784488,8 +784508,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 43,
-    "sample_failed": 4,
+    "disabled": 1,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
