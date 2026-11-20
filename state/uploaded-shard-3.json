@@ -917686,6 +917686,32 @@
         "download_sec": 12.4,
         "upload_sec": 26.5
       }
+    },
+    {
+      "episode_id": 71855,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "Highlander S01E13 - 13. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -58271984448690577,
+      "external_id": "597876a14ff67",
+      "source_url": "https://prehraj.to/highlander-s01e13-cz-tit/597876a14ff67",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31200962,
+      "size_bytes": 320148414,
+      "uploaded_at": "2026-11-20T09:35:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.1,
+        "upload_sec": 34.9
+      }
     }
   ],
   "pending_uploads": [
@@ -918790,22 +918816,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71855,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 1,
-      "episode": 13,
-      "display_name": "Highlander S01E13 - 13. epizoda CZ Titulky",
-      "intent_id": "eab285d7435c4172ad64b67b86fd753a",
-      "started_at": "2026-11-20T09:34:30Z",
-      "upload_account": "serialy",
-      "source_id": -58271984448690577,
-      "source_url": "https://prehraj.to/highlander-s01e13-cz-tit/597876a14ff67",
-      "size_bytes": 320148414,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1336832,5 +1336842,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:34:30Z"
+  "last_updated": "2026-11-20T09:35:43Z"
 }
