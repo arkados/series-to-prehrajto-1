@@ -921965,6 +921965,32 @@
         "download_sec": 39.1,
         "upload_sec": 28.6
       }
+    },
+    {
+      "episode_id": 46420,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 19,
+      "episode_code": "S04E19",
+      "display_name": "Melissa a Joey S04E19 - 19. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -15980053604924790,
+      "external_id": "c351abe453e1bf71",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e19-put-a-ring-on-it-cs/c351abe453e1bf71",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215069,
+      "size_bytes": 320813536,
+      "uploaded_at": "2026-11-20T23:04:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 166.6,
+        "upload_sec": 33.7
+      }
     }
   ],
   "pending_uploads": [
@@ -923087,22 +923113,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46420,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 4,
-      "episode": 19,
-      "display_name": "Melissa a Joey S04E19 - 19. epizoda CZ Dabing",
-      "intent_id": "2843be509eb3431cad64a452251ae144",
-      "started_at": "2026-11-20T23:03:27Z",
-      "upload_account": "primary",
-      "source_id": -15980053604924790,
-      "source_url": "https://prehraj.to/melissa-a-joey-s4e19-put-a-ring-on-it-cs/c351abe453e1bf71",
-      "size_bytes": 320813536,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341127,5 +1341137,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:03:27Z"
+  "last_updated": "2026-11-20T23:04:36Z"
 }
