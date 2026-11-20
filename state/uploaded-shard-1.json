@@ -923061,6 +923061,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71885,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 8,
+      "display_name": "Highlander S04E08 - 8. epizoda CZ Titulky",
+      "intent_id": "3bf27c732b72487dbbff42ea1df0b9b3",
+      "started_at": "2026-11-20T22:48:59Z",
+      "upload_account": "primary",
+      "source_id": -59597205234469409,
+      "source_url": "https://prehraj.to/highlander-s04e08-cz-tit/597879f27be61",
+      "size_bytes": 363260261,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1341085,5 +1341101,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:47:49Z"
+  "last_updated": "2026-11-20T22:48:59Z"
 }
