@@ -919506,6 +919506,58 @@
         "download_sec": 18.5,
         "upload_sec": 32.4
       }
+    },
+    {
+      "episode_id": 71923,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 18,
+      "episode_code": "S02E18",
+      "display_name": "Highlander S02E18 - 18. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -7210510567410256,
+      "external_id": "5978781b21f22",
+      "source_url": "https://prehraj.to/highlander-s02e18-cz-tit/5978781b21f22",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213312,
+      "size_bytes": 363332409,
+      "uploaded_at": "2026-11-20T21:05:18Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 575.5,
+        "upload_sec": 29.6
+      }
+    },
+    {
+      "episode_id": 46403,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 8,
+      "episode_code": "S04E08",
+      "display_name": "Melissa a Joey S04E08 - 8. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -12732260211953697,
+      "external_id": "29a0315eb79c9510",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e8-face-the-music-cs/29a0315eb79c9510",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213370,
+      "size_bytes": 336033932,
+      "uploaded_at": "2026-11-20T21:10:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.1,
+        "upload_sec": 25.2
+      }
     }
   ],
   "pending_uploads": [
@@ -920612,6 +920664,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71870,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 7,
+      "display_name": "Highlander S03E07 - 7. epizoda CZ Titulky",
+      "intent_id": "7d7597ce8c844d51b8d2a68c47d34e97",
+      "started_at": "2026-11-20T21:20:27Z",
+      "upload_account": "serialy",
+      "source_id": -30034049644986058,
+      "source_url": "https://prehraj.to/highlander-s03e07-cz-tit/597878b403c5c",
+      "size_bytes": 363844640,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338636,5 +1338704,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T20:51:50Z"
+  "last_updated": "2026-11-20T21:20:27Z"
 }
