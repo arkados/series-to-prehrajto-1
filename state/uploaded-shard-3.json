@@ -919208,6 +919208,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71854,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 9,
+      "display_name": "Highlander S01E09 - 9. epizoda CZ Titulky",
+      "intent_id": "fc937f0146d34781b5c09aac775624a6",
+      "started_at": "2026-11-20T11:26:04Z",
+      "upload_account": "serialy",
+      "source_id": -11107888061598988,
+      "source_url": "https://prehraj.to/highlander-s01e09-cz-tit/59787667a7fc7",
+      "size_bytes": 363450398,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337232,5 +1337248,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:22:34Z"
+  "last_updated": "2026-11-20T11:26:04Z"
 }
