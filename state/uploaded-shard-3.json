@@ -919870,6 +919870,32 @@
         "download_sec": 13.0,
         "upload_sec": 27.5
       }
+    },
+    {
+      "episode_id": 46422,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 21,
+      "episode_code": "S04E21",
+      "display_name": "Melissa a Joey S04E21 - 21. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -7111002142924239,
+      "external_id": "21105cb3e8b19b5c",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e21-be-the-bigger-person-cs/21105cb3e8b19b5c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215180,
+      "size_bytes": 318955423,
+      "uploaded_at": "2026-11-20T23:14:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.4,
+        "upload_sec": 31.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1339000,5 +1339026,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:09:11Z"
+  "last_updated": "2026-11-20T23:14:18Z"
 }
