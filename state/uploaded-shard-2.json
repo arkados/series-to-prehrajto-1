@@ -919324,6 +919324,32 @@
         "download_sec": 16.3,
         "upload_sec": 41.7
       }
+    },
+    {
+      "episode_id": 46394,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 29,
+      "episode_code": "S03E29",
+      "display_name": "Melissa a Joey S03E29 - 29. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -23676538973025501,
+      "external_id": "53dedd39a97bf6d3",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e29-born-to-run-cs/53dedd39a97bf6d3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212359,
+      "size_bytes": 379205174,
+      "uploaded_at": "2026-11-20T20:00:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.1,
+        "upload_sec": 33.6
+      }
     }
   ],
   "pending_uploads": [
@@ -920428,22 +920454,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46394,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 29,
-      "display_name": "Melissa a Joey S03E29 - 29. epizoda CZ Dabing",
-      "intent_id": "d19134cb992d46839967670e76a14980",
-      "started_at": "2026-11-20T19:58:39Z",
-      "upload_account": "serialy",
-      "source_id": -23676538973025501,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e29-born-to-run-cs/53dedd39a97bf6d3",
-      "size_bytes": 379205174,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338470,5 +1338480,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T19:58:39Z"
+  "last_updated": "2026-11-20T20:00:13Z"
 }
