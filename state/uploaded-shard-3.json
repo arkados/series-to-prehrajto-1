@@ -918570,6 +918570,58 @@
         "download_sec": 31.1,
         "upload_sec": 36.9
       }
+    },
+    {
+      "episode_id": 46378,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 13,
+      "episode_code": "S03E13",
+      "display_name": "Melissa a Joey S03E13 - 13. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -34901903722218434,
+      "external_id": "a67563482a03b74a",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e13-teach-your-children-cs/a67563482a03b74a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31205584,
+      "size_bytes": 376873671,
+      "uploaded_at": "2026-11-20T13:46:23Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.8,
+        "upload_sec": 41.5
+      }
+    },
+    {
+      "episode_id": 71862,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Highlander S02E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -41554153622497561,
+      "external_id": "597877665394e",
+      "source_url": "https://prehraj.to/highlander-s02e05-cz-tit/597877665394e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31205612,
+      "size_bytes": 363312403,
+      "uploaded_at": "2026-11-20T13:48:33Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.9,
+        "upload_sec": 38.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1337700,5 +1337752,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:40:39Z"
+  "last_updated": "2026-11-20T13:48:33Z"
 }
