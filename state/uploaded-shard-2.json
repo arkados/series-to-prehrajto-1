@@ -920196,6 +920196,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46390,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 25,
+      "display_name": "Melissa a Joey S03E25 - 25. epizoda CZ Dabing",
+      "intent_id": "150fe16a3f824b31882079b6e5922d00",
+      "started_at": "2026-11-20T17:29:03Z",
+      "upload_account": "serialy",
+      "source_id": -8980237650289466,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e25-my-roof-my-rules-cs/250c65729fadc818",
+      "size_bytes": 364928806,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338220,5 +1338236,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T17:21:10Z"
+  "last_updated": "2026-11-20T17:29:03Z"
 }
