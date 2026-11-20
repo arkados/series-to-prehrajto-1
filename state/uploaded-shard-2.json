@@ -919220,6 +919220,32 @@
         "download_sec": 16.0,
         "upload_sec": 32.7
       }
+    },
+    {
+      "episode_id": 71926,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 21,
+      "episode_code": "S02E21",
+      "display_name": "Highlander S02E21 - 21. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -63706112694244170,
+      "external_id": "58c112f4ea650",
+      "source_url": "https://prehraj.to/highlander-s02e21-cz-tit/58c112f4ea650",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211094,
+      "size_bytes": 363320885,
+      "uploaded_at": "2026-11-20T18:31:30Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 711.4,
+        "upload_sec": 44.9
+      }
     }
   ],
   "pending_uploads": [
@@ -920326,22 +920352,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71926,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 2,
-      "episode": 21,
-      "display_name": "Highlander S02E21 - 21. epizoda CZ Titulky",
-      "intent_id": "91d7df0cfde549e0aa49868f2333bc9f",
-      "started_at": "2026-11-20T18:30:05Z",
-      "upload_account": "serialy",
-      "source_id": -63706112694244170,
-      "source_url": "https://prehraj.to/highlander-s02e21-cz-tit/58c112f4ea650",
-      "size_bytes": 363320885,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338366,5 +1338376,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T18:30:05Z"
+  "last_updated": "2026-11-20T18:31:30Z"
 }
