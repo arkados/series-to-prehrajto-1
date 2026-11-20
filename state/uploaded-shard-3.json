@@ -919584,6 +919584,32 @@
         "download_sec": 707.5,
         "upload_sec": 36.2
       }
+    },
+    {
+      "episode_id": 71931,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 8,
+      "episode_code": "S03E08",
+      "display_name": "Highlander S03E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -10394170804105526,
+      "external_id": "597878c5155f1",
+      "source_url": "https://prehraj.to/highlander-s03e08-cz-tit/597878c5155f1",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213802,
+      "size_bytes": 364031124,
+      "uploaded_at": "2026-11-20T21:39:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 32.9,
+        "upload_sec": 45.9
+      }
     }
   ],
   "pending_uploads": [
@@ -920690,22 +920716,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71931,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 3,
-      "episode": 8,
-      "display_name": "Highlander S03E08 - 8. epizoda CZ Titulky",
-      "intent_id": "092ff13e82254c39bd393c8c308e4324",
-      "started_at": "2026-11-20T21:38:19Z",
-      "upload_account": "serialy",
-      "source_id": -10394170804105526,
-      "source_url": "https://prehraj.to/highlander-s03e08-cz-tit/597878c5155f1",
-      "size_bytes": 364031124,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338730,5 +1338740,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:38:19Z"
+  "last_updated": "2026-11-20T21:39:45Z"
 }
