@@ -920482,6 +920482,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71866,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 17,
+      "display_name": "Highlander S02E17 - 17. epizoda CZ Titulky",
+      "intent_id": "cf8c5055d2ad40eb9a3b53e73ebf0850",
+      "started_at": "2026-11-20T20:06:35Z",
+      "upload_account": "serialy",
+      "source_id": -19558040782995422,
+      "source_url": "https://prehraj.to/highlander-s02e17-cz-tit/5978780b134cc",
+      "size_bytes": 363319548,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338506,5 +1338522,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T20:04:10Z"
+  "last_updated": "2026-11-20T20:06:35Z"
 }
