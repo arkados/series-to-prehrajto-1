@@ -1,30 +1,86 @@
 {
   "counts": {
     "backlog_episodes": 108344,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83323,
-    "prepared_source_episodes": 67916,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83327,
+    "prepared_source_episodes": 67944,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 52,
+    "language_audited_sources": 40,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53428,
-    "whisper_review_pending_sources": 36089,
-    "upload_pending_checkpoints": 140,
+    "whisper_review_sources": 53427,
+    "whisper_review_pending_sources": 36087,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52469,
     "subtitle_followup_pending_sources": 52469
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T04:59:33Z",
+      "databaseId": 44678018649,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T04:53:43Z",
+      "databaseId": 44677407377,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T04:53:19Z",
+      "databaseId": 44677364679,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T04:48:37Z",
+      "databaseId": 44676859243,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T04:48:30Z",
+      "databaseId": 44676847327,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T04:48:22Z",
+      "databaseId": 44676833877,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T04:47:52Z",
+      "databaseId": 44676778765,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T04:46:30Z",
       "databaseId": 44676632607,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,27 +100,27 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T04:44:30Z",
       "databaseId": 44676412884,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T04:44:27Z",
       "databaseId": 44676407283,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T04:44:25Z",
       "databaseId": 44676402906,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -76,11 +132,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-20T04:43:49Z",
       "databaseId": 44676336738,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -92,11 +148,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T04:42:26Z",
       "databaseId": 44676189275,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -119,62 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-20T04:34:54Z",
       "databaseId": 44675367763,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T04:34:46Z",
-      "databaseId": 44675354209,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T04:30:51Z",
-      "databaseId": 44674906131,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T04:30:48Z",
-      "databaseId": 44674899856,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T04:30:46Z",
-      "databaseId": 44674894699,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T04:30:44Z",
-      "databaseId": 44674889332,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T04:30:19Z",
-      "databaseId": 44674838067,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T04:29:17Z",
-      "databaseId": 44674721668,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
@@ -204687,6 +204687,16 @@
         "video_id": 31196822
       },
       {
+        "episode_id": 46332,
+        "display_name": "Melissa a Joey S01E10 - 10. epizoda CZ Dabing",
+        "video_id": 31197065
+      },
+      {
+        "episode_id": 2373,
+        "display_name": "Star proti silám zla S04E16 - 16. epizoda CZ Dabing",
+        "video_id": 31197088
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -391015,6 +391025,16 @@
         "episode_id": 2379,
         "display_name": "Star proti silám zla S04E10 - 10. epizoda CZ Dabing",
         "video_id": 31195700
+      },
+      {
+        "episode_id": 46342,
+        "display_name": "Melissa a Joey S01E20 - 20. epizoda CZ Dabing",
+        "video_id": 31196979
+      },
+      {
+        "episode_id": 2371,
+        "display_name": "Star proti silám zla S04E18 - 18. epizoda CZ Dabing",
+        "video_id": 31197071
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -595419,6 +595439,16 @@
         "video_id": 31196822
       },
       {
+        "episode_id": 46332,
+        "display_name": "Melissa a Joey S01E10 - 10. epizoda CZ Dabing",
+        "video_id": 31197065
+      },
+      {
+        "episode_id": 2373,
+        "display_name": "Star proti silám zla S04E16 - 16. epizoda CZ Dabing",
+        "video_id": 31197088
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -781747,6 +781777,16 @@
         "episode_id": 2379,
         "display_name": "Star proti silám zla S04E10 - 10. epizoda CZ Dabing",
         "video_id": 31195700
+      },
+      {
+        "episode_id": 46342,
+        "display_name": "Melissa a Joey S01E20 - 20. epizoda CZ Dabing",
+        "video_id": 31196979
+      },
+      {
+        "episode_id": 2371,
+        "display_name": "Star proti silám zla S04E18 - 18. epizoda CZ Dabing",
+        "video_id": 31197071
       }
     ],
     "prepared_not_upload_ready": [
@@ -782908,14 +782948,13 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 12,
     "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34859,
-    "whisper_confirmed_cz": 4160,
-    "whisper_non_cz_needs_subtitles": 13179,
+    "needs_whisper": 34857,
+    "whisper_confirmed_cz": 4162,
+    "whisper_non_cz_needs_subtitles": 13178,
     "whisper_failed": 1230
   },
   "subtitle_followup_statuses": {
