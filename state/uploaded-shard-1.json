@@ -919993,6 +919993,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46329,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 7,
+      "display_name": "Melissa a Joey S01E07 - 7. epizoda CZ Dabing",
+      "intent_id": "e6eac59a8d794744a939bc8ce78d4b8a",
+      "started_at": "2026-11-20T01:05:49Z",
+      "upload_account": "primary",
+      "source_id": -11300483696146196,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e07-7-epizoda-720p-cz-dabing-mkv/c9ac1fc51694344d",
+      "size_bytes": 339014808,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338017,5 +1338033,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:03:09Z"
+  "last_updated": "2026-11-20T01:05:49Z"
 }
