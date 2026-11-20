@@ -919480,6 +919480,32 @@
         "download_sec": 583.3,
         "upload_sec": 30.2
       }
+    },
+    {
+      "episode_id": 46402,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 5,
+      "episode_code": "S04E05",
+      "display_name": "Melissa a Joey S04E05 - 5. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -42096083980379771,
+      "external_id": "7767c2eaeeff7793",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e5-let-s-get-it-started-cs/7767c2eaeeff7793",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212940,
+      "size_bytes": 319231707,
+      "uploaded_at": "2026-11-20T20:38:09Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 18.5,
+        "upload_sec": 32.4
+      }
     }
   ],
   "pending_uploads": [
@@ -920584,22 +920610,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46402,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 4,
-      "episode": 5,
-      "display_name": "Melissa a Joey S04E05 - 5. epizoda CZ Dabing",
-      "intent_id": "a165c53477eb47cca8f638b3c07e4713",
-      "started_at": "2026-11-20T20:37:01Z",
-      "upload_account": "serialy",
-      "source_id": -42096083980379771,
-      "source_url": "https://prehraj.to/melissa-a-joey-s4e5-let-s-get-it-started-cs/7767c2eaeeff7793",
-      "size_bytes": 319231707,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338626,5 +1338636,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T20:37:01Z"
+  "last_updated": "2026-11-20T20:38:09Z"
 }
