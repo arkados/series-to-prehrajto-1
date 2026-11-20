@@ -919573,6 +919573,32 @@
         "download_sec": 19.5,
         "upload_sec": 65.5
       }
+    },
+    {
+      "episode_id": 71901,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Highlander S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -32443238453940222,
+      "external_id": "58c106f43c131",
+      "source_url": "https://prehraj.to/highlander-s01e02-cz-tit/58c106f43c131",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197952,
+      "size_bytes": 363357280,
+      "uploaded_at": "2026-11-20T05:53:24Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.9,
+        "upload_sec": 24.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1338719,5 +1338745,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:42:15Z"
+  "last_updated": "2026-11-20T05:56:14Z"
 }
