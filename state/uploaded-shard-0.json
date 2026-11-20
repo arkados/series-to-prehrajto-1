@@ -921575,6 +921575,32 @@
         "download_sec": 67.5,
         "upload_sec": 32.0
       }
+    },
+    {
+      "episode_id": 46408,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 6,
+      "episode_code": "S04E06",
+      "display_name": "Melissa a Joey S04E06 - 6. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -19257359973216564,
+      "external_id": "861595ea9391a450",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e6-failure-to-communicate-cs/861595ea9391a450",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213208,
+      "size_bytes": 325078121,
+      "uploaded_at": "2026-11-20T20:56:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.5,
+        "upload_sec": 33.1
+      }
     }
   ],
   "pending_uploads": [
@@ -922697,22 +922723,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46408,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 4,
-      "episode": 6,
-      "display_name": "Melissa a Joey S04E06 - 6. epizoda CZ Dabing",
-      "intent_id": "6fe50de35d0647b0b61bea1c7777b7e7",
-      "started_at": "2026-11-20T20:54:46Z",
-      "upload_account": "primary",
-      "source_id": -19257359973216564,
-      "source_url": "https://prehraj.to/melissa-a-joey-s4e6-failure-to-communicate-cs/861595ea9391a450",
-      "size_bytes": 325078121,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340737,5 +1340747,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T20:54:46Z"
+  "last_updated": "2026-11-20T20:56:14Z"
 }
