@@ -919012,6 +919012,32 @@
         "download_sec": 26.8,
         "upload_sec": 79.4
       }
+    },
+    {
+      "episode_id": 123807,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "Flashpoint S02E06 - 6. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -22507328452782221,
+      "external_id": "2cce664568ec5d88",
+      "source_url": "https://prehraj.to/flashpoint-s2e6-remote-control-cs/2cce664568ec5d88",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31209084,
+      "size_bytes": 322538462,
+      "uploaded_at": "2026-11-20T17:00:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 33.3,
+        "upload_sec": 43.5
+      }
     }
   ],
   "pending_uploads": [
@@ -920118,22 +920144,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 123807,
-      "series_id": 3331,
-      "series_title": "Flashpoint",
-      "season": 2,
-      "episode": 6,
-      "display_name": "Flashpoint S02E06 - 6. epizoda CZ Dabing",
-      "intent_id": "b82119714cd14e2f95ff621e2978fdb1",
-      "started_at": "2026-11-20T16:59:05Z",
-      "upload_account": "serialy",
-      "source_id": -22507328452782221,
-      "source_url": "https://prehraj.to/flashpoint-s2e6-remote-control-cs/2cce664568ec5d88",
-      "size_bytes": 322538462,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338158,5 +1338168,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T16:59:05Z"
+  "last_updated": "2026-11-20T17:00:41Z"
 }
