@@ -919454,6 +919454,32 @@
         "download_sec": 454.9,
         "upload_sec": 30.8
       }
+    },
+    {
+      "episode_id": 71867,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 1,
+      "episode_code": "S03E01",
+      "display_name": "Highlander S03E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -39047687905962331,
+      "external_id": "5978785e62eb6",
+      "source_url": "https://prehraj.to/highlander-s03e01-cz-tit/5978785e62eb6",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212871,
+      "size_bytes": 362853882,
+      "uploaded_at": "2026-11-20T20:33:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 583.3,
+        "upload_sec": 30.2
+      }
     }
   ],
   "pending_uploads": [
@@ -920560,22 +920586,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71867,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 3,
-      "episode": 1,
-      "display_name": "Highlander S03E01 - 1. epizoda CZ Titulky",
-      "intent_id": "3d7ae0097979474daa95137d1353060f",
-      "started_at": "2026-11-20T20:32:31Z",
-      "upload_account": "serialy",
-      "source_id": -39047687905962331,
-      "source_url": "https://prehraj.to/highlander-s03e01-cz-tit/5978785e62eb6",
-      "size_bytes": 362853882,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338600,5 +1338610,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T20:32:31Z"
+  "last_updated": "2026-11-20T20:33:37Z"
 }
