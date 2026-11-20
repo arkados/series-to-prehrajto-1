@@ -920097,6 +920097,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 152060,
+      "series_id": 5235,
+      "series_title": "The Amazing Digital Circus",
+      "season": 1,
+      "episode": 2,
+      "display_name": "The Amazing Digital Circus S01E02 - 2. epizoda CZ Dabing",
+      "intent_id": "10209fbaa5e443618307633f48e7b9fc",
+      "started_at": "2026-11-20T01:37:08Z",
+      "upload_account": "primary",
+      "source_id": -57488077188529748,
+      "source_url": "https://prehraj.to/the-amazing-digital-circus-s01e02-2-epizoda-1080p-cz-dabing-mp4/132889f8b03d7187",
+      "size_bytes": 440067780,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338121,5 +1338137,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:29:51Z"
+  "last_updated": "2026-11-20T01:37:08Z"
 }
