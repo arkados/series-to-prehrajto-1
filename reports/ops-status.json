@@ -2,37 +2,93 @@
   "counts": {
     "backlog_episodes": 108185,
     "manifest_upload_ready_episodes": 6,
-    "uploaded_episodes": 83488,
-    "prepared_source_episodes": 67800,
+    "uploaded_episodes": 83490,
+    "prepared_source_episodes": 67802,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 44,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
     "language_audited_sources": 50,
-    "language_whisper_attempted_sources": 42,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53412,
-    "whisper_review_pending_sources": 36081,
+    "whisper_review_sources": 53413,
+    "whisper_review_pending_sources": 36086,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52541,
-    "subtitle_followup_pending_sources": 52541
+    "subtitle_followup_sources": 52542,
+    "subtitle_followup_pending_sources": 52542
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-20T19:29:43Z",
-      "databaseId": 44802633915,
+      "createdAt": "2026-11-20T19:43:43Z",
+      "databaseId": 44804829811,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T19:43:04Z",
+      "databaseId": 44804726039,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T19:42:40Z",
+      "databaseId": 44804665979,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T19:41:14Z",
+      "databaseId": 44804448055,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T19:31:13Z",
+      "databaseId": 44802878596,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T19:31:11Z",
+      "databaseId": 44802870470,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T19:31:06Z",
+      "databaseId": 44802858453,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T19:29:43Z",
+      "databaseId": 44802633915,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
       "createdAt": "2026-11-20T19:27:02Z",
       "databaseId": 44802229610,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -76,11 +132,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T19:23:57Z",
       "databaseId": 44801748734,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -100,11 +156,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T19:22:08Z",
       "databaseId": 44801466090,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -116,68 +172,12 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T19:18:51Z",
       "databaseId": 44800953025,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T19:16:22Z",
-      "databaseId": 44800577055,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T19:16:18Z",
-      "databaseId": 44800565603,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T19:16:13Z",
-      "databaseId": 44800552257,
-      "headBranch": "main",
-      "status": "queued",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T19:15:03Z",
-      "databaseId": 44800369806,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T19:07:23Z",
-      "databaseId": 44799173234,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T19:07:18Z",
-      "databaseId": 44799160289,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T19:06:18Z",
-      "databaseId": 44799000307,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -205065,6 +205065,16 @@
         "episode_id": 46392,
         "display_name": "Melissa a Joey S03E28 - 28. epizoda CZ Dabing",
         "video_id": 31211991
+      },
+      {
+        "episode_id": 187648,
+        "display_name": "Požárník Sam S10E07 - Hra na špiony CZ Dabing",
+        "video_id": 31212097
+      },
+      {
+        "episode_id": 46381,
+        "display_name": "Melissa a Joey S03E16 - 16. epizoda CZ Dabing",
+        "video_id": 31212128
       },
       {
         "episode_id": 114182,
@@ -596624,6 +596634,16 @@
         "video_id": 31211991
       },
       {
+        "episode_id": 187648,
+        "display_name": "Požárník Sam S10E07 - Hra na špiony CZ Dabing",
+        "video_id": 31212097
+      },
+      {
+        "episode_id": 46381,
+        "display_name": "Melissa a Joey S03E16 - 16. epizoda CZ Dabing",
+        "video_id": 31212128
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -784558,17 +784578,17 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 8,
-    "ok": 41,
+    "disabled": 10,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34819,
+    "needs_whisper": 34824,
     "whisper_confirmed_cz": 4204,
-    "whisper_non_cz_needs_subtitles": 13127,
+    "whisper_non_cz_needs_subtitles": 13123,
     "whisper_failed": 1262
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52541
+    "needs_subtitle_setup_after_prehrajto_processing": 52542
   }
 }
