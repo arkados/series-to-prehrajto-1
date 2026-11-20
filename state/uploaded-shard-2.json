@@ -918778,6 +918778,32 @@
         "download_sec": 48.3,
         "upload_sec": 57.0
       }
+    },
+    {
+      "episode_id": 184362,
+      "series_id": 9680,
+      "series_title": "Strážci vesmíru",
+      "season": 14,
+      "episode": 25,
+      "episode_code": "S14E25",
+      "display_name": "Strážci vesmíru S14E25 - 25. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -13490958834371482,
+      "external_id": "6517f8373b31b",
+      "source_url": "https://prehraj.to/power-rangers-s14e25-the-hunter-480p-x265-edge2020/6517f8373b31b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31206300,
+      "size_bytes": 335188061,
+      "uploaded_at": "2026-11-20T14:31:28Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 17.3,
+        "upload_sec": 33.2
+      }
     }
   ],
   "pending_uploads": [
@@ -919882,22 +919908,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 184362,
-      "series_id": 9680,
-      "series_title": "Strážci vesmíru",
-      "season": 14,
-      "episode": 25,
-      "display_name": "Strážci vesmíru S14E25 - 25. epizoda CZ Titulky",
-      "intent_id": "dec97450800345d5848e621294e7d6fa",
-      "started_at": "2026-11-20T14:30:23Z",
-      "upload_account": "serialy",
-      "source_id": -13490958834371482,
-      "source_url": "https://prehraj.to/power-rangers-s14e25-the-hunter-480p-x265-edge2020/6517f8373b31b",
-      "size_bytes": 335188061,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1337924,5 +1337934,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:30:23Z"
+  "last_updated": "2026-11-20T14:31:28Z"
 }
