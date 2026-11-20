@@ -921653,6 +921653,32 @@
         "download_sec": 463.9,
         "upload_sec": 26.5
       }
+    },
+    {
+      "episode_id": 71925,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 20,
+      "episode_code": "S02E20",
+      "display_name": "Highlander S02E20 - 20. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -16385443398974180,
+      "external_id": "58c1125d9222a",
+      "source_url": "https://prehraj.to/highlander-s02e20-cz-tit/58c1125d9222a",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213316,
+      "size_bytes": 363327476,
+      "uploaded_at": "2026-11-20T21:05:49Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 14.0,
+        "upload_sec": 32.9
+      }
     }
   ],
   "pending_uploads": [
@@ -922774,22 +922800,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 71925,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 2,
-      "episode": 20,
-      "display_name": "Highlander S02E20 - 20. epizoda CZ Titulky",
-      "intent_id": "1e618331d6514adc9a4b74a73151bb1c",
-      "started_at": "2026-11-20T21:04:18Z",
-      "upload_account": "primary",
-      "source_id": -16385443398974180,
-      "source_url": "https://prehraj.to/highlander-s02e20-cz-tit/58c1125d9222a",
-      "size_bytes": 363327476,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1340815,5 +1340825,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:04:18Z"
+  "last_updated": "2026-11-20T21:05:49Z"
 }
