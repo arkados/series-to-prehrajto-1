@@ -920456,6 +920456,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71922,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 16,
+      "display_name": "Highlander S02E16 - 16. epizoda CZ Titulky",
+      "intent_id": "ee98486eb7274923aa4261ad1d10ed7d",
+      "started_at": "2026-11-20T20:02:55Z",
+      "upload_account": "serialy",
+      "source_id": -23270308818214674,
+      "source_url": "https://prehraj.to/highlander-s02e16-cz-tit/58c1114e44a1c",
+      "size_bytes": 363324552,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338480,5 +1338496,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T20:00:13Z"
+  "last_updated": "2026-11-20T20:02:55Z"
 }
