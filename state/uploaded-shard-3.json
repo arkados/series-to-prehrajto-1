@@ -919364,6 +919364,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 200091,
+      "series_id": 10111,
+      "series_title": "Štěněcí akademie",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Štěněcí akademie S01E03 - Co si kdo navaří… CZ Titulky",
+      "intent_id": "2519a07a6e08466a9f319032c168a496",
+      "started_at": "2026-11-20T12:38:13Z",
+      "upload_account": "serialy",
+      "source_id": -39594722654574749,
+      "source_url": "https://prehraj.to/pup-academy-s01e03-cztit-v-obraze/5f95d9493e1b6",
+      "size_bytes": 781032435,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337388,5 +1337404,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:37:20Z"
+  "last_updated": "2026-11-20T12:38:13Z"
 }
