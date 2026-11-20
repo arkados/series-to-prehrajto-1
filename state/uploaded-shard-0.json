@@ -920409,6 +920409,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 146716,
+      "series_id": 4816,
+      "series_title": "The Listener",
+      "season": 4,
+      "episode": 3,
+      "display_name": "The Listener S04E03 - 3. epizoda CZ Titulky",
+      "intent_id": "8b9787d900ba43ea8b44a70561b31dde",
+      "started_at": "2026-11-20T03:14:03Z",
+      "upload_account": "primary",
+      "source_id": -9727000555611231,
+      "source_url": "https://prehraj.to/the-listener-s04e03-eng/5e05318aa1a3e",
+      "size_bytes": 324493369,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338433,5 +1338449,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:13:17Z"
+  "last_updated": "2026-11-20T03:14:03Z"
 }
