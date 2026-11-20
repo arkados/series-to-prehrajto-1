@@ -918804,6 +918804,32 @@
         "download_sec": 17.3,
         "upload_sec": 33.2
       }
+    },
+    {
+      "episode_id": 91403,
+      "series_id": 2181,
+      "series_title": "Magnum P.I",
+      "season": 2,
+      "episode": 15,
+      "episode_code": "S02E15",
+      "display_name": "Magnum P.I S02E15 - Pozdrav svou minulost CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -23942073111963747,
+      "external_id": "483098df2609be63",
+      "source_url": "https://prehraj.to/magnum-p-i-s02e15-20-2019-cz-dab-1080p-pozdrav-svou-minulost/483098df2609be63",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31206431,
+      "size_bytes": 1806666766,
+      "uploaded_at": "2026-11-20T14:43:08Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 79.0,
+        "upload_sec": 254.2
+      }
     }
   ],
   "pending_uploads": [
@@ -919908,22 +919934,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 91403,
-      "series_id": 2181,
-      "series_title": "Magnum P.I",
-      "season": 2,
-      "episode": 15,
-      "display_name": "Magnum P.I S02E15 - Pozdrav svou minulost CZ Dabing",
-      "intent_id": "7fd14ddbcedb40fe96e86145d60f8c68",
-      "started_at": "2026-11-20T14:38:21Z",
-      "upload_account": "serialy",
-      "source_id": -23942073111963747,
-      "source_url": "https://prehraj.to/magnum-p-i-s02e15-20-2019-cz-dab-1080p-pozdrav-svou-minulost/483098df2609be63",
-      "size_bytes": 1806666766,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1337950,5 +1337960,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:38:21Z"
+  "last_updated": "2026-11-20T14:43:08Z"
 }
