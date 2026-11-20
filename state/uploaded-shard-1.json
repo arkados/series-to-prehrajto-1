@@ -920171,6 +920171,32 @@
         "download_sec": 20.9,
         "upload_sec": 45.7
       }
+    },
+    {
+      "episode_id": 71909,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 14,
+      "episode_code": "S01E14",
+      "display_name": "Highlander S01E14 - 14. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -20798462864295062,
+      "external_id": "58c10ae9e6b17",
+      "source_url": "https://prehraj.to/highlander-s01e14-cz-tit/58c10ae9e6b17",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31201046,
+      "size_bytes": 323633746,
+      "uploaded_at": "2026-11-20T09:42:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.5,
+        "upload_sec": 32.2
+      }
     }
   ],
   "pending_uploads": [
@@ -921293,22 +921319,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 71909,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 1,
-      "episode": 14,
-      "display_name": "Highlander S01E14 - 14. epizoda CZ Titulky",
-      "intent_id": "2cf2dfc715094af9b4182ea97c9f2712",
-      "started_at": "2026-11-20T09:41:16Z",
-      "upload_account": "primary",
-      "source_id": -20798462864295062,
-      "source_url": "https://prehraj.to/highlander-s01e14-cz-tit/58c10ae9e6b17",
-      "size_bytes": 323633746,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339333,5 +1339343,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:41:16Z"
+  "last_updated": "2026-11-20T09:42:19Z"
 }
