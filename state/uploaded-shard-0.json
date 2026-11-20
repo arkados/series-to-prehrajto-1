@@ -920665,6 +920665,32 @@
         "download_sec": 17.9,
         "upload_sec": 109.2
       }
+    },
+    {
+      "episode_id": 71913,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Highlander S02E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -46636380210917508,
+      "external_id": "5978773d47b40",
+      "source_url": "https://prehraj.to/highlander-s02e02-cz-tit/5978773d47b40",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31205334,
+      "size_bytes": 363359188,
+      "uploaded_at": "2026-11-20T13:31:36Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.8,
+        "upload_sec": 34.9
+      }
     }
   ],
   "pending_uploads": [
@@ -921787,6 +921813,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46380,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 14,
+      "display_name": "Melissa a Joey S03E14 - 14. epizoda CZ Dabing",
+      "intent_id": "42a08e3630cf45f683d715a6c07bb998",
+      "started_at": "2026-11-20T13:38:57Z",
+      "upload_account": "primary",
+      "source_id": -45236290652133250,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e14-what-happens-in-jersey-1-cs/671dd6fd84e27a74",
+      "size_bytes": 407374645,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339811,5 +1339853,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:24:23Z"
+  "last_updated": "2026-11-20T13:38:57Z"
 }
