@@ -916672,6 +916672,32 @@
         "download_sec": 12.9,
         "upload_sec": 27.4
       }
+    },
+    {
+      "episode_id": 2395,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 3,
+      "episode": 16,
+      "episode_code": "S03E16",
+      "display_name": "Star proti silám zla S03E16 - 16. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -18984200726421791,
+      "external_id": "b9481ee75ba89288",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e16-princess-turdina-cs/b9481ee75ba89288",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193788,
+      "size_bytes": 338739575,
+      "uploaded_at": "2026-11-20T01:12:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 13.4,
+        "upload_sec": 26.8
+      }
     }
   ],
   "pending_uploads": [
@@ -917778,22 +917804,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2395,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 3,
-      "episode": 16,
-      "display_name": "Star proti silám zla S03E16 - 16. epizoda CZ Dabing",
-      "intent_id": "042be23118cd49968dea5a2770a3f306",
-      "started_at": "2026-11-20T01:10:29Z",
-      "upload_account": "serialy",
-      "source_id": -18984200726421791,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s3e16-princess-turdina-cs/b9481ee75ba89288",
-      "size_bytes": 338739575,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335818,5 +1335828,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:10:39Z"
+  "last_updated": "2026-11-20T01:12:10Z"
 }
