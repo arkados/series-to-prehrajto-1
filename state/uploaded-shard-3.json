@@ -918168,6 +918168,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46343,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 22,
+      "display_name": "Melissa a Joey S01E22 - 22. epizoda CZ Dabing",
+      "intent_id": "4c156722dcad43d986d53ef2ae1110c0",
+      "started_at": "2026-11-20T05:02:35Z",
+      "upload_account": "serialy",
+      "source_id": -8417172077023471,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e22-22-epizoda-720p-cz-dabing/dd104b4d924a1856",
+      "size_bytes": 370748825,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336192,5 +1336208,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T04:51:23Z"
+  "last_updated": "2026-11-20T05:02:35Z"
 }
