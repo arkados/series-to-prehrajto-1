@@ -921631,6 +921631,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 193825,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Bing S01E03 - Houpačka CZ Dabing",
+      "intent_id": "1ed36cacf8f245a08bd7818bd17fd329",
+      "started_at": "2026-11-20T12:44:30Z",
+      "upload_account": "primary",
+      "source_id": -53727319765092947,
+      "source_url": "https://prehraj.to/bing-s01e03-78-2014-cz-dabing-1080p-fhd-houpacka/d864b8bf497ce364",
+      "size_bytes": 330316260,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339655,5 +1339671,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:29:46Z"
+  "last_updated": "2026-11-20T12:48:15Z"
 }
