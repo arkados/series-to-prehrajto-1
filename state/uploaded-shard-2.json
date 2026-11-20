@@ -919766,6 +919766,32 @@
         "download_sec": 30.2,
         "upload_sec": 35.3
       }
+    },
+    {
+      "episode_id": 71883,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 4,
+      "episode_code": "S04E04",
+      "display_name": "Highlander S04E04 - 4. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -16916829621398737,
+      "external_id": "597879b9c29ef",
+      "source_url": "https://prehraj.to/highlander-s04e04-cz-tit/597879b9c29ef",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214533,
+      "size_bytes": 363260808,
+      "uploaded_at": "2026-11-20T22:28:38Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 264.2,
+        "upload_sec": 36.7
+      }
     }
   ],
   "pending_uploads": [
@@ -920870,6 +920896,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46414,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 15,
+      "display_name": "Melissa a Joey S04E15 - 15. epizoda CZ Dabing",
+      "intent_id": "5c097b3eaeec428dbbcb1d03864b3545",
+      "started_at": "2026-11-20T22:36:07Z",
+      "upload_account": "serialy",
+      "source_id": -29223992812101289,
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e15-the-book-club-cs/0f59b30cf66872b0",
+      "size_bytes": 351347433,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338896,5 +1338938,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:24:34Z"
+  "last_updated": "2026-11-20T22:36:07Z"
 }
