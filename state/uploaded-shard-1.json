@@ -921497,6 +921497,32 @@
         "download_sec": 12.6,
         "upload_sec": 32.8
       }
+    },
+    {
+      "episode_id": 71924,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 19,
+      "episode_code": "S02E19",
+      "display_name": "Highlander S02E19 - 19. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -49056837640337060,
+      "external_id": "5978782a02602",
+      "source_url": "https://prehraj.to/highlander-s02e19-cz-tit/5978782a02602",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212496,
+      "size_bytes": 350005463,
+      "uploaded_at": "2026-11-20T20:09:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 580.0,
+        "upload_sec": 35.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1340643,5 +1340669,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T19:59:45Z"
+  "last_updated": "2026-11-20T20:10:20Z"
 }
