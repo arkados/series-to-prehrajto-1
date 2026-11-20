@@ -917010,6 +917010,32 @@
         "download_sec": 15.5,
         "upload_sec": 34.6
       }
+    },
+    {
+      "episode_id": 46342,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 20,
+      "episode_code": "S01E20",
+      "display_name": "Melissa a Joey S01E20 - 20. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68494471002149658,
+      "external_id": "59c126fbfea726d4",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e20-20-epizoda-720p-cz-dabing-mkv/59c126fbfea726d4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31196979,
+      "size_bytes": 368425400,
+      "uploaded_at": "2026-11-20T04:47:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.4,
+        "upload_sec": 75.6
+      }
     }
   ],
   "pending_uploads": [
@@ -918114,22 +918140,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46342,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 20,
-      "display_name": "Melissa a Joey S01E20 - 20. epizoda CZ Dabing",
-      "intent_id": "6a43dc26bd2740b8bf3efa1b89af4b17",
-      "started_at": "2026-11-20T04:44:48Z",
-      "upload_account": "serialy",
-      "source_id": -68494471002149658,
-      "source_url": "https://prehraj.to/melissa-a-joey-s01e20-20-epizoda-720p-cz-dabing-mkv/59c126fbfea726d4",
-      "size_bytes": 368425400,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1336156,5 +1336166,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T04:44:48Z"
+  "last_updated": "2026-11-20T04:47:09Z"
 }
