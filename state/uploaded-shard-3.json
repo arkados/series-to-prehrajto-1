@@ -919532,6 +919532,32 @@
         "download_sec": 575.5,
         "upload_sec": 29.6
       }
+    },
+    {
+      "episode_id": 46403,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 8,
+      "episode_code": "S04E08",
+      "display_name": "Melissa a Joey S04E08 - 8. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -12732260211953697,
+      "external_id": "29a0315eb79c9510",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e8-face-the-music-cs/29a0315eb79c9510",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213370,
+      "size_bytes": 336033932,
+      "uploaded_at": "2026-11-20T21:10:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.1,
+        "upload_sec": 25.2
+      }
     }
   ],
   "pending_uploads": [
@@ -920636,22 +920662,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46403,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 4,
-      "episode": 8,
-      "display_name": "Melissa a Joey S04E08 - 8. epizoda CZ Dabing",
-      "intent_id": "a9ee8d6a8fc84136aedfebd3d4936fd2",
-      "started_at": "2026-11-20T21:08:47Z",
-      "upload_account": "serialy",
-      "source_id": -12732260211953697,
-      "source_url": "https://prehraj.to/melissa-a-joey-s4e8-face-the-music-cs/29a0315eb79c9510",
-      "size_bytes": 336033932,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338678,5 +1338688,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:08:47Z"
+  "last_updated": "2026-11-20T21:10:13Z"
 }
