@@ -921241,6 +921241,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46364,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 13,
+      "display_name": "Melissa a Joey S02E13 - 13. epizoda CZ Dabing",
+      "intent_id": "533258bb44b74d9fbc847175896006e1",
+      "started_at": "2026-11-20T09:38:31Z",
+      "upload_account": "primary",
+      "source_id": -60221629126680170,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e13-wherefore-art-thou-lennox-cs/5b256e900cfbde1c",
+      "size_bytes": 333290026,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339265,5 +1339281,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T09:31:59Z"
+  "last_updated": "2026-11-20T09:38:31Z"
 }
