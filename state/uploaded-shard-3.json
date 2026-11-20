@@ -917036,6 +917036,32 @@
         "download_sec": 14.4,
         "upload_sec": 75.6
       }
+    },
+    {
+      "episode_id": 2371,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 18,
+      "episode_code": "S04E18",
+      "display_name": "Star proti silám zla S04E18 - 18. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -61061375838241206,
+      "external_id": "8ec585ec575c7c28",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e18-the-knight-shift-cs/8ec585ec575c7c28",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197071,
+      "size_bytes": 336909275,
+      "uploaded_at": "2026-11-20T04:51:23Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.9,
+        "upload_sec": 42.3
+      }
     }
   ],
   "pending_uploads": [
@@ -918142,22 +918168,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2371,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 4,
-      "episode": 18,
-      "display_name": "Star proti silám zla S04E18 - 18. epizoda CZ Dabing",
-      "intent_id": "9dba4133cd00422b8ed216cd295d3620",
-      "started_at": "2026-11-20T04:49:53Z",
-      "upload_account": "serialy",
-      "source_id": -61061375838241206,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e18-the-knight-shift-cs/8ec585ec575c7c28",
-      "size_bytes": 336909275,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336182,5 +1336192,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T04:49:53Z"
+  "last_updated": "2026-11-20T04:51:23Z"
 }
