@@ -918310,6 +918310,32 @@
         "download_sec": 15.2,
         "upload_sec": 33.1
       }
+    },
+    {
+      "episode_id": 123399,
+      "series_id": 3311,
+      "series_title": "Kill La Kill",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Kill La Kill S01E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -43976222570144337,
+      "external_id": "63a0e4b2ded8e",
+      "source_url": "https://prehraj.to/kill-la-kill-s01e05-cztitulky/63a0e4b2ded8e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204544,
+      "size_bytes": 364150966,
+      "uploaded_at": "2026-11-20T12:46:15Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.9,
+        "upload_sec": 35.6
+      }
     }
   ],
   "pending_uploads": [
@@ -919418,18 +919444,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 123399,
-      "series_id": 3311,
-      "series_title": "Kill La Kill",
+      "episode_id": 193826,
+      "series_id": 9877,
+      "series_title": "Bing",
       "season": 1,
-      "episode": 5,
-      "display_name": "Kill La Kill S01E05 - 5. epizoda CZ Titulky",
-      "intent_id": "b8fc01f217b742f8896cbf704119b647",
-      "started_at": "2026-11-20T12:44:34Z",
+      "episode": 4,
+      "display_name": "Bing S01E04 - Kostky CZ Dabing",
+      "intent_id": "8ddbfb64d22546818ab3c3d20b7dc105",
+      "started_at": "2026-11-20T12:46:24Z",
       "upload_account": "serialy",
-      "source_id": -43976222570144337,
-      "source_url": "https://prehraj.to/kill-la-kill-s01e05-cztitulky/63a0e4b2ded8e",
-      "size_bytes": 364150966,
+      "source_id": -68298882345239488,
+      "source_url": "https://prehraj.to/bing-s01e04-78-2014-cz-dabing-1080p-fhd-kostky/d8d10c54f080311e",
+      "size_bytes": 330043290,
       "source_container": "mkv",
       "source_download_kind": "original"
     }
@@ -1337456,5 +1337482,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:45:45Z"
+  "last_updated": "2026-11-20T12:46:24Z"
 }
