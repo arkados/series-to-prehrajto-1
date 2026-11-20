@@ -919053,6 +919053,32 @@
         "download_sec": 12.7,
         "upload_sec": 23.2
       }
+    },
+    {
+      "episode_id": 127589,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 20,
+      "episode_code": "S02E20",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E20 - 20. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -71405444196174887,
+      "external_id": "d467327b3d8d6a52",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e20-in-confusion-at-the-north-end-fabricate-fog-ja/d467327b3d8d6a52",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31194543,
+      "size_bytes": 340858690,
+      "uploaded_at": "2026-11-20T02:09:18Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 13.1,
+        "upload_sec": 23.2
+      }
     }
   ],
   "pending_uploads": [
@@ -920173,22 +920199,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 127589,
-      "series_id": 3537,
-      "series_title": "Ghost in the Shell: Stand Alone Complex",
-      "season": 2,
-      "episode": 20,
-      "display_name": "Ghost in the Shell: Stand Alone Complex S02E20 - 20. epizoda CZ Titulky",
-      "intent_id": "0cee5870805045209e003173ea77d06c",
-      "started_at": "2026-11-20T02:08:16Z",
-      "upload_account": "primary",
-      "source_id": -71405444196174887,
-      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e20-in-confusion-at-the-north-end-fabricate-fog-ja/d467327b3d8d6a52",
-      "size_bytes": 340858690,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1338215,5 +1338225,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T02:08:16Z"
+  "last_updated": "2026-11-20T02:09:18Z"
 }
