@@ -919079,6 +919079,32 @@
         "download_sec": 13.1,
         "upload_sec": 23.2
       }
+    },
+    {
+      "episode_id": 113281,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 14,
+      "episode_code": "S01E14",
+      "display_name": "Sindibádova dobrodružství S01E14 - Upíří příběh CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -9082237137006995,
+      "external_id": "6186388f383a4",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e14/6186388f383a4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31194555,
+      "size_bytes": 336868135,
+      "uploaded_at": "2026-11-20T02:11:02Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.9,
+        "upload_sec": 23.4
+      }
     }
   ],
   "pending_uploads": [
@@ -920201,22 +920227,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 113281,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 14,
-      "display_name": "Sindibádova dobrodružství S01E14 - Upíří příběh CZ Dabing",
-      "intent_id": "6165a7f5522d496187861b650f651ba8",
-      "started_at": "2026-11-20T02:10:03Z",
-      "upload_account": "primary",
-      "source_id": -9082237137006995,
-      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e14/6186388f383a4",
-      "size_bytes": 336868135,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338241,5 +1338251,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T02:10:03Z"
+  "last_updated": "2026-11-20T02:11:02Z"
 }
