@@ -1,46 +1,70 @@
 {
   "counts": {
     "backlog_episodes": 108250,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83431,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83432,
     "prepared_source_episodes": 67879,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 42,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 42,
-    "language_whisper_attempted_sources": 42,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53423,
     "whisper_review_pending_sources": 36103,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52516,
     "subtitle_followup_pending_sources": 52516
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-20T13:30:12Z",
-      "databaseId": 44744854815,
+      "createdAt": "2026-11-20T13:35:49Z",
+      "databaseId": 44745694551,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-20T13:27:41Z",
-      "databaseId": 44744500466,
+      "createdAt": "2026-11-20T13:33:40Z",
+      "databaseId": 44745374577,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
+      "createdAt": "2026-11-20T13:32:58Z",
+      "databaseId": 44745269399,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T13:30:12Z",
+      "databaseId": 44744854815,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T13:27:41Z",
+      "databaseId": 44744500466,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T13:27:33Z",
       "databaseId": 44744484345,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -68,11 +92,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T13:24:02Z",
       "databaseId": 44743972588,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -100,11 +124,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T13:20:56Z",
       "databaseId": 44743523205,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T13:13:41Z",
-      "databaseId": 44742452011,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T13:12:25Z",
-      "databaseId": 44742264342,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T13:12:22Z",
-      "databaseId": 44742258739,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -204925,6 +204925,11 @@
         "episode_id": 46376,
         "display_name": "Melissa a Joey S03E12 - 12. epizoda CZ Dabing",
         "video_id": 31205187
+      },
+      {
+        "episode_id": 71913,
+        "display_name": "Highlander S02E02 - 2. epizoda CZ Titulky",
+        "video_id": 31205334
       },
       {
         "episode_id": 114182,
@@ -596199,6 +596204,11 @@
         "video_id": 31205187
       },
       {
+        "episode_id": 71913,
+        "display_name": "Highlander S02E02 - 2. epizoda CZ Titulky",
+        "video_id": 31205334
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -783988,7 +783998,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 41,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
