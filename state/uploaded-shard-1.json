@@ -922017,6 +922017,58 @@
         "download_sec": 18.4,
         "upload_sec": 31.4
       }
+    },
+    {
+      "episode_id": 123796,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "Flashpoint S01E09 - 9. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -11212114061918485,
+      "external_id": "959b9b3e1c29fbcf",
+      "source_url": "https://prehraj.to/flashpoint-s01e09-9-epizoda-sd-cz-dabing-avi/959b9b3e1c29fbcf",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215381,
+      "size_bytes": 368026416,
+      "uploaded_at": "2026-11-20T23:27:35Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 24.5,
+        "upload_sec": 27.6
+      }
+    },
+    {
+      "episode_id": 146416,
+      "series_id": 4797,
+      "series_title": "Lidský terč",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Lidský terč S01E05 - 5. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -58613163258605021,
+      "external_id": "14041ae51505e003",
+      "source_url": "https://prehraj.to/lidsky-terc-s01e05-5-epizoda-sd-cz-dabing-avi/14041ae51505e003",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215408,
+      "size_bytes": 395611936,
+      "uploaded_at": "2026-11-20T23:29:34Z",
+      "timing": {
+        "resolve_sec": 3.0,
+        "download_sec": 14.5,
+        "upload_sec": 28.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1341163,5 +1341215,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:14:18Z"
+  "last_updated": "2026-11-20T23:29:34Z"
 }
