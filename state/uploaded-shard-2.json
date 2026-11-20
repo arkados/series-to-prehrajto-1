@@ -917518,6 +917518,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187622,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 6,
+      "display_name": "Požárník Sam S09E06 - Únik z Pontypandského ostrova CZ Dabing",
+      "intent_id": "7fc4cb73bfb54bc092ea7950a836282a",
+      "started_at": "2026-11-20T00:06:11Z",
+      "upload_account": "serialy",
+      "source_id": -32285968009406029,
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e06-cz-dabing-pro-deti/5c746ba7cd363",
+      "size_bytes": 351542362,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335542,5 +1335558,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:05:22Z"
+  "last_updated": "2026-11-20T00:06:11Z"
 }
