@@ -919001,6 +919001,58 @@
         "download_sec": 20.6,
         "upload_sec": 41.0
       }
+    },
+    {
+      "episode_id": 127572,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 3,
+      "episode_code": "S02E03",
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -15065559150127057,
+      "external_id": "90086f8d40c259e2",
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e3-di-saturday-night-and-sunday-morning-cash-eye-ja/90086f8d40c259e2",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31194360,
+      "size_bytes": 357724145,
+      "uploaded_at": "2026-11-20T01:52:59Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.2,
+        "upload_sec": 36.7
+      }
+    },
+    {
+      "episode_id": 113280,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 20,
+      "episode_code": "S01E20",
+      "display_name": "Sindibádova dobrodružství S01E20 - Píseň sirény CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -14775207517625355,
+      "external_id": "5c2eb98ec7d3d",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x20/5c2eb98ec7d3d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31194381,
+      "size_bytes": 334622341,
+      "uploaded_at": "2026-11-20T01:55:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.7,
+        "upload_sec": 23.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1338147,5 +1338199,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:38:54Z"
+  "last_updated": "2026-11-20T01:55:19Z"
 }
