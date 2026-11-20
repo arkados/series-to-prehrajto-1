@@ -919156,6 +919156,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71910,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 20,
+      "display_name": "Highlander S01E20 - 20. epizoda CZ Titulky",
+      "intent_id": "ea38ac80a4da42cf9dfd61ca4f1b468f",
+      "started_at": "2026-11-20T11:20:31Z",
+      "upload_account": "serialy",
+      "source_id": -4509287713257413,
+      "source_url": "https://prehraj.to/highlander-s01e20-cz-tit/58c10c7ddfb38",
+      "size_bytes": 363316204,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337180,5 +1337196,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:12:33Z"
+  "last_updated": "2026-11-20T11:20:31Z"
 }
