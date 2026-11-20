@@ -920846,6 +920846,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71938,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 7,
+      "display_name": "Highlander S04E07 - 7. epizoda CZ Titulky",
+      "intent_id": "2bbe9d9f42444a45a1f80c50c52720d4",
+      "started_at": "2026-11-20T22:23:26Z",
+      "upload_account": "serialy",
+      "source_id": -55888890863702932,
+      "source_url": "https://prehraj.to/highlander-s04e07-cz-tit/58c11ae0ada07",
+      "size_bytes": 363270845,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338870,5 +1338886,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:17:30Z"
+  "last_updated": "2026-11-20T22:23:26Z"
 }
