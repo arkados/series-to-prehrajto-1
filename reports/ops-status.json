@@ -2,29 +2,77 @@
   "counts": {
     "backlog_episodes": 108250,
     "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83409,
-    "prepared_source_episodes": 67923,
+    "uploaded_episodes": 83410,
+    "prepared_source_episodes": 67926,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 48,
-    "language_whisper_attempted_sources": 42,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53423,
     "whisper_review_pending_sources": 36092,
-    "upload_pending_checkpoints": 140,
-    "subtitle_followup_sources": 52506,
-    "subtitle_followup_pending_sources": 52506
+    "upload_pending_checkpoints": 139,
+    "subtitle_followup_sources": 52507,
+    "subtitle_followup_pending_sources": 52507
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T11:57:37Z",
+      "databaseId": 44731801995,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T11:56:56Z",
+      "databaseId": 44731714086,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T11:56:24Z",
+      "databaseId": 44731643784,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T11:55:38Z",
+      "databaseId": 44731543899,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-20T11:55:34Z",
+      "databaseId": 44731536104,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-20T11:55:09Z",
+      "databaseId": 44731479962,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T11:53:55Z",
       "databaseId": 44731314180,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +92,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T11:51:57Z",
       "databaseId": 44731047731,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -68,11 +116,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T11:50:38Z",
       "databaseId": 44730872722,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -116,11 +164,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T11:39:11Z",
       "databaseId": 44729342076,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T11:38:52Z",
-      "databaseId": 44729302234,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T11:38:47Z",
-      "databaseId": 44729291561,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T11:37:32Z",
-      "databaseId": 44729126547,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T11:36:37Z",
-      "databaseId": 44729000985,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T11:34:59Z",
-      "databaseId": 44728776368,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-20T11:34:52Z",
-      "databaseId": 44728760949,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -391445,6 +391445,11 @@
         "episode_id": 46370,
         "display_name": "Melissa a Joey S03E05 - 5. epizoda CZ Dabing",
         "video_id": 31203315
+      },
+      {
+        "episode_id": 46374,
+        "display_name": "Melissa a Joey S03E07 - 7. epizoda CZ Dabing",
+        "video_id": 31203589
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -782607,6 +782612,11 @@
         "episode_id": 46370,
         "display_name": "Melissa a Joey S03E05 - 5. epizoda CZ Dabing",
         "video_id": 31203315
+      },
+      {
+        "episode_id": 46374,
+        "display_name": "Melissa a Joey S03E07 - 7. epizoda CZ Dabing",
+        "video_id": 31203589
       }
     ],
     "prepared_not_upload_ready": [
@@ -783768,8 +783778,6 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 6,
-    "sample_failed": 2,
     "ok": 39,
     "resolve_failed": 1
   },
@@ -783780,6 +783788,6 @@
     "whisper_failed": 1237
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52506
+    "needs_subtitle_setup_after_prehrajto_processing": 52507
   }
 }
