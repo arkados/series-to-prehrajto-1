@@ -918934,6 +918934,32 @@
         "download_sec": 87.7,
         "upload_sec": 41.9
       }
+    },
+    {
+      "episode_id": 123778,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Flashpoint S01E05 - 5. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -15157972810149837,
+      "external_id": "026048a4bc1fdf2c",
+      "source_url": "https://prehraj.to/flashpoint-s01e05-5-epizoda-sd-cz-dabing-avi/026048a4bc1fdf2c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31207846,
+      "size_bytes": 367074194,
+      "uploaded_at": "2026-11-20T15:55:05Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 367.2,
+        "upload_sec": 42.6
+      }
     }
   ],
   "pending_uploads": [
@@ -920040,22 +920066,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 123778,
-      "series_id": 3331,
-      "series_title": "Flashpoint",
-      "season": 1,
-      "episode": 5,
-      "display_name": "Flashpoint S01E05 - 5. epizoda CZ Dabing",
-      "intent_id": "39218211a61d44d8a0683adb7467ac79",
-      "started_at": "2026-11-20T15:53:38Z",
-      "upload_account": "serialy",
-      "source_id": -15157972810149837,
-      "source_url": "https://prehraj.to/flashpoint-s01e05-5-epizoda-sd-cz-dabing-avi/026048a4bc1fdf2c",
-      "size_bytes": 367074194,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338080,5 +1338090,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T15:53:38Z"
+  "last_updated": "2026-11-20T15:55:05Z"
 }
