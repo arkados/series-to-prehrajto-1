@@ -921367,6 +921367,32 @@
         "download_sec": 865.8,
         "upload_sec": 42.2
       }
+    },
+    {
+      "episode_id": 46392,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 28,
+      "episode_code": "S03E28",
+      "display_name": "Melissa a Joey S03E28 - 28. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -23472597734212442,
+      "external_id": "6802507a69129e93",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e28-catch-release-cs/6802507a69129e93",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31211991,
+      "size_bytes": 375088359,
+      "uploaded_at": "2026-11-20T19:29:38Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 16.0,
+        "upload_sec": 34.4
+      }
     }
   ],
   "pending_uploads": [
@@ -922489,22 +922515,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46392,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 28,
-      "display_name": "Melissa a Joey S03E28 - 28. epizoda CZ Dabing",
-      "intent_id": "e1398b9ac530463d9d3d848fa8287f88",
-      "started_at": "2026-11-20T19:28:04Z",
-      "upload_account": "primary",
-      "source_id": -23472597734212442,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e28-catch-release-cs/6802507a69129e93",
-      "size_bytes": 375088359,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340529,5 +1340539,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T19:28:06Z"
+  "last_updated": "2026-11-20T19:29:38Z"
 }
