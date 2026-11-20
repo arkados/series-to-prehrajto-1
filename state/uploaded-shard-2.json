@@ -917934,6 +917934,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 128798,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 3,
+      "episode": 1,
+      "display_name": "Lovci trolů od Guillerma Del Toro S03E01 - Noční hlídka CZ Titulky",
+      "intent_id": "afc4765a3f0a4dc8a1ddd0aa3257a29c",
+      "started_at": "2026-11-20T01:51:47Z",
+      "upload_account": "serialy",
+      "source_id": -12183478573404394,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s3e1-a-night-patroll-en/178d000e287247c3",
+      "size_bytes": 579510190,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335958,5 +1335974,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:38:11Z"
+  "last_updated": "2026-11-20T01:51:47Z"
 }
