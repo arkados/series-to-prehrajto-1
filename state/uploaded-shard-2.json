@@ -919922,6 +919922,32 @@
         "download_sec": 27.3,
         "upload_sec": 25.7
       }
+    },
+    {
+      "episode_id": 71947,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 2,
+      "episode_code": "S05E02",
+      "display_name": "Highlander S05E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -55746856642258436,
+      "external_id": "59787b054d026",
+      "source_url": "https://prehraj.to/highlander-s05e02-cz-tit/59787b054d026",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215484,
+      "size_bytes": 363252688,
+      "uploaded_at": "2026-11-20T23:34:07Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 24.0,
+        "upload_sec": 40.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1339052,5 +1339078,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:29:34Z"
+  "last_updated": "2026-11-20T23:34:07Z"
 }
