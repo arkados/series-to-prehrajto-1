@@ -919792,6 +919792,32 @@
         "download_sec": 264.2,
         "upload_sec": 36.7
       }
+    },
+    {
+      "episode_id": 46414,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 15,
+      "episode_code": "S04E15",
+      "display_name": "Melissa a Joey S04E15 - 15. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -29223992812101289,
+      "external_id": "0f59b30cf66872b0",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e15-the-book-club-cs/0f59b30cf66872b0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214648,
+      "size_bytes": 351347433,
+      "uploaded_at": "2026-11-20T22:37:13Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.6,
+        "upload_sec": 38.0
+      }
     }
   ],
   "pending_uploads": [
@@ -920896,6 +920922,22 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46419,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 17,
+      "display_name": "Melissa a Joey S04E17 - 17. epizoda CZ Dabing",
+      "intent_id": "0f78f9f5ed2b40fcb0951c7bdb027325",
+      "started_at": "2026-11-20T22:36:44Z",
+      "upload_account": "serialy",
+      "source_id": -30303640586871456,
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e17-the-parent-trap-cs/3cb420573075f8d6",
+      "size_bytes": 315443473,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338922,5 +1338964,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:28:38Z"
+  "last_updated": "2026-11-20T22:37:13Z"
 }
