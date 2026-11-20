@@ -917088,6 +917088,58 @@
         "download_sec": 18.0,
         "upload_sec": 39.0
       }
+    },
+    {
+      "episode_id": 2374,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 15,
+      "episode_code": "S04E15",
+      "display_name": "Star proti silám zla S04E15 - 15. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -66781419942361578,
+      "external_id": "a1e6c7a839837e96",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e15-ghost-of-butterfly-castle-cs/a1e6c7a839837e96",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197292,
+      "size_bytes": 338731871,
+      "uploaded_at": "2026-11-20T05:08:43Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.0,
+        "upload_sec": 65.2
+      }
+    },
+    {
+      "episode_id": 100518,
+      "series_id": 2439,
+      "series_title": "Tintinova dobrodružství",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "Tintinova dobrodružství S02E07 - Tintin v Tibetu - 2. část CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -18085290972079887,
+      "external_id": "43f03b228c76631b",
+      "source_url": "https://prehraj.to/tintinova-dobrodruzstvi-s02e07-tintin-v-tibetu-cast-2-720p/43f03b228c76631b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197339,
+      "size_bytes": 396624284,
+      "uploaded_at": "2026-11-20T05:11:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.0,
+        "upload_sec": 60.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1336218,5 +1336270,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:03:56Z"
+  "last_updated": "2026-11-20T05:11:08Z"
 }
