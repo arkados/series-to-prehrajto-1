@@ -919755,6 +919755,58 @@
         "download_sec": 17.1,
         "upload_sec": 35.4
       }
+    },
+    {
+      "episode_id": 46352,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 30,
+      "episode_code": "S01E30",
+      "display_name": "Melissa a Joey S01E30 - 30. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -2202247702401877,
+      "external_id": "c0868f0c8e64bd89",
+      "source_url": "https://prehraj.to/melissa-a-joey-s1e30-the-settlement-cs/c0868f0c8e64bd89",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31199284,
+      "size_bytes": 327368654,
+      "uploaded_at": "2026-11-20T07:37:42Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.5,
+        "upload_sec": 50.6
+      }
+    },
+    {
+      "episode_id": 71852,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Highlander S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -41275950956549884,
+      "external_id": "5978761254263",
+      "source_url": "https://prehraj.to/highlander-s01e03-cz-tit/5978761254263",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31199313,
+      "size_bytes": 362697480,
+      "uploaded_at": "2026-11-20T07:41:39Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.1,
+        "upload_sec": 161.5
+      }
     }
   ],
   "pending_uploads": [
@@ -920877,6 +920929,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46353,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 2,
+      "display_name": "Melissa a Joey S02E02 - 2. epizoda CZ Dabing",
+      "intent_id": "1973715f8db54f52964f41ab9d44d70c",
+      "started_at": "2026-11-20T07:44:10Z",
+      "upload_account": "primary",
+      "source_id": -21482164808066909,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e2-if-you-can-t-stand-the-heat-cs/46289c14fb02e35e",
+      "size_bytes": 328062938,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338901,5 +1338969,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:32:52Z"
+  "last_updated": "2026-11-20T07:46:29Z"
 }
