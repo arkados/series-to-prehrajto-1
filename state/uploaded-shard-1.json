@@ -918897,6 +918897,32 @@
         "download_sec": 15.1,
         "upload_sec": 35.0
       }
+    },
+    {
+      "episode_id": 2384,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 6,
+      "episode_code": "S04E06",
+      "display_name": "Star proti silám zla S04E06 - 6. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -32531445117756125,
+      "external_id": "2d5e6752d7953e29",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e6-lake-house-fever-cs/2d5e6752d7953e29",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193785,
+      "size_bytes": 343613865,
+      "uploaded_at": "2026-11-20T01:11:43Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.5,
+        "upload_sec": 33.0
+      }
     }
   ],
   "pending_uploads": [
@@ -1338043,5 +1338069,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:07:14Z"
+  "last_updated": "2026-11-20T01:13:48Z"
 }
