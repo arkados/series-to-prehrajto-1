@@ -919116,6 +919116,32 @@
         "download_sec": 310.7,
         "upload_sec": 54.1
       }
+    },
+    {
+      "episode_id": 46395,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 31,
+      "episode_code": "S03E31",
+      "display_name": "Melissa a Joey S03E31 - 31. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -18630322330847946,
+      "external_id": "efaabf20b52bfd44",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e31-accidents-will-happen-cs/efaabf20b52bfd44",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31209972,
+      "size_bytes": 388791153,
+      "uploaded_at": "2026-11-20T17:37:16Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 732.7,
+        "upload_sec": 39.1
+      }
     }
   ],
   "pending_uploads": [
@@ -920220,22 +920246,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46395,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 31,
-      "display_name": "Melissa a Joey S03E31 - 31. epizoda CZ Dabing",
-      "intent_id": "43a118f5441843d699d768efbbaaefcd",
-      "started_at": "2026-11-20T17:35:56Z",
-      "upload_account": "serialy",
-      "source_id": -18630322330847946,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e31-accidents-will-happen-cs/efaabf20b52bfd44",
-      "size_bytes": 388791153,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1338262,5 +1338272,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T17:35:56Z"
+  "last_updated": "2026-11-20T17:37:16Z"
 }
