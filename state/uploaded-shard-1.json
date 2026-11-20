@@ -920535,6 +920535,32 @@
         "download_sec": 10.5,
         "upload_sec": 72.5
       }
+    },
+    {
+      "episode_id": 46372,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 8,
+      "episode_code": "S03E08",
+      "display_name": "Melissa a Joey S03E08 - 8. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -38232553173636087,
+      "external_id": "f135514b68a276cb",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e8-the-unfriending-cs/f135514b68a276cb",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204730,
+      "size_bytes": 374933079,
+      "uploaded_at": "2026-11-20T12:55:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.1,
+        "upload_sec": 35.7
+      }
     }
   ],
   "pending_uploads": [
@@ -921657,6 +921683,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71857,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 16,
+      "display_name": "Highlander S01E16 - 16. epizoda CZ Titulky",
+      "intent_id": "71859acb313e4960b4ddeb59a414e9a0",
+      "started_at": "2026-11-20T12:59:03Z",
+      "upload_account": "primary",
+      "source_id": -70681028711829575,
+      "source_url": "https://prehraj.to/highlander-s01e16-cz-tit/597876c861e01",
+      "size_bytes": 334388568,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339681,5 +1339723,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:50:34Z"
+  "last_updated": "2026-11-20T12:59:03Z"
 }
