@@ -918793,6 +918793,32 @@
         "download_sec": 14.7,
         "upload_sec": 28.8
       }
+    },
+    {
+      "episode_id": 46337,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 15,
+      "episode_code": "S01E15",
+      "display_name": "Melissa a Joey S01E15 - 15. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -69438451562245319,
+      "external_id": "010c96fe01f0da55",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e15-15-epizoda-720p-cz-dabing-mkv/010c96fe01f0da55",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193509,
+      "size_bytes": 351698292,
+      "uploaded_at": "2026-11-20T00:51:51Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 13.6,
+        "upload_sec": 41.0
+      }
     }
   ],
   "pending_uploads": [
@@ -919915,22 +919941,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46337,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 15,
-      "display_name": "Melissa a Joey S01E15 - 15. epizoda CZ Dabing",
-      "intent_id": "080f4d8c59534d1fb773f04b43e44d41",
-      "started_at": "2026-11-20T00:50:12Z",
-      "upload_account": "primary",
-      "source_id": -69438451562245319,
-      "source_url": "https://prehraj.to/melissa-a-joey-s01e15-15-epizoda-720p-cz-dabing-mkv/010c96fe01f0da55",
-      "size_bytes": 351698292,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337955,5 +1337965,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:50:12Z"
+  "last_updated": "2026-11-20T00:51:51Z"
 }
