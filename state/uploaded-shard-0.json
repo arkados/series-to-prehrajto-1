@@ -919885,6 +919885,32 @@
         "download_sec": 24.3,
         "upload_sec": 50.5
       }
+    },
+    {
+      "episode_id": 71905,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Highlander S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -12526246325950062,
+      "external_id": "58c1088fceef5",
+      "source_url": "https://prehraj.to/highlander-s01e08-cz-tit/58c1088fceef5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31199632,
+      "size_bytes": 364232687,
+      "uploaded_at": "2026-11-20T08:05:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.0,
+        "upload_sec": 128.0
+      }
     }
   ],
   "pending_uploads": [
@@ -921007,6 +921033,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46356,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 6,
+      "display_name": "Melissa a Joey S02E06 - 6. epizoda CZ Dabing",
+      "intent_id": "e784d3903329430991676d12df3ed63b",
+      "started_at": "2026-11-20T08:09:43Z",
+      "upload_account": "primary",
+      "source_id": -38070530813296605,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e6-breaking-up-is-hard-to-do-cs/762d9d9e12d4b948",
+      "size_bytes": 346391937,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339031,5 +1339073,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:59:13Z"
+  "last_updated": "2026-11-20T08:09:43Z"
 }
