@@ -921579,6 +921579,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46373,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 6,
+      "display_name": "Melissa a Joey S03E06 - 6. epizoda CZ Dabing",
+      "intent_id": "7d4ade9d2ffa4d308752fda2cc5afe94",
+      "started_at": "2026-11-20T11:40:02Z",
+      "upload_account": "primary",
+      "source_id": -25467443136237455,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e6-the-truth-hurts-cs/90d254aca4a893c1",
+      "size_bytes": 360054299,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339603,5 +1339619,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:29:03Z"
+  "last_updated": "2026-11-20T11:40:02Z"
 }
