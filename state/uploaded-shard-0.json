@@ -920669,6 +920669,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46348,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 26,
+      "display_name": "Melissa a Joey S01E26 - 26. epizoda CZ Dabing",
+      "intent_id": "b028541faf51467a8906231f4426bad4",
+      "started_at": "2026-11-20T05:39:47Z",
+      "upload_account": "primary",
+      "source_id": -29432956357008240,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e26-26-epizoda-720p-cz-dabing-mkv/fd52528e04269dfd",
+      "size_bytes": 389173331,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338693,5 +1338709,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:36:05Z"
+  "last_updated": "2026-11-20T05:39:47Z"
 }
