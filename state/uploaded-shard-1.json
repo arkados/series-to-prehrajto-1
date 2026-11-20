@@ -920977,6 +920977,32 @@
         "download_sec": 13.6,
         "upload_sec": 28.8
       }
+    },
+    {
+      "episode_id": 46393,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 27,
+      "episode_code": "S03E27",
+      "display_name": "Melissa a Joey S03E27 - 27. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -69686177204942563,
+      "external_id": "372f343a202ae411",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e27-i-ll-cut-you-cs/372f343a202ae411",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31208185,
+      "size_bytes": 362433035,
+      "uploaded_at": "2026-11-20T16:17:06Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 174.1,
+        "upload_sec": 29.6
+      }
     }
   ],
   "pending_uploads": [
@@ -922099,22 +922125,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46393,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 3,
-      "episode": 27,
-      "display_name": "Melissa a Joey S03E27 - 27. epizoda CZ Dabing",
-      "intent_id": "b823345cdd6a46b68cbbcf26a656bd7e",
-      "started_at": "2026-11-20T16:16:06Z",
-      "upload_account": "primary",
-      "source_id": -69686177204942563,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e27-i-ll-cut-you-cs/372f343a202ae411",
-      "size_bytes": 362433035,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340139,5 +1340149,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T16:16:06Z"
+  "last_updated": "2026-11-20T16:17:06Z"
 }
