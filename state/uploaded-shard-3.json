@@ -919728,6 +919728,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46379,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 15,
+      "display_name": "Melissa a Joey S03E15 - 15. epizoda CZ Dabing",
+      "intent_id": "c713eaf147474cebb3c9e250d2aec63c",
+      "started_at": "2026-11-20T13:57:03Z",
+      "upload_account": "serialy",
+      "source_id": -66053962301870000,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e15-what-happens-in-jersey-2-cs/9a2bf4a717ea3ac6",
+      "size_bytes": 394158886,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337752,5 +1337768,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:48:33Z"
+  "last_updated": "2026-11-20T13:57:03Z"
 }
