@@ -8,11 +8,12 @@
     "selected_source_burned": 20135,
     "selected_source_undersize": 1819,
     "selected_source_no_size_info": 826,
-    "already_uploaded_episode_id": 169,
-    "missing_source_plan": 40325,
+    "already_uploaded_episode_id": 170,
+    "missing_source_plan": 40324,
     "ready": 4,
     "description_fallback": 4,
-    "language_whisper": 4,
+    "language_title": 1,
+    "language_whisper": 3,
     "already_uploaded_episode_key": 1
   }
 }
