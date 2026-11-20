@@ -918584,6 +918584,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46426,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 3,
+      "display_name": "Melissa a Joey S02E03 - 3. epizoda CZ Dabing",
+      "intent_id": "48cc048e7fe04a449f6894cec76168bf",
+      "started_at": "2026-11-20T07:55:06Z",
+      "upload_account": "serialy",
+      "source_id": -68139051080720451,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e3-good-to-go-cs/6e94b0219ba9917d",
+      "size_bytes": 325829096,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1336608,5 +1336624,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:48:16Z"
+  "last_updated": "2026-11-20T07:55:06Z"
 }
