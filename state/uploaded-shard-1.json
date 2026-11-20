@@ -919807,6 +919807,32 @@
         "download_sec": 17.1,
         "upload_sec": 161.5
       }
+    },
+    {
+      "episode_id": 46353,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Melissa a Joey S02E02 - 2. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -21482164808066909,
+      "external_id": "46289c14fb02e35e",
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e2-if-you-can-t-stand-the-heat-cs/46289c14fb02e35e",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31199435,
+      "size_bytes": 328062938,
+      "uploaded_at": "2026-11-20T07:48:16Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.0,
+        "upload_sec": 34.7
+      }
     }
   ],
   "pending_uploads": [
@@ -920929,22 +920955,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46353,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Melissa a Joey S02E02 - 2. epizoda CZ Dabing",
-      "intent_id": "1973715f8db54f52964f41ab9d44d70c",
-      "started_at": "2026-11-20T07:44:10Z",
-      "upload_account": "primary",
-      "source_id": -21482164808066909,
-      "source_url": "https://prehraj.to/melissa-a-joey-s2e2-if-you-can-t-stand-the-heat-cs/46289c14fb02e35e",
-      "size_bytes": 328062938,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338969,5 +1338979,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T07:46:29Z"
+  "last_updated": "2026-11-20T07:48:16Z"
 }
