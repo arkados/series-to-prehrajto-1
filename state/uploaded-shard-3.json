@@ -916932,6 +916932,32 @@
         "download_sec": 13.1,
         "upload_sec": 23.2
       }
+    },
+    {
+      "episode_id": 129394,
+      "series_id": 3630,
+      "series_title": "A.P. Bio",
+      "season": 4,
+      "episode": 1,
+      "episode_code": "S04E01",
+      "display_name": "A.P. Bio S04E01 - 1. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -60758846145842093,
+      "external_id": "e108a05a9aab7d64",
+      "source_url": "https://prehraj.to/a-p-bio-s04e01-1-epizoda-cz-titulky/e108a05a9aab7d64",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195636,
+      "size_bytes": 327106145,
+      "uploaded_at": "2026-11-20T03:25:13Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 11.8,
+        "upload_sec": 35.6
+      }
     }
   ],
   "pending_uploads": [
@@ -918038,6 +918064,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46330,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 8,
+      "display_name": "Melissa a Joey S01E08 - 8. epizoda CZ Dabing",
+      "intent_id": "21098fb7beca4f1aa1d91fcca76979e3",
+      "started_at": "2026-11-20T03:27:56Z",
+      "upload_account": "serialy",
+      "source_id": -24812434858589025,
+      "source_url": "https://prehraj.to/melissa-a-joey-01x08/68580bab8f92b",
+      "size_bytes": 343476454,
+      "source_container": "avi",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 2379,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 10,
+      "display_name": "Star proti silám zla S04E10 - 10. epizoda CZ Dabing",
+      "intent_id": "c425c54fe3a94334ab38beb545fc3b68",
+      "started_at": "2026-11-20T03:27:58Z",
+      "upload_account": "serialy",
+      "source_id": -3599252390433162,
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e10-surviving-the-spiderbites-cs/8c06bb232d16158d",
+      "size_bytes": 338732227,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336062,5 +1336120,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:19:01Z"
+  "last_updated": "2026-11-20T03:27:58Z"
 }
