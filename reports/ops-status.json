@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108185,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83474,
-    "prepared_source_episodes": 67822,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83475,
+    "prepared_source_episodes": 67824,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
@@ -14,17 +14,81 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53416,
     "whisper_review_pending_sources": 36095,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52534,
     "subtitle_followup_pending_sources": 52534
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T18:05:29Z",
+      "databaseId": 44789464213,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T18:04:21Z",
+      "databaseId": 44789283882,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-20T18:02:49Z",
+      "databaseId": 44789037631,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T18:02:41Z",
+      "databaseId": 44789018232,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "skipped",
+      "createdAt": "2026-11-20T18:02:30Z",
+      "databaseId": 44788989029,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T18:02:22Z",
+      "databaseId": 44788967383,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T18:01:49Z",
+      "databaseId": 44788882536,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T18:01:45Z",
+      "databaseId": 44788870212,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T18:00:17Z",
       "databaseId": 44788626415,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +108,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T17:58:30Z",
       "databaseId": 44788349506,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -84,11 +148,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T17:51:22Z",
       "databaseId": 44787259545,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -114,70 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "external-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T17:44:48Z",
-      "databaseId": 44786219301,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T17:44:40Z",
-      "databaseId": 44786198967,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T17:44:22Z",
-      "databaseId": 44786154137,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T17:43:24Z",
-      "databaseId": 44786002147,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-20T17:43:21Z",
-      "databaseId": 44785995619,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T17:43:18Z",
-      "databaseId": 44785989450,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T17:41:48Z",
-      "databaseId": 44785752861,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T17:40:50Z",
-      "databaseId": 44785598831,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -391770,6 +391770,11 @@
         "episode_id": 46391,
         "display_name": "Melissa a Joey S03E26 - 26. epizoda CZ Dabing",
         "video_id": 31210224
+      },
+      {
+        "episode_id": 46398,
+        "display_name": "Melissa a Joey S03E33 - 33. epizoda CZ Dabing",
+        "video_id": 31210516
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -783257,6 +783262,11 @@
         "episode_id": 46391,
         "display_name": "Melissa a Joey S03E26 - 26. epizoda CZ Dabing",
         "video_id": 31210224
+      },
+      {
+        "episode_id": 46398,
+        "display_name": "Melissa a Joey S03E33 - 33. epizoda CZ Dabing",
+        "video_id": 31210516
       }
     ],
     "prepared_not_upload_ready": [
