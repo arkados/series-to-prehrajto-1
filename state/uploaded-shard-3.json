@@ -919324,6 +919324,84 @@
         "download_sec": 16.3,
         "upload_sec": 41.7
       }
+    },
+    {
+      "episode_id": 46394,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 29,
+      "episode_code": "S03E29",
+      "display_name": "Melissa a Joey S03E29 - 29. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -23676538973025501,
+      "external_id": "53dedd39a97bf6d3",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e29-born-to-run-cs/53dedd39a97bf6d3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212359,
+      "size_bytes": 379205174,
+      "uploaded_at": "2026-11-20T20:00:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 16.1,
+        "upload_sec": 33.6
+      }
+    },
+    {
+      "episode_id": 71922,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 16,
+      "episode_code": "S02E16",
+      "display_name": "Highlander S02E16 - 16. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -23270308818214674,
+      "external_id": "58c1114e44a1c",
+      "source_url": "https://prehraj.to/highlander-s02e16-cz-tit/58c1114e44a1c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212415,
+      "size_bytes": 363324552,
+      "uploaded_at": "2026-11-20T20:04:10Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 122.0,
+        "upload_sec": 32.9
+      }
+    },
+    {
+      "episode_id": 71866,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 17,
+      "episode_code": "S02E17",
+      "display_name": "Highlander S02E17 - 17. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -19558040782995422,
+      "external_id": "5978780b134cc",
+      "source_url": "https://prehraj.to/highlander-s02e17-cz-tit/5978780b134cc",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31212466,
+      "size_bytes": 363319548,
+      "uploaded_at": "2026-11-20T20:07:56Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 111.2,
+        "upload_sec": 43.5
+      }
     }
   ],
   "pending_uploads": [
@@ -920430,6 +920508,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71919,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 12,
+      "display_name": "Highlander S02E12 - 12. epizoda CZ Titulky",
+      "intent_id": "a49a6d03e48842ae8742ad5544472e07",
+      "started_at": "2026-11-20T20:09:04Z",
+      "upload_account": "serialy",
+      "source_id": -23914471936816322,
+      "source_url": "https://prehraj.to/highlander-s02e12-cz-tit/597877c936904",
+      "size_bytes": 363350056,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338454,5 +1338548,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T19:29:15Z"
+  "last_updated": "2026-11-20T20:09:04Z"
 }
