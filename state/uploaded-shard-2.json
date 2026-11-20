@@ -919064,6 +919064,32 @@
         "download_sec": 21.3,
         "upload_sec": 46.4
       }
+    },
+    {
+      "episode_id": 123810,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "Flashpoint S03E03 - 3. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -54099098452833889,
+      "external_id": "a7dfd339e7e0d586",
+      "source_url": "https://prehraj.to/flashpoint-s03e03-3-epizoda-sd-cz-dabing-avi/a7dfd339e7e0d586",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31209670,
+      "size_bytes": 375584252,
+      "uploaded_at": "2026-11-20T17:21:10Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 490.6,
+        "upload_sec": 35.7
+      }
     }
   ],
   "pending_uploads": [
@@ -920170,22 +920196,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 123810,
-      "series_id": 3331,
-      "series_title": "Flashpoint",
-      "season": 3,
-      "episode": 3,
-      "display_name": "Flashpoint S03E03 - 3. epizoda CZ Dabing",
-      "intent_id": "25493b22f4864c1ab751c0811240f73c",
-      "started_at": "2026-11-20T17:19:58Z",
-      "upload_account": "serialy",
-      "source_id": -54099098452833889,
-      "source_url": "https://prehraj.to/flashpoint-s03e03-3-epizoda-sd-cz-dabing-avi/a7dfd339e7e0d586",
-      "size_bytes": 375584252,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338210,5 +1338220,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T17:19:58Z"
+  "last_updated": "2026-11-20T17:21:10Z"
 }
