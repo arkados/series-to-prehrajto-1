@@ -919598,6 +919598,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71859,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 21,
+      "display_name": "Highlander S01E21 - 21. epizoda CZ Titulky",
+      "intent_id": "9d5dbac14dd5434f9986d2714476c458",
+      "started_at": "2026-11-20T13:14:56Z",
+      "upload_account": "serialy",
+      "source_id": -18309545983289727,
+      "source_url": "https://prehraj.to/highlander-s01e21-cz-tit/597877160a2e8",
+      "size_bytes": 362759931,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1337622,5 +1337638,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:07:59Z"
+  "last_updated": "2026-11-20T13:14:56Z"
 }
