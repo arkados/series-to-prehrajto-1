@@ -918284,6 +918284,32 @@
         "download_sec": 28.9,
         "upload_sec": 113.6
       }
+    },
+    {
+      "episode_id": 187634,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 18,
+      "episode_code": "S09E18",
+      "display_name": "Požárník Sam S09E18 - Poklad s léčkou CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -29010628629843528,
+      "external_id": "5c7470c569370",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e18-cz-dabing-pro-deti/5c7470c569370",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31204540,
+      "size_bytes": 334060270,
+      "uploaded_at": "2026-11-20T12:45:45Z",
+      "timing": {
+        "resolve_sec": 1.8,
+        "download_sec": 15.2,
+        "upload_sec": 33.1
+      }
     }
   ],
   "pending_uploads": [
@@ -919392,19 +919418,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 187634,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 9,
-      "episode": 18,
-      "display_name": "Požárník Sam S09E18 - Poklad s léčkou CZ Dabing",
-      "intent_id": "34a4d171572c408493989bd4dee6ff77",
-      "started_at": "2026-11-20T12:44:32Z",
+      "episode_id": 123399,
+      "series_id": 3311,
+      "series_title": "Kill La Kill",
+      "season": 1,
+      "episode": 5,
+      "display_name": "Kill La Kill S01E05 - 5. epizoda CZ Titulky",
+      "intent_id": "b8fc01f217b742f8896cbf704119b647",
+      "started_at": "2026-11-20T12:44:34Z",
       "upload_account": "serialy",
-      "source_id": -29010628629843528,
-      "source_url": "https://prehraj.to/pozarnik-sam-s09e18-cz-dabing-pro-deti/5c7470c569370",
-      "size_bytes": 334060270,
-      "source_container": "mp4",
+      "source_id": -43976222570144337,
+      "source_url": "https://prehraj.to/kill-la-kill-s01e05-cztitulky/63a0e4b2ded8e",
+      "size_bytes": 364150966,
+      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1337430,5 +1337456,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T12:44:32Z"
+  "last_updated": "2026-11-20T12:45:45Z"
 }
