@@ -1,30 +1,62 @@
 {
   "counts": {
     "backlog_episodes": 108319,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83349,
-    "prepared_source_episodes": 67917,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 83350,
+    "prepared_source_episodes": 67923,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 41,
-    "language_whisper_attempted_sources": 41,
+    "language_audited_sources": 50,
+    "language_whisper_attempted_sources": 50,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53428,
-    "whisper_review_pending_sources": 36095,
+    "whisper_review_sources": 53425,
+    "whisper_review_pending_sources": 36084,
     "upload_pending_checkpoints": 139,
-    "subtitle_followup_sources": 52479,
-    "subtitle_followup_pending_sources": 52479
+    "subtitle_followup_sources": 52480,
+    "subtitle_followup_pending_sources": 52480
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T07:32:50Z",
+      "databaseId": 44695756732,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T07:31:22Z",
+      "databaseId": 44695577071,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T07:31:17Z",
+      "databaseId": 44695567357,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T07:31:13Z",
+      "databaseId": 44695559823,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T07:30:06Z",
       "databaseId": 44695411650,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +76,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T07:28:24Z",
       "databaseId": 44695209800,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "external-subtitles"
     },
     {
@@ -68,11 +100,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T07:22:21Z",
       "databaseId": 44694475012,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-20T07:13:46Z",
-      "databaseId": 44693413749,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T07:13:40Z",
-      "databaseId": 44693401147,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T07:12:35Z",
-      "databaseId": 44693270603,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-20T07:10:13Z",
-      "databaseId": 44692975416,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
     }
   ],
   "gaps": {
@@ -204745,6 +204745,11 @@
         "episode_id": 71853,
         "display_name": "Highlander S01E04 - 4. epizoda CZ Titulky",
         "video_id": 31199094
+      },
+      {
+        "episode_id": 176765,
+        "display_name": "Sanctuary: A Witch's Tale S02E06 - 6. epizoda CZ Titulky",
+        "video_id": 31199229
       },
       {
         "episode_id": 114182,
@@ -595609,6 +595614,11 @@
         "video_id": 31199094
       },
       {
+        "episode_id": 176765,
+        "display_name": "Sanctuary: A Witch's Tale S02E06 - 6. epizoda CZ Titulky",
+        "video_id": 31199229
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -783168,16 +783178,17 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 40,
+    "ok": 48,
+    "stream_undersized": 1,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34865,
-    "whisper_confirmed_cz": 4182,
-    "whisper_non_cz_needs_subtitles": 13151,
-    "whisper_failed": 1230
+    "needs_whisper": 34853,
+    "whisper_confirmed_cz": 4189,
+    "whisper_non_cz_needs_subtitles": 13152,
+    "whisper_failed": 1231
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52479
+    "needs_subtitle_setup_after_prehrajto_processing": 52480
   }
 }
