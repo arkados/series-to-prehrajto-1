@@ -917570,6 +917570,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 109747,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 9,
+      "episode": 19,
+      "display_name": "Dynastie S09E19 - 19. epizoda CZ Titulky",
+      "intent_id": "9f3deffc829548ed97fd59e6353567b5",
+      "started_at": "2026-11-20T00:21:07Z",
+      "upload_account": "serialy",
+      "source_id": -31166340154055257,
+      "source_url": "https://prehraj.to/dynasty-s09e19/59536e0fcd3ff",
+      "size_bytes": 366950402,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335594,5 +1335610,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:08:09Z"
+  "last_updated": "2026-11-20T00:21:07Z"
 }
