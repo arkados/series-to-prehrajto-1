@@ -917842,6 +917842,32 @@
         "download_sec": 13.0,
         "upload_sec": 29.8
       }
+    },
+    {
+      "episode_id": 71911,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 1,
+      "episode": 19,
+      "episode_code": "S01E19",
+      "display_name": "Highlander S01E19 - 19. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -39962162376124491,
+      "external_id": "58c10c80aa058",
+      "source_url": "https://prehraj.to/highlander-s01e19-cz-tit/58c10c80aa058",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31201738,
+      "size_bytes": 362508712,
+      "uploaded_at": "2026-11-20T10:19:05Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.9,
+        "upload_sec": 38.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1336972,5 +1336998,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T10:14:20Z"
+  "last_updated": "2026-11-20T10:19:05Z"
 }
