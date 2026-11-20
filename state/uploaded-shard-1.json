@@ -919105,6 +919105,32 @@
         "download_sec": 12.9,
         "upload_sec": 23.4
       }
+    },
+    {
+      "episode_id": 113289,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 21,
+      "episode_code": "S01E21",
+      "display_name": "Sindibádova dobrodružství S01E21 - Ostrov blaženosti CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -40447619309143335,
+      "external_id": "5c4b556b58f13",
+      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x21/5c4b556b58f13",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31194588,
+      "size_bytes": 341402820,
+      "uploaded_at": "2026-11-20T02:13:09Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.3,
+        "upload_sec": 35.7
+      }
     }
   ],
   "pending_uploads": [
@@ -920225,22 +920251,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 113289,
-      "series_id": 2855,
-      "series_title": "Sindibádova dobrodružství",
-      "season": 1,
-      "episode": 21,
-      "display_name": "Sindibádova dobrodružství S01E21 - Ostrov blaženosti CZ Dabing",
-      "intent_id": "428b4a20e2394047a75313c3b66b23d3",
-      "started_at": "2026-11-20T02:11:54Z",
-      "upload_account": "primary",
-      "source_id": -40447619309143335,
-      "source_url": "https://prehraj.to/the-adventures-of-sinbad-1x21/5c4b556b58f13",
-      "size_bytes": 341402820,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1338267,5 +1338277,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T02:11:54Z"
+  "last_updated": "2026-11-20T02:13:09Z"
 }
