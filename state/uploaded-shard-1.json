@@ -921679,6 +921679,32 @@
         "download_sec": 14.0,
         "upload_sec": 32.9
       }
+    },
+    {
+      "episode_id": 71869,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 3,
+      "episode": 6,
+      "episode_code": "S03E06",
+      "display_name": "Highlander S03E06 - 6. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -770677062721748,
+      "external_id": "597878ad25f10",
+      "source_url": "https://prehraj.to/highlander-s03e06-cz-tit/597878ad25f10",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31213397,
+      "size_bytes": 363973549,
+      "uploaded_at": "2026-11-20T21:12:25Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 94.6,
+        "upload_sec": 46.6
+      }
     }
   ],
   "pending_uploads": [
@@ -922800,22 +922826,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 71869,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 3,
-      "episode": 6,
-      "display_name": "Highlander S03E06 - 6. epizoda CZ Titulky",
-      "intent_id": "35a6340011094554b631a5389e5dd33c",
-      "started_at": "2026-11-20T21:10:30Z",
-      "upload_account": "primary",
-      "source_id": -770677062721748,
-      "source_url": "https://prehraj.to/highlander-s03e06-cz-tit/597878ad25f10",
-      "size_bytes": 363973549,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1340841,5 +1340851,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T21:10:30Z"
+  "last_updated": "2026-11-20T21:12:25Z"
 }
