@@ -921913,6 +921913,58 @@
         "download_sec": 244.5,
         "upload_sec": 30.6
       }
+    },
+    {
+      "episode_id": 46417,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 18,
+      "episode_code": "S04E18",
+      "display_name": "Melissa a Joey S04E18 - 18. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -51650790521445416,
+      "external_id": "9cd407f5af2e99e7",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e18-melissa-joey-s-frozen-cs/9cd407f5af2e99e7",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214854,
+      "size_bytes": 318973568,
+      "uploaded_at": "2026-11-20T22:47:49Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.0,
+        "upload_sec": 29.3
+      }
+    },
+    {
+      "episode_id": 71885,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 8,
+      "episode_code": "S04E08",
+      "display_name": "Highlander S04E08 - 8. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -59597205234469409,
+      "external_id": "597879f27be61",
+      "source_url": "https://prehraj.to/highlander-s04e08-cz-tit/597879f27be61",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31214888,
+      "size_bytes": 363260261,
+      "uploaded_at": "2026-11-20T22:49:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 39.1,
+        "upload_sec": 28.6
+      }
     }
   ],
   "pending_uploads": [
@@ -923035,6 +923087,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46420,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 19,
+      "display_name": "Melissa a Joey S04E19 - 19. epizoda CZ Dabing",
+      "intent_id": "2843be509eb3431cad64a452251ae144",
+      "started_at": "2026-11-20T23:03:27Z",
+      "upload_account": "primary",
+      "source_id": -15980053604924790,
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e19-put-a-ring-on-it-cs/c351abe453e1bf71",
+      "size_bytes": 320813536,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341059,5 +1341127,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T22:43:22Z"
+  "last_updated": "2026-11-20T23:03:27Z"
 }
