@@ -920951,6 +920951,32 @@
         "download_sec": 107.1,
         "upload_sec": 25.7
       }
+    },
+    {
+      "episode_id": 71920,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 14,
+      "episode_code": "S02E14",
+      "display_name": "Highlander S02E14 - 14. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -1321013252577318,
+      "external_id": "58c110b0ce272",
+      "source_url": "https://prehraj.to/highlander-s02e14-cz-tit/58c110b0ce272",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31208083,
+      "size_bytes": 363323482,
+      "uploaded_at": "2026-11-20T16:10:09Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.6,
+        "upload_sec": 28.8
+      }
     }
   ],
   "pending_uploads": [
@@ -922072,22 +922098,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 71920,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 2,
-      "episode": 14,
-      "display_name": "Highlander S02E14 - 14. epizoda CZ Titulky",
-      "intent_id": "3c76013db5fb416cb610db917e4c5e8b",
-      "started_at": "2026-11-20T16:08:36Z",
-      "upload_account": "primary",
-      "source_id": -1321013252577318,
-      "source_url": "https://prehraj.to/highlander-s02e14-cz-tit/58c110b0ce272",
-      "size_bytes": 363323482,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1340113,5 +1340123,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T16:08:36Z"
+  "last_updated": "2026-11-20T16:10:09Z"
 }
