@@ -920175,6 +920175,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 127589,
+      "series_id": 3537,
+      "series_title": "Ghost in the Shell: Stand Alone Complex",
+      "season": 2,
+      "episode": 20,
+      "display_name": "Ghost in the Shell: Stand Alone Complex S02E20 - 20. epizoda CZ Titulky",
+      "intent_id": "0cee5870805045209e003173ea77d06c",
+      "started_at": "2026-11-20T02:08:16Z",
+      "upload_account": "primary",
+      "source_id": -71405444196174887,
+      "source_url": "https://prehraj.to/ghost-in-the-shell-stand-alone-complex-s2e20-in-confusion-at-the-north-end-fabricate-fog-ja/d467327b3d8d6a52",
+      "size_bytes": 340858690,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1338199,5 +1338215,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:55:19Z"
+  "last_updated": "2026-11-20T02:08:16Z"
 }
