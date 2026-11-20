@@ -919261,6 +919261,32 @@
         "download_sec": 18.9,
         "upload_sec": 58.4
       }
+    },
+    {
+      "episode_id": 46340,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 18,
+      "episode_code": "S01E18",
+      "display_name": "Melissa a Joey S01E18 - 18. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -59765387418969327,
+      "external_id": "5abcf4f0657d6",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e18-the-mel-word/5abcf4f0657d6",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195480,
+      "size_bytes": 328414853,
+      "uploaded_at": "2026-11-20T03:13:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.5,
+        "upload_sec": 30.8
+      }
     }
   ],
   "pending_uploads": [
@@ -920381,22 +920407,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 46340,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 18,
-      "display_name": "Melissa a Joey S01E18 - 18. epizoda CZ Dabing",
-      "intent_id": "0cec5b25b6f24df6bf6a9a843c78a669",
-      "started_at": "2026-11-20T03:11:20Z",
-      "upload_account": "primary",
-      "source_id": -59765387418969327,
-      "source_url": "https://prehraj.to/melissa-a-joey-s01e18-the-mel-word/5abcf4f0657d6",
-      "size_bytes": 328414853,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1338423,5 +1338433,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:11:20Z"
+  "last_updated": "2026-11-20T03:13:17Z"
 }
