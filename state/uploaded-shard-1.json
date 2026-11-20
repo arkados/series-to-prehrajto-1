@@ -919261,6 +919261,58 @@
         "download_sec": 18.9,
         "upload_sec": 58.4
       }
+    },
+    {
+      "episode_id": 46340,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 18,
+      "episode_code": "S01E18",
+      "display_name": "Melissa a Joey S01E18 - 18. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -59765387418969327,
+      "external_id": "5abcf4f0657d6",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e18-the-mel-word/5abcf4f0657d6",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195480,
+      "size_bytes": 328414853,
+      "uploaded_at": "2026-11-20T03:13:17Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 16.5,
+        "upload_sec": 30.8
+      }
+    },
+    {
+      "episode_id": 146716,
+      "series_id": 4816,
+      "series_title": "The Listener",
+      "season": 4,
+      "episode": 3,
+      "episode_code": "S04E03",
+      "display_name": "The Listener S04E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -9727000555611231,
+      "external_id": "5e05318aa1a3e",
+      "source_url": "https://prehraj.to/the-listener-s04e03-eng/5e05318aa1a3e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31195508,
+      "size_bytes": 324493369,
+      "uploaded_at": "2026-11-20T03:15:06Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.3,
+        "upload_sec": 29.4
+      }
     }
   ],
   "pending_uploads": [
@@ -920383,6 +920435,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46341,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 19,
+      "display_name": "Melissa a Joey S01E19 - 19. epizoda CZ Dabing",
+      "intent_id": "f2ed275c805c4de8a0596efaf61c4914",
+      "started_at": "2026-11-20T03:17:50Z",
+      "upload_account": "primary",
+      "source_id": -23207509027613231,
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e19-19-epizoda-720p-cz-dabing-mkv/d6c0c9fee69019c8",
+      "size_bytes": 383129195,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1338407,5 +1338475,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T03:08:35Z"
+  "last_updated": "2026-11-20T03:17:50Z"
 }
