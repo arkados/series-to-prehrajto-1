@@ -917972,6 +917972,58 @@
         "download_sec": 17.1,
         "upload_sec": 42.9
       }
+    },
+    {
+      "episode_id": 46355,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "Melissa a Joey S02E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -60898650192021608,
+      "external_id": "24f25b7dcd807458",
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e7-mixed-doubles-cs/24f25b7dcd807458",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31202591,
+      "size_bytes": 337403665,
+      "uploaded_at": "2026-11-20T11:05:08Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.0,
+        "upload_sec": 29.1
+      }
+    },
+    {
+      "episode_id": 87011,
+      "series_id": 2043,
+      "series_title": "My Mad Fat Diary",
+      "season": 2,
+      "episode": 7,
+      "episode_code": "S02E07",
+      "display_name": "My Mad Fat Diary S02E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -69043692432725344,
+      "external_id": "5794280f03644",
+      "source_url": "https://prehraj.to/my-mad-fat-diary-s02e07-cz-titulky/5794280f03644",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31202648,
+      "size_bytes": 321863680,
+      "uploaded_at": "2026-11-20T11:07:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.3,
+        "upload_sec": 28.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1337102,5 +1337154,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:00:51Z"
+  "last_updated": "2026-11-20T11:07:50Z"
 }
