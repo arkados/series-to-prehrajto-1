@@ -919651,6 +919651,32 @@
         "download_sec": 23.3,
         "upload_sec": 51.4
       }
+    },
+    {
+      "episode_id": 87009,
+      "series_id": 2043,
+      "series_title": "My Mad Fat Diary",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "My Mad Fat Diary S02E05 - 5. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -48750712219244355,
+      "external_id": "579e1990538dd",
+      "source_url": "https://prehraj.to/my-mad-fat-diary-s02e05-cz-titulky-by-led/579e1990538dd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31198845,
+      "size_bytes": 349241344,
+      "uploaded_at": "2026-11-20T07:01:38Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.5,
+        "upload_sec": 31.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1338797,5 +1338823,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T06:50:57Z"
+  "last_updated": "2026-11-20T07:01:38Z"
 }
