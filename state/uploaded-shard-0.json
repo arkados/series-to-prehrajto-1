@@ -920275,6 +920275,32 @@
         "download_sec": 20.8,
         "upload_sec": 38.9
       }
+    },
+    {
+      "episode_id": 202164,
+      "series_id": 5933,
+      "series_title": "Apokalypsa: 2. světová válka",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Apokalypsa: 2. světová válka S01E06 - Peklo CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -48275162548890716,
+      "external_id": "162cba9e068c0e21",
+      "source_url": "https://prehraj.to/apokalypsa-2-svetova-valka-s01e06-peklo-1080p-cz-dabing-mp4/162cba9e068c0e21",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31202065,
+      "size_bytes": 3124491412,
+      "uploaded_at": "2026-11-20T10:41:51Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 123.1,
+        "upload_sec": 332.3
+      }
     }
   ],
   "pending_uploads": [
@@ -921397,22 +921423,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 202164,
-      "series_id": 5933,
-      "series_title": "Apokalypsa: 2. světová válka",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Apokalypsa: 2. světová válka S01E06 - Peklo CZ Dabing",
-      "intent_id": "743cd9a16a944de695284212cf547906",
-      "started_at": "2026-11-20T10:35:34Z",
-      "upload_account": "primary",
-      "source_id": -48275162548890716,
-      "source_url": "https://prehraj.to/apokalypsa-2-svetova-valka-s01e06-peklo-1080p-cz-dabing-mp4/162cba9e068c0e21",
-      "size_bytes": 3124491412,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339437,5 +1339447,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T10:35:34Z"
+  "last_updated": "2026-11-20T10:41:51Z"
 }
