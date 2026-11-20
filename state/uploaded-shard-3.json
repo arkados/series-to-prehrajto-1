@@ -916490,6 +916490,84 @@
         "download_sec": 13.2,
         "upload_sec": 33.7
       }
+    },
+    {
+      "episode_id": 109742,
+      "series_id": 2321,
+      "series_title": "Dynastie",
+      "season": 9,
+      "episode": 5,
+      "episode_code": "S09E05",
+      "display_name": "Dynastie S09E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -18242480273759851,
+      "external_id": "59536cd223878",
+      "source_url": "https://prehraj.to/dynasty-s09e05/59536cd223878",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193210,
+      "size_bytes": 365131777,
+      "uploaded_at": "2026-11-20T00:27:41Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.9,
+        "upload_sec": 35.9
+      }
+    },
+    {
+      "episode_id": 187626,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 10,
+      "episode_code": "S09E10",
+      "display_name": "Požárník Sam S09E10 - Nahoru a pryč CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -12821410810387126,
+      "external_id": "5c746dbc68776",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e10-cz-dabing-pro-deti/5c746dbc68776",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193235,
+      "size_bytes": 358190043,
+      "uploaded_at": "2026-11-20T00:30:00Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 20.4,
+        "upload_sec": 32.2
+      }
+    },
+    {
+      "episode_id": 113294,
+      "series_id": 2855,
+      "series_title": "Sindibádova dobrodružství",
+      "season": 1,
+      "episode": 15,
+      "episode_code": "S01E15",
+      "display_name": "Sindibádova dobrodružství S01E15 - Záchrana CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -52928605319646044,
+      "external_id": "61863890274ce",
+      "source_url": "https://prehraj.to/sindibadova-dobrodruzstvi-s01e15/61863890274ce",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193250,
+      "size_bytes": 382935297,
+      "uploaded_at": "2026-11-20T00:32:15Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.7,
+        "upload_sec": 37.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1335620,5 +1335698,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T00:22:48Z"
+  "last_updated": "2026-11-20T00:34:41Z"
 }
