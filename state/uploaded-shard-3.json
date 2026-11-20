@@ -917504,6 +917504,32 @@
         "download_sec": 15.4,
         "upload_sec": 26.2
       }
+    },
+    {
+      "episode_id": 184355,
+      "series_id": 9680,
+      "series_title": "Strážci vesmíru",
+      "season": 14,
+      "episode": 18,
+      "episode_code": "S14E18",
+      "display_name": "Strážci vesmíru S14E18 - 18. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -36545370485982099,
+      "external_id": "6517f81c3be47",
+      "source_url": "https://prehraj.to/power-rangers-s14e18-dark-wish-1-480p-x265-edge2020/6517f81c3be47",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31200417,
+      "size_bytes": 322961557,
+      "uploaded_at": "2026-11-20T09:00:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.0,
+        "upload_sec": 24.3
+      }
     }
   ],
   "pending_uploads": [
@@ -918612,18 +918638,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 184355,
-      "series_id": 9680,
-      "series_title": "Strážci vesmíru",
-      "season": 14,
-      "episode": 18,
-      "display_name": "Strážci vesmíru S14E18 - 18. epizoda CZ Titulky",
-      "intent_id": "5412e38183c64582ac4fa19ae96db861",
-      "started_at": "2026-11-20T08:59:25Z",
+      "episode_id": 46358,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 2,
+      "episode": 8,
+      "display_name": "Melissa a Joey S02E08 - 8. epizoda CZ Dabing",
+      "intent_id": "242af4f4630f4f42bb52db45c9c5cd6d",
+      "started_at": "2026-11-20T08:59:28Z",
       "upload_account": "serialy",
-      "source_id": -36545370485982099,
-      "source_url": "https://prehraj.to/power-rangers-s14e18-dark-wish-1-480p-x265-edge2020/6517f81c3be47",
-      "size_bytes": 322961557,
+      "source_id": -4092899485085881,
+      "source_url": "https://prehraj.to/melissa-a-joey-s2e8-the-donor-cs/9a11fc56d31ec946",
+      "size_bytes": 339400647,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1336650,5 +1336676,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T08:59:25Z"
+  "last_updated": "2026-11-20T09:00:20Z"
 }
