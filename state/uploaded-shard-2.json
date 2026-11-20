@@ -919884,6 +919884,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 184362,
+      "series_id": 9680,
+      "series_title": "Strážci vesmíru",
+      "season": 14,
+      "episode": 25,
+      "display_name": "Strážci vesmíru S14E25 - 25. epizoda CZ Titulky",
+      "intent_id": "dec97450800345d5848e621294e7d6fa",
+      "started_at": "2026-11-20T14:30:23Z",
+      "upload_account": "serialy",
+      "source_id": -13490958834371482,
+      "source_url": "https://prehraj.to/power-rangers-s14e25-the-hunter-480p-x265-edge2020/6517f8373b31b",
+      "size_bytes": 335188061,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1337908,5 +1337924,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T14:25:28Z"
+  "last_updated": "2026-11-20T14:30:23Z"
 }
