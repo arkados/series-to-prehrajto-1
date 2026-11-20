@@ -920873,6 +920873,32 @@
         "download_sec": 13.2,
         "upload_sec": 35.6
       }
+    },
+    {
+      "episode_id": 46388,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 22,
+      "episode_code": "S03E22",
+      "display_name": "Melissa a Joey S03E22 - 22. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -1163101501458559,
+      "external_id": "2384825ac3bc8afd",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e22-house-broken-cs/2384825ac3bc8afd",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31207423,
+      "size_bytes": 374448014,
+      "uploaded_at": "2026-11-20T15:37:11Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.5,
+        "upload_sec": 41.2
+      }
     }
   ],
   "pending_uploads": [
@@ -921995,6 +922021,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 46385,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 23,
+      "display_name": "Melissa a Joey S03E23 - 23. epizoda CZ Dabing",
+      "intent_id": "3a9e1a314b8b486cb40a7350664c7859",
+      "started_at": "2026-11-20T15:40:14Z",
+      "upload_account": "primary",
+      "source_id": -20708286332882327,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e23-couples-therapy-cz/cdfd48ca76e8bfab",
+      "size_bytes": 375134932,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340019,5 +1340061,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T15:00:06Z"
+  "last_updated": "2026-11-20T15:40:16Z"
 }
