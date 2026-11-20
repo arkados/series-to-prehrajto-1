@@ -917960,6 +917960,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 128790,
+      "series_id": 1968,
+      "series_title": "Lovci trolů od Guillerma Del Toro",
+      "season": 2,
+      "episode": 5,
+      "display_name": "Lovci trolů od Guillerma Del Toro S02E05 - Zpátky domů CZ Titulky",
+      "intent_id": "0cc44b80a1ab4ef5abf479bfc0318273",
+      "started_at": "2026-11-20T02:38:01Z",
+      "upload_account": "serialy",
+      "source_id": -54014631192979324,
+      "source_url": "https://prehraj.to/trollhunters-tales-of-arcadia-s2e5-homecoming-en/20961bb099b95edc",
+      "size_bytes": 361100578,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1335984,5 +1336000,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T02:18:18Z"
+  "last_updated": "2026-11-20T02:38:01Z"
 }
