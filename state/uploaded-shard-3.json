@@ -916698,6 +916698,32 @@
         "download_sec": 13.4,
         "upload_sec": 26.8
       }
+    },
+    {
+      "episode_id": 46339,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 17,
+      "episode_code": "S01E17",
+      "display_name": "Melissa a Joey S01E17 - 17. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -29594021318159355,
+      "external_id": "2184ec2cdf9405b4",
+      "source_url": "https://prehraj.to/melissa-a-joey-s01e17-17-epizoda-720p-cz-dabing-mkv/2184ec2cdf9405b4",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31193808,
+      "size_bytes": 362891919,
+      "uploaded_at": "2026-11-20T01:13:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 14.0,
+        "upload_sec": 23.7
+      }
     }
   ],
   "pending_uploads": [
@@ -917802,22 +917828,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46339,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 1,
-      "episode": 17,
-      "display_name": "Melissa a Joey S01E17 - 17. epizoda CZ Dabing",
-      "intent_id": "9b3723fa42434aaeb78dd7879fece320",
-      "started_at": "2026-11-20T01:12:53Z",
-      "upload_account": "serialy",
-      "source_id": -29594021318159355,
-      "source_url": "https://prehraj.to/melissa-a-joey-s01e17-17-epizoda-720p-cz-dabing-mkv/2184ec2cdf9405b4",
-      "size_bytes": 362891919,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1335844,5 +1335854,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T01:12:53Z"
+  "last_updated": "2026-11-20T01:13:48Z"
 }
