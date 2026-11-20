@@ -921501,6 +921501,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 24696,
+      "series_id": 152,
+      "series_title": "Brickleberry",
+      "season": 3,
+      "episode": 4,
+      "display_name": "Brickleberry S03E04 - Já jsem teď tvůj taťka CZ Dabing",
+      "intent_id": "720cadb860454caea02fc2974aa42c7a",
+      "started_at": "2026-11-20T11:15:53Z",
+      "upload_account": "primary",
+      "source_id": -44821552661685828,
+      "source_url": "https://prehraj.to/brickleberry-s3e4-cs/5a996cc5bc760782",
+      "size_bytes": 322122919,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339525,5 +1339541,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T11:11:13Z"
+  "last_updated": "2026-11-20T11:15:53Z"
 }
