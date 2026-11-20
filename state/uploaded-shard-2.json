@@ -917088,6 +917088,32 @@
         "download_sec": 18.0,
         "upload_sec": 39.0
       }
+    },
+    {
+      "episode_id": 2374,
+      "series_id": 18,
+      "series_title": "Star proti silám zla",
+      "season": 4,
+      "episode": 15,
+      "episode_code": "S04E15",
+      "display_name": "Star proti silám zla S04E15 - 15. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -66781419942361578,
+      "external_id": "a1e6c7a839837e96",
+      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e15-ghost-of-butterfly-castle-cs/a1e6c7a839837e96",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31197292,
+      "size_bytes": 338731871,
+      "uploaded_at": "2026-11-20T05:08:43Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.0,
+        "upload_sec": 65.2
+      }
     }
   ],
   "pending_uploads": [
@@ -918194,22 +918220,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 2374,
-      "series_id": 18,
-      "series_title": "Star proti silám zla",
-      "season": 4,
-      "episode": 15,
-      "display_name": "Star proti silám zla S04E15 - 15. epizoda CZ Dabing",
-      "intent_id": "c6f416d889974a298127069177b15da9",
-      "started_at": "2026-11-20T05:06:55Z",
-      "upload_account": "serialy",
-      "source_id": -66781419942361578,
-      "source_url": "https://prehraj.to/star-proti-silam-zla-s4e15-ghost-of-butterfly-castle-cs/a1e6c7a839837e96",
-      "size_bytes": 338731871,
-      "source_container": "mp4",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336234,5 +1336244,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:06:55Z"
+  "last_updated": "2026-11-20T05:08:43Z"
 }
