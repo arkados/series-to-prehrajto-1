@@ -918622,6 +918622,32 @@
         "download_sec": 34.9,
         "upload_sec": 38.6
       }
+    },
+    {
+      "episode_id": 46379,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 3,
+      "episode": 15,
+      "episode_code": "S03E15",
+      "display_name": "Melissa a Joey S03E15 - 15. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -66053962301870000,
+      "external_id": "9a2bf4a717ea3ac6",
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e15-what-happens-in-jersey-2-cs/9a2bf4a717ea3ac6",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31205750,
+      "size_bytes": 394158886,
+      "uploaded_at": "2026-11-20T13:58:15Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 15.6,
+        "upload_sec": 36.0
+      }
     }
   ],
   "pending_uploads": [
@@ -919730,18 +919756,18 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 46379,
+      "episode_id": 46382,
       "series_id": 1111,
       "series_title": "Melissa a Joey",
       "season": 3,
-      "episode": 15,
-      "display_name": "Melissa a Joey S03E15 - 15. epizoda CZ Dabing",
-      "intent_id": "c713eaf147474cebb3c9e250d2aec63c",
-      "started_at": "2026-11-20T13:57:03Z",
+      "episode": 17,
+      "display_name": "Melissa a Joey S03E17 - 17. epizoda CZ Dabing",
+      "intent_id": "14fbb4ace8a542ceba7f4c696d7d8f41",
+      "started_at": "2026-11-20T13:57:26Z",
       "upload_account": "serialy",
-      "source_id": -66053962301870000,
-      "source_url": "https://prehraj.to/melissa-a-joey-s3e15-what-happens-in-jersey-2-cs/9a2bf4a717ea3ac6",
-      "size_bytes": 394158886,
+      "source_id": -10390728872230413,
+      "source_url": "https://prehraj.to/melissa-a-joey-s3e17-a-decent-proposal-cs/aa7b89ee9e3a4b20",
+      "size_bytes": 388806420,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1337768,5 +1337794,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T13:57:03Z"
+  "last_updated": "2026-11-20T13:58:15Z"
 }
