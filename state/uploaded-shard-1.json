@@ -922151,6 +922151,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71917,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 2,
+      "episode": 9,
+      "display_name": "Highlander S02E09 - 9. epizoda CZ Titulky",
+      "intent_id": "bb241f2ad7014a0f9a4af7f791c4b67c",
+      "started_at": "2026-11-20T16:59:12Z",
+      "upload_account": "primary",
+      "source_id": -68300848045730299,
+      "source_url": "https://prehraj.to/highlander-s02e09-cz-tit/597877a4709b2",
+      "size_bytes": 363360763,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340175,5 +1340191,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T16:29:24Z"
+  "last_updated": "2026-11-20T16:59:12Z"
 }
