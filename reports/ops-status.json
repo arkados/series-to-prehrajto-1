@@ -1,30 +1,78 @@
 {
   "counts": {
     "backlog_episodes": 108287,
-    "manifest_upload_ready_episodes": 0,
-    "uploaded_episodes": 83391,
-    "prepared_source_episodes": 67916,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 83392,
+    "prepared_source_episodes": 67921,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 48,
-    "language_whisper_attempted_sources": 43,
+    "language_audited_sources": 56,
+    "language_whisper_attempted_sources": 51,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53424,
-    "whisper_review_pending_sources": 36084,
-    "upload_pending_checkpoints": 140,
-    "subtitle_followup_sources": 52498,
-    "subtitle_followup_pending_sources": 52498
+    "whisper_review_sources": 53421,
+    "whisper_review_pending_sources": 36075,
+    "upload_pending_checkpoints": 139,
+    "subtitle_followup_sources": 52502,
+    "subtitle_followup_pending_sources": 52502
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-20T10:56:31Z",
+      "databaseId": 44723429494,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T10:56:22Z",
+      "databaseId": 44723409144,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T10:52:28Z",
+      "databaseId": 44722873243,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-20T10:51:48Z",
+      "databaseId": 44722780497,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T10:51:43Z",
+      "databaseId": 44722770240,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-20T10:51:41Z",
+      "databaseId": 44722763963,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-20T10:50:25Z",
       "databaseId": 44722593559,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -36,11 +84,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T10:46:31Z",
       "databaseId": 44722054912,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -76,11 +124,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-20T10:43:45Z",
       "databaseId": 44721669457,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T10:34:56Z",
-      "databaseId": 44720449410,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T10:34:02Z",
-      "databaseId": 44720319836,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T10:33:56Z",
-      "databaseId": 44720304147,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T10:32:49Z",
-      "databaseId": 44720146120,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-20T10:32:40Z",
-      "databaseId": 44720125750,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-20T10:30:11Z",
-      "databaseId": 44719764116,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -391355,6 +391355,11 @@
         "episode_id": 100519,
         "display_name": "Tintinova dobrodružství S03E13 - Tintin v Americe CZ Dabing",
         "video_id": 31202229
+      },
+      {
+        "episode_id": 180899,
+        "display_name": "White Teeth S01E04 - 4. epizoda CZ Titulky",
+        "video_id": 31202298
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -782427,6 +782432,11 @@
         "episode_id": 100519,
         "display_name": "Tintinova dobrodružství S03E13 - Tintin v Americe CZ Dabing",
         "video_id": 31202229
+      },
+      {
+        "episode_id": 180899,
+        "display_name": "White Teeth S01E04 - 4. epizoda CZ Titulky",
+        "video_id": 31202298
       }
     ],
     "prepared_not_upload_ready": [
@@ -783588,17 +783598,17 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "ok": 50,
     "disabled": 5,
-    "ok": 42,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34850,
+    "needs_whisper": 34841,
     "whisper_confirmed_cz": 4189,
-    "whisper_non_cz_needs_subtitles": 13151,
+    "whisper_non_cz_needs_subtitles": 13157,
     "whisper_failed": 1234
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52498
+    "needs_subtitle_setup_after_prehrajto_processing": 52502
   }
 }
