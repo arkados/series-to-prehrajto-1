@@ -918272,6 +918272,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 46346,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 1,
+      "episode": 24,
+      "display_name": "Melissa a Joey S01E24 - 24. epizoda CZ Dabing",
+      "intent_id": "2574748f8faa444ba7f253a9b3c41c46",
+      "started_at": "2026-11-20T05:34:39Z",
+      "upload_account": "serialy",
+      "source_id": -7840338793262422,
+      "source_url": "https://prehraj.to/melissa-a-joey-s1e24-all-politics-is-local-cs/f1047f5704ba3e7b",
+      "size_bytes": 328560984,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1336296,5 +1336312,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T05:28:55Z"
+  "last_updated": "2026-11-20T05:34:39Z"
 }
