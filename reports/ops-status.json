@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 107993,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83685,
-    "prepared_source_episodes": 67713,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83686,
+    "prepared_source_episodes": 67712,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 44,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 54,
-    "language_whisper_attempted_sources": 48,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53371,
     "whisper_review_pending_sources": 35950,
@@ -21,6 +21,30 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T09:45:23Z",
+      "databaseId": 44891071779,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T09:43:59Z",
+      "databaseId": 44890963075,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T09:43:18Z",
+      "databaseId": 44890909375,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
       "createdAt": "2026-11-21T09:42:20Z",
       "databaseId": 44890834844,
       "headBranch": "main",
@@ -28,11 +52,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T09:41:55Z",
       "databaseId": 44890800472,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,11 +84,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T09:38:40Z",
       "databaseId": 44890551805,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -84,11 +108,11 @@
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T09:36:40Z",
       "databaseId": 44890399409,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -124,11 +148,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T09:31:03Z",
       "databaseId": 44889948031,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T09:27:46Z",
-      "databaseId": 44889692700,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-21T09:27:43Z",
-      "databaseId": 44889689531,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T09:27:41Z",
-      "databaseId": 44889686199,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
     }
   ],
   "gaps": {
@@ -392825,6 +392825,11 @@
         "episode_id": 152175,
         "display_name": "Burnout Syndrome S01E08 - 8. epizoda CZ Titulky",
         "video_id": 31225000
+      },
+      {
+        "episode_id": 152174,
+        "display_name": "Burnout Syndrome S01E07 - 7. epizoda CZ Titulky",
+        "video_id": 31225045
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -785367,6 +785372,11 @@
         "episode_id": 152175,
         "display_name": "Burnout Syndrome S01E08 - 8. epizoda CZ Titulky",
         "video_id": 31225000
+      },
+      {
+        "episode_id": 152174,
+        "display_name": "Burnout Syndrome S01E07 - 7. epizoda CZ Titulky",
+        "video_id": 31225045
       }
     ],
     "prepared_not_upload_ready": [
@@ -786528,9 +786538,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 6,
-    "ok": 46,
-    "sample_failed": 1,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
