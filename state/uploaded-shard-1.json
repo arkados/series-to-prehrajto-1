@@ -924279,6 +924279,32 @@
         "download_sec": 27.6,
         "upload_sec": 30.6
       }
+    },
+    {
+      "episode_id": 149481,
+      "series_id": 5037,
+      "series_title": "I, Sniper",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "I, Sniper S01E03 - 3. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -27656355129819844,
+      "external_id": "60dee84c60944",
+      "source_url": "https://prehraj.to/i-sniper-s01e03-1080p-web-h264-bae/60dee84c60944",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31226361,
+      "size_bytes": 1208494643,
+      "uploaded_at": "2026-11-21T10:45:52Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 115.7,
+        "upload_sec": 98.9
+      }
     }
   ],
   "pending_uploads": [
@@ -925417,22 +925443,6 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 149481,
-      "series_id": 5037,
-      "series_title": "I, Sniper",
-      "season": 1,
-      "episode": 3,
-      "display_name": "I, Sniper S01E03 - 3. epizoda CZ Titulky",
-      "intent_id": "db4599660bc049fe8f8cbd7d6d1f676c",
-      "started_at": "2026-11-21T10:43:31Z",
-      "upload_account": "primary",
-      "source_id": -27656355129819844,
-      "source_url": "https://prehraj.to/i-sniper-s01e03-1080p-web-h264-bae/60dee84c60944",
-      "size_bytes": 1208494643,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343491,5 +1343501,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T10:43:31Z"
+  "last_updated": "2026-11-21T10:45:52Z"
 }
