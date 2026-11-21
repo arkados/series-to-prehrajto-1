@@ -925833,6 +925833,22 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 193824,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Bing S01E02 - Pá Pá CZ Dabing",
+      "intent_id": "9f1c8a97c7344e4f9c85acc7b8e9b4b4",
+      "started_at": "2026-11-21T12:16:56Z",
+      "upload_account": "primary",
+      "source_id": -12209643874448356,
+      "source_url": "https://prehraj.to/bing-s01e02-78-2014-cz-dabing-1080p-fhd-pa-pa/754e3a018e517e05",
+      "size_bytes": 331575044,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1343891,5 +1343907,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:15:31Z"
+  "last_updated": "2026-11-21T12:16:56Z"
 }
