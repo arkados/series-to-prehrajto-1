@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 107993,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83674,
-    "prepared_source_episodes": 67738,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83676,
+    "prepared_source_episodes": 67737,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 44,
@@ -21,26 +21,98 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-21T09:04:21Z",
-      "databaseId": 44887816522,
+      "createdAt": "2026-11-21T09:09:13Z",
+      "databaseId": 44888204914,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T09:08:41Z",
+      "databaseId": 44888162318,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-21T09:03:33Z",
-      "databaseId": 44887753240,
+      "createdAt": "2026-11-21T09:08:18Z",
+      "databaseId": 44888131338,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T09:07:52Z",
+      "databaseId": 44888096121,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "prepare-manifest"
     },
     {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T09:07:04Z",
+      "databaseId": 44888030974,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T09:05:54Z",
+      "databaseId": 44887940123,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
       "conclusion": "",
+      "createdAt": "2026-11-21T09:05:51Z",
+      "databaseId": 44887936133,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T09:05:48Z",
+      "databaseId": 44887933246,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T09:05:22Z",
+      "databaseId": 44887899775,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T09:04:21Z",
+      "databaseId": 44887816522,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T09:03:33Z",
+      "databaseId": 44887753240,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-21T09:03:27Z",
       "databaseId": 44887744773,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -103,78 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-21T08:54:42Z",
       "databaseId": 44887069528,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T08:54:37Z",
-      "databaseId": 44887064120,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T08:52:23Z",
-      "databaseId": 44886897495,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T08:51:34Z",
-      "databaseId": 44886833080,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T08:50:39Z",
-      "databaseId": 44886764017,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T08:50:32Z",
-      "databaseId": 44886754900,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T08:49:56Z",
-      "databaseId": 44886707467,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T08:49:53Z",
-      "databaseId": 44886703073,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T08:48:47Z",
-      "databaseId": 44886622030,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T08:48:25Z",
-      "databaseId": 44886592513,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "backfill-subtitles"
@@ -205562,6 +205562,11 @@
         "video_id": 31223868
       },
       {
+        "episode_id": 126528,
+        "display_name": "Továrna na panenky S01E04 - 4. epizoda CZ Dabing",
+        "video_id": 31224367
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -392770,6 +392775,11 @@
         "episode_id": 146723,
         "display_name": "The Listener S04E10 - 10. epizoda CZ Titulky",
         "video_id": 31224134
+      },
+      {
+        "episode_id": 122435,
+        "display_name": "Anno 1790 S01E04 - 4. epizoda CZ Dabing",
+        "video_id": 31224348
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -598049,6 +598059,11 @@
         "video_id": 31223868
       },
       {
+        "episode_id": 126528,
+        "display_name": "Továrna na panenky S01E04 - 4. epizoda CZ Dabing",
+        "video_id": 31224367
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -785257,6 +785272,11 @@
         "episode_id": 146723,
         "display_name": "The Listener S04E10 - 10. epizoda CZ Titulky",
         "video_id": 31224134
+      },
+      {
+        "episode_id": 122435,
+        "display_name": "Anno 1790 S01E04 - 4. epizoda CZ Dabing",
+        "video_id": 31224348
       }
     ],
     "prepared_not_upload_ready": [
