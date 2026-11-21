@@ -923811,6 +923811,32 @@
         "download_sec": 12.3,
         "upload_sec": 32.9
       }
+    },
+    {
+      "episode_id": 78577,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 3,
+      "episode": 9,
+      "episode_code": "S03E09",
+      "display_name": "Neranditelní S03E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -31107057288357463,
+      "external_id": "5aa12ba7e4fd5",
+      "source_url": "https://prehraj.to/neranditelni-s03e09-a-new-year-s-resolution-walks-into-a-bar/5aa12ba7e4fd5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223298,
+      "size_bytes": 316787687,
+      "uploaded_at": "2026-11-21T07:56:39Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 11.8,
+        "upload_sec": 27.8
+      }
     }
   ],
   "pending_uploads": [
@@ -924948,22 +924974,6 @@
       "source_url": "https://prehraj.to/rodinka-na-kousky-s01e01-22-2015-cz-dab-400p-pilot/68f85cc2cd87c",
       "size_bytes": 331581538,
       "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 78577,
-      "series_id": 1835,
-      "series_title": "Neranditelní",
-      "season": 3,
-      "episode": 9,
-      "display_name": "Neranditelní S03E09 - 9. epizoda CZ Titulky",
-      "intent_id": "f30a0413f83b4e5aaae3cdff0f5aba05",
-      "started_at": "2026-11-21T07:55:19Z",
-      "upload_account": "primary",
-      "source_id": -31107057288357463,
-      "source_url": "https://prehraj.to/neranditelni-s03e09-a-new-year-s-resolution-walks-into-a-bar/5aa12ba7e4fd5",
-      "size_bytes": 316787687,
-      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1343023,5 +1343033,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:55:19Z"
+  "last_updated": "2026-11-21T07:56:39Z"
 }
