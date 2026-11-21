@@ -920806,6 +920806,32 @@
         "download_sec": 16.7,
         "upload_sec": 41.2
       }
+    },
+    {
+      "episode_id": 22371,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 16,
+      "episode_code": "S05E16",
+      "display_name": "Alfred Hitchcock uvádí S05E16 - 16. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -47883620694597423,
+      "external_id": "594a252c79ebd",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e16/594a252c79ebd",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220855,
+      "size_bytes": 332222881,
+      "uploaded_at": "2026-11-21T05:24:25Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.8,
+        "upload_sec": 31.5
+      }
     }
   ],
   "pending_uploads": [
@@ -921914,20 +921940,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 22371,
-      "series_id": 105,
-      "series_title": "Alfred Hitchcock uvádí",
-      "season": 5,
-      "episode": 16,
-      "display_name": "Alfred Hitchcock uvádí S05E16 - 16. epizoda CZ Titulky",
-      "intent_id": "04a2c2691ff7481b9feeef7253d096c6",
-      "started_at": "2026-11-21T05:21:22Z",
+      "episode_id": 74274,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 4,
+      "display_name": "About a Boy S01E04 - 4. epizoda CZ Dabing",
+      "intent_id": "957ba834bd2e41d290c330f31a6f819c",
+      "started_at": "2026-11-21T05:30:11Z",
       "upload_account": "serialy",
-      "source_id": -47883620694597423,
-      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e16/594a252c79ebd",
-      "size_bytes": 332222881,
-      "source_container": "mkv",
-      "source_download_kind": "original"
+      "source_id": -27397579286348062,
+      "source_url": "https://prehraj.to/about-a-boy-s01e04-about-a-girl-1080p-cz/9ad26ea964b88545",
+      "size_bytes": 616492174,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339952,5 +1339978,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:24:45Z"
+  "last_updated": "2026-11-21T05:30:11Z"
 }
