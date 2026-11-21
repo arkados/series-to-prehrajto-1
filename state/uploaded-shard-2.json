@@ -922262,6 +922262,32 @@
         "download_sec": 120.1,
         "upload_sec": 34.0
       }
+    },
+    {
+      "episode_id": 167602,
+      "series_id": 6852,
+      "series_title": "Noblesse",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Noblesse S01E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -61295647630936120,
+      "external_id": "6005d49d49045",
+      "source_url": "https://prehraj.to/noblesse-s01e07/6005d49d49045",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228725,
+      "size_bytes": 319798360,
+      "uploaded_at": "2026-11-21T12:56:19Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 104.6,
+        "upload_sec": 85.4
+      }
     }
   ],
   "pending_uploads": [
@@ -923400,22 +923426,6 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 167602,
-      "series_id": 6852,
-      "series_title": "Noblesse",
-      "season": 1,
-      "episode": 7,
-      "display_name": "Noblesse S01E07 - 7. epizoda CZ Titulky",
-      "intent_id": "c569a1bc599848fa8e9cf03418aa2247",
-      "started_at": "2026-11-21T12:54:15Z",
-      "upload_account": "serialy",
-      "source_id": -61295647630936120,
-      "source_url": "https://prehraj.to/noblesse-s01e07/6005d49d49045",
-      "size_bytes": 319798360,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341474,5 +1341484,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:54:15Z"
+  "last_updated": "2026-11-21T12:56:19Z"
 }
