@@ -921976,6 +921976,58 @@
         "download_sec": 21.2,
         "upload_sec": 29.5
       }
+    },
+    {
+      "episode_id": 204099,
+      "series_id": 681,
+      "series_title": "Země gangů",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Země gangů S02E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -64440893959258726,
+      "external_id": "24ee071222471b1f",
+      "source_url": "https://prehraj.to/mobland-s02e10-en-mkv/24ee071222471b1f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31227314,
+      "size_bytes": 390498132,
+      "uploaded_at": "2026-11-21T11:35:32Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 14.7,
+        "upload_sec": 38.0
+      }
+    },
+    {
+      "episode_id": 204103,
+      "series_id": 586,
+      "series_title": "Percy Jackson a Olympané",
+      "season": 3,
+      "episode": 1,
+      "episode_code": "S03E01",
+      "display_name": "Percy Jackson a Olympané S03E01 - Moje záchranná akce se pěkně zvrtne CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -25259252666657070,
+      "external_id": "1516262ec78dac83",
+      "source_url": "https://prehraj.to/percy-jackson-a-olympane-s03e01-cz-dabing/1516262ec78dac83",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31227352,
+      "size_bytes": 346958108,
+      "uploaded_at": "2026-11-21T11:37:26Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.7,
+        "upload_sec": 32.7
+      }
     }
   ],
   "pending_uploads": [
@@ -1341172,5 +1341224,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T11:25:16Z"
+  "last_updated": "2026-11-21T11:37:26Z"
 }
