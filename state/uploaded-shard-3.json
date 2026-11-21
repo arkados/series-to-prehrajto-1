@@ -921066,6 +921066,32 @@
         "download_sec": 16.9,
         "upload_sec": 79.1
       }
+    },
+    {
+      "episode_id": 78566,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 2,
+      "episode": 5,
+      "episode_code": "S02E05",
+      "display_name": "Neranditelní S02E05 - 5. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68970660433500787,
+      "external_id": "58bd71eda90f5",
+      "source_url": "https://prehraj.to/neranditelni-02x05-dvb-t-cz/58bd71eda90f5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31222017,
+      "size_bytes": 333645662,
+      "uploaded_at": "2026-11-21T06:43:28Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 24.4,
+        "upload_sec": 57.3
+      }
     }
   ],
   "pending_uploads": [
@@ -922190,18 +922216,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 78566,
+      "episode_id": 78567,
       "series_id": 1835,
       "series_title": "Neranditelní",
       "season": 2,
-      "episode": 5,
-      "display_name": "Neranditelní S02E05 - 5. epizoda CZ Dabing",
-      "intent_id": "ba9116c350db4d73adc23efba5a57332",
-      "started_at": "2026-11-21T06:41:12Z",
+      "episode": 6,
+      "display_name": "Neranditelní S02E06 - 6. epizoda CZ Dabing",
+      "intent_id": "1d06143f4e424c6887c27e8216274427",
+      "started_at": "2026-11-21T06:59:43Z",
       "upload_account": "serialy",
-      "source_id": -68970660433500787,
-      "source_url": "https://prehraj.to/neranditelni-02x05-dvb-t-cz/58bd71eda90f5",
-      "size_bytes": 333645662,
+      "source_id": -3035876403947179,
+      "source_url": "https://prehraj.to/neranditelni-s02e06-6-epizoda-sd-cz-dabing-avi/bbdcd150fc95e7c6",
+      "size_bytes": 328657166,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1340228,5 +1340254,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:43:23Z"
+  "last_updated": "2026-11-21T06:59:43Z"
 }
