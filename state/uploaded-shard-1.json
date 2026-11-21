@@ -924955,6 +924955,32 @@
         "download_sec": 24.4,
         "upload_sec": 28.7
       }
+    },
+    {
+      "episode_id": 152172,
+      "series_id": 5244,
+      "series_title": "Burnout Syndrome",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Burnout Syndrome S01E05 - 5. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -50679897489021344,
+      "external_id": "5038959ebd81d114",
+      "source_url": "https://prehraj.to/burnout-syndrome-s01e05-mkv/5038959ebd81d114",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31231497,
+      "size_bytes": 850514152,
+      "uploaded_at": "2026-11-21T15:41:03Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 38.5,
+        "upload_sec": 123.2
+      }
     }
   ],
   "pending_uploads": [
@@ -926125,22 +926151,6 @@
       "size_bytes": 317630553,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 152172,
-      "series_id": 5244,
-      "series_title": "Burnout Syndrome",
-      "season": 1,
-      "episode": 5,
-      "display_name": "Burnout Syndrome S01E05 - 5. epizoda CZ Titulky",
-      "intent_id": "8ae90d0ace1d4c5391c50e0afe618f67",
-      "started_at": "2026-11-21T15:38:05Z",
-      "upload_account": "primary",
-      "source_id": -50679897489021344,
-      "source_url": "https://prehraj.to/burnout-syndrome-s01e05-mkv/5038959ebd81d114",
-      "size_bytes": 850514152,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1344216,5 +1344226,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T15:39:01Z"
+  "last_updated": "2026-11-21T15:41:03Z"
 }
