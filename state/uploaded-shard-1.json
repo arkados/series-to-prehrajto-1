@@ -923187,6 +923187,32 @@
         "download_sec": 13.9,
         "upload_sec": 41.1
       }
+    },
+    {
+      "episode_id": 22372,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 17,
+      "episode_code": "S05E17",
+      "display_name": "Alfred Hitchcock uvádí S05E17 - 17. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -39609579493002501,
+      "external_id": "594988c62e406",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e17/594988c62e406",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221467,
+      "size_bytes": 332231033,
+      "uploaded_at": "2026-11-21T06:01:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 31.3,
+        "upload_sec": 47.7
+      }
     }
   ],
   "pending_uploads": [
@@ -924311,19 +924337,35 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 22372,
-      "series_id": 105,
-      "series_title": "Alfred Hitchcock uvádí",
-      "season": 5,
-      "episode": 17,
-      "display_name": "Alfred Hitchcock uvádí S05E17 - 17. epizoda CZ Titulky",
-      "intent_id": "975f2792af1347a0985d6b8892928851",
-      "started_at": "2026-11-21T06:00:00Z",
+      "episode_id": 68544,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 13,
+      "display_name": "Život beze slov S01E13 - Nemoc CZ Dabing",
+      "intent_id": "b7864f90e88d413281622f8460329ec0",
+      "started_at": "2026-11-21T06:02:45Z",
       "upload_account": "primary",
-      "source_id": -39609579493002501,
-      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e17/594988c62e406",
-      "size_bytes": 332231033,
-      "source_container": "mkv",
+      "source_id": -70587132038850637,
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e13-s-i-sick-d-a-day-cs/8d6a5ffae73ca272",
+      "size_bytes": 315607438,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 78557,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 9,
+      "display_name": "Neranditelní S01E09 - 9. epizoda CZ Dabing",
+      "intent_id": "5ee8f363237c4b449b81b36add25f9b9",
+      "started_at": "2026-11-21T06:01:52Z",
+      "upload_account": "primary",
+      "source_id": -54290578301041856,
+      "source_url": "https://prehraj.to/neranditelni-01x09-dvb-t-cz/588e809630507",
+      "size_bytes": 336861908,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1342349,5 +1342391,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:00:59Z"
+  "last_updated": "2026-11-21T06:02:45Z"
 }
