@@ -921664,6 +921664,32 @@
         "download_sec": 23.3,
         "upload_sec": 30.0
       }
+    },
+    {
+      "episode_id": 152175,
+      "series_id": 5244,
+      "series_title": "Burnout Syndrome",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Burnout Syndrome S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -45249867146639870,
+      "external_id": "faaa63bd03996444",
+      "source_url": "https://prehraj.to/burnout-syndrome-s01e08-mkv/faaa63bd03996444",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31225000,
+      "size_bytes": 847845057,
+      "uploaded_at": "2026-11-21T09:41:25Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.7,
+        "upload_sec": 70.1
+      }
     }
   ],
   "pending_uploads": [
@@ -922804,18 +922830,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 152175,
+      "episode_id": 152174,
       "series_id": 5244,
       "series_title": "Burnout Syndrome",
       "season": 1,
-      "episode": 8,
-      "display_name": "Burnout Syndrome S01E08 - 8. epizoda CZ Titulky",
-      "intent_id": "a66a5d045a834022abe2c51a9e070715",
-      "started_at": "2026-11-21T09:38:41Z",
+      "episode": 7,
+      "display_name": "Burnout Syndrome S01E07 - 7. epizoda CZ Titulky",
+      "intent_id": "c79269ed7c3745fc9515de3bf920288e",
+      "started_at": "2026-11-21T09:41:28Z",
       "upload_account": "serialy",
-      "source_id": -45249867146639870,
-      "source_url": "https://prehraj.to/burnout-syndrome-s01e08-mkv/faaa63bd03996444",
-      "size_bytes": 847845057,
+      "source_id": -10602208144808950,
+      "source_url": "https://prehraj.to/burnout-syndrome-s01e07-mkv/d90f1b3bfca76408",
+      "size_bytes": 829272920,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1340876,5 +1340902,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T09:39:46Z"
+  "last_updated": "2026-11-21T09:41:28Z"
 }
