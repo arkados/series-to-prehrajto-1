@@ -922672,6 +922672,22 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 193874,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 70,
+      "display_name": "Bing S01E70 - Dort CZ Dabing",
+      "intent_id": "1dd194c6d9ff4fb68809da05f5a8a58f",
+      "started_at": "2026-11-21T08:47:37Z",
+      "upload_account": "serialy",
+      "source_id": -36837737527944225,
+      "source_url": "https://prehraj.to/bing-s01e70-78-2014-cz-dabing-1080p-fhd-dort/7365ea2b920ffbed",
+      "size_bytes": 332671608,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340730,5 +1340746,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:46:48Z"
+  "last_updated": "2026-11-21T08:47:37Z"
 }
