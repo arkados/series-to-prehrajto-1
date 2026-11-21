@@ -920442,6 +920442,32 @@
         "download_sec": 15.8,
         "upload_sec": 47.6
       }
+    },
+    {
+      "episode_id": 68538,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Život beze slov S01E06 - Rande CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -59333524315683326,
+      "external_id": "2eb7b29c5978e09c",
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e6-d-a-t-e-date-cs/2eb7b29c5978e09c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219209,
+      "size_bytes": 321678994,
+      "uploaded_at": "2026-11-21T03:38:12Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.7,
+        "upload_sec": 26.7
+      }
     }
   ],
   "pending_uploads": [
@@ -921550,19 +921576,19 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 68538,
-      "series_id": 1589,
-      "series_title": "Život beze slov",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Život beze slov S01E06 - Rande CZ Dabing",
-      "intent_id": "f0cffde6f0b74d1ca203bf53f0e22bfd",
-      "started_at": "2026-11-21T03:37:10Z",
+      "episode_id": 22359,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 4,
+      "display_name": "Alfred Hitchcock uvádí S05E04 - 4. epizoda CZ Titulky",
+      "intent_id": "62afe99587ea4c94af4aece9d3378080",
+      "started_at": "2026-11-21T03:37:19Z",
       "upload_account": "serialy",
-      "source_id": -59333524315683326,
-      "source_url": "https://prehraj.to/zivot-beze-slov-s1e6-d-a-t-e-date-cs/2eb7b29c5978e09c",
-      "size_bytes": 321678994,
-      "source_container": "mp4",
+      "source_id": -63124191267883614,
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e04/5949880ad3134",
+      "size_bytes": 332367771,
+      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1339588,5 +1339614,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:37:10Z"
+  "last_updated": "2026-11-21T03:38:12Z"
 }
