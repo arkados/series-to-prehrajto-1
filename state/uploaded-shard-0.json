@@ -924331,6 +924331,58 @@
         "download_sec": 20.1,
         "upload_sec": 34.8
       }
+    },
+    {
+      "episode_id": 107797,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Rodinka na kousky S01E07 - 7. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -33123753939942287,
+      "external_id": "589fc230b6f58",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-01x07-dvb-t-cz/589fc230b6f58",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31226705,
+      "size_bytes": 329362676,
+      "uploaded_at": "2026-11-21T11:02:54Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 36.1,
+        "upload_sec": 34.5
+      }
+    },
+    {
+      "episode_id": 78565,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 2,
+      "episode": 4,
+      "episode_code": "S02E04",
+      "display_name": "Neranditelní S02E04 - 4. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -38924023762532430,
+      "external_id": "37c9e62dacfa1be6",
+      "source_url": "https://prehraj.to/neranditelni-s02e04-4-epizoda-sd-cz-dabing-avi/37c9e62dacfa1be6",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31226762,
+      "size_bytes": 321828620,
+      "uploaded_at": "2026-11-21T11:06:15Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 98.5,
+        "upload_sec": 25.9
+      }
     }
   ],
   "pending_uploads": [
@@ -925471,20 +925523,20 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 107797,
-      "series_id": 2690,
-      "series_title": "Rodinka na kousky",
-      "season": 1,
-      "episode": 7,
-      "display_name": "Rodinka na kousky S01E07 - 7. epizoda CZ Dabing",
-      "intent_id": "e683641a681041fbab078c35d71bbb0c",
-      "started_at": "2026-11-21T11:01:17Z",
+      "episode_id": 50252,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 17,
+      "display_name": "The Neighbors S02E17 - 17. epizoda CZ Titulky",
+      "intent_id": "9be65bea3bac4859814067836b49f442",
+      "started_at": "2026-11-21T11:09:59Z",
       "upload_account": "primary",
-      "source_id": -33123753939942287,
-      "source_url": "https://prehraj.to/rodinka-na-kousky-01x07-dvb-t-cz/589fc230b6f58",
-      "size_bytes": 329362676,
-      "source_container": "avi",
-      "source_download_kind": "original"
+      "source_id": -9660450924101832,
+      "source_url": "https://prehraj.to/the-neighbors-s2e17-balle-balle-en/7c30f292db3baa2e",
+      "size_bytes": 359702827,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343543,5 +1343595,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T11:02:19Z"
+  "last_updated": "2026-11-21T11:09:59Z"
 }
