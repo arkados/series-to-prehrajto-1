@@ -924773,6 +924773,32 @@
         "download_sec": 34.8,
         "upload_sec": 36.5
       }
+    },
+    {
+      "episode_id": 101208,
+      "series_id": 2463,
+      "series_title": "Three's Company",
+      "season": 6,
+      "episode": 1,
+      "episode_code": "S06E01",
+      "display_name": "Three's Company S06E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -40808581594347525,
+      "external_id": "595c602e65463",
+      "source_url": "https://prehraj.to/threes-company-s06e01-s06e02-dvdrip-xvid-saints/595c602e65463",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31229232,
+      "size_bytes": 381703801,
+      "uploaded_at": "2026-11-21T13:26:02Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.8,
+        "upload_sec": 26.4
+      }
     }
   ],
   "pending_uploads": [
@@ -925911,22 +925937,6 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 101208,
-      "series_id": 2463,
-      "series_title": "Three's Company",
-      "season": 6,
-      "episode": 1,
-      "display_name": "Three's Company S06E01 - 1. epizoda CZ Titulky",
-      "intent_id": "26c02e256daa492ca83b583dee8afe72",
-      "started_at": "2026-11-21T13:24:59Z",
-      "upload_account": "primary",
-      "source_id": -40808581594347525,
-      "source_url": "https://prehraj.to/threes-company-s06e01-s06e02-dvdrip-xvid-saints/595c602e65463",
-      "size_bytes": 381703801,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343985,5 +1343995,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T13:24:59Z"
+  "last_updated": "2026-11-21T13:26:02Z"
 }
