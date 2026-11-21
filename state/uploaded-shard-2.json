@@ -920468,6 +920468,58 @@
         "download_sec": 13.7,
         "upload_sec": 26.7
       }
+    },
+    {
+      "episode_id": 22359,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 4,
+      "episode_code": "S05E04",
+      "display_name": "Alfred Hitchcock uvádí S05E04 - 4. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -63124191267883614,
+      "external_id": "5949880ad3134",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e04/5949880ad3134",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219224,
+      "size_bytes": 332367771,
+      "uploaded_at": "2026-11-21T03:39:22Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 18.8,
+        "upload_sec": 33.6
+      }
+    },
+    {
+      "episode_id": 71951,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 7,
+      "episode_code": "S05E07",
+      "display_name": "Highlander S05E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -57712735766527004,
+      "external_id": "59787b424ec0b",
+      "source_url": "https://prehraj.to/highlander-s05e07-cz-tit/59787b424ec0b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219263,
+      "size_bytes": 363267723,
+      "uploaded_at": "2026-11-21T03:42:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.2,
+        "upload_sec": 36.4
+      }
     }
   ],
   "pending_uploads": [
@@ -921574,22 +921626,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 22359,
-      "series_id": 105,
-      "series_title": "Alfred Hitchcock uvádí",
-      "season": 5,
-      "episode": 4,
-      "display_name": "Alfred Hitchcock uvádí S05E04 - 4. epizoda CZ Titulky",
-      "intent_id": "62afe99587ea4c94af4aece9d3378080",
-      "started_at": "2026-11-21T03:37:19Z",
-      "upload_account": "serialy",
-      "source_id": -63124191267883614,
-      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e04/5949880ad3134",
-      "size_bytes": 332367771,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339614,5 +1339650,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:38:12Z"
+  "last_updated": "2026-11-21T03:45:10Z"
 }
