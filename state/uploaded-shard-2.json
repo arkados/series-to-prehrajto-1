@@ -922106,6 +922106,32 @@
         "download_sec": 12.5,
         "upload_sec": 35.5
       }
+    },
+    {
+      "episode_id": 74283,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "About a Boy S01E11 - 11. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -21673140390167398,
+      "external_id": "6bbcac4122224335",
+      "source_url": "https://prehraj.to/about-a-boy-s01e11-about-a-birthday-party-1080p-cz/6bbcac4122224335",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228002,
+      "size_bytes": 685772113,
+      "uploaded_at": "2026-11-21T12:12:43Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 97.4,
+        "upload_sec": 40.5
+      }
     }
   ],
   "pending_uploads": [
@@ -923244,6 +923270,22 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 50250,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 19,
+      "display_name": "The Neighbors S02E19 - 19. epizoda CZ Titulky",
+      "intent_id": "0df0ca62b54e4978a521385be30d7708",
+      "started_at": "2026-11-21T12:20:58Z",
+      "upload_account": "serialy",
+      "source_id": -52826252968742358,
+      "source_url": "https://prehraj.to/the-neighbors-s02e19-uncle-benjamin/5ad1bc1f3dd9b",
+      "size_bytes": 323212529,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341302,5 +1341344,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:07:01Z"
+  "last_updated": "2026-11-21T12:20:58Z"
 }
