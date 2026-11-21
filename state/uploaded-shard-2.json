@@ -921638,6 +921638,32 @@
         "download_sec": 44.5,
         "upload_sec": 60.6
       }
+    },
+    {
+      "episode_id": 187658,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 17,
+      "episode_code": "S10E17",
+      "display_name": "Požárník Sam S10E17 - Velké hokejové tání CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -20146138501572181,
+      "external_id": "5c75f42abcbb9",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e17-cz-dabing-pro-deti/5c75f42abcbb9",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31224985,
+      "size_bytes": 347716020,
+      "uploaded_at": "2026-11-21T09:39:46Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 23.3,
+        "upload_sec": 30.0
+      }
     }
   ],
   "pending_uploads": [
@@ -922778,20 +922804,20 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 187658,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 10,
-      "episode": 17,
-      "display_name": "Požárník Sam S10E17 - Velké hokejové tání CZ Dabing",
-      "intent_id": "60dc64b59dcf40dca8cd028020e1d4df",
-      "started_at": "2026-11-21T09:38:38Z",
+      "episode_id": 152175,
+      "series_id": 5244,
+      "series_title": "Burnout Syndrome",
+      "season": 1,
+      "episode": 8,
+      "display_name": "Burnout Syndrome S01E08 - 8. epizoda CZ Titulky",
+      "intent_id": "a66a5d045a834022abe2c51a9e070715",
+      "started_at": "2026-11-21T09:38:41Z",
       "upload_account": "serialy",
-      "source_id": -20146138501572181,
-      "source_url": "https://prehraj.to/pozarnik-sam-s10e17-cz-dabing-pro-deti/5c75f42abcbb9",
-      "size_bytes": 347716020,
+      "source_id": -45249867146639870,
+      "source_url": "https://prehraj.to/burnout-syndrome-s01e08-mkv/faaa63bd03996444",
+      "size_bytes": 847845057,
       "source_container": "mp4",
-      "source_download_kind": "original"
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340850,5 +1340876,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T09:38:38Z"
+  "last_updated": "2026-11-21T09:39:46Z"
 }
