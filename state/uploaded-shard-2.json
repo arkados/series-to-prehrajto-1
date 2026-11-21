@@ -922132,6 +922132,32 @@
         "download_sec": 97.4,
         "upload_sec": 40.5
       }
+    },
+    {
+      "episode_id": 50250,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 19,
+      "episode_code": "S02E19",
+      "display_name": "The Neighbors S02E19 - 19. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -52826252968742358,
+      "external_id": "5ad1bc1f3dd9b",
+      "source_url": "https://prehraj.to/the-neighbors-s02e19-uncle-benjamin/5ad1bc1f3dd9b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228177,
+      "size_bytes": 323212529,
+      "uploaded_at": "2026-11-21T12:22:39Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 17.1,
+        "upload_sec": 33.2
+      }
     }
   ],
   "pending_uploads": [
@@ -923270,22 +923296,6 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 50250,
-      "series_id": 1157,
-      "series_title": "The Neighbors",
-      "season": 2,
-      "episode": 19,
-      "display_name": "The Neighbors S02E19 - 19. epizoda CZ Titulky",
-      "intent_id": "0df0ca62b54e4978a521385be30d7708",
-      "started_at": "2026-11-21T12:20:58Z",
-      "upload_account": "serialy",
-      "source_id": -52826252968742358,
-      "source_url": "https://prehraj.to/the-neighbors-s02e19-uncle-benjamin/5ad1bc1f3dd9b",
-      "size_bytes": 323212529,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341344,5 +1341354,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:20:58Z"
+  "last_updated": "2026-11-21T12:22:39Z"
 }
