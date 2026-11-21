@@ -1,30 +1,86 @@
 {
   "counts": {
     "backlog_episodes": 107916,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83750,
-    "prepared_source_episodes": 67715,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83751,
+    "prepared_source_episodes": 67713,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 41,
+    "language_whisper_attempted_sources": 41,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53346,
     "whisper_review_pending_sources": 35840,
-    "upload_pending_checkpoints": 145,
+    "upload_pending_checkpoints": 144,
     "subtitle_followup_sources": 52666,
     "subtitle_followup_pending_sources": 52666
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T15:43:41Z",
+      "databaseId": 44920713362,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:43:20Z",
+      "databaseId": 44920681966,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:43:18Z",
+      "databaseId": 44920680014,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T15:42:43Z",
+      "databaseId": 44920628891,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T15:40:57Z",
+      "databaseId": 44920471344,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:40:53Z",
+      "databaseId": 44920466036,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T15:40:50Z",
+      "databaseId": 44920462593,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:39:19Z",
       "databaseId": 44920329214,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -36,11 +92,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:38:09Z",
       "databaseId": 44920230159,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -52,19 +108,19 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-21T15:36:44Z",
       "databaseId": 44920108833,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-21T15:34:26Z",
       "databaseId": 44919900788,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -84,11 +140,11 @@
       "workflowName": "prepare-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:30:57Z",
       "databaseId": 44919584114,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-21T15:28:06Z",
-      "databaseId": 44919326865,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:24:47Z",
-      "databaseId": 44919043767,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:24:43Z",
-      "databaseId": 44919038832,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:24:40Z",
-      "databaseId": 44919034676,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:24:37Z",
-      "databaseId": 44919030854,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:23:25Z",
-      "databaseId": 44918924939,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T15:22:53Z",
-      "databaseId": 44918876844,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -205750,6 +205750,11 @@
         "episode_id": 107805,
         "display_name": "Rodinka na kousky S01E19 - 19. epizoda CZ Dabing",
         "video_id": 31231488
+      },
+      {
+        "episode_id": 152172,
+        "display_name": "Burnout Syndrome S01E05 - 5. epizoda CZ Titulky",
+        "video_id": 31231497
       },
       {
         "episode_id": 114182,
@@ -598619,6 +598624,11 @@
         "video_id": 31231488
       },
       {
+        "episode_id": 152172,
+        "display_name": "Burnout Syndrome S01E05 - 5. epizoda CZ Titulky",
+        "video_id": 31231497
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -787178,6 +787188,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "sample_failed": 1,
     "ok": 39,
     "resolve_failed": 1
   },
