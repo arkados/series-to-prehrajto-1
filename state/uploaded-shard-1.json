@@ -923607,6 +923607,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71897,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 6,
+      "episode": 4,
+      "display_name": "Highlander S06E04 - 4. epizoda CZ Titulky",
+      "intent_id": "17f6473e86a54647973f33acbbb44ac7",
+      "started_at": "2026-11-21T02:00:42Z",
+      "upload_account": "primary",
+      "source_id": -43505820583604961,
+      "source_url": "https://prehraj.to/highlander-s06e04-cz-tit/59787c2520844",
+      "size_bytes": 336328686,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341631,5 +1341647,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:54:13Z"
+  "last_updated": "2026-11-21T02:00:42Z"
 }
