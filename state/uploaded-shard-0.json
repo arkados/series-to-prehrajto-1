@@ -923265,6 +923265,32 @@
         "download_sec": 19.7,
         "upload_sec": 36.1
       }
+    },
+    {
+      "episode_id": 74284,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 13,
+      "episode_code": "S01E13",
+      "display_name": "About a Boy S01E13 - 13. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -13200989505305397,
+      "external_id": "1cf0c06d3b0dc1f3",
+      "source_url": "https://prehraj.to/about-a-boy-s01e13-about-a-rib-chute-1080p-cz/1cf0c06d3b0dc1f3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221643,
+      "size_bytes": 647886107,
+      "uploaded_at": "2026-11-21T06:14:41Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 29.5,
+        "upload_sec": 39.7
+      }
     }
   ],
   "pending_uploads": [
@@ -924387,22 +924413,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 74284,
-      "series_id": 1738,
-      "series_title": "About a Boy",
-      "season": 1,
-      "episode": 13,
-      "display_name": "About a Boy S01E13 - 13. epizoda CZ Dabing",
-      "intent_id": "8fd4eafe18f34d56bc5c2872fbe9fec2",
-      "started_at": "2026-11-21T06:13:12Z",
-      "upload_account": "primary",
-      "source_id": -13200989505305397,
-      "source_url": "https://prehraj.to/about-a-boy-s01e13-about-a-rib-chute-1080p-cz/1cf0c06d3b0dc1f3",
-      "size_bytes": 647886107,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1342427,5 +1342437,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:13:12Z"
+  "last_updated": "2026-11-21T06:14:41Z"
 }
