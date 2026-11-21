@@ -920546,6 +920546,32 @@
         "download_sec": 14.7,
         "upload_sec": 33.3
       }
+    },
+    {
+      "episode_id": 68534,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Život beze slov S01E08 - Rayznini CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68918825458957438,
+      "external_id": "ba97aaf2faf37594",
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e8-t-h-a-thanksgiving-cs/ba97aaf2faf37594",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219603,
+      "size_bytes": 317538352,
+      "uploaded_at": "2026-11-21T04:03:06Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.3,
+        "upload_sec": 24.6
+      }
     }
   ],
   "pending_uploads": [
@@ -921654,20 +921680,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 68534,
-      "series_id": 1589,
-      "series_title": "Život beze slov",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Život beze slov S01E08 - Rayznini CZ Dabing",
-      "intent_id": "9df8831d21064502b9e99515a06eccbf",
-      "started_at": "2026-11-21T04:01:43Z",
+      "episode_id": 71963,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 6,
+      "episode": 6,
+      "display_name": "Highlander S06E06 - 6. epizoda CZ Titulky",
+      "intent_id": "03ac0b619c354b8ea00d1cdc54fcc02e",
+      "started_at": "2026-11-21T04:02:04Z",
       "upload_account": "serialy",
-      "source_id": -68918825458957438,
-      "source_url": "https://prehraj.to/zivot-beze-slov-s1e8-t-h-a-thanksgiving-cs/ba97aaf2faf37594",
-      "size_bytes": 317538352,
+      "source_id": -64921048116543909,
+      "source_url": "https://prehraj.to/highlander-s06e06-cz-tit/59787c4139c5f",
+      "size_bytes": 335394835,
       "source_container": "mp4",
-      "source_download_kind": "original"
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339692,5 +1339718,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:01:43Z"
+  "last_updated": "2026-11-21T04:03:06Z"
 }
