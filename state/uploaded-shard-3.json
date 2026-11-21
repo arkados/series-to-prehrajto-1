@@ -920494,6 +920494,32 @@
         "download_sec": 18.8,
         "upload_sec": 33.6
       }
+    },
+    {
+      "episode_id": 71951,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 7,
+      "episode_code": "S05E07",
+      "display_name": "Highlander S05E07 - 7. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -57712735766527004,
+      "external_id": "59787b424ec0b",
+      "source_url": "https://prehraj.to/highlander-s05e07-cz-tit/59787b424ec0b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219263,
+      "size_bytes": 363267723,
+      "uploaded_at": "2026-11-21T03:42:08Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 25.2,
+        "upload_sec": 36.4
+      }
     }
   ],
   "pending_uploads": [
@@ -921600,22 +921626,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71951,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 5,
-      "episode": 7,
-      "display_name": "Highlander S05E07 - 7. epizoda CZ Titulky",
-      "intent_id": "b07a37e4779546c29d32307da4714eb0",
-      "started_at": "2026-11-21T03:40:53Z",
-      "upload_account": "serialy",
-      "source_id": -57712735766527004,
-      "source_url": "https://prehraj.to/highlander-s05e07-cz-tit/59787b424ec0b",
-      "size_bytes": 363267723,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339640,5 +1339650,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:40:53Z"
+  "last_updated": "2026-11-21T03:42:08Z"
 }
