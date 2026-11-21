@@ -923685,6 +923685,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 180976,
+      "series_id": 9393,
+      "series_title": "Doznání",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Doznání S01E02 - 2. díl CZ Titulky",
+      "intent_id": "eb249fea12464ba98c0b78b913a782c7",
+      "started_at": "2026-11-21T02:43:43Z",
+      "upload_account": "primary",
+      "source_id": -57503762597978904,
+      "source_url": "https://prehraj.to/doznani-s01e02-cztitulky/6383d9c514ce3",
+      "size_bytes": 1482516635,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1341709,5 +1341725,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T02:23:56Z"
+  "last_updated": "2026-11-21T02:43:43Z"
 }
