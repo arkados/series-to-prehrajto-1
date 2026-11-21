@@ -1,9 +1,9 @@
 {
   "counts": {
-    "backlog_episodes": 107957,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83740,
-    "prepared_source_episodes": 67702,
+    "backlog_episodes": 107916,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83741,
+    "prepared_source_episodes": 67709,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
@@ -21,18 +21,82 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-21T13:58:06Z",
-      "databaseId": 44911475971,
+      "createdAt": "2026-11-21T14:05:09Z",
+      "databaseId": 44912086959,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T14:04:16Z",
+      "databaseId": 44912011529,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T14:02:49Z",
+      "databaseId": 44911883183,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T14:02:27Z",
+      "databaseId": 44911853241,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T13:59:37Z",
+      "databaseId": 44911591827,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T13:59:34Z",
+      "databaseId": 44911588615,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T13:59:32Z",
+      "databaseId": 44911585972,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T13:59:29Z",
+      "databaseId": 44911582159,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "refresh-backlog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T13:58:06Z",
+      "databaseId": 44911475971,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
       "createdAt": "2026-11-21T13:57:38Z",
       "databaseId": 44911441194,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -44,11 +108,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T13:57:31Z",
       "databaseId": 44911431212,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -108,76 +172,12 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T13:46:39Z",
       "databaseId": 44910545001,
       "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:45:41Z",
-      "databaseId": 44910466266,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T13:45:27Z",
-      "databaseId": 44910445781,
-      "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:44:41Z",
-      "databaseId": 44910377738,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T13:44:32Z",
-      "databaseId": 44910366721,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:44:22Z",
-      "databaseId": 44910352258,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:44:18Z",
-      "databaseId": 44910346877,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:44:15Z",
-      "databaseId": 44910343263,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:42:49Z",
-      "databaseId": 44910223064,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -205735,6 +205735,11 @@
         "episode_id": 187644,
         "display_name": "Požárník Sam S10E03 - Hra na hrady a krále CZ Dabing",
         "video_id": 31229418
+      },
+      {
+        "episode_id": 68565,
+        "display_name": "Život beze slov S02E03 - JJův sen CZ Dabing",
+        "video_id": 31229862
       },
       {
         "episode_id": 114182,
@@ -598552,6 +598557,11 @@
         "episode_id": 187644,
         "display_name": "Požárník Sam S10E03 - Hra na hrady a krále CZ Dabing",
         "video_id": 31229418
+      },
+      {
+        "episode_id": 68565,
+        "display_name": "Život beze slov S02E03 - JJův sen CZ Dabing",
+        "video_id": 31229862
       },
       {
         "episode_id": 114182,
