@@ -923135,6 +923135,32 @@
         "download_sec": 29.6,
         "upload_sec": 34.8
       }
+    },
+    {
+      "episode_id": 74281,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "About a Boy S01E09 - 9. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -18295754867718221,
+      "external_id": "724054a06a11b6a1",
+      "source_url": "https://prehraj.to/about-a-boy-s01e09-about-a-kiss-1080p-cz/724054a06a11b6a1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221410,
+      "size_bytes": 631912414,
+      "uploaded_at": "2026-11-21T05:57:00Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 34.4,
+        "upload_sec": 49.9
+      }
     }
   ],
   "pending_uploads": [
@@ -924257,22 +924283,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 74281,
-      "series_id": 1738,
-      "series_title": "About a Boy",
-      "season": 1,
-      "episode": 9,
-      "display_name": "About a Boy S01E09 - 9. epizoda CZ Dabing",
-      "intent_id": "5571ecc2373040379c173546efe41a8d",
-      "started_at": "2026-11-21T05:55:17Z",
-      "upload_account": "primary",
-      "source_id": -18295754867718221,
-      "source_url": "https://prehraj.to/about-a-boy-s01e09-about-a-kiss-1080p-cz/724054a06a11b6a1",
-      "size_bytes": 631912414,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1342297,5 +1342307,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:55:17Z"
+  "last_updated": "2026-11-21T05:57:00Z"
 }
