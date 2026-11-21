@@ -923577,6 +923577,58 @@
         "download_sec": 17.6,
         "upload_sec": 36.8
       }
+    },
+    {
+      "episode_id": 50253,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 14,
+      "episode_code": "S02E14",
+      "display_name": "The Neighbors S02E14 - 14. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -34613414290543554,
+      "external_id": "c3b051acc91958b8",
+      "source_url": "https://prehraj.to/the-neighbors-s2e14-man-actually-en/c3b051acc91958b8",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31222601,
+      "size_bytes": 315817489,
+      "uploaded_at": "2026-11-21T07:14:52Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 26.5,
+        "upload_sec": 38.1
+      }
+    },
+    {
+      "episode_id": 50244,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "The Neighbors S02E13 - 13. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -30294698903901007,
+      "external_id": "5aa9f4b9d8ae5",
+      "source_url": "https://prehraj.to/the-neighbors-s02e13-high-school-reunion/5aa9f4b9d8ae5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31222628,
+      "size_bytes": 319688994,
+      "uploaded_at": "2026-11-21T07:16:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.1,
+        "upload_sec": 40.6
+      }
     }
   ],
   "pending_uploads": [
@@ -924697,38 +924749,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 50253,
-      "series_id": 1157,
-      "series_title": "The Neighbors",
-      "season": 2,
-      "episode": 14,
-      "display_name": "The Neighbors S02E14 - 14. epizoda CZ Titulky",
-      "intent_id": "43f6c6e9cbe54ccc8166decb9f16a926",
-      "started_at": "2026-11-21T07:12:49Z",
-      "upload_account": "primary",
-      "source_id": -34613414290543554,
-      "source_url": "https://prehraj.to/the-neighbors-s2e14-man-actually-en/c3b051acc91958b8",
-      "size_bytes": 315817489,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 50244,
-      "series_id": 1157,
-      "series_title": "The Neighbors",
-      "season": 2,
-      "episode": 13,
-      "display_name": "The Neighbors S02E13 - 13. epizoda CZ Titulky",
-      "intent_id": "34743ae2c6ce4f29902dd2b2595fe201",
-      "started_at": "2026-11-21T07:14:51Z",
-      "upload_account": "primary",
-      "source_id": -30294698903901007,
-      "source_url": "https://prehraj.to/the-neighbors-s02e13-high-school-reunion/5aa9f4b9d8ae5",
-      "size_bytes": 319688994,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1342755,5 +1342775,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:14:51Z"
+  "last_updated": "2026-11-21T07:16:11Z"
 }
