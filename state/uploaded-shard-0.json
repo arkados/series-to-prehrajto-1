@@ -923919,6 +923919,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71960,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 19,
+      "display_name": "Highlander S05E19 - 19. epizoda CZ Titulky",
+      "intent_id": "4bf99933e3ce4d7899e16fb9cb67ffce",
+      "started_at": "2026-11-21T03:47:01Z",
+      "upload_account": "primary",
+      "source_id": -32616328110477427,
+      "source_url": "https://prehraj.to/highlander-s05e19-cz-tit/59787be3c7a75",
+      "size_bytes": 363354957,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1341943,5 +1341959,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:46:12Z"
+  "last_updated": "2026-11-21T03:47:01Z"
 }
