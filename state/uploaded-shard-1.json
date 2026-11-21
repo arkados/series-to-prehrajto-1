@@ -923057,6 +923057,32 @@
         "download_sec": 11.8,
         "upload_sec": 22.5
       }
+    },
+    {
+      "episode_id": 123792,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Flashpoint S02E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -27340559704734106,
+      "external_id": "3494bdb142737ef7",
+      "source_url": "https://prehraj.to/flashpoint-s02e09-9-epizoda-sd-cz-dabing-avi/3494bdb142737ef7",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220892,
+      "size_bytes": 367049894,
+      "uploaded_at": "2026-11-21T05:27:01Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.6,
+        "upload_sec": 42.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1342203,5 +1342229,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:24:45Z"
+  "last_updated": "2026-11-21T05:27:01Z"
 }
