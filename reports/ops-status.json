@@ -1,30 +1,54 @@
 {
   "counts": {
     "backlog_episodes": 108119,
-    "manifest_upload_ready_episodes": 8,
-    "uploaded_episodes": 83560,
-    "prepared_source_episodes": 67753,
+    "manifest_upload_ready_episodes": 7,
+    "uploaded_episodes": 83562,
+    "prepared_source_episodes": 67773,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 57,
-    "language_whisper_attempted_sources": 54,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53405,
     "whisper_review_pending_sources": 36059,
-    "upload_pending_checkpoints": 139,
+    "upload_pending_checkpoints": 140,
     "subtitle_followup_sources": 52574,
     "subtitle_followup_pending_sources": 52574
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T01:43:50Z",
+      "databaseId": 44851880414,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T01:42:34Z",
+      "databaseId": 44851760672,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T01:42:17Z",
+      "databaseId": 44851734041,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:40:57Z",
       "databaseId": 44851600283,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +76,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:36:22Z",
       "databaseId": 44851153023,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -100,19 +124,19 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:30:32Z",
       "databaseId": 44850577668,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:30:06Z",
       "databaseId": 44850529741,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:21:05Z",
-      "databaseId": 44849656151,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T01:20:06Z",
-      "databaseId": 44849550673,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:19:18Z",
-      "databaseId": 44849471450,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -205252,6 +205252,11 @@
         "video_id": 31217018
       },
       {
+        "episode_id": 50212,
+        "display_name": "The Neighbors S01E02 - 2. epizoda CZ Titulky",
+        "video_id": 31217407
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -392200,6 +392205,11 @@
         "episode_id": 68535,
         "display_name": "Život beze slov S01E03 - Táborák CZ Dabing",
         "video_id": 31217294
+      },
+      {
+        "episode_id": 71959,
+        "display_name": "Highlander S05E17 - 17. epizoda CZ Titulky",
+        "video_id": 31217416
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -597169,6 +597179,11 @@
         "video_id": 31217018
       },
       {
+        "episode_id": 50212,
+        "display_name": "The Neighbors S01E02 - 2. epizoda CZ Titulky",
+        "video_id": 31217407
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -784117,6 +784132,11 @@
         "episode_id": 68535,
         "display_name": "Život beze slov S01E03 - Táborák CZ Dabing",
         "video_id": 31217294
+      },
+      {
+        "episode_id": 71959,
+        "display_name": "Highlander S05E17 - 17. epizoda CZ Titulky",
+        "video_id": 31217416
       }
     ],
     "prepared_not_upload_ready": [
@@ -785278,9 +785298,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 52,
-    "disabled": 3,
-    "sample_failed": 1,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
