@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 108081,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83571,
-    "prepared_source_episodes": 67783,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83572,
+    "prepared_source_episodes": 67791,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 41,
-    "language_whisper_attempted_sources": 41,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53404,
     "whisper_review_pending_sources": 36055,
@@ -21,34 +21,98 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-21T02:21:26Z",
-      "databaseId": 44855438391,
+      "createdAt": "2026-11-21T02:29:07Z",
+      "databaseId": 44856141496,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-21T02:21:15Z",
-      "databaseId": 44855422139,
+      "createdAt": "2026-11-21T02:28:57Z",
+      "databaseId": 44856125977,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "backfill-subtitles"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T02:28:12Z",
+      "databaseId": 44856057119,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T02:26:00Z",
+      "databaseId": 44855861122,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T02:25:31Z",
+      "databaseId": 44855815359,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T02:25:26Z",
+      "databaseId": 44855806925,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T02:23:37Z",
+      "databaseId": 44855639747,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T02:23:33Z",
+      "databaseId": 44855634511,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T02:21:26Z",
+      "databaseId": 44855438391,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T02:21:15Z",
+      "databaseId": 44855422139,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "failure",
       "createdAt": "2026-11-21T02:21:09Z",
       "databaseId": 44855412964,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-21T02:20:05Z",
       "databaseId": 44855306754,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -114,70 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T02:12:21Z",
-      "databaseId": 44854571574,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T02:11:22Z",
-      "databaseId": 44854478428,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T02:10:57Z",
-      "databaseId": 44854439462,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-21T02:10:01Z",
-      "databaseId": 44854347929,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T02:07:23Z",
-      "databaseId": 44854104116,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T02:07:00Z",
-      "databaseId": 44854064114,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T02:06:23Z",
-      "databaseId": 44854008076,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-21T02:06:21Z",
-      "databaseId": 44854004284,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
     }
   ],
   "gaps": {
@@ -205285,6 +205285,11 @@
         "episode_id": 22356,
         "display_name": "Alfred Hitchcock uvádí S05E01 - 1. epizoda CZ Titulky",
         "video_id": 31217915
+      },
+      {
+        "episode_id": 22357,
+        "display_name": "Alfred Hitchcock uvádí S05E02 - 2. epizoda CZ Titulky",
+        "video_id": 31218050
       },
       {
         "episode_id": 114182,
@@ -597259,6 +597264,11 @@
         "video_id": 31217915
       },
       {
+        "episode_id": 22357,
+        "display_name": "Alfred Hitchcock uvádí S05E02 - 2. epizoda CZ Titulky",
+        "video_id": 31218050
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -785388,7 +785398,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 40,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
