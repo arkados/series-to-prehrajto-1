@@ -1,15 +1,15 @@
 {
   "counts": {
     "backlog_episodes": 107957,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83726,
-    "prepared_source_episodes": 67699,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83729,
+    "prepared_source_episodes": 67709,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 49,
+    "language_audited_sources": 52,
     "language_whisper_attempted_sources": 49,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53356,
@@ -21,10 +21,42 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T12:41:56Z",
+      "databaseId": 44905192433,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T12:40:59Z",
+      "databaseId": 44905118171,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T12:39:53Z",
+      "databaseId": 44905028088,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T12:38:38Z",
+      "databaseId": 44904931194,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T12:37:32Z",
       "databaseId": 44904844736,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -84,11 +116,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-21T12:28:47Z",
       "databaseId": 44904101462,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -124,11 +156,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T12:24:42Z",
       "databaseId": 44903762376,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -143,38 +175,6 @@
       "conclusion": "success",
       "createdAt": "2026-11-21T12:21:04Z",
       "databaseId": 44903457418,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T12:20:48Z",
-      "databaseId": 44903434526,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T12:19:49Z",
-      "databaseId": 44903347120,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T12:19:42Z",
-      "databaseId": 44903337769,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T12:19:31Z",
-      "databaseId": 44903322113,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
@@ -205707,6 +205707,11 @@
         "video_id": 31228107
       },
       {
+        "episode_id": 107813,
+        "display_name": "Rodinka na kousky S01E22 - 22. epizoda CZ Dabing",
+        "video_id": 31228437
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -393030,6 +393035,16 @@
         "episode_id": 50246,
         "display_name": "The Neighbors S02E20 - 20. epizoda CZ Titulky",
         "video_id": 31228245
+      },
+      {
+        "episode_id": 50251,
+        "display_name": "The Neighbors S02E21 - 21. epizoda CZ Titulky",
+        "video_id": 31228426
+      },
+      {
+        "episode_id": 107798,
+        "display_name": "Rodinka na kousky S01E08 - 8. epizoda CZ Dabing",
+        "video_id": 31228456
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -598454,6 +598469,11 @@
         "video_id": 31228107
       },
       {
+        "episode_id": 107813,
+        "display_name": "Rodinka na kousky S01E22 - 22. epizoda CZ Dabing",
+        "video_id": 31228437
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -785777,6 +785797,16 @@
         "episode_id": 50246,
         "display_name": "The Neighbors S02E20 - 20. epizoda CZ Titulky",
         "video_id": 31228245
+      },
+      {
+        "episode_id": 50251,
+        "display_name": "The Neighbors S02E21 - 21. epizoda CZ Titulky",
+        "video_id": 31228426
+      },
+      {
+        "episode_id": 107798,
+        "display_name": "Rodinka na kousky S01E08 - 8. epizoda CZ Dabing",
+        "video_id": 31228456
       }
     ],
     "prepared_not_upload_ready": [
@@ -786938,6 +786968,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "disabled": 3,
     "ok": 45,
     "sample_failed": 1,
     "stream_undersized": 2,
