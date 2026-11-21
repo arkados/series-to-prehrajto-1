@@ -1,15 +1,15 @@
 {
   "counts": {
     "backlog_episodes": 107916,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83744,
-    "prepared_source_episodes": 67695,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 83746,
+    "prepared_source_episodes": 67708,
     "description_series": 60,
     "description_episodes": 753,
-    "description_errors": 43,
+    "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 43,
+    "language_audited_sources": 51,
     "language_whisper_attempted_sources": 43,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53347,
@@ -21,26 +21,74 @@
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-21T14:44:50Z",
-      "databaseId": 44915516042,
+      "createdAt": "2026-11-21T14:50:58Z",
+      "databaseId": 44916048419,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "ops-watchdog"
     },
     {
       "conclusion": "",
-      "createdAt": "2026-11-21T14:40:50Z",
-      "databaseId": 44915177268,
+      "createdAt": "2026-11-21T14:50:36Z",
+      "databaseId": 44916015090,
       "headBranch": "main",
       "status": "pending",
       "workflowName": "prepare-manifest"
     },
     {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T14:50:04Z",
+      "databaseId": 44915965687,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
       "conclusion": "",
+      "createdAt": "2026-11-21T14:49:57Z",
+      "databaseId": 44915955379,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T14:46:26Z",
+      "databaseId": 44915660285,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T14:46:23Z",
+      "databaseId": 44915655663,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T14:44:50Z",
+      "databaseId": 44915516042,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T14:40:50Z",
+      "databaseId": 44915177268,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T14:40:44Z",
       "databaseId": 44915168936,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -100,19 +148,19 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T14:36:09Z",
       "databaseId": 44914782342,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-21T14:35:44Z",
       "databaseId": 44914746377,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:26:41Z",
-      "databaseId": 44913958101,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T14:26:32Z",
-      "databaseId": 44913947594,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T14:25:28Z",
-      "databaseId": 44913858069,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:24:01Z",
-      "databaseId": 44913729666,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:22:33Z",
-      "databaseId": 44913605077,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:21:49Z",
-      "databaseId": 44913540320,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -393120,6 +393120,16 @@
         "episode_id": 187574,
         "display_name": "Požárník Sam S06E02 - Užitečný výcvik CZ Dabing",
         "video_id": 31230293
+      },
+      {
+        "episode_id": 187567,
+        "display_name": "Požárník Sam S06E01 - Dobrý vítr CZ Dabing",
+        "video_id": 31230577
+      },
+      {
+        "episode_id": 187663,
+        "display_name": "Požárník Sam S10E23 - Den tučňáka CZ Dabing",
+        "video_id": 31230603
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -785957,6 +785967,16 @@
         "episode_id": 187574,
         "display_name": "Požárník Sam S06E02 - Užitečný výcvik CZ Dabing",
         "video_id": 31230293
+      },
+      {
+        "episode_id": 187567,
+        "display_name": "Požárník Sam S06E01 - Dobrý vítr CZ Dabing",
+        "video_id": 31230577
+      },
+      {
+        "episode_id": 187663,
+        "display_name": "Požárník Sam S10E23 - Den tučňáka CZ Dabing",
+        "video_id": 31230603
       }
     ],
     "prepared_not_upload_ready": [
@@ -787118,6 +787138,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
+    "disabled": 8,
     "ok": 12,
     "resolve_failed": 31
   },
