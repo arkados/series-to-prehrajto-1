@@ -924903,6 +924903,32 @@
         "download_sec": 84.4,
         "upload_sec": 25.2
       }
+    },
+    {
+      "episode_id": 187664,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 24,
+      "episode_code": "S10E24",
+      "display_name": "Požárník Sam S10E24 - Slavnost v parku CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -1330540595799396,
+      "external_id": "5c75f6b6cea20",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e24-cz-dabing-pro-deti/5c75f6b6cea20",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31230459,
+      "size_bytes": 346750201,
+      "uploaded_at": "2026-11-21T14:39:12Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 637.3,
+        "upload_sec": 38.0
+      }
     }
   ],
   "pending_uploads": [
@@ -1344148,5 +1344174,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T14:23:44Z"
+  "last_updated": "2026-11-21T14:39:12Z"
 }
