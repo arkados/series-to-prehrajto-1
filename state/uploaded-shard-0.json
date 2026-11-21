@@ -1344087,7 +1344087,24 @@
         "download_sec": 13.2,
         "upload_sec": 22.1
       }
+    },
+    {
+      "episode_id": 79260,
+      "series_id": 1852,
+      "display_name": "Army Wives S02E13 - 13. epizoda CZ Titulky",
+      "source_id": -34669064284639049,
+      "external_id": "58ff41f523009",
+      "url": "https://prehraj.to/army-wives-s02e13/58ff41f523009",
+      "reason": "upload_failed: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "permanent": false,
+      "download_policy_version": 1,
+      "failed_at": "2026-11-21T13:51:51Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 39.9,
+        "upload_sec": 0.0
+      }
     }
   ],
-  "last_updated": "2026-11-21T13:51:18Z"
+  "last_updated": "2026-11-21T13:51:51Z"
 }
