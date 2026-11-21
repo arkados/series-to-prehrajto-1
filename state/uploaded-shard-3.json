@@ -921340,6 +921340,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71959,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 17,
+      "display_name": "Highlander S05E17 - 17. epizoda CZ Titulky",
+      "intent_id": "30874416f1fe461e9ea7b2004978d314",
+      "started_at": "2026-11-21T01:42:15Z",
+      "upload_account": "serialy",
+      "source_id": -61465528344674305,
+      "source_url": "https://prehraj.to/highlander-s05e17-cz-tit/58c1302fcabf4",
+      "size_bytes": 363116672,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339364,5 +1339380,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:36:37Z"
+  "last_updated": "2026-11-21T01:42:15Z"
 }
