@@ -922136,6 +922136,22 @@
       "size_bytes": 336950854,
       "source_container": "avi",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 22375,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 20,
+      "display_name": "Alfred Hitchcock uvádí S05E20 - 20. epizoda CZ Titulky",
+      "intent_id": "c013d3856b724789943f3ef74717377c",
+      "started_at": "2026-11-21T06:25:20Z",
+      "upload_account": "serialy",
+      "source_id": -29393881747906063,
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e20/594988fa14ae1",
+      "size_bytes": 332157450,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340160,5 +1340176,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:14:41Z"
+  "last_updated": "2026-11-21T06:25:20Z"
 }
