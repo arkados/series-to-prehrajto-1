@@ -920104,6 +920104,32 @@
         "download_sec": 21.6,
         "upload_sec": 30.6
       }
+    },
+    {
+      "episode_id": 202770,
+      "series_id": 10372,
+      "series_title": "Julia",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Julia S01E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -57271602986649106,
+      "external_id": "416977526669dacb",
+      "source_url": "https://prehraj.to/julia-s1e6-bread-vs/416977526669dacb",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31216789,
+      "size_bytes": 453760367,
+      "uploaded_at": "2026-11-21T01:02:53Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 25.7,
+        "upload_sec": 42.6
+      }
     }
   ],
   "pending_uploads": [
@@ -921210,6 +921236,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 187650,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 9,
+      "display_name": "Požárník Sam S10E09 - Panika na večírku CZ Dabing",
+      "intent_id": "16a4f8d6aa0e46b6ab82e585314cd4e6",
+      "started_at": "2026-11-21T01:12:02Z",
+      "upload_account": "serialy",
+      "source_id": -28549394374460407,
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e09-cz-dabing-pro-deti/5c75f12c260b6",
+      "size_bytes": 338714273,
+      "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 123811,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Flashpoint S01E03 - 3. epizoda CZ Dabing",
+      "intent_id": "ccd10b5395ee4ed181ec5bfe8b6f132a",
+      "started_at": "2026-11-21T01:12:05Z",
+      "upload_account": "serialy",
+      "source_id": -19989317197222978,
+      "source_url": "https://prehraj.to/flashpoint-s01e03-3-epizoda-sd-cz-dabing-avi/bea756b0694ded81",
+      "size_bytes": 362196704,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339234,5 +1339292,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T00:41:05Z"
+  "last_updated": "2026-11-21T01:12:05Z"
 }
