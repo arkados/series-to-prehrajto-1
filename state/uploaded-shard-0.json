@@ -923941,6 +923941,32 @@
         "download_sec": 38.5,
         "upload_sec": 56.6
       }
+    },
+    {
+      "episode_id": 187653,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 12,
+      "episode_code": "S10E12",
+      "display_name": "Požárník Sam S10E12 - Ztraceni v jeskyních CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -57363791715705825,
+      "external_id": "5c75f26c85404",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e12-cz-dabing-pro-deti/5c75f26c85404",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223868,
+      "size_bytes": 345073501,
+      "uploaded_at": "2026-11-21T08:39:37Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.5,
+        "upload_sec": 42.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1343137,5 +1343163,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:28:14Z"
+  "last_updated": "2026-11-21T08:42:11Z"
 }
