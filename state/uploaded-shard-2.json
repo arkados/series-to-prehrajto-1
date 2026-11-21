@@ -921820,6 +921820,58 @@
         "download_sec": 45.2,
         "upload_sec": 31.4
       }
+    },
+    {
+      "episode_id": 107811,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Rodinka na kousky S01E12 - 12. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -38805041763001932,
+      "external_id": "68f85d8627d99",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e12-22-2015-cz-dab-400p-bite-flight-wing-man-b/68f85d8627d99",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31225989,
+      "size_bytes": 329957344,
+      "uploaded_at": "2026-11-21T10:25:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 27.2,
+        "upload_sec": 27.0
+      }
+    },
+    {
+      "episode_id": 187659,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 18,
+      "episode_code": "S10E18",
+      "display_name": "Požárník Sam S10E18 - Ztracen v mlze CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -46301582099035883,
+      "external_id": "5c75f46b842df",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e18-cz-dabing-pro-deti/5c75f46b842df",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31226026,
+      "size_bytes": 341541133,
+      "uploaded_at": "2026-11-21T10:27:34Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 28.5,
+        "upload_sec": 37.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1341016,5 +1341068,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T10:23:26Z"
+  "last_updated": "2026-11-21T10:27:34Z"
 }
