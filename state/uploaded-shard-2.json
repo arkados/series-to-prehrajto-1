@@ -922418,6 +922418,32 @@
         "download_sec": 28.3,
         "upload_sec": 93.4
       }
+    },
+    {
+      "episode_id": 187574,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 2,
+      "episode_code": "S06E02",
+      "display_name": "Požárník Sam S06E02 - Užitečný výcvik CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -53858567581943667,
+      "external_id": "5c742c6ae941b",
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e02-cz-dabing-pro-deti/5c742c6ae941b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31230293,
+      "size_bytes": 341809043,
+      "uploaded_at": "2026-11-21T14:28:58Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 25.0,
+        "upload_sec": 35.0
+      }
     }
   ],
   "pending_uploads": [
@@ -923554,22 +923580,6 @@
       "source_id": -67537932636281230,
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187574,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 6,
-      "episode": 2,
-      "display_name": "Požárník Sam S06E02 - Užitečný výcvik CZ Dabing",
-      "intent_id": "a1063ca8a4524897ad0efc810bef216b",
-      "started_at": "2026-11-21T14:27:39Z",
-      "upload_account": "serialy",
-      "source_id": -53858567581943667,
-      "source_url": "https://prehraj.to/pozarnik-sam-s06e02-cz-dabing-pro-deti/5c742c6ae941b",
-      "size_bytes": 341809043,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1341647,5 +1341657,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T14:27:39Z"
+  "last_updated": "2026-11-21T14:28:58Z"
 }
