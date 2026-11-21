@@ -922797,6 +922797,32 @@
         "download_sec": 12.4,
         "upload_sec": 34.5
       }
+    },
+    {
+      "episode_id": 71960,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 19,
+      "episode_code": "S05E19",
+      "display_name": "Highlander S05E19 - 19. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -32616328110477427,
+      "external_id": "59787be3c7a75",
+      "source_url": "https://prehraj.to/highlander-s05e19-cz-tit/59787be3c7a75",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219366,
+      "size_bytes": 363354957,
+      "uploaded_at": "2026-11-21T03:48:13Z",
+      "timing": {
+        "resolve_sec": 2.7,
+        "download_sec": 20.5,
+        "upload_sec": 31.1
+      }
     }
   ],
   "pending_uploads": [
@@ -923918,22 +923944,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 71960,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 5,
-      "episode": 19,
-      "display_name": "Highlander S05E19 - 19. epizoda CZ Titulky",
-      "intent_id": "4bf99933e3ce4d7899e16fb9cb67ffce",
-      "started_at": "2026-11-21T03:47:01Z",
-      "upload_account": "primary",
-      "source_id": -32616328110477427,
-      "source_url": "https://prehraj.to/highlander-s05e19-cz-tit/59787be3c7a75",
-      "size_bytes": 363354957,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1341959,5 +1341969,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:47:01Z"
+  "last_updated": "2026-11-21T03:48:13Z"
 }
