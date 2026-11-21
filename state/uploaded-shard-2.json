@@ -922522,6 +922522,32 @@
         "download_sec": 675.6,
         "upload_sec": 42.1
       }
+    },
+    {
+      "episode_id": 204102,
+      "series_id": 302,
+      "series_title": "Marshals: Příběh z Yellowstonu",
+      "season": 2,
+      "episode": 6,
+      "episode_code": "S02E06",
+      "display_name": "Marshals: Příběh z Yellowstonu S02E06 - 6. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -13237105336980822,
+      "external_id": "3a062175ad7d3858",
+      "source_url": "https://prehraj.to/marshals-pribeh-z-yellowstonu-s02e06-cz-dabing-eac3-5-1-h265-hevc-2160p-4k-uhd/3a062175ad7d3858",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31231134,
+      "size_bytes": 610072752,
+      "uploaded_at": "2026-11-21T15:21:14Z",
+      "timing": {
+        "resolve_sec": 1.6,
+        "download_sec": 731.2,
+        "upload_sec": 117.0
+      }
     }
   ],
   "pending_uploads": [
@@ -923660,22 +923686,6 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 204102,
-      "series_id": 302,
-      "series_title": "Marshals: Příběh z Yellowstonu",
-      "season": 2,
-      "episode": 6,
-      "display_name": "Marshals: Příběh z Yellowstonu S02E06 - 6. epizoda CZ Dabing",
-      "intent_id": "ee99c5de565641ab915b31c0f13353aa",
-      "started_at": "2026-11-21T15:18:37Z",
-      "upload_account": "serialy",
-      "source_id": -13237105336980822,
-      "source_url": "https://prehraj.to/marshals-pribeh-z-yellowstonu-s02e06-cz-dabing-eac3-5-1-h265-hevc-2160p-4k-uhd/3a062175ad7d3858",
-      "size_bytes": 610072752,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341751,5 +1341761,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T15:18:37Z"
+  "last_updated": "2026-11-21T15:21:14Z"
 }
