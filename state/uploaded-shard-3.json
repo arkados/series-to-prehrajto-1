@@ -922366,6 +922366,32 @@
         "download_sec": 26.1,
         "upload_sec": 52.6
       }
+    },
+    {
+      "episode_id": 68570,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Život beze slov S02E02 - Prví druhý první den CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -68332904162215680,
+      "external_id": "5e592675204c0",
+      "source_url": "https://prehraj.to/zivot-beze-slov-02x02-dvb-t-cz/5e592675204c0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31229632,
+      "size_bytes": 337106676,
+      "uploaded_at": "2026-11-21T13:47:31Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 12.9,
+        "upload_sec": 29.3
+      }
     }
   ],
   "pending_uploads": [
@@ -923503,22 +923529,6 @@
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 68570,
-      "series_id": 1589,
-      "series_title": "Život beze slov",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Život beze slov S02E02 - Prví druhý první den CZ Dabing",
-      "intent_id": "c67dacf3cd724928a7b094b6ea55df1a",
-      "started_at": "2026-11-21T13:45:40Z",
-      "upload_account": "serialy",
-      "source_id": -68332904162215680,
-      "source_url": "https://prehraj.to/zivot-beze-slov-02x02-dvb-t-cz/5e592675204c0",
-      "size_bytes": 337106676,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1341578,5 +1341588,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T13:47:13Z"
+  "last_updated": "2026-11-21T13:47:31Z"
 }
