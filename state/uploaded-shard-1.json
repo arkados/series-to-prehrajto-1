@@ -924383,6 +924383,32 @@
         "download_sec": 98.5,
         "upload_sec": 25.9
       }
+    },
+    {
+      "episode_id": 50252,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 17,
+      "episode_code": "S02E17",
+      "display_name": "The Neighbors S02E17 - 17. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -9660450924101832,
+      "external_id": "7c30f292db3baa2e",
+      "source_url": "https://prehraj.to/the-neighbors-s2e17-balle-balle-en/7c30f292db3baa2e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31226866,
+      "size_bytes": 359702827,
+      "uploaded_at": "2026-11-21T11:11:21Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.0,
+        "upload_sec": 36.2
+      }
     }
   ],
   "pending_uploads": [
@@ -925519,6 +925545,22 @@
       "source_id": -1236031785044719,
       "source_url": "https://prehraj.to/rodinka-na-kousky-s01e01-22-2015-cz-dab-400p-pilot/68f85cc2cd87c",
       "size_bytes": 331581538,
+      "source_container": "avi",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 107793,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 3,
+      "display_name": "Rodinka na kousky S01E03 - 3. epizoda CZ Dabing",
+      "intent_id": "18b4f171ad124235a531966e7ae24947",
+      "started_at": "2026-11-21T11:21:39Z",
+      "upload_account": "primary",
+      "source_id": -68614655454257531,
+      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e03-22-2015-cz-dab-400p-ospaly-email-brunch-tr/67a6e62fcbd21",
+      "size_bytes": 330472332,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1343579,5 +1343621,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T11:06:15Z"
+  "last_updated": "2026-11-21T11:21:39Z"
 }
