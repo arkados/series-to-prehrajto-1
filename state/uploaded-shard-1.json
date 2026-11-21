@@ -922823,6 +922823,32 @@
         "download_sec": 20.5,
         "upload_sec": 31.1
       }
+    },
+    {
+      "episode_id": 71896,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 6,
+      "episode": 1,
+      "episode_code": "S06E01",
+      "display_name": "Highlander S06E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -40221407551492022,
+      "external_id": "59787bfcd5cf0",
+      "source_url": "https://prehraj.to/highlander-s06e01-cz-tit/59787bfcd5cf0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219526,
+      "size_bytes": 363642942,
+      "uploaded_at": "2026-11-21T03:58:56Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 31.1,
+        "upload_sec": 34.5
+      }
     }
   ],
   "pending_uploads": [
@@ -923945,6 +923971,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 68541,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Život beze slov S01E10 - Duch Vánoc CZ Dabing",
+      "intent_id": "678b2d1cf9bf4bc7a6578dac6ac773b5",
+      "started_at": "2026-11-21T04:01:41Z",
+      "upload_account": "primary",
+      "source_id": -20945087062932917,
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e10-c-h-o-choir-cs/4c94323fb9a2c78c",
+      "size_bytes": 315210204,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341969,5 +1342011,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:48:13Z"
+  "last_updated": "2026-11-21T04:01:41Z"
 }
