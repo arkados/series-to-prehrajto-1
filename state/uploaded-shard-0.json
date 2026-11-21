@@ -923707,6 +923707,32 @@
         "download_sec": 18.8,
         "upload_sec": 41.5
       }
+    },
+    {
+      "episode_id": 79257,
+      "series_id": 1852,
+      "series_title": "Army Wives",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Army Wives S02E10 - 10. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -46924351474888224,
+      "external_id": "58ff41be83253",
+      "source_url": "https://prehraj.to/army-wives-s02e10/58ff41be83253",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223060,
+      "size_bytes": 364791808,
+      "uploaded_at": "2026-11-21T07:43:00Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 29.0,
+        "upload_sec": 31.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1342867,7 +1342893,24 @@
         "download_sec": 584.9,
         "upload_sec": 82.6
       }
+    },
+    {
+      "episode_id": 107808,
+      "series_id": 2690,
+      "display_name": "Rodinka na kousky S01E01 - 1. epizoda CZ Dabing",
+      "source_id": -1236031785044719,
+      "external_id": "68f85cc2cd87c",
+      "url": "https://prehraj.to/rodinka-na-kousky-s01e01-22-2015-cz-dab-400p-pilot/68f85cc2cd87c",
+      "reason": "upload_failed: HTTPError: 502 Server Error: Bad Gateway for url: <upload-url>",
+      "permanent": false,
+      "download_policy_version": 1,
+      "failed_at": "2026-11-21T07:42:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.0,
+        "upload_sec": 19.0
+      }
     }
   ],
-  "last_updated": "2026-11-21T07:41:16Z"
+  "last_updated": "2026-11-21T07:43:00Z"
 }
