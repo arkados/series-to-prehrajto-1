@@ -924201,6 +924201,32 @@
         "download_sec": 24.9,
         "upload_sec": 38.1
       }
+    },
+    {
+      "episode_id": 122437,
+      "series_id": 3264,
+      "series_title": "Anno 1790",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Anno 1790 S01E06 - 6. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -50346486969713112,
+      "external_id": "60ec66a360a02",
+      "source_url": "https://prehraj.to/anno-1790-s01e06-czdab/60ec66a360a02",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31225872,
+      "size_bytes": 432428108,
+      "uploaded_at": "2026-11-21T10:19:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.7,
+        "upload_sec": 33.5
+      }
     }
   ],
   "pending_uploads": [
@@ -925339,22 +925365,6 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 122437,
-      "series_id": 3264,
-      "series_title": "Anno 1790",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Anno 1790 S01E06 - 6. epizoda CZ Dabing",
-      "intent_id": "a885aa40449b49c8964a427e4c6b23bc",
-      "started_at": "2026-11-21T10:17:45Z",
-      "upload_account": "primary",
-      "source_id": -50346486969713112,
-      "source_url": "https://prehraj.to/anno-1790-s01e06-czdab/60ec66a360a02",
-      "size_bytes": 432428108,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343413,5 +1343423,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T10:17:45Z"
+  "last_updated": "2026-11-21T10:19:19Z"
 }
