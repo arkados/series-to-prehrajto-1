@@ -1,30 +1,62 @@
 {
   "counts": {
     "backlog_episodes": 108119,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83558,
-    "prepared_source_episodes": 67750,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83559,
+    "prepared_source_episodes": 67748,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 58,
-    "language_whisper_attempted_sources": 49,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53409,
     "whisper_review_pending_sources": 36076,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52569,
     "subtitle_followup_pending_sources": 52569
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T01:21:05Z",
+      "databaseId": 44849656151,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T01:20:06Z",
+      "databaseId": 44849550673,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T01:19:18Z",
+      "databaseId": 44849471450,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-21T01:19:15Z",
+      "databaseId": 44849465525,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:17:46Z",
       "databaseId": 44849315271,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -100,11 +132,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:12:21Z",
       "databaseId": 44848745718,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -116,11 +148,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:10:44Z",
       "databaseId": 44848573633,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:01:07Z",
-      "databaseId": 44847567426,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:01:04Z",
-      "databaseId": 44847561766,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:01:02Z",
-      "databaseId": 44847556521,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:00:58Z",
-      "databaseId": 44847549990,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
     }
   ],
   "gaps": {
@@ -205245,6 +205245,11 @@
         "episode_id": 187649,
         "display_name": "Požárník Sam S10E08 - Liška na útěku CZ Dabing",
         "video_id": 31216957
+      },
+      {
+        "episode_id": 193869,
+        "display_name": "Bing S01E60 - Holinky CZ Dabing",
+        "video_id": 31217018
       },
       {
         "episode_id": 114182,
@@ -597154,6 +597159,11 @@
         "video_id": 31216957
       },
       {
+        "episode_id": 193869,
+        "display_name": "Bing S01E60 - Holinky CZ Dabing",
+        "video_id": 31217018
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -785258,10 +785268,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 9,
-    "ok": 46,
-    "stream_undersized": 1,
-    "sample_failed": 1,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
