@@ -922314,6 +922314,32 @@
         "download_sec": 126.1,
         "upload_sec": 36.2
       }
+    },
+    {
+      "episode_id": 107795,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 5,
+      "episode_code": "S01E05",
+      "display_name": "Rodinka na kousky S01E05 - 5. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -32737151828421603,
+      "external_id": "589fc2022299a",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-01x05-dvb-t-cz/589fc2022299a",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31229090,
+      "size_bytes": 327691080,
+      "uploaded_at": "2026-11-21T13:18:15Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 415.3,
+        "upload_sec": 40.5
+      }
     }
   ],
   "pending_uploads": [
@@ -923451,22 +923477,6 @@
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 107795,
-      "series_id": 2690,
-      "series_title": "Rodinka na kousky",
-      "season": 1,
-      "episode": 5,
-      "display_name": "Rodinka na kousky S01E05 - 5. epizoda CZ Dabing",
-      "intent_id": "2299cff2bf8f40309f366b21906468e4",
-      "started_at": "2026-11-21T13:16:58Z",
-      "upload_account": "serialy",
-      "source_id": -32737151828421603,
-      "source_url": "https://prehraj.to/rodinka-na-kousky-01x05-dvb-t-cz/589fc2022299a",
-      "size_bytes": 327691080,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1341526,5 +1341536,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T13:16:58Z"
+  "last_updated": "2026-11-21T13:18:15Z"
 }
