@@ -924871,6 +924871,22 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 107792,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Rodinka na kousky S01E02 - 2. epizoda CZ Dabing",
+      "intent_id": "c7ab6773bb36471482c9744a9f347f19",
+      "started_at": "2026-11-21T07:48:31Z",
+      "upload_account": "primary",
+      "source_id": -70600792998017504,
+      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e02-22-2015-cz-dab-400p-interruptus-date-prsa/67a6e4763fdbd",
+      "size_bytes": 336054560,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1342910,7 +1342926,24 @@
         "download_sec": 18.0,
         "upload_sec": 19.0
       }
+    },
+    {
+      "episode_id": 78575,
+      "series_id": 1835,
+      "display_name": "Neranditelní S03E07 - 7. epizoda CZ Titulky",
+      "source_id": -67537932636281230,
+      "external_id": "36ba31ca3852a932",
+      "url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
+      "reason": "upload_failed: HTTPError: 502 Server Error: Bad Gateway for url: <upload-url>",
+      "permanent": false,
+      "download_policy_version": 1,
+      "failed_at": "2026-11-21T07:45:45Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.2,
+        "upload_sec": 22.1
+      }
     }
   ],
-  "last_updated": "2026-11-21T07:43:00Z"
+  "last_updated": "2026-11-21T07:48:31Z"
 }
