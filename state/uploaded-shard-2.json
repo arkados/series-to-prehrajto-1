@@ -920260,6 +920260,32 @@
         "download_sec": 16.3,
         "upload_sec": 25.4
       }
+    },
+    {
+      "episode_id": 71958,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 6,
+      "episode": 2,
+      "episode_code": "S06E02",
+      "display_name": "Highlander S06E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -61439419989841338,
+      "external_id": "58c1302fc68db",
+      "source_url": "https://prehraj.to/highlander-s06e02-cz-tit/58c1302fc68db",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217688,
+      "size_bytes": 363593153,
+      "uploaded_at": "2026-11-21T01:58:27Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 27.8,
+        "upload_sec": 29.1
+      }
     }
   ],
   "pending_uploads": [
@@ -921366,22 +921392,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71958,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 6,
-      "episode": 2,
-      "display_name": "Highlander S06E02 - 2. epizoda CZ Titulky",
-      "intent_id": "5f3eaaa164a34319b477901a5392191a",
-      "started_at": "2026-11-21T01:57:20Z",
-      "upload_account": "serialy",
-      "source_id": -61439419989841338,
-      "source_url": "https://prehraj.to/highlander-s06e02-cz-tit/58c1302fc68db",
-      "size_bytes": 363593153,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339406,5 +1339416,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:57:20Z"
+  "last_updated": "2026-11-21T01:58:27Z"
 }
