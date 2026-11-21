@@ -923945,6 +923945,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71896,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 6,
+      "episode": 1,
+      "display_name": "Highlander S06E01 - 1. epizoda CZ Titulky",
+      "intent_id": "93107756fa6f4a55bd69a0ee9c252f18",
+      "started_at": "2026-11-21T03:57:08Z",
+      "upload_account": "primary",
+      "source_id": -40221407551492022,
+      "source_url": "https://prehraj.to/highlander-s06e01-cz-tit/59787bfcd5cf0",
+      "size_bytes": 363642942,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1341969,5 +1341985,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:48:13Z"
+  "last_updated": "2026-11-21T03:57:08Z"
 }
