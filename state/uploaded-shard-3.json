@@ -921288,6 +921288,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 123771,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 2,
+      "episode": 1,
+      "display_name": "Flashpoint S02E01 - 1. epizoda CZ Dabing",
+      "intent_id": "f570f55b12b14309a1eae72fbe01b074",
+      "started_at": "2026-11-21T01:14:33Z",
+      "upload_account": "serialy",
+      "source_id": -42311601707927132,
+      "source_url": "https://prehraj.to/flashpoint-s02e01-1-epizoda-sd-cz-dabing-avi/c1c2ca43d895b47d",
+      "size_bytes": 366905094,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339312,5 +1339328,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:13:46Z"
+  "last_updated": "2026-11-21T01:14:33Z"
 }
