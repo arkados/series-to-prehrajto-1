@@ -922444,6 +922444,58 @@
         "download_sec": 25.0,
         "upload_sec": 35.0
       }
+    },
+    {
+      "episode_id": 187567,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 6,
+      "episode": 1,
+      "episode_code": "S06E01",
+      "display_name": "Požárník Sam S06E01 - Dobrý vítr CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -4942617296266870,
+      "external_id": "5c742c67d9363",
+      "source_url": "https://prehraj.to/pozarnik-sam-s06e01-cz-dabing-pro-deti/5c742c67d9363",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31230577,
+      "size_bytes": 345058104,
+      "uploaded_at": "2026-11-21T14:46:38Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 227.5,
+        "upload_sec": 34.9
+      }
+    },
+    {
+      "episode_id": 187663,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 23,
+      "episode_code": "S10E23",
+      "display_name": "Požárník Sam S10E23 - Den tučňáka CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -25128062835556391,
+      "external_id": "5c75f66ed61d9",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e23-cz-dabing-pro-deti/5c75f66ed61d9",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31230603,
+      "size_bytes": 343842881,
+      "uploaded_at": "2026-11-21T14:48:19Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.7,
+        "upload_sec": 26.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1341657,5 +1341709,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T14:39:12Z"
+  "last_updated": "2026-11-21T14:48:19Z"
 }
