@@ -922199,6 +922199,58 @@
         "download_sec": 34.1,
         "upload_sec": 58.4
       }
+    },
+    {
+      "episode_id": 71952,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 8,
+      "episode_code": "S05E08",
+      "display_name": "Highlander S05E08 - 8. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -22230389732884984,
+      "external_id": "59787b515babe",
+      "source_url": "https://prehraj.to/highlander-s05e08-cz-tit/59787b515babe",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31216283,
+      "size_bytes": 363263852,
+      "uploaded_at": "2026-11-21T00:30:48Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.8,
+        "upload_sec": 32.0
+      }
+    },
+    {
+      "episode_id": 179329,
+      "series_id": 8851,
+      "series_title": "Útok na Londýn: Hon na atentátníky ze 7. července",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Útok na Londýn: Hon na atentátníky ze 7. července S01E02 - 2. díl CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -20018544035837429,
+      "external_id": "fd7f4654b0cc18eb",
+      "source_url": "https://prehraj.to/utok-na-londyn-hon-na-atentatniky-ze-7-cervence-s01e02-2-dil-1080p-cz-dabing-mkv/fd7f4654b0cc18eb",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31216286,
+      "size_bytes": 1143732453,
+      "uploaded_at": "2026-11-21T00:31:44Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 42.5,
+        "upload_sec": 60.0
+      }
     }
   ],
   "pending_uploads": [
@@ -923321,38 +923373,6 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 71952,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 5,
-      "episode": 8,
-      "display_name": "Highlander S05E08 - 8. epizoda CZ Titulky",
-      "intent_id": "aa1ccef7424f4143b6e0806f328b0e58",
-      "started_at": "2026-11-21T00:29:48Z",
-      "upload_account": "primary",
-      "source_id": -22230389732884984,
-      "source_url": "https://prehraj.to/highlander-s05e08-cz-tit/59787b515babe",
-      "size_bytes": 363263852,
-      "source_container": "mkv",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 179329,
-      "series_id": 8851,
-      "series_title": "Útok na Londýn: Hon na atentátníky ze 7. července",
-      "season": 1,
-      "episode": 2,
-      "display_name": "Útok na Londýn: Hon na atentátníky ze 7. července S01E02 - 2. díl CZ Dabing",
-      "intent_id": "2556ad460b7749ce99359f0a4a7d5216",
-      "started_at": "2026-11-21T00:30:11Z",
-      "upload_account": "primary",
-      "source_id": -20018544035837429,
-      "source_url": "https://prehraj.to/utok-na-londyn-hon-na-atentatniky-ze-7-cervence-s01e02-2-dil-1080p-cz-dabing-mkv/fd7f4654b0cc18eb",
-      "size_bytes": 1143732453,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341377,5 +1341397,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T00:30:11Z"
+  "last_updated": "2026-11-21T00:31:44Z"
 }
