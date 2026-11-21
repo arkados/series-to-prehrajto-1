@@ -920754,6 +920754,32 @@
         "download_sec": 18.3,
         "upload_sec": 31.5
       }
+    },
+    {
+      "episode_id": 74275,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "About a Boy S01E02 - 2. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -18438181938528258,
+      "external_id": "09e9b802f9b5f18d",
+      "source_url": "https://prehraj.to/about-a-boy-s01e02-about-total-exuberance-1080p-cz/09e9b802f9b5f18d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220723,
+      "size_bytes": 717956703,
+      "uploaded_at": "2026-11-21T05:15:50Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 25.9,
+        "upload_sec": 80.8
+      }
     }
   ],
   "pending_uploads": [
@@ -921858,22 +921884,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 74275,
-      "series_id": 1738,
-      "series_title": "About a Boy",
-      "season": 1,
-      "episode": 2,
-      "display_name": "About a Boy S01E02 - 2. epizoda CZ Dabing",
-      "intent_id": "ad30fadb665b4f93bc6e8c651bf32842",
-      "started_at": "2026-11-21T05:13:29Z",
-      "upload_account": "serialy",
-      "source_id": -18438181938528258,
-      "source_url": "https://prehraj.to/about-a-boy-s01e02-about-total-exuberance-1080p-cz/09e9b802f9b5f18d",
-      "size_bytes": 717956703,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1339900,5 +1339910,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:13:29Z"
+  "last_updated": "2026-11-21T05:15:50Z"
 }
