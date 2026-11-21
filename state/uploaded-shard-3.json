@@ -923478,6 +923478,22 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 74303,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 2,
+      "episode": 2,
+      "display_name": "About a Boy S02E02 - 2. epizoda CZ Titulky",
+      "intent_id": "caa0e08524934547b20ec38fd5fab458",
+      "started_at": "2026-11-21T13:45:50Z",
+      "upload_account": "serialy",
+      "source_id": -20993732941436861,
+      "source_url": "https://prehraj.to/about-a-boy-s02e02-about-a-house-for-sale-1080p-web-dl-aac-5-1-x265-10bit-hevc-monolith-mkv/a3e452d9ff867267",
+      "size_bytes": 602752208,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341536,5 +1341552,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T13:18:15Z"
+  "last_updated": "2026-11-21T13:45:50Z"
 }
