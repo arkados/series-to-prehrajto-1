@@ -922589,6 +922589,32 @@
         "download_sec": 158.3,
         "upload_sec": 146.2
       }
+    },
+    {
+      "episode_id": 74305,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "About a Boy S01E01 - 1. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -68288375765662441,
+      "external_id": "a605992264c0334c",
+      "source_url": "https://prehraj.to/about-a-boy-s01e01-pilot-1080p-cz/a605992264c0334c",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31218684,
+      "size_bytes": 703455222,
+      "uploaded_at": "2026-11-21T03:03:16Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 24.2,
+        "upload_sec": 36.7
+      }
     }
   ],
   "pending_uploads": [
@@ -1341735,5 +1341761,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T02:53:44Z"
+  "last_updated": "2026-11-21T03:03:16Z"
 }
