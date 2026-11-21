@@ -922210,6 +922210,32 @@
         "download_sec": 15.5,
         "upload_sec": 53.6
       }
+    },
+    {
+      "episode_id": 107798,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Rodinka na kousky S01E08 - 8. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -58593172924127668,
+      "external_id": "589fc289294df",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-01x08-dvb-t-cz/589fc289294df",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228456,
+      "size_bytes": 329570078,
+      "uploaded_at": "2026-11-21T12:41:10Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 59.9,
+        "upload_sec": 57.6
+      }
     }
   ],
   "pending_uploads": [
@@ -923347,22 +923373,6 @@
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 107798,
-      "series_id": 2690,
-      "series_title": "Rodinka na kousky",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Rodinka na kousky S01E08 - 8. epizoda CZ Dabing",
-      "intent_id": "917ed914ea6442f5a28975fbe7e1cab3",
-      "started_at": "2026-11-21T12:39:16Z",
-      "upload_account": "serialy",
-      "source_id": -58593172924127668,
-      "source_url": "https://prehraj.to/rodinka-na-kousky-01x08-dvb-t-cz/589fc289294df",
-      "size_bytes": 329570078,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1341422,5 +1341432,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:39:55Z"
+  "last_updated": "2026-11-21T12:41:10Z"
 }
