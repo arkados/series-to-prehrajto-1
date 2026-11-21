@@ -1,18 +1,19 @@
 {
-  "count": 5,
-  "new_count": 5,
+  "count": 4,
+  "new_count": 4,
   "retained_count": 0,
   "stats": {
-    "not_upload_ready": 44757,
+    "not_upload_ready": 44759,
     "github_availability_failed": 0,
     "selected_source_burned": 20135,
     "selected_source_undersize": 1819,
     "selected_source_no_size_info": 826,
-    "already_uploaded_episode_id": 160,
-    "missing_source_plan": 40254,
-    "ready": 5,
-    "description_fallback": 5,
-    "language_whisper": 5,
+    "already_uploaded_episode_id": 162,
+    "missing_source_plan": 40251,
+    "ready": 4,
+    "description_fallback": 4,
+    "language_whisper": 3,
+    "language_title": 1,
     "already_uploaded_episode_key": 1
   }
 }
