@@ -923837,6 +923837,32 @@
         "download_sec": 11.8,
         "upload_sec": 27.8
       }
+    },
+    {
+      "episode_id": 187652,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 11,
+      "episode_code": "S10E11",
+      "display_name": "Požárník Sam S10E11 - Ohnivý fotbal CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -639731199048410,
+      "external_id": "5c75f182c2973",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e11-cz-dabing-pro-deti/5c75f182c2973",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223409,
+      "size_bytes": 351296632,
+      "uploaded_at": "2026-11-21T08:04:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.5,
+        "upload_sec": 36.5
+      }
     }
   ],
   "pending_uploads": [
@@ -924974,22 +925000,6 @@
       "source_url": "https://prehraj.to/rodinka-na-kousky-s01e01-22-2015-cz-dab-400p-pilot/68f85cc2cd87c",
       "size_bytes": 331581538,
       "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187652,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 10,
-      "episode": 11,
-      "display_name": "Požárník Sam S10E11 - Ohnivý fotbal CZ Dabing",
-      "intent_id": "b7747e709c094139ac127512cd5b07b6",
-      "started_at": "2026-11-21T08:02:54Z",
-      "upload_account": "primary",
-      "source_id": -639731199048410,
-      "source_url": "https://prehraj.to/pozarnik-sam-s10e11-cz-dabing-pro-deti/5c75f182c2973",
-      "size_bytes": 351296632,
-      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1343049,5 +1343059,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:02:54Z"
+  "last_updated": "2026-11-21T08:04:27Z"
 }
