@@ -920702,6 +920702,58 @@
         "download_sec": 12.5,
         "upload_sec": 29.7
       }
+    },
+    {
+      "episode_id": 22366,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 11,
+      "episode_code": "S05E11",
+      "display_name": "Alfred Hitchcock uvádí S05E11 - 11. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -53266372470741626,
+      "external_id": "594988816c92b",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e11/594988816c92b",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220435,
+      "size_bytes": 332229517,
+      "uploaded_at": "2026-11-21T04:56:40Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.8,
+        "upload_sec": 33.4
+      }
+    },
+    {
+      "episode_id": 78562,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 2,
+      "episode": 1,
+      "episode_code": "S02E01",
+      "display_name": "Neranditelní S02E01 - 1. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -64808557615314544,
+      "external_id": "58bd716514e48",
+      "source_url": "https://prehraj.to/neranditelni-02x01-dvb-t-cz/58bd716514e48",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220475,
+      "size_bytes": 328440968,
+      "uploaded_at": "2026-11-21T04:58:54Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.3,
+        "upload_sec": 31.5
+      }
     }
   ],
   "pending_uploads": [
@@ -921810,20 +921862,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 22366,
-      "series_id": 105,
-      "series_title": "Alfred Hitchcock uvádí",
-      "season": 5,
-      "episode": 11,
-      "display_name": "Alfred Hitchcock uvádí S05E11 - 11. epizoda CZ Titulky",
-      "intent_id": "8bbecaf478474a008ee2a0f145fb1b4c",
-      "started_at": "2026-11-21T04:55:10Z",
+      "episode_id": 74275,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 2,
+      "display_name": "About a Boy S01E02 - 2. epizoda CZ Dabing",
+      "intent_id": "ad30fadb665b4f93bc6e8c651bf32842",
+      "started_at": "2026-11-21T05:13:29Z",
       "upload_account": "serialy",
-      "source_id": -53266372470741626,
-      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e11/594988816c92b",
-      "size_bytes": 332229517,
-      "source_container": "mkv",
-      "source_download_kind": "original"
+      "source_id": -18438181938528258,
+      "source_url": "https://prehraj.to/about-a-boy-s01e02-about-total-exuberance-1080p-cz/09e9b802f9b5f18d",
+      "size_bytes": 717956703,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339848,5 +1339900,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:56:12Z"
+  "last_updated": "2026-11-21T05:13:29Z"
 }
