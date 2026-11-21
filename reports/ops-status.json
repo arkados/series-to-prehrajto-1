@@ -1,15 +1,15 @@
 {
   "counts": {
     "backlog_episodes": 107957,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83725,
-    "prepared_source_episodes": 67697,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83726,
+    "prepared_source_episodes": 67699,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 48,
+    "language_audited_sources": 40,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53358,
@@ -21,10 +21,58 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T12:33:18Z",
+      "databaseId": 44904490509,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T12:33:13Z",
+      "databaseId": 44904483495,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T12:28:47Z",
+      "databaseId": 44904101462,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T12:26:50Z",
+      "databaseId": 44903938075,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T12:26:46Z",
+      "databaseId": 44903934318,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T12:26:19Z",
+      "databaseId": 44903902842,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T12:25:24Z",
       "databaseId": 44903819970,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -68,11 +116,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T12:19:42Z",
       "databaseId": 44903337769,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -92,11 +140,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T12:18:53Z",
       "databaseId": 44903271713,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -116,11 +164,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T12:12:08Z",
       "databaseId": 44902712091,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T12:10:36Z",
-      "databaseId": 44902590342,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T12:10:05Z",
-      "databaseId": 44902543871,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T12:09:09Z",
-      "databaseId": 44902468119,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T12:08:51Z",
-      "databaseId": 44902444400,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T12:08:44Z",
-      "databaseId": 44902435446,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T12:08:16Z",
-      "databaseId": 44902399075,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -393025,6 +393025,11 @@
         "episode_id": 50250,
         "display_name": "The Neighbors S02E19 - 19. epizoda CZ Titulky",
         "video_id": 31228177
+      },
+      {
+        "episode_id": 50246,
+        "display_name": "The Neighbors S02E20 - 20. epizoda CZ Titulky",
+        "video_id": 31228245
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -785767,6 +785772,11 @@
         "episode_id": 50250,
         "display_name": "The Neighbors S02E19 - 19. epizoda CZ Titulky",
         "video_id": 31228177
+      },
+      {
+        "episode_id": 50246,
+        "display_name": "The Neighbors S02E20 - 20. epizoda CZ Titulky",
+        "video_id": 31228245
       }
     ],
     "prepared_not_upload_ready": [
@@ -786928,7 +786938,6 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 8,
     "ok": 39,
     "resolve_failed": 1
   },
