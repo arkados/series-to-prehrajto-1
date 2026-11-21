@@ -924747,6 +924747,32 @@
         "download_sec": 24.4,
         "upload_sec": 27.4
       }
+    },
+    {
+      "episode_id": 167605,
+      "series_id": 6852,
+      "series_title": "Noblesse",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Noblesse S01E10 - 10. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -49918573627491053,
+      "external_id": "6005dd2870a73",
+      "source_url": "https://prehraj.to/noblesse-s01e10/6005dd2870a73",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228801,
+      "size_bytes": 361942108,
+      "uploaded_at": "2026-11-21T13:01:15Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.8,
+        "upload_sec": 36.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1343943,5 +1343969,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:56:19Z"
+  "last_updated": "2026-11-21T13:01:15Z"
 }
