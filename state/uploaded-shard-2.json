@@ -921612,6 +921612,32 @@
         "download_sec": 22.3,
         "upload_sec": 31.9
       }
+    },
+    {
+      "episode_id": 126530,
+      "series_id": 3483,
+      "series_title": "Továrna na panenky",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Továrna na panenky S01E06 - 6. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -40768328374525182,
+      "external_id": "661a52dca0440",
+      "source_url": "https://prehraj.to/tovarna-na-panenky-s01e06-cz-dabing-hd-1080p/661a52dca0440",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31224813,
+      "size_bytes": 789360687,
+      "uploaded_at": "2026-11-21T09:31:42Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 44.5,
+        "upload_sec": 60.6
+      }
     }
   ],
   "pending_uploads": [
@@ -922750,22 +922776,6 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 126530,
-      "series_id": 3483,
-      "series_title": "Továrna na panenky",
-      "season": 1,
-      "episode": 6,
-      "display_name": "Továrna na panenky S01E06 - 6. epizoda CZ Dabing",
-      "intent_id": "02425bcb3d6d477192969bd7c00b635e",
-      "started_at": "2026-11-21T09:29:51Z",
-      "upload_account": "serialy",
-      "source_id": -40768328374525182,
-      "source_url": "https://prehraj.to/tovarna-na-panenky-s01e06-cz-dabing-hd-1080p/661a52dca0440",
-      "size_bytes": 789360687,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340824,5 +1340834,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T09:29:51Z"
+  "last_updated": "2026-11-21T09:31:42Z"
 }
