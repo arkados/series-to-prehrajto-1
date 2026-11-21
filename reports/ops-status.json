@@ -1,24 +1,48 @@
 {
   "counts": {
     "backlog_episodes": 108119,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83566,
-    "prepared_source_episodes": 67773,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83568,
+    "prepared_source_episodes": 67776,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 40,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 41,
+    "language_whisper_attempted_sources": 41,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53405,
     "whisper_review_pending_sources": 36059,
-    "upload_pending_checkpoints": 139,
+    "upload_pending_checkpoints": 140,
     "subtitle_followup_sources": 52575,
     "subtitle_followup_pending_sources": 52575
   },
   "workflow_runs": [
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T02:01:52Z",
+      "databaseId": 44853573505,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T01:57:25Z",
+      "databaseId": 44853150865,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-21T01:57:22Z",
+      "databaseId": 44853146568,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
     {
       "conclusion": "",
       "createdAt": "2026-11-21T01:55:55Z",
@@ -32,15 +56,15 @@
       "createdAt": "2026-11-21T01:55:47Z",
       "databaseId": 44853006408,
       "headBranch": "main",
-      "status": "queued",
+      "status": "in_progress",
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:55:30Z",
       "databaseId": 44852980709,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -68,11 +92,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:53:39Z",
       "databaseId": 44852810041,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -132,11 +156,11 @@
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:45:09Z",
       "databaseId": 44852005481,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -154,30 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:42:17Z",
-      "databaseId": 44851734041,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:40:57Z",
-      "databaseId": 44851600283,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T01:38:26Z",
-      "databaseId": 44851353469,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -392230,6 +392230,16 @@
         "episode_id": 71959,
         "display_name": "Highlander S05E17 - 17. epizoda CZ Titulky",
         "video_id": 31217416
+      },
+      {
+        "episode_id": 71958,
+        "display_name": "Highlander S06E02 - 2. epizoda CZ Titulky",
+        "video_id": 31217688
+      },
+      {
+        "episode_id": 71962,
+        "display_name": "Highlander S06E03 - 3. epizoda CZ Titulky",
+        "video_id": 31217724
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -784177,6 +784187,16 @@
         "episode_id": 71959,
         "display_name": "Highlander S05E17 - 17. epizoda CZ Titulky",
         "video_id": 31217416
+      },
+      {
+        "episode_id": 71958,
+        "display_name": "Highlander S06E02 - 2. epizoda CZ Titulky",
+        "video_id": 31217688
+      },
+      {
+        "episode_id": 71962,
+        "display_name": "Highlander S06E03 - 3. epizoda CZ Titulky",
+        "video_id": 31217724
       }
     ],
     "prepared_not_upload_ready": [
@@ -785338,7 +785358,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 39,
+    "ok": 40,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
