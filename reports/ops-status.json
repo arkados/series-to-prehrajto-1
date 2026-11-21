@@ -1,46 +1,86 @@
 {
   "counts": {
     "backlog_episodes": 108081,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83598,
-    "prepared_source_episodes": 67744,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83600,
+    "prepared_source_episodes": 67750,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 44,
-    "language_whisper_attempted_sources": 44,
+    "language_audited_sources": 50,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53396,
     "whisper_review_pending_sources": 36024,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52594,
     "subtitle_followup_pending_sources": 52594
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T04:32:17Z",
+      "databaseId": 44866593236,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T04:31:31Z",
+      "databaseId": 44866528604,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T04:30:01Z",
+      "databaseId": 44866394927,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T04:26:32Z",
+      "databaseId": 44866123467,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-21T04:23:54Z",
+      "databaseId": 44865910661,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T04:21:53Z",
       "databaseId": 44865743287,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-21T04:21:50Z",
       "databaseId": 44865739208,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T04:21:48Z",
       "databaseId": 44865736033,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -52,11 +92,11 @@
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T04:21:29Z",
       "databaseId": 44865708310,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -68,27 +108,27 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T04:20:13Z",
       "databaseId": 44865600330,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T04:19:31Z",
       "databaseId": 44865540739,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-21T04:18:19Z",
       "databaseId": 44865440131,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -124,11 +164,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T04:13:53Z",
       "databaseId": 44865062119,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T04:13:25Z",
-      "databaseId": 44865020514,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T04:12:43Z",
-      "databaseId": 44864961385,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T04:12:18Z",
-      "databaseId": 44864930568,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T04:12:00Z",
-      "databaseId": 44864902337,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T04:11:57Z",
-      "databaseId": 44864897518,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
     }
   ],
   "gaps": {
@@ -205355,6 +205355,16 @@
         "episode_id": 71964,
         "display_name": "Highlander S06E07 - 7. epizoda CZ Titulky",
         "video_id": 31219705
+      },
+      {
+        "episode_id": 22365,
+        "display_name": "Alfred Hitchcock uvádí S05E10 - 10. epizoda CZ Titulky",
+        "video_id": 31219902
+      },
+      {
+        "episode_id": 71965,
+        "display_name": "Highlander S06E08 - 8. epizoda CZ Titulky",
+        "video_id": 31219937
       },
       {
         "episode_id": 114182,
@@ -597464,6 +597474,16 @@
         "video_id": 31219705
       },
       {
+        "episode_id": 22365,
+        "display_name": "Alfred Hitchcock uvádí S05E10 - 10. epizoda CZ Titulky",
+        "video_id": 31219902
+      },
+      {
+        "episode_id": 71965,
+        "display_name": "Highlander S06E08 - 8. epizoda CZ Titulky",
+        "video_id": 31219937
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -785658,7 +785678,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 43,
+    "disabled": 10,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
