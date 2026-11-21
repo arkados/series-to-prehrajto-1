@@ -923369,6 +923369,58 @@
         "download_sec": 27.4,
         "upload_sec": 49.3
       }
+    },
+    {
+      "episode_id": 78560,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Neranditelní S01E12 - 12. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -44380660901684737,
+      "external_id": "aa9415fc872fed93",
+      "source_url": "https://prehraj.to/neranditelni-s1e12-danny-s-boy-en/aa9415fc872fed93",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221830,
+      "size_bytes": 315556739,
+      "uploaded_at": "2026-11-21T06:29:01Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.8,
+        "upload_sec": 34.9
+      }
+    },
+    {
+      "episode_id": 68552,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 14,
+      "episode_code": "S01E14",
+      "display_name": "Život beze slov S01E14 - Valentýn CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -46088205733341348,
+      "external_id": "85dc0492749d2557",
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e14-v-a-l-valentine-s-d-a-day-cs/85dc0492749d2557",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221852,
+      "size_bytes": 320238229,
+      "uploaded_at": "2026-11-21T06:30:57Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 17.1,
+        "upload_sec": 42.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1342515,5 +1342567,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:27:30Z"
+  "last_updated": "2026-11-21T06:30:57Z"
 }
