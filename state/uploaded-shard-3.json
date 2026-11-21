@@ -922496,6 +922496,32 @@
         "download_sec": 12.7,
         "upload_sec": 26.8
       }
+    },
+    {
+      "episode_id": 81847,
+      "series_id": 1919,
+      "series_title": "Smash",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Smash S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -25702157842274349,
+      "external_id": "5bd70aaa08cd6",
+      "source_url": "https://prehraj.to/smash-s01e08/5bd70aaa08cd6",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31230837,
+      "size_bytes": 317767910,
+      "uploaded_at": "2026-11-21T15:03:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 675.6,
+        "upload_sec": 42.1
+      }
     }
   ],
   "pending_uploads": [
@@ -923632,22 +923658,6 @@
       "source_id": -67537932636281230,
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 81847,
-      "series_id": 1919,
-      "series_title": "Smash",
-      "season": 1,
-      "episode": 8,
-      "display_name": "Smash S01E08 - 8. epizoda CZ Titulky",
-      "intent_id": "5e68a1cd39ac499a926cb6c8745bf739",
-      "started_at": "2026-11-21T15:02:22Z",
-      "upload_account": "serialy",
-      "source_id": -25702157842274349,
-      "source_url": "https://prehraj.to/smash-s01e08/5bd70aaa08cd6",
-      "size_bytes": 317767910,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1341725,5 +1341735,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T15:02:22Z"
+  "last_updated": "2026-11-21T15:03:47Z"
 }
