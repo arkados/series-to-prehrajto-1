@@ -923785,6 +923785,58 @@
         "download_sec": 16.4,
         "upload_sec": 29.9
       }
+    },
+    {
+      "episode_id": 22389,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 34,
+      "episode_code": "S05E34",
+      "display_name": "Alfred Hitchcock uvádí S05E34 - 34. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -67315523468261072,
+      "external_id": "594a252c8f383",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e34/594a252c8f383",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223264,
+      "size_bytes": 332109991,
+      "uploaded_at": "2026-11-21T07:54:11Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.3,
+        "upload_sec": 32.9
+      }
+    },
+    {
+      "episode_id": 78577,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 3,
+      "episode": 9,
+      "episode_code": "S03E09",
+      "display_name": "Neranditelní S03E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -31107057288357463,
+      "external_id": "5aa12ba7e4fd5",
+      "source_url": "https://prehraj.to/neranditelni-s03e09-a-new-year-s-resolution-walks-into-a-bar/5aa12ba7e4fd5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223298,
+      "size_bytes": 316787687,
+      "uploaded_at": "2026-11-21T07:56:39Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 11.8,
+        "upload_sec": 27.8
+      }
     }
   ],
   "pending_uploads": [
@@ -924925,19 +924977,19 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 22389,
-      "series_id": 105,
-      "series_title": "Alfred Hitchcock uvádí",
-      "season": 5,
-      "episode": 34,
-      "display_name": "Alfred Hitchcock uvádí S05E34 - 34. epizoda CZ Titulky",
-      "intent_id": "acf2da9d608e4ee8af91b29a0ff07a4b",
-      "started_at": "2026-11-21T07:52:21Z",
+      "episode_id": 187652,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 11,
+      "display_name": "Požárník Sam S10E11 - Ohnivý fotbal CZ Dabing",
+      "intent_id": "b7747e709c094139ac127512cd5b07b6",
+      "started_at": "2026-11-21T08:02:54Z",
       "upload_account": "primary",
-      "source_id": -67315523468261072,
-      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e34/594a252c8f383",
-      "size_bytes": 332109991,
-      "source_container": "mkv",
+      "source_id": -639731199048410,
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e11-cz-dabing-pro-deti/5c75f182c2973",
+      "size_bytes": 351296632,
+      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1342997,5 +1343049,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:53:37Z"
+  "last_updated": "2026-11-21T08:02:54Z"
 }
