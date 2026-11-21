@@ -923603,6 +923603,32 @@
         "download_sec": 26.5,
         "upload_sec": 38.1
       }
+    },
+    {
+      "episode_id": 50244,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 13,
+      "episode_code": "S02E13",
+      "display_name": "The Neighbors S02E13 - 13. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -30294698903901007,
+      "external_id": "5aa9f4b9d8ae5",
+      "source_url": "https://prehraj.to/the-neighbors-s02e13-high-school-reunion/5aa9f4b9d8ae5",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31222628,
+      "size_bytes": 319688994,
+      "uploaded_at": "2026-11-21T07:16:00Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.1,
+        "upload_sec": 40.6
+      }
     }
   ],
   "pending_uploads": [
@@ -924727,19 +924753,19 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 50244,
-      "series_id": 1157,
-      "series_title": "The Neighbors",
-      "season": 2,
-      "episode": 13,
-      "display_name": "The Neighbors S02E13 - 13. epizoda CZ Titulky",
-      "intent_id": "34743ae2c6ce4f29902dd2b2595fe201",
-      "started_at": "2026-11-21T07:14:51Z",
+      "episode_id": 78553,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 5,
+      "display_name": "Neranditelní S01E05 - 5. epizoda CZ Dabing",
+      "intent_id": "bbc94da78140487fabf6662f65c9a738",
+      "started_at": "2026-11-21T07:25:49Z",
       "upload_account": "primary",
-      "source_id": -30294698903901007,
-      "source_url": "https://prehraj.to/the-neighbors-s02e13-high-school-reunion/5aa9f4b9d8ae5",
-      "size_bytes": 319688994,
-      "source_container": "mp4",
+      "source_id": -41883393894800093,
+      "source_url": "https://prehraj.to/neranditelni-01x05-dvb-t-cz/588e807a53533",
+      "size_bytes": 337019782,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1342765,5 +1342791,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:15:14Z"
+  "last_updated": "2026-11-21T07:25:49Z"
 }
