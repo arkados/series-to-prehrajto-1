@@ -920416,6 +920416,32 @@
         "download_sec": 24.7,
         "upload_sec": 37.7
       }
+    },
+    {
+      "episode_id": 46406,
+      "series_id": 1111,
+      "series_title": "Melissa a Joey",
+      "season": 4,
+      "episode": 3,
+      "episode_code": "S04E03",
+      "display_name": "Melissa a Joey S04E03 - 3. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -26085213197112968,
+      "external_id": "5868389d96d49d95",
+      "source_url": "https://prehraj.to/melissa-a-joey-s4e3-the-honeymooners-cz/5868389d96d49d95",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219085,
+      "size_bytes": 322520451,
+      "uploaded_at": "2026-11-21T03:27:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.8,
+        "upload_sec": 47.6
+      }
     }
   ],
   "pending_uploads": [
@@ -921520,22 +921546,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 46406,
-      "series_id": 1111,
-      "series_title": "Melissa a Joey",
-      "season": 4,
-      "episode": 3,
-      "display_name": "Melissa a Joey S04E03 - 3. epizoda CZ Dabing",
-      "intent_id": "5554160b941746cc9ba194bde507e781",
-      "started_at": "2026-11-21T03:25:49Z",
-      "upload_account": "serialy",
-      "source_id": -26085213197112968,
-      "source_url": "https://prehraj.to/melissa-a-joey-s4e3-the-honeymooners-cz/5868389d96d49d95",
-      "size_bytes": 322520451,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1339562,5 +1339572,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:25:49Z"
+  "last_updated": "2026-11-21T03:27:37Z"
 }
