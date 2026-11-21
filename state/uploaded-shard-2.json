@@ -920858,6 +920858,32 @@
         "download_sec": 31.1,
         "upload_sec": 73.3
       }
+    },
+    {
+      "episode_id": 74279,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "About a Boy S01E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -17041369581460083,
+      "external_id": "7c3a2e39098c4a52",
+      "source_url": "https://prehraj.to/about-a-boy-s01e07-about-a-poker-night-1080p-cz/7c3a2e39098c4a52",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221097,
+      "size_bytes": 542243388,
+      "uploaded_at": "2026-11-21T05:39:32Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 19.2,
+        "upload_sec": 34.4
+      }
     }
   ],
   "pending_uploads": [
@@ -1339988,5 +1340014,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:32:23Z"
+  "last_updated": "2026-11-21T05:39:32Z"
 }
