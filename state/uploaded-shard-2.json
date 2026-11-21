@@ -922236,6 +922236,32 @@
         "download_sec": 59.9,
         "upload_sec": 57.6
       }
+    },
+    {
+      "episode_id": 146710,
+      "series_id": 4816,
+      "series_title": "The Listener",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "The Listener S01E09 - 9. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -31104857097507709,
+      "external_id": "5e0131497410c",
+      "source_url": "https://prehraj.to/the-listener-s01e09-cz-titulky/5e0131497410c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228651,
+      "size_bytes": 364743888,
+      "uploaded_at": "2026-11-21T12:51:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 120.1,
+        "upload_sec": 34.0
+      }
     }
   ],
   "pending_uploads": [
@@ -923373,22 +923399,6 @@
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 146710,
-      "series_id": 4816,
-      "series_title": "The Listener",
-      "season": 1,
-      "episode": 9,
-      "display_name": "The Listener S01E09 - 9. epizoda CZ Titulky",
-      "intent_id": "ef860f9d37b74eab8a32f1dadb72927b",
-      "started_at": "2026-11-21T12:50:38Z",
-      "upload_account": "serialy",
-      "source_id": -31104857097507709,
-      "source_url": "https://prehraj.to/the-listener-s01e09-cz-titulky/5e0131497410c",
-      "size_bytes": 364743888,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1341448,5 +1341458,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:50:38Z"
+  "last_updated": "2026-11-21T12:51:54Z"
 }
