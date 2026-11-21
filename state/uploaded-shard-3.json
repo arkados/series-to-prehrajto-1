@@ -921274,6 +921274,32 @@
         "download_sec": 34.0,
         "upload_sec": 29.5
       }
+    },
+    {
+      "episode_id": 79255,
+      "series_id": 1852,
+      "series_title": "Army Wives",
+      "season": 2,
+      "episode": 8,
+      "episode_code": "S02E08",
+      "display_name": "Army Wives S02E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -10785200980248527,
+      "external_id": "58ff4143ba76e",
+      "source_url": "https://prehraj.to/army-wives-s02e08/58ff4143ba76e",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223272,
+      "size_bytes": 365134664,
+      "uploaded_at": "2026-11-21T07:54:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 45.2,
+        "upload_sec": 28.9
+      }
     }
   ],
   "pending_uploads": [
@@ -922411,22 +922437,6 @@
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 79255,
-      "series_id": 1852,
-      "series_title": "Army Wives",
-      "season": 2,
-      "episode": 8,
-      "display_name": "Army Wives S02E08 - 8. epizoda CZ Titulky",
-      "intent_id": "adc094dc1d054788bca8940c6e0ece96",
-      "started_at": "2026-11-21T07:52:59Z",
-      "upload_account": "serialy",
-      "source_id": -10785200980248527,
-      "source_url": "https://prehraj.to/army-wives-s02e08/58ff4143ba76e",
-      "size_bytes": 365134664,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1340486,5 +1340496,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:52:59Z"
+  "last_updated": "2026-11-21T07:54:37Z"
 }
