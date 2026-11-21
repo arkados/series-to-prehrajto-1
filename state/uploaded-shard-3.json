@@ -921014,6 +921014,32 @@
         "download_sec": 31.6,
         "upload_sec": 64.1
       }
+    },
+    {
+      "episode_id": 22375,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 20,
+      "episode_code": "S05E20",
+      "display_name": "Alfred Hitchcock uvádí S05E20 - 20. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -29393881747906063,
+      "external_id": "594988fa14ae1",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e20/594988fa14ae1",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221802,
+      "size_bytes": 332157450,
+      "uploaded_at": "2026-11-21T06:27:04Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.2,
+        "upload_sec": 46.8
+      }
     }
   ],
   "pending_uploads": [
@@ -922135,22 +922161,6 @@
       "source_url": "https://prehraj.to/neranditelni-s01e10-10-epizoda-sd-cz-dabing-avi/2bfa8e3099d8837d",
       "size_bytes": 336950854,
       "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 22375,
-      "series_id": 105,
-      "series_title": "Alfred Hitchcock uvádí",
-      "season": 5,
-      "episode": 20,
-      "display_name": "Alfred Hitchcock uvádí S05E20 - 20. epizoda CZ Titulky",
-      "intent_id": "c013d3856b724789943f3ef74717377c",
-      "started_at": "2026-11-21T06:25:20Z",
-      "upload_account": "serialy",
-      "source_id": -29393881747906063,
-      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e20/594988fa14ae1",
-      "size_bytes": 332157450,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1340176,5 +1340186,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:25:20Z"
+  "last_updated": "2026-11-21T06:27:04Z"
 }
