@@ -923296,6 +923296,22 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 50246,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 20,
+      "display_name": "The Neighbors S02E20 - 20. epizoda CZ Titulky",
+      "intent_id": "fdaf9c02e4e949dd890bc4ccdc12e6b6",
+      "started_at": "2026-11-21T12:26:05Z",
+      "upload_account": "serialy",
+      "source_id": -56365435863760960,
+      "source_url": "https://prehraj.to/the-neighbors-s02e20-close-encounters-of-the-bird-kind/5a9e27972af98",
+      "size_bytes": 317721826,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1341354,5 +1341370,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:22:39Z"
+  "last_updated": "2026-11-21T12:26:05Z"
 }
