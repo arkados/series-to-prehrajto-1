@@ -922016,6 +922016,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 74278,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 6,
+      "display_name": "About a Boy S01E06 - 6. epizoda CZ Dabing",
+      "intent_id": "7cc6fb4210104b49bf9508f412d2b4fa",
+      "started_at": "2026-11-21T05:49:50Z",
+      "upload_account": "serialy",
+      "source_id": -32496795790769856,
+      "source_url": "https://prehraj.to/about-a-boy-s01e06-about-a-buble-1080p-cz/52ec2bd6d939cd7b",
+      "size_bytes": 628609703,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1340040,5 +1340056,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:48:43Z"
+  "last_updated": "2026-11-21T05:49:50Z"
 }
