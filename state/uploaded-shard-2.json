@@ -920832,6 +920832,32 @@
         "download_sec": 18.8,
         "upload_sec": 31.5
       }
+    },
+    {
+      "episode_id": 74274,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "About a Boy S01E04 - 4. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -27397579286348062,
+      "external_id": "9ad26ea964b88545",
+      "source_url": "https://prehraj.to/about-a-boy-s01e04-about-a-girl-1080p-cz/9ad26ea964b88545",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220961,
+      "size_bytes": 616492174,
+      "uploaded_at": "2026-11-21T05:32:15Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 31.1,
+        "upload_sec": 73.3
+      }
     }
   ],
   "pending_uploads": [
@@ -921936,22 +921962,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 74274,
-      "series_id": 1738,
-      "series_title": "About a Boy",
-      "season": 1,
-      "episode": 4,
-      "display_name": "About a Boy S01E04 - 4. epizoda CZ Dabing",
-      "intent_id": "957ba834bd2e41d290c330f31a6f819c",
-      "started_at": "2026-11-21T05:30:11Z",
-      "upload_account": "serialy",
-      "source_id": -27397579286348062,
-      "source_url": "https://prehraj.to/about-a-boy-s01e04-about-a-girl-1080p-cz/9ad26ea964b88545",
-      "size_bytes": 616492174,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1339978,5 +1339988,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:30:11Z"
+  "last_updated": "2026-11-21T05:32:15Z"
 }
