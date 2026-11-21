@@ -920936,6 +920936,58 @@
         "download_sec": 33.7,
         "upload_sec": 50.3
       }
+    },
+    {
+      "episode_id": 78555,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Neranditelní S01E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -12768241451949010,
+      "external_id": "588e807702bb3",
+      "source_url": "https://prehraj.to/neranditelni-01x07-dvb-t-cz/588e807702bb3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221465,
+      "size_bytes": 331331816,
+      "uploaded_at": "2026-11-21T06:01:25Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.7,
+        "upload_sec": 47.6
+      }
+    },
+    {
+      "episode_id": 68543,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 12,
+      "episode_code": "S01E12",
+      "display_name": "Život beze slov S01E12 - Hrdina CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -66449557663812053,
+      "external_id": "eff1f4c990f16734",
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e12-h-e-r-hero-cs/eff1f4c990f16734",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221488,
+      "size_bytes": 318596497,
+      "uploaded_at": "2026-11-21T06:03:43Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 14.7,
+        "upload_sec": 52.4
+      }
     }
   ],
   "pending_uploads": [
@@ -922042,6 +922094,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 78558,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Neranditelní S01E10 - 10. epizoda CZ Dabing",
+      "intent_id": "faee21530e1c499a939f4baf8c2c3080",
+      "started_at": "2026-11-21T05:59:52Z",
+      "upload_account": "serialy",
+      "source_id": -40549868383096035,
+      "source_url": "https://prehraj.to/neranditelni-s01e10-10-epizoda-sd-cz-dabing-avi/2bfa8e3099d8837d",
+      "size_bytes": 336950854,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340066,5 +1340134,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:51:17Z"
+  "last_updated": "2026-11-21T06:04:22Z"
 }
