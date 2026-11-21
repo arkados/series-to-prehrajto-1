@@ -921768,6 +921768,32 @@
         "download_sec": 12.2,
         "upload_sec": 39.8
       }
+    },
+    {
+      "episode_id": 50234,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "The Neighbors S02E02 - 2. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -54806289894208272,
+      "external_id": "17e3587503173a77",
+      "source_url": "https://prehraj.to/the-neighbors-s2e2-september-fools-en/17e3587503173a77",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31225516,
+      "size_bytes": 317278439,
+      "uploaded_at": "2026-11-21T10:05:16Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 12.5,
+        "upload_sec": 23.8
+      }
     }
   ],
   "pending_uploads": [
@@ -922904,22 +922930,6 @@
       "source_id": -67537932636281230,
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 50234,
-      "series_id": 1157,
-      "series_title": "The Neighbors",
-      "season": 2,
-      "episode": 2,
-      "display_name": "The Neighbors S02E02 - 2. epizoda CZ Titulky",
-      "intent_id": "138c903709a548c9b0cc544e0301ebca",
-      "started_at": "2026-11-21T10:04:12Z",
-      "upload_account": "serialy",
-      "source_id": -54806289894208272,
-      "source_url": "https://prehraj.to/the-neighbors-s2e2-september-fools-en/17e3587503173a77",
-      "size_bytes": 317278439,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1340980,5 +1340990,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T10:04:12Z"
+  "last_updated": "2026-11-21T10:05:16Z"
 }
