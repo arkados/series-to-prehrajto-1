@@ -921834,6 +921834,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 78562,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 2,
+      "episode": 1,
+      "display_name": "Neranditelní S02E01 - 1. epizoda CZ Dabing",
+      "intent_id": "1af138b105294ba8994c3ff2b1aaf9b2",
+      "started_at": "2026-11-21T04:57:30Z",
+      "upload_account": "serialy",
+      "source_id": -64808557615314544,
+      "source_url": "https://prehraj.to/neranditelni-02x01-dvb-t-cz/58bd716514e48",
+      "size_bytes": 328440968,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339858,5 +1339874,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:56:40Z"
+  "last_updated": "2026-11-21T04:57:30Z"
 }
