@@ -919974,6 +919974,58 @@
         "download_sec": 14.1,
         "upload_sec": 25.1
       }
+    },
+    {
+      "episode_id": 71950,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 5,
+      "episode_code": "S05E05",
+      "display_name": "Highlander S05E05 - 5. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -39487826884022809,
+      "external_id": "59787b278075d",
+      "source_url": "https://prehraj.to/highlander-s05e05-cz-tit/59787b278075d",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215776,
+      "size_bytes": 363286326,
+      "uploaded_at": "2026-11-20T23:54:43Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 23.3,
+        "upload_sec": 25.1
+      }
+    },
+    {
+      "episode_id": 78550,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Neranditelní S01E02 - 2. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -71487922687475309,
+      "external_id": "5ac9a7dc74ee3",
+      "source_url": "https://prehraj.to/neranditelni-s01e02-pants-buddies/5ac9a7dc74ee3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215908,
+      "size_bytes": 320476149,
+      "uploaded_at": "2026-11-21T00:07:25Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 15.8,
+        "upload_sec": 30.7
+      }
     }
   ],
   "pending_uploads": [
@@ -921080,6 +921132,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 71891,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 6,
+      "display_name": "Highlander S05E06 - 6. epizoda CZ Titulky",
+      "intent_id": "4e649eb7dc52414dbcdd5b6758a7a07b",
+      "started_at": "2026-11-21T00:06:35Z",
+      "upload_account": "serialy",
+      "source_id": -629868712345193,
+      "source_url": "https://prehraj.to/highlander-s05e06-cz-tit/59787b347c94c",
+      "size_bytes": 363288158,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339104,5 +1339172,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:48:33Z"
+  "last_updated": "2026-11-21T00:07:54Z"
 }
