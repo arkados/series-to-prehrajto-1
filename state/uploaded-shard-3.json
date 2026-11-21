@@ -921782,6 +921782,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 22367,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 12,
+      "display_name": "Alfred Hitchcock uvádí S05E12 - 12. epizoda CZ Titulky",
+      "intent_id": "252d2695a09a4158a946f10431514bf9",
+      "started_at": "2026-11-21T04:55:07Z",
+      "upload_account": "serialy",
+      "source_id": -30299594338277951,
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e12/5949888e6a4e4",
+      "size_bytes": 319099602,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339806,5 +1339822,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:16:40Z"
+  "last_updated": "2026-11-21T04:55:07Z"
 }
