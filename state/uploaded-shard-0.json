@@ -922355,6 +922355,32 @@
         "download_sec": 15.0,
         "upload_sec": 25.5
       }
+    },
+    {
+      "episode_id": 50212,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "The Neighbors S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -30985449612407722,
+      "external_id": "63ef98c0e29be",
+      "source_url": "https://prehraj.to/the-neighbors-s01e02-cztit/63ef98c0e29be",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217407,
+      "size_bytes": 314586990,
+      "uploaded_at": "2026-11-21T01:42:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 11.8,
+        "upload_sec": 23.9
+      }
     }
   ],
   "pending_uploads": [
@@ -923475,22 +923501,6 @@
       "source_id": -8967656532124650,
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 50212,
-      "series_id": 1157,
-      "series_title": "The Neighbors",
-      "season": 1,
-      "episode": 2,
-      "display_name": "The Neighbors S01E02 - 2. epizoda CZ Titulky",
-      "intent_id": "f36ed9c97e7b47cf8a5236fcce2a332d",
-      "started_at": "2026-11-21T01:41:30Z",
-      "upload_account": "primary",
-      "source_id": -30985449612407722,
-      "source_url": "https://prehraj.to/the-neighbors-s01e02-cztit/63ef98c0e29be",
-      "size_bytes": 314586990,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1341517,5 +1341527,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:41:30Z"
+  "last_updated": "2026-11-21T01:42:32Z"
 }
