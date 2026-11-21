@@ -922490,6 +922490,22 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 187651,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 10,
+      "display_name": "Požárník Sam S10E10 - Rozchod CZ Dabing",
+      "intent_id": "1f38787315474cc9befc7ce305ae073a",
+      "started_at": "2026-11-21T08:06:00Z",
+      "upload_account": "serialy",
+      "source_id": -42653747251398651,
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e10-cz-dabing-pro-deti/5c75f17d2a308",
+      "size_bytes": 340140355,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340548,5 +1340564,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:04:48Z"
+  "last_updated": "2026-11-21T08:06:00Z"
 }
