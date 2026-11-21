@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 107957,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83734,
-    "prepared_source_episodes": 67683,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 83735,
+    "prepared_source_episodes": 67685,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
@@ -21,10 +21,50 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T13:27:45Z",
+      "databaseId": 44908968962,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T13:27:40Z",
+      "databaseId": 44908961866,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T13:25:39Z",
+      "databaseId": 44908799846,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T13:25:35Z",
+      "databaseId": 44908795166,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T13:25:32Z",
+      "databaseId": 44908791963,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T13:24:03Z",
       "databaseId": 44908668311,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +84,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T13:15:39Z",
       "databaseId": 44907964629,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -76,11 +116,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T13:14:13Z",
       "databaseId": 44907844467,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -138,46 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T13:02:53Z",
-      "databaseId": 44906884983,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:02:15Z",
-      "databaseId": 44906832766,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:02:11Z",
-      "databaseId": 44906827986,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:02:09Z",
-      "databaseId": 44906824099,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T13:00:50Z",
-      "databaseId": 44906702882,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
     }
   ],
   "gaps": {
@@ -205715,6 +205715,11 @@
         "episode_id": 167605,
         "display_name": "Noblesse S01E10 - 10. epizoda CZ Titulky",
         "video_id": 31228801
+      },
+      {
+        "episode_id": 101208,
+        "display_name": "Three's Company S06E01 - 1. epizoda CZ Titulky",
+        "video_id": 31229232
       },
       {
         "episode_id": 114182,
@@ -598502,6 +598507,11 @@
         "episode_id": 167605,
         "display_name": "Noblesse S01E10 - 10. epizoda CZ Titulky",
         "video_id": 31228801
+      },
+      {
+        "episode_id": 101208,
+        "display_name": "Three's Company S06E01 - 1. epizoda CZ Titulky",
+        "video_id": 31229232
       },
       {
         "episode_id": 114182,
