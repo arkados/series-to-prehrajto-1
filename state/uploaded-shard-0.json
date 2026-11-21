@@ -922433,6 +922433,58 @@
         "download_sec": 11.9,
         "upload_sec": 27.0
       }
+    },
+    {
+      "episode_id": 71961,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 20,
+      "episode_code": "S05E20",
+      "display_name": "Highlander S05E20 - 20. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -43727998926642096,
+      "external_id": "59787bf145115",
+      "source_url": "https://prehraj.to/highlander-s05e20-cz-tit/59787bf145115",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217577,
+      "size_bytes": 363258255,
+      "uploaded_at": "2026-11-21T01:52:11Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 23.9,
+        "upload_sec": 39.7
+      }
+    },
+    {
+      "episode_id": 68533,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Život beze slov S01E02 - Nový asistant CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -65324051918176396,
+      "external_id": "5b37416e850ee",
+      "source_url": "https://prehraj.to/zivot-beze-slov-s01e02-cz-dabing/5b37416e850ee",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217609,
+      "size_bytes": 329932138,
+      "uploaded_at": "2026-11-21T01:54:13Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 17.4,
+        "upload_sec": 41.8
+      }
     }
   ],
   "pending_uploads": [
@@ -1341579,5 +1341631,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:46:49Z"
+  "last_updated": "2026-11-21T01:57:20Z"
 }
