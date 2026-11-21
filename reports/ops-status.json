@@ -1,38 +1,102 @@
 {
   "counts": {
     "backlog_episodes": 107916,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83748,
-    "prepared_source_episodes": 67693,
+    "manifest_upload_ready_episodes": 2,
+    "uploaded_episodes": 83749,
+    "prepared_source_episodes": 67692,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
     "language_audited_sources": 48,
-    "language_whisper_attempted_sources": 43,
+    "language_whisper_attempted_sources": 48,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53347,
-    "whisper_review_pending_sources": 35844,
+    "whisper_review_sources": 53346,
+    "whisper_review_pending_sources": 35840,
     "upload_pending_checkpoints": 144,
-    "subtitle_followup_sources": 52665,
-    "subtitle_followup_pending_sources": 52665
+    "subtitle_followup_sources": 52666,
+    "subtitle_followup_pending_sources": 52666
   },
   "workflow_runs": [
     {
       "conclusion": "",
-      "createdAt": "2026-11-21T15:29:07Z",
-      "databaseId": 44919411878,
+      "createdAt": "2026-11-21T15:36:53Z",
+      "databaseId": 44920121228,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:36:44Z",
+      "databaseId": 44920108833,
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "sync"
     },
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T15:34:26Z",
+      "databaseId": 44919900788,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T15:33:54Z",
+      "databaseId": 44919851177,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "skipped",
+      "createdAt": "2026-11-21T15:31:04Z",
+      "databaseId": 44919593997,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:30:57Z",
+      "databaseId": 44919584114,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T15:30:20Z",
+      "databaseId": 44919523231,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T15:30:17Z",
+      "databaseId": 44919518115,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-21T15:29:07Z",
+      "databaseId": 44919411878,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:28:50Z",
       "databaseId": 44919388275,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -114,70 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-subtitles"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-21T15:15:10Z",
-      "databaseId": 44918180737,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:14:53Z",
-      "databaseId": 44918155373,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:13:29Z",
-      "databaseId": 44918037762,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:12:48Z",
-      "databaseId": 44917974038,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:10:08Z",
-      "databaseId": 44917731223,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:10:03Z",
-      "databaseId": 44917722370,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:08:53Z",
-      "databaseId": 44917616464,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T15:07:22Z",
-      "databaseId": 44917482371,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -393140,6 +393140,11 @@
         "episode_id": 204102,
         "display_name": "Marshals: Příběh z Yellowstonu S02E06 - 6. epizoda CZ Dabing",
         "video_id": 31231134
+      },
+      {
+        "episode_id": 107806,
+        "display_name": "Rodinka na kousky S01E20 - 20. epizoda CZ Dabing",
+        "video_id": 31231380
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -785997,6 +786002,11 @@
         "episode_id": 204102,
         "display_name": "Marshals: Příběh z Yellowstonu S02E06 - 6. epizoda CZ Dabing",
         "video_id": 31231134
+      },
+      {
+        "episode_id": 107806,
+        "display_name": "Rodinka na kousky S01E20 - 20. epizoda CZ Dabing",
+        "video_id": 31231380
       }
     ],
     "prepared_not_upload_ready": [
@@ -787158,18 +787168,17 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 41,
-    "disabled": 5,
-    "stream_undersized": 1,
+    "ok": 45,
+    "stream_undersized": 2,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34563,
-    "whisper_confirmed_cz": 4335,
-    "whisper_non_cz_needs_subtitles": 13168,
-    "whisper_failed": 1281
+    "needs_whisper": 34558,
+    "whisper_confirmed_cz": 4337,
+    "whisper_non_cz_needs_subtitles": 13169,
+    "whisper_failed": 1282
   },
   "subtitle_followup_statuses": {
-    "needs_subtitle_setup_after_prehrajto_processing": 52665
+    "needs_subtitle_setup_after_prehrajto_processing": 52666
   }
 }
