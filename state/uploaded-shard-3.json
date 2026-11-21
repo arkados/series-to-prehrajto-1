@@ -921404,6 +921404,58 @@
         "download_sec": 13.2,
         "upload_sec": 49.9
       }
+    },
+    {
+      "episode_id": 22390,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 35,
+      "episode_code": "S05E35",
+      "display_name": "Alfred Hitchcock uvádí S05E35 - 35. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -13224217294764710,
+      "external_id": "594a260eeb8a3",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e35/594a260eeb8a3",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223613,
+      "size_bytes": 332261279,
+      "uploaded_at": "2026-11-21T08:20:45Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.7,
+        "upload_sec": 31.1
+      }
+    },
+    {
+      "episode_id": 78578,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 3,
+      "episode": 10,
+      "episode_code": "S03E10",
+      "display_name": "Neranditelní S03E10 - 10. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -55867212145915830,
+      "external_id": "5ab2faef218bc",
+      "source_url": "https://prehraj.to/neranditelni-s03e10-tba/5ab2faef218bc",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223644,
+      "size_bytes": 315666021,
+      "uploaded_at": "2026-11-21T08:22:53Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 21.7,
+        "upload_sec": 28.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1340600,5 +1340652,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:09:47Z"
+  "last_updated": "2026-11-21T08:22:53Z"
 }
