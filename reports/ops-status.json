@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 107916,
-    "manifest_upload_ready_episodes": 4,
-    "uploaded_episodes": 83742,
-    "prepared_source_episodes": 67691,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 83743,
+    "prepared_source_episodes": 67705,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 45,
-    "language_whisper_attempted_sources": 44,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53348,
     "whisper_review_pending_sources": 35846,
@@ -21,10 +21,26 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T14:34:46Z",
+      "databaseId": 44914657312,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T14:27:52Z",
+      "databaseId": 44914055120,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T14:26:41Z",
       "databaseId": 44913958101,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -68,11 +84,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-21T14:21:16Z",
       "databaseId": 44913491093,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -92,19 +108,19 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T14:20:59Z",
       "databaseId": 44913466083,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T14:20:56Z",
       "databaseId": 44913461599,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -162,22 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:04:16Z",
-      "databaseId": 44912011529,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T14:02:49Z",
-      "databaseId": 44911883183,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
     }
   ],
   "gaps": {
@@ -393110,6 +393110,11 @@
         "episode_id": 204006,
         "display_name": "Démoni Hollywoodu S01E05 - Skutečný železný dráp CZ Dabing",
         "video_id": 31230207
+      },
+      {
+        "episode_id": 187574,
+        "display_name": "Požárník Sam S06E02 - Užitečný výcvik CZ Dabing",
+        "video_id": 31230293
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -785937,6 +785942,11 @@
         "episode_id": 204006,
         "display_name": "Démoni Hollywoodu S01E05 - Skutečný železný dráp CZ Dabing",
         "video_id": 31230207
+      },
+      {
+        "episode_id": 187574,
+        "display_name": "Požárník Sam S06E02 - Užitečný výcvik CZ Dabing",
+        "video_id": 31230293
       }
     ],
     "prepared_not_upload_ready": [
@@ -787098,8 +787108,7 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 43,
-    "disabled": 1,
+    "ok": 39,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
