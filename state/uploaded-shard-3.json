@@ -922548,6 +922548,32 @@
         "download_sec": 731.2,
         "upload_sec": 117.0
       }
+    },
+    {
+      "episode_id": 107806,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 20,
+      "episode_code": "S01E20",
+      "display_name": "Rodinka na kousky S01E20 - 20. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -67141670218619976,
+      "external_id": "589fc6e428301",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-01x20-dvb-t-cz/589fc6e428301",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31231380,
+      "size_bytes": 327921318,
+      "uploaded_at": "2026-11-21T15:32:32Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 22.0,
+        "upload_sec": 45.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1341761,5 +1341787,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T15:21:14Z"
+  "last_updated": "2026-11-21T15:32:32Z"
 }
