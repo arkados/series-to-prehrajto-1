@@ -921950,6 +921950,32 @@
         "download_sec": 102.9,
         "upload_sec": 74.1
       }
+    },
+    {
+      "episode_id": 107799,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 11,
+      "episode_code": "S01E11",
+      "display_name": "Rodinka na kousky S01E11 - 11. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -47346329445067822,
+      "external_id": "67a6f7f956bd5",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e11-22-2015-cz-dab-400p-college-krade-santa-ca/67a6f7f956bd5",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31226873,
+      "size_bytes": 330094196,
+      "uploaded_at": "2026-11-21T11:11:50Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 21.2,
+        "upload_sec": 29.5
+      }
     }
   ],
   "pending_uploads": [
@@ -1341146,5 +1341172,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T11:06:15Z"
+  "last_updated": "2026-11-21T11:11:50Z"
 }
