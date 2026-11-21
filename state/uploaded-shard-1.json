@@ -924643,6 +924643,84 @@
         "download_sec": 11.9,
         "upload_sec": 26.3
       }
+    },
+    {
+      "episode_id": 107804,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 18,
+      "episode_code": "S01E18",
+      "display_name": "Rodinka na kousky S01E18 - 18. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -35405599853390530,
+      "external_id": "67a709b53160d",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e18-22-2015-cz-dab-400p-sexting-mall-limonade/67a709b53160d",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31227993,
+      "size_bytes": 330196858,
+      "uploaded_at": "2026-11-21T12:11:44Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 21.0,
+        "upload_sec": 32.1
+      }
+    },
+    {
+      "episode_id": 74280,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "About a Boy S01E08 - 8. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -70307949973611437,
+      "external_id": "29317db2d27f70a0",
+      "source_url": "https://prehraj.to/about-a-boy-s01e08-about-a-slopmaster-1080p-cz/29317db2d27f70a0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228052,
+      "size_bytes": 697943716,
+      "uploaded_at": "2026-11-21T12:15:31Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 86.1,
+        "upload_sec": 63.0
+      }
+    },
+    {
+      "episode_id": 193824,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Bing S01E02 - Pá Pá CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -12209643874448356,
+      "external_id": "754e3a018e517e05",
+      "source_url": "https://prehraj.to/bing-s01e02-78-2014-cz-dabing-1080p-fhd-pa-pa/754e3a018e517e05",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228107,
+      "size_bytes": 331575044,
+      "uploaded_at": "2026-11-21T12:18:11Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 48.2,
+        "upload_sec": 39.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1343839,5 +1343917,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:07:01Z"
+  "last_updated": "2026-11-21T12:18:11Z"
 }
