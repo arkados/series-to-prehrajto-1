@@ -921704,6 +921704,38 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 22362,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 7,
+      "display_name": "Alfred Hitchcock uvádí S05E07 - 7. epizoda CZ Titulky",
+      "intent_id": "2bea6b56afab4570bf93036c271a5370",
+      "started_at": "2026-11-21T04:09:43Z",
+      "upload_account": "serialy",
+      "source_id": -21877079463471917,
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e07/59498845336c2",
+      "size_bytes": 332332381,
+      "source_container": "mkv",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 22363,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 8,
+      "display_name": "Alfred Hitchcock uvádí S05E08 - 8. epizoda CZ Titulky",
+      "intent_id": "62672ef410e04a11acdacf0d974cc764",
+      "started_at": "2026-11-21T04:09:58Z",
+      "upload_account": "serialy",
+      "source_id": -58544786575852761,
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e08/5949883972235",
+      "size_bytes": 332448245,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339728,5 +1339760,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:04:19Z"
+  "last_updated": "2026-11-21T04:10:14Z"
 }
