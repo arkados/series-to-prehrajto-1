@@ -921508,6 +921508,32 @@
         "download_sec": 14.6,
         "upload_sec": 44.7
       }
+    },
+    {
+      "episode_id": 187654,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 13,
+      "episode_code": "S10E13",
+      "display_name": "Požárník Sam S10E13 - S chutí do formy CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -7858892379252278,
+      "external_id": "5c75f32bd2100",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e13-cz-dabing-pro-deti/5c75f32bd2100",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223998,
+      "size_bytes": 347198761,
+      "uploaded_at": "2026-11-21T08:46:48Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 13.2,
+        "upload_sec": 62.6
+      }
     }
   ],
   "pending_uploads": [
@@ -922644,22 +922670,6 @@
       "source_id": -67537932636281230,
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
-      "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187654,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 10,
-      "episode": 13,
-      "display_name": "Požárník Sam S10E13 - S chutí do formy CZ Dabing",
-      "intent_id": "021596c568274d31a540a53340ede63d",
-      "started_at": "2026-11-21T08:45:05Z",
-      "upload_account": "serialy",
-      "source_id": -7858892379252278,
-      "source_url": "https://prehraj.to/pozarnik-sam-s10e13-cz-dabing-pro-deti/5c75f32bd2100",
-      "size_bytes": 347198761,
       "source_container": "mp4",
       "source_download_kind": "original"
     }
@@ -1340720,5 +1340730,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:45:05Z"
+  "last_updated": "2026-11-21T08:46:48Z"
 }
