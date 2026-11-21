@@ -924101,6 +924101,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 123785,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 3,
+      "episode": 5,
+      "display_name": "Flashpoint S03E05 - 5. epizoda CZ Dabing",
+      "intent_id": "83dd2d9b45e34e38b8c1a28abc6fb5a2",
+      "started_at": "2026-11-21T05:21:08Z",
+      "upload_account": "primary",
+      "source_id": -69102594111231729,
+      "source_url": "https://prehraj.to/flashpoint-s03e05-5-epizoda-sd-cz-dabing-avi/08ca117b0fc88631",
+      "size_bytes": 365581718,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1342125,5 +1342141,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:58:54Z"
+  "last_updated": "2026-11-21T05:21:08Z"
 }
