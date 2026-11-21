@@ -921444,6 +921444,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 180975,
+      "series_id": 9393,
+      "series_title": "Doznání",
+      "season": 1,
+      "episode": 1,
+      "display_name": "Doznání S01E01 - 1. díl CZ Titulky",
+      "intent_id": "82fb829f8cc043afb14a6a20e3287511",
+      "started_at": "2026-11-21T02:36:12Z",
+      "upload_account": "serialy",
+      "source_id": -41771993291257162,
+      "source_url": "https://prehraj.to/doznani-s01e01-cztitulky/6383d8f2e9d32",
+      "size_bytes": 1306673041,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339468,5 +1339484,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T02:18:29Z"
+  "last_updated": "2026-11-21T02:36:12Z"
 }
