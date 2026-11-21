@@ -920208,6 +920208,32 @@
         "download_sec": 21.7,
         "upload_sec": 37.6
       }
+    },
+    {
+      "episode_id": 68535,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "Život beze slov S01E03 - Táborák CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -12924846975687377,
+      "external_id": "d848a63d5e01bcc1",
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e3-b-o-n-bonfire-cs/d848a63d5e01bcc1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217294,
+      "size_bytes": 328347668,
+      "uploaded_at": "2026-11-21T01:36:37Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 19.1,
+        "upload_sec": 37.7
+      }
     }
   ],
   "pending_uploads": [
@@ -1339338,5 +1339364,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:18:19Z"
+  "last_updated": "2026-11-21T01:36:37Z"
 }
