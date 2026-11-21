@@ -920520,6 +920520,32 @@
         "download_sec": 25.2,
         "upload_sec": 36.4
       }
+    },
+    {
+      "episode_id": 68539,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Život beze slov S01E07 - Díkůvzdání CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -55353904003106487,
+      "external_id": "cea9cf78ca1cc304",
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e7-r-a-y-c-ray-cation-cs/cea9cf78ca1cc304",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219363,
+      "size_bytes": 316647190,
+      "uploaded_at": "2026-11-21T03:47:50Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 14.7,
+        "upload_sec": 33.3
+      }
     }
   ],
   "pending_uploads": [
@@ -1339650,5 +1339676,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:45:10Z"
+  "last_updated": "2026-11-21T03:48:13Z"
 }
