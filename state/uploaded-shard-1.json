@@ -922147,6 +922147,32 @@
         "download_sec": 15.8,
         "upload_sec": 28.4
       }
+    },
+    {
+      "episode_id": 71937,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 4,
+      "episode": 5,
+      "episode_code": "S04E05",
+      "display_name": "Highlander S04E05 - 5. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -4256842894976150,
+      "external_id": "597879c6a1368",
+      "source_url": "https://prehraj.to/highlander-s04e05-cz-tit/597879c6a1368",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215914,
+      "size_bytes": 363276417,
+      "uploaded_at": "2026-11-21T00:07:54Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 32.8,
+        "upload_sec": 29.8
+      }
     }
   ],
   "pending_uploads": [
@@ -923268,22 +923294,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 71937,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 4,
-      "episode": 5,
-      "display_name": "Highlander S04E05 - 5. epizoda CZ Titulky",
-      "intent_id": "06bd9f57109b4a5ebe08c56412b7e6cd",
-      "started_at": "2026-11-21T00:06:29Z",
-      "upload_account": "primary",
-      "source_id": -4256842894976150,
-      "source_url": "https://prehraj.to/highlander-s04e05-cz-tit/597879c6a1368",
-      "size_bytes": 363276417,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1341309,5 +1341319,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T00:06:29Z"
+  "last_updated": "2026-11-21T00:07:54Z"
 }
