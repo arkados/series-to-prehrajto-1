@@ -1,16 +1,16 @@
 {
   "counts": {
     "backlog_episodes": 107916,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83746,
-    "prepared_source_episodes": 67709,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83747,
+    "prepared_source_episodes": 67711,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 51,
-    "language_whisper_attempted_sources": 43,
+    "language_audited_sources": 40,
+    "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53347,
     "whisper_review_pending_sources": 35842,
@@ -21,10 +21,50 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T15:05:51Z",
+      "databaseId": 44917342942,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:05:31Z",
+      "databaseId": 44917312416,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:05:23Z",
+      "databaseId": 44917300052,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T14:59:30Z",
+      "databaseId": 44916756008,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T14:57:35Z",
+      "databaseId": 44916602122,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T14:56:15Z",
       "databaseId": 44916497374,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -60,19 +100,19 @@
       "workflowName": "prepare-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T14:52:22Z",
       "databaseId": 44916166758,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-21T14:51:57Z",
       "databaseId": 44916130069,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -100,11 +140,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-21T14:49:57Z",
       "databaseId": 44915955379,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -116,11 +156,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T14:46:23Z",
       "databaseId": 44915655663,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -135,46 +175,6 @@
       "conclusion": "cancelled",
       "createdAt": "2026-11-21T14:40:50Z",
       "databaseId": 44915177268,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:40:44Z",
-      "databaseId": 44915168936,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:40:09Z",
-      "databaseId": 44915113422,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:40:05Z",
-      "databaseId": 44915106907,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:38:41Z",
-      "databaseId": 44914992334,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:37:57Z",
-      "databaseId": 44914930304,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
@@ -393130,6 +393130,11 @@
         "episode_id": 187663,
         "display_name": "Požárník Sam S10E23 - Den tučňáka CZ Dabing",
         "video_id": 31230603
+      },
+      {
+        "episode_id": 81847,
+        "display_name": "Smash S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31230837
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -785977,6 +785982,11 @@
         "episode_id": 187663,
         "display_name": "Požárník Sam S10E23 - Den tučňáka CZ Dabing",
         "video_id": 31230603
+      },
+      {
+        "episode_id": 81847,
+        "display_name": "Smash S01E08 - 8. epizoda CZ Titulky",
+        "video_id": 31230837
       }
     ],
     "prepared_not_upload_ready": [
@@ -787138,9 +787148,8 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "disabled": 8,
-    "ok": 12,
-    "resolve_failed": 31
+    "ok": 39,
+    "resolve_failed": 1
   },
   "whisper_review_statuses": {
     "needs_whisper": 34562,
