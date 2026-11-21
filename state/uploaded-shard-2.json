@@ -921106,6 +921106,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 78550,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 2,
+      "display_name": "Neranditelní S01E02 - 2. epizoda CZ Dabing",
+      "intent_id": "acd0bdda41ea4546a02f76151fbbc49f",
+      "started_at": "2026-11-21T00:06:11Z",
+      "upload_account": "serialy",
+      "source_id": -71487922687475309,
+      "source_url": "https://prehraj.to/neranditelni-s01e02-pants-buddies/5ac9a7dc74ee3",
+      "size_bytes": 320476149,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339130,5 +1339146,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-20T23:54:43Z"
+  "last_updated": "2026-11-21T00:06:11Z"
 }
