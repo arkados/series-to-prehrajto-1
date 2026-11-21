@@ -923321,6 +923321,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71952,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 8,
+      "display_name": "Highlander S05E08 - 8. epizoda CZ Titulky",
+      "intent_id": "aa1ccef7424f4143b6e0806f328b0e58",
+      "started_at": "2026-11-21T00:29:48Z",
+      "upload_account": "primary",
+      "source_id": -22230389732884984,
+      "source_url": "https://prehraj.to/highlander-s05e08-cz-tit/59787b515babe",
+      "size_bytes": 363263852,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1341345,5 +1341361,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T00:10:37Z"
+  "last_updated": "2026-11-21T00:29:48Z"
 }
