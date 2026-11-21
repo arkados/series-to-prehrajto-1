@@ -924049,6 +924049,22 @@
       "size_bytes": 344321876,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71965,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 6,
+      "episode": 8,
+      "display_name": "Highlander S06E08 - 8. epizoda CZ Titulky",
+      "intent_id": "37047f3ea537480986ed50a8bbbbeef2",
+      "started_at": "2026-11-21T04:24:04Z",
+      "upload_account": "primary",
+      "source_id": -44102482407212280,
+      "source_url": "https://prehraj.to/highlander-s06e08-cz-tit/58c1323196ac9",
+      "size_bytes": 363623721,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1342073,5 +1342089,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:22:57Z"
+  "last_updated": "2026-11-21T04:24:04Z"
 }
