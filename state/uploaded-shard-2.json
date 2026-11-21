@@ -921210,6 +921210,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 202770,
+      "series_id": 10372,
+      "series_title": "Julia",
+      "season": 1,
+      "episode": 6,
+      "display_name": "Julia S01E06 - 6. epizoda CZ Titulky",
+      "intent_id": "3d676bdf90514d09a95b651ea4e8027a",
+      "started_at": "2026-11-21T01:01:07Z",
+      "upload_account": "serialy",
+      "source_id": -57271602986649106,
+      "source_url": "https://prehraj.to/julia-s1e6-bread-vs/416977526669dacb",
+      "size_bytes": 453760367,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1339234,5 +1339250,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T00:31:44Z"
+  "last_updated": "2026-11-21T01:01:07Z"
 }
