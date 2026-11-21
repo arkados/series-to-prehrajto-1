@@ -922068,6 +922068,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 68543,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 12,
+      "display_name": "Život beze slov S01E12 - Hrdina CZ Dabing",
+      "intent_id": "7f1ebb6a456e4f85a2b7205643648cc4",
+      "started_at": "2026-11-21T06:02:08Z",
+      "upload_account": "serialy",
+      "source_id": -66449557663812053,
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e12-h-e-r-hero-cs/eff1f4c990f16734",
+      "size_bytes": 318596497,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340092,5 +1340108,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:01:25Z"
+  "last_updated": "2026-11-21T06:02:08Z"
 }
