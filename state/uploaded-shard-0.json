@@ -923135,6 +923135,32 @@
         "download_sec": 29.6,
         "upload_sec": 34.8
       }
+    },
+    {
+      "episode_id": 74281,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 9,
+      "episode_code": "S01E09",
+      "display_name": "About a Boy S01E09 - 9. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -18295754867718221,
+      "external_id": "724054a06a11b6a1",
+      "source_url": "https://prehraj.to/about-a-boy-s01e09-about-a-kiss-1080p-cz/724054a06a11b6a1",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221410,
+      "size_bytes": 631912414,
+      "uploaded_at": "2026-11-21T05:57:00Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 34.4,
+        "upload_sec": 49.9
+      }
     }
   ],
   "pending_uploads": [
@@ -924256,6 +924282,38 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 22373,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 18,
+      "display_name": "Alfred Hitchcock uvádí S05E18 - 18. epizoda CZ Titulky",
+      "intent_id": "9087322f5c004a07928280846816360a",
+      "started_at": "2026-11-21T05:59:42Z",
+      "upload_account": "primary",
+      "source_id": -7012667516273425,
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e18/594988d9a2a19",
+      "size_bytes": 332298755,
+      "source_container": "mkv",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 22372,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 17,
+      "display_name": "Alfred Hitchcock uvádí S05E17 - 17. epizoda CZ Titulky",
+      "intent_id": "975f2792af1347a0985d6b8892928851",
+      "started_at": "2026-11-21T06:00:00Z",
+      "upload_account": "primary",
+      "source_id": -39609579493002501,
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e17/594988c62e406",
+      "size_bytes": 332231033,
+      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1342281,5 +1342339,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:51:17Z"
+  "last_updated": "2026-11-21T06:00:00Z"
 }
