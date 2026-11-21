@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 107916,
-    "manifest_upload_ready_episodes": 1,
-    "uploaded_episodes": 83747,
-    "prepared_source_episodes": 67716,
+    "manifest_upload_ready_episodes": 0,
+    "uploaded_episodes": 83748,
+    "prepared_source_episodes": 67707,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
@@ -12,8 +12,8 @@
     "language_audited_sources": 40,
     "language_whisper_attempted_sources": 40,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53347,
-    "whisper_review_pending_sources": 35842,
+    "whisper_review_sources": 53348,
+    "whisper_review_pending_sources": 35845,
     "upload_pending_checkpoints": 144,
     "subtitle_followup_sources": 52665,
     "subtitle_followup_pending_sources": 52665
@@ -21,10 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T15:23:25Z",
+      "databaseId": 44918924939,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:22:53Z",
+      "databaseId": 44918876844,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T15:21:51Z",
+      "databaseId": 44918782731,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "external-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T15:21:17Z",
+      "databaseId": 44918731464,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "skipped",
+      "createdAt": "2026-11-21T15:15:33Z",
+      "databaseId": 44918218495,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-subtitles"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T15:15:10Z",
+      "databaseId": 44918180737,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T15:14:53Z",
+      "databaseId": 44918155373,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:13:29Z",
       "databaseId": 44918037762,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +100,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:10:03Z",
       "databaseId": 44917722370,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -68,11 +124,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:07:18Z",
       "databaseId": 44917476504,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "audit-language"
     },
     {
@@ -84,11 +140,11 @@
       "workflowName": "prepare-sources"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:06:50Z",
       "databaseId": 44917431215,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -108,11 +164,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T15:05:23Z",
       "databaseId": 44917300052,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:57:35Z",
-      "databaseId": 44916602122,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:56:15Z",
-      "databaseId": 44916497374,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:55:33Z",
-      "databaseId": 44916438665,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T14:53:29Z",
-      "databaseId": 44916262995,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:52:28Z",
-      "databaseId": 44916176101,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-21T14:52:25Z",
-      "databaseId": 44916172719,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T14:52:22Z",
-      "databaseId": 44916166758,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
     }
   ],
   "gaps": {
@@ -393135,6 +393135,11 @@
         "episode_id": 81847,
         "display_name": "Smash S01E08 - 8. epizoda CZ Titulky",
         "video_id": 31230837
+      },
+      {
+        "episode_id": 204102,
+        "display_name": "Marshals: Příběh z Yellowstonu S02E06 - 6. epizoda CZ Dabing",
+        "video_id": 31231134
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -785987,6 +785992,11 @@
         "episode_id": 81847,
         "display_name": "Smash S01E08 - 8. epizoda CZ Titulky",
         "video_id": 31230837
+      },
+      {
+        "episode_id": 204102,
+        "display_name": "Marshals: Příběh z Yellowstonu S02E06 - 6. epizoda CZ Dabing",
+        "video_id": 31231134
       }
     ],
     "prepared_not_upload_ready": [
@@ -787152,9 +787162,9 @@
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34562,
+    "needs_whisper": 34565,
     "whisper_confirmed_cz": 4333,
-    "whisper_non_cz_needs_subtitles": 13172,
+    "whisper_non_cz_needs_subtitles": 13170,
     "whisper_failed": 1280
   },
   "subtitle_followup_statuses": {
