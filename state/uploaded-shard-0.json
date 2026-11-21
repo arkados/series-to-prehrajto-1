@@ -924305,6 +924305,32 @@
         "download_sec": 115.7,
         "upload_sec": 98.9
       }
+    },
+    {
+      "episode_id": 107796,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "Rodinka na kousky S01E06 - 6. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -31757709712509718,
+      "external_id": "67a6ec584751f",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e06-22-2015-cz-dab-400p-ponzi-sex-paris-bounce/67a6ec584751f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31226694,
+      "size_bytes": 329391044,
+      "uploaded_at": "2026-11-21T11:02:19Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 20.1,
+        "upload_sec": 34.8
+      }
     }
   ],
   "pending_uploads": [
@@ -925445,18 +925471,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 107796,
+      "episode_id": 107797,
       "series_id": 2690,
       "series_title": "Rodinka na kousky",
       "season": 1,
-      "episode": 6,
-      "display_name": "Rodinka na kousky S01E06 - 6. epizoda CZ Dabing",
-      "intent_id": "9193c9f03202464bb35175f71ded32d4",
-      "started_at": "2026-11-21T11:00:59Z",
+      "episode": 7,
+      "display_name": "Rodinka na kousky S01E07 - 7. epizoda CZ Dabing",
+      "intent_id": "e683641a681041fbab078c35d71bbb0c",
+      "started_at": "2026-11-21T11:01:17Z",
       "upload_account": "primary",
-      "source_id": -31757709712509718,
-      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e06-22-2015-cz-dab-400p-ponzi-sex-paris-bounce/67a6ec584751f",
-      "size_bytes": 329391044,
+      "source_id": -33123753939942287,
+      "source_url": "https://prehraj.to/rodinka-na-kousky-01x07-dvb-t-cz/589fc230b6f58",
+      "size_bytes": 329362676,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1343517,5 +1343543,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T11:00:59Z"
+  "last_updated": "2026-11-21T11:02:19Z"
 }
