@@ -921300,6 +921300,58 @@
         "download_sec": 45.2,
         "upload_sec": 28.9
       }
+    },
+    {
+      "episode_id": 107810,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Rodinka na kousky S01E10 - 10. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -22274430353067299,
+      "external_id": "68f85d70124b3",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e10-22-2015-cz-dab-400p-popaleninova-vasektomi/68f85d70124b3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223405,
+      "size_bytes": 329626204,
+      "uploaded_at": "2026-11-21T08:03:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 17.6,
+        "upload_sec": 28.4
+      }
+    },
+    {
+      "episode_id": 78563,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 2,
+      "episode": 2,
+      "episode_code": "S02E02",
+      "display_name": "Neranditelní S02E02 - 2. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -71203945474072458,
+      "external_id": "58bd716c13dba",
+      "source_url": "https://prehraj.to/neranditelni-02x02-dvb-t-cz/58bd716c13dba",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223412,
+      "size_bytes": 329203532,
+      "uploaded_at": "2026-11-21T08:04:48Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 25.8,
+        "upload_sec": 30.0
+      }
     }
   ],
   "pending_uploads": [
@@ -922437,38 +922489,6 @@
       "source_url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
       "size_bytes": 316469971,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 107810,
-      "series_id": 2690,
-      "series_title": "Rodinka na kousky",
-      "season": 1,
-      "episode": 10,
-      "display_name": "Rodinka na kousky S01E10 - 10. epizoda CZ Dabing",
-      "intent_id": "5c4a43db5da24d85aeceb927966dc40c",
-      "started_at": "2026-11-21T08:02:49Z",
-      "upload_account": "serialy",
-      "source_id": -22274430353067299,
-      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e10-22-2015-cz-dab-400p-popaleninova-vasektomi/68f85d70124b3",
-      "size_bytes": 329626204,
-      "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 78563,
-      "series_id": 1835,
-      "series_title": "Neranditelní",
-      "season": 2,
-      "episode": 2,
-      "display_name": "Neranditelní S02E02 - 2. epizoda CZ Dabing",
-      "intent_id": "7407e550689b415d856a0287ba076f2f",
-      "started_at": "2026-11-21T08:02:56Z",
-      "upload_account": "serialy",
-      "source_id": -71203945474072458,
-      "source_url": "https://prehraj.to/neranditelni-02x02-dvb-t-cz/58bd716c13dba",
-      "size_bytes": 329203532,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1340528,5 +1340548,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:02:56Z"
+  "last_updated": "2026-11-21T08:04:48Z"
 }
