@@ -1,9 +1,9 @@
 {
   "counts": {
     "backlog_episodes": 108119,
-    "manifest_upload_ready_episodes": 5,
-    "uploaded_episodes": 83565,
-    "prepared_source_episodes": 67775,
+    "manifest_upload_ready_episodes": 3,
+    "uploaded_episodes": 83566,
+    "prepared_source_episodes": 67773,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
@@ -21,10 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T01:55:55Z",
+      "databaseId": 44853017899,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T01:55:47Z",
+      "databaseId": 44853006408,
+      "headBranch": "main",
+      "status": "queued",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T01:55:30Z",
+      "databaseId": 44852980709,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T01:55:13Z",
+      "databaseId": 44852953201,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T01:53:44Z",
+      "databaseId": 44852817416,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-21T01:53:41Z",
+      "databaseId": 44852813561,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T01:53:39Z",
+      "databaseId": 44852810041,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:52:07Z",
       "databaseId": 44852665968,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +108,11 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-21T01:48:23Z",
       "databaseId": 44852313205,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -100,11 +156,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T01:42:17Z",
       "databaseId": 44851734041,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -119,62 +175,6 @@
       "conclusion": "cancelled",
       "createdAt": "2026-11-21T01:38:26Z",
       "databaseId": 44851353469,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T01:38:18Z",
-      "databaseId": 44851342474,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:36:26Z",
-      "databaseId": 44851159128,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:36:22Z",
-      "databaseId": 44851153023,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:35:01Z",
-      "databaseId": 44851019252,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:33:43Z",
-      "databaseId": 44850895613,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:33:37Z",
-      "databaseId": 44850884984,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T01:32:49Z",
-      "databaseId": 44850803265,
       "headBranch": "main",
       "status": "completed",
       "workflowName": "prepare-manifest"
@@ -205270,6 +205270,11 @@
         "episode_id": 71961,
         "display_name": "Highlander S05E20 - 20. epizoda CZ Titulky",
         "video_id": 31217577
+      },
+      {
+        "episode_id": 68533,
+        "display_name": "Život beze slov S01E02 - Nový asistant CZ Dabing",
+        "video_id": 31217609
       },
       {
         "episode_id": 114182,
@@ -597212,6 +597217,11 @@
         "episode_id": 71961,
         "display_name": "Highlander S05E20 - 20. epizoda CZ Titulky",
         "video_id": 31217577
+      },
+      {
+        "episode_id": 68533,
+        "display_name": "Život beze slov S01E02 - Nový asistant CZ Dabing",
+        "video_id": 31217609
       },
       {
         "episode_id": 114182,
