@@ -921144,6 +921144,32 @@
         "download_sec": 24.0,
         "upload_sec": 31.0
       }
+    },
+    {
+      "episode_id": 50243,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 2,
+      "episode": 12,
+      "episode_code": "S02E12",
+      "display_name": "The Neighbors S02E12 - 12. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -17568635192475280,
+      "external_id": "c32babd415224775",
+      "source_url": "https://prehraj.to/the-neighbors-s2e12-fear-and-loving-in-new-jersey-en/c32babd415224775",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31222309,
+      "size_bytes": 318176360,
+      "uploaded_at": "2026-11-21T07:04:29Z",
+      "timing": {
+        "resolve_sec": 1.7,
+        "download_sec": 14.9,
+        "upload_sec": 26.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1340290,5 +1340316,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:01:49Z"
+  "last_updated": "2026-11-21T07:04:29Z"
 }
