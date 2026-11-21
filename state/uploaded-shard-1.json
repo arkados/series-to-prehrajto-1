@@ -922173,6 +922173,32 @@
         "download_sec": 32.8,
         "upload_sec": 29.8
       }
+    },
+    {
+      "episode_id": 78549,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Neranditelní S01E01 - 1. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -51886134473518455,
+      "external_id": "f1c1a7760e92cba7",
+      "source_url": "https://prehraj.to/neranditelni-s01e01-1-epizoda-1080p-cz-dabing-mkv/f1c1a7760e92cba7",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215945,
+      "size_bytes": 917198398,
+      "uploaded_at": "2026-11-21T00:10:37Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 34.1,
+        "upload_sec": 58.4
+      }
     }
   ],
   "pending_uploads": [
@@ -923294,22 +923320,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 78549,
-      "series_id": 1835,
-      "series_title": "Neranditelní",
-      "season": 1,
-      "episode": 1,
-      "display_name": "Neranditelní S01E01 - 1. epizoda CZ Dabing",
-      "intent_id": "adf8fbcfe10b459b8c90d6f2f4e88d11",
-      "started_at": "2026-11-21T00:09:04Z",
-      "upload_account": "primary",
-      "source_id": -51886134473518455,
-      "source_url": "https://prehraj.to/neranditelni-s01e01-1-epizoda-1080p-cz-dabing-mkv/f1c1a7760e92cba7",
-      "size_bytes": 917198398,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1341335,5 +1341345,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T00:09:04Z"
+  "last_updated": "2026-11-21T00:10:37Z"
 }
