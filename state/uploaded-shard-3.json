@@ -920988,6 +920988,32 @@
         "download_sec": 14.7,
         "upload_sec": 52.4
       }
+    },
+    {
+      "episode_id": 74282,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "About a Boy S01E10 - 10. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -43978299998767414,
+      "external_id": "1f6804d39236f9d0",
+      "source_url": "https://prehraj.to/about-a-boy-s01e10-about-a-boy-s-dad-1080p-cz/1f6804d39236f9d0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221567,
+      "size_bytes": 692696895,
+      "uploaded_at": "2026-11-21T06:09:56Z",
+      "timing": {
+        "resolve_sec": 1.3,
+        "download_sec": 31.6,
+        "upload_sec": 64.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1340134,5 +1340160,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:04:22Z"
+  "last_updated": "2026-11-21T06:09:56Z"
 }
