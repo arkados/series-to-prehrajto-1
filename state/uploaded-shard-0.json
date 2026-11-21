@@ -922615,6 +922615,32 @@
         "download_sec": 24.2,
         "upload_sec": 36.7
       }
+    },
+    {
+      "episode_id": 74273,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 3,
+      "episode_code": "S01E03",
+      "display_name": "About a Boy S01E03 - 3. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -43211454152419866,
+      "external_id": "1834d0200414e777",
+      "source_url": "https://prehraj.to/about-a-boy-s01e03-about-a-godfather-1080p-cz/1834d0200414e777",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31218757,
+      "size_bytes": 601599601,
+      "uploaded_at": "2026-11-21T03:07:57Z",
+      "timing": {
+        "resolve_sec": 1.5,
+        "download_sec": 27.2,
+        "upload_sec": 47.5
+      }
     }
   ],
   "pending_uploads": [
@@ -923736,6 +923762,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 123784,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 3,
+      "episode": 7,
+      "display_name": "Flashpoint S03E07 - 7. epizoda CZ Dabing",
+      "intent_id": "6f3338df81624b8484f6ef64e652dc47",
+      "started_at": "2026-11-21T03:17:10Z",
+      "upload_account": "primary",
+      "source_id": -54899734665731864,
+      "source_url": "https://prehraj.to/flashpoint-s03e07-7-epizoda-sd-cz-dabing-avi/8565030ebfd8e1b1",
+      "size_bytes": 373491068,
+      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1341761,5 +1341803,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T03:03:16Z"
+  "last_updated": "2026-11-21T03:17:16Z"
 }
