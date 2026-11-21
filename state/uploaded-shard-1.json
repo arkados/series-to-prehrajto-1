@@ -922355,6 +922355,84 @@
         "download_sec": 15.0,
         "upload_sec": 25.5
       }
+    },
+    {
+      "episode_id": 50212,
+      "series_id": 1157,
+      "series_title": "The Neighbors",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "The Neighbors S01E02 - 2. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -30985449612407722,
+      "external_id": "63ef98c0e29be",
+      "source_url": "https://prehraj.to/the-neighbors-s01e02-cztit/63ef98c0e29be",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217407,
+      "size_bytes": 314586990,
+      "uploaded_at": "2026-11-21T01:42:32Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 11.8,
+        "upload_sec": 23.9
+      }
+    },
+    {
+      "episode_id": 68532,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 1,
+      "episode_code": "S01E01",
+      "display_name": "Život beze slov S01E01 - 1. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -39490655450292009,
+      "external_id": "2e5f38778a4e6bb8",
+      "source_url": "https://prehraj.to/zivot-beze-slov-s1e1-p-i-pilot-cs/2e5f38778a4e6bb8",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217441,
+      "size_bytes": 321829100,
+      "uploaded_at": "2026-11-21T01:44:57Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 22.7,
+        "upload_sec": 27.5
+      }
+    },
+    {
+      "episode_id": 68536,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Život beze slov S01E04 - Inspirace CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -45079238573181204,
+      "external_id": "5e5a41e61be37",
+      "source_url": "https://prehraj.to/zivot-beze-slov-01x04-komedie-cz-dabing-angel/5e5a41e61be37",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217472,
+      "size_bytes": 321109166,
+      "uploaded_at": "2026-11-21T01:46:49Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 11.9,
+        "upload_sec": 27.0
+      }
     }
   ],
   "pending_uploads": [
@@ -923476,6 +923554,22 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
+      "source_download_kind": "original"
+    },
+    {
+      "episode_id": 71961,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 20,
+      "display_name": "Highlander S05E20 - 20. epizoda CZ Titulky",
+      "intent_id": "20b7c2945d344ee892f7505b69ceb4bc",
+      "started_at": "2026-11-21T01:50:59Z",
+      "upload_account": "primary",
+      "source_id": -43727998926642096,
+      "source_url": "https://prehraj.to/highlander-s05e20-cz-tit/59787bf145115",
+      "size_bytes": 363258255,
+      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1341501,5 +1341595,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:36:37Z"
+  "last_updated": "2026-11-21T01:50:59Z"
 }
