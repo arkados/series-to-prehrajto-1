@@ -925703,6 +925703,22 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 146720,
+      "series_id": 4816,
+      "series_title": "The Listener",
+      "season": 4,
+      "episode": 7,
+      "display_name": "The Listener S04E07 - 7. epizoda CZ Titulky",
+      "intent_id": "d8975478582d4158a1ef64ce4603729e",
+      "started_at": "2026-11-21T11:53:13Z",
+      "upload_account": "primary",
+      "source_id": -54747697633089881,
+      "source_url": "https://prehraj.to/the-listener-s04e07-eng/5e0531d7eedac",
+      "size_bytes": 364320636,
+      "source_container": "mp4",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1343761,5 +1343777,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T11:52:21Z"
+  "last_updated": "2026-11-21T11:53:13Z"
 }
