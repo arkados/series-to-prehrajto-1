@@ -921170,6 +921170,58 @@
         "download_sec": 14.9,
         "upload_sec": 26.6
       }
+    },
+    {
+      "episode_id": 22383,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 28,
+      "episode_code": "S05E28",
+      "display_name": "Alfred Hitchcock uvádí S05E28 - 28. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -31172437512333399,
+      "external_id": "594a252c82f32",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e28/594a252c82f32",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31222591,
+      "size_bytes": 332307983,
+      "uploaded_at": "2026-11-21T07:14:09Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 15.3,
+        "upload_sec": 34.4
+      }
+    },
+    {
+      "episode_id": 78571,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 3,
+      "episode": 3,
+      "episode_code": "S03E03",
+      "display_name": "Neranditelní S03E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -63996252937056889,
+      "external_id": "678a4e082d575884",
+      "source_url": "https://prehraj.to/neranditelni-s3e3-a-rock-and-a-hard-place-walk-into-a-bar-en/678a4e082d575884",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31222633,
+      "size_bytes": 316974076,
+      "uploaded_at": "2026-11-21T07:16:11Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 16.2,
+        "upload_sec": 28.6
+      }
     }
   ],
   "pending_uploads": [
@@ -1340316,5 +1340368,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:09:29Z"
+  "last_updated": "2026-11-21T07:16:11Z"
 }
