@@ -923707,6 +923707,32 @@
         "download_sec": 18.8,
         "upload_sec": 41.5
       }
+    },
+    {
+      "episode_id": 79257,
+      "series_id": 1852,
+      "series_title": "Army Wives",
+      "season": 2,
+      "episode": 10,
+      "episode_code": "S02E10",
+      "display_name": "Army Wives S02E10 - 10. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -46924351474888224,
+      "external_id": "58ff41be83253",
+      "source_url": "https://prehraj.to/army-wives-s02e10/58ff41be83253",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223060,
+      "size_bytes": 364791808,
+      "uploaded_at": "2026-11-21T07:43:00Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 29.0,
+        "upload_sec": 31.1
+      }
     }
   ],
   "pending_uploads": [
@@ -924843,22 +924869,6 @@
       "source_id": -1236031785044719,
       "source_url": "https://prehraj.to/rodinka-na-kousky-s01e01-22-2015-cz-dab-400p-pilot/68f85cc2cd87c",
       "size_bytes": 331581538,
-      "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 79257,
-      "series_id": 1852,
-      "series_title": "Army Wives",
-      "season": 2,
-      "episode": 10,
-      "display_name": "Army Wives S02E10 - 10. epizoda CZ Titulky",
-      "intent_id": "6ce7dad2e78746759e73e9cd7204ccf0",
-      "started_at": "2026-11-21T07:41:27Z",
-      "upload_account": "primary",
-      "source_id": -46924351474888224,
-      "source_url": "https://prehraj.to/army-wives-s02e10/58ff41be83253",
-      "size_bytes": 364791808,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1342885,5 +1342895,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:41:27Z"
+  "last_updated": "2026-11-21T07:43:00Z"
 }
