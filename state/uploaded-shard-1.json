@@ -924227,6 +924227,32 @@
         "download_sec": 19.7,
         "upload_sec": 33.5
       }
+    },
+    {
+      "episode_id": 107801,
+      "series_id": 2690,
+      "series_title": "Rodinka na kousky",
+      "season": 1,
+      "episode": 14,
+      "episode_code": "S01E14",
+      "display_name": "Rodinka na kousky S01E14 - 14. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -34934267419639420,
+      "external_id": "67a6febcd2802",
+      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e14-22-2015-cz-dab-400p-will-trash-book-spa/67a6febcd2802",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31225937,
+      "size_bytes": 325832484,
+      "uploaded_at": "2026-11-21T10:22:46Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.7,
+        "upload_sec": 25.2
+      }
     }
   ],
   "pending_uploads": [
@@ -925363,22 +925389,6 @@
       "source_id": -1236031785044719,
       "source_url": "https://prehraj.to/rodinka-na-kousky-s01e01-22-2015-cz-dab-400p-pilot/68f85cc2cd87c",
       "size_bytes": 331581538,
-      "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 107801,
-      "series_id": 2690,
-      "series_title": "Rodinka na kousky",
-      "season": 1,
-      "episode": 14,
-      "display_name": "Rodinka na kousky S01E14 - 14. epizoda CZ Dabing",
-      "intent_id": "b2f80e3c435745cc93c891c43c910372",
-      "started_at": "2026-11-21T10:21:45Z",
-      "upload_account": "primary",
-      "source_id": -34934267419639420,
-      "source_url": "https://prehraj.to/rodinka-na-kousky-s01e14-22-2015-cz-dab-400p-will-trash-book-spa/67a6febcd2802",
-      "size_bytes": 325832484,
       "source_container": "avi",
       "source_download_kind": "original"
     }
@@ -1343439,5 +1343449,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T10:21:45Z"
+  "last_updated": "2026-11-21T10:22:46Z"
 }
