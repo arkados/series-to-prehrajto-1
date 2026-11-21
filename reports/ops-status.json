@@ -2,11 +2,11 @@
   "counts": {
     "backlog_episodes": 108119,
     "manifest_upload_ready_episodes": 0,
-    "uploaded_episodes": 83568,
-    "prepared_source_episodes": 67776,
+    "uploaded_episodes": 83569,
+    "prepared_source_episodes": 67774,
     "description_series": 60,
     "description_episodes": 753,
-    "description_errors": 41,
+    "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
     "language_audited_sources": 41,
@@ -14,17 +14,81 @@
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53405,
     "whisper_review_pending_sources": 36059,
-    "upload_pending_checkpoints": 140,
+    "upload_pending_checkpoints": 139,
     "subtitle_followup_sources": 52575,
     "subtitle_followup_pending_sources": 52575
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T02:05:30Z",
+      "databaseId": 44853922805,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "refresh-backlog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T02:05:01Z",
+      "databaseId": 44853872687,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T02:03:54Z",
+      "databaseId": 44853767052,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T02:03:45Z",
+      "databaseId": 44853752386,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T02:03:28Z",
+      "databaseId": 44853725097,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "failure",
+      "createdAt": "2026-11-21T02:03:26Z",
+      "databaseId": 44853720981,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T02:03:23Z",
+      "databaseId": 44853717268,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T02:03:21Z",
+      "databaseId": 44853712458,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-sources"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T02:01:52Z",
       "databaseId": 44853573505,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,19 +108,19 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-21T01:55:55Z",
       "databaseId": 44853017899,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "failure",
       "createdAt": "2026-11-21T01:55:47Z",
       "databaseId": 44853006408,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
@@ -114,70 +178,6 @@
       "headBranch": "main",
       "status": "in_progress",
       "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T01:50:07Z",
-      "databaseId": 44852476611,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T01:48:30Z",
-      "databaseId": 44852324278,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T01:48:23Z",
-      "databaseId": 44852313205,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:45:15Z",
-      "databaseId": 44852016887,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:45:12Z",
-      "databaseId": 44852011089,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:45:09Z",
-      "databaseId": 44852005481,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:43:50Z",
-      "databaseId": 44851880414,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T01:42:34Z",
-      "databaseId": 44851760672,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -205275,6 +205275,11 @@
         "episode_id": 68533,
         "display_name": "Život beze slov S01E02 - Nový asistant CZ Dabing",
         "video_id": 31217609
+      },
+      {
+        "episode_id": 71897,
+        "display_name": "Highlander S06E04 - 4. epizoda CZ Titulky",
+        "video_id": 31217737
       },
       {
         "episode_id": 114182,
@@ -597232,6 +597237,11 @@
         "episode_id": 68533,
         "display_name": "Život beze slov S01E02 - Nový asistant CZ Dabing",
         "video_id": 31217609
+      },
+      {
+        "episode_id": 71897,
+        "display_name": "Highlander S06E04 - 4. epizoda CZ Titulky",
+        "video_id": 31217737
       },
       {
         "episode_id": 114182,
