@@ -920936,6 +920936,32 @@
         "download_sec": 33.7,
         "upload_sec": 50.3
       }
+    },
+    {
+      "episode_id": 78555,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 7,
+      "episode_code": "S01E07",
+      "display_name": "Neranditelní S01E07 - 7. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -12768241451949010,
+      "external_id": "588e807702bb3",
+      "source_url": "https://prehraj.to/neranditelni-01x07-dvb-t-cz/588e807702bb3",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221465,
+      "size_bytes": 331331816,
+      "uploaded_at": "2026-11-21T06:01:25Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 27.7,
+        "upload_sec": 47.6
+      }
     }
   ],
   "pending_uploads": [
@@ -922042,22 +922068,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 78555,
-      "series_id": 1835,
-      "series_title": "Neranditelní",
-      "season": 1,
-      "episode": 7,
-      "display_name": "Neranditelní S01E07 - 7. epizoda CZ Dabing",
-      "intent_id": "379b322d89da4ad4a04fc44236c260d5",
-      "started_at": "2026-11-21T05:59:53Z",
-      "upload_account": "serialy",
-      "source_id": -12768241451949010,
-      "source_url": "https://prehraj.to/neranditelni-01x07-dvb-t-cz/588e807702bb3",
-      "size_bytes": 331331816,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340082,5 +1340092,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:59:53Z"
+  "last_updated": "2026-11-21T06:01:25Z"
 }
