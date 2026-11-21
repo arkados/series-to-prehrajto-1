@@ -920286,6 +920286,32 @@
         "download_sec": 27.8,
         "upload_sec": 29.1
       }
+    },
+    {
+      "episode_id": 71962,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 6,
+      "episode": 3,
+      "episode_code": "S06E03",
+      "display_name": "Highlander S06E03 - 3. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -19335438312460253,
+      "external_id": "59787c191559d",
+      "source_url": "https://prehraj.to/highlander-s06e03-cz-tit/59787c191559d",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217724,
+      "size_bytes": 363606053,
+      "uploaded_at": "2026-11-21T02:01:21Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 29.2,
+        "upload_sec": 28.9
+      }
     }
   ],
   "pending_uploads": [
@@ -1339416,5 +1339442,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T01:58:27Z"
+  "last_updated": "2026-11-21T02:12:47Z"
 }
