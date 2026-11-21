@@ -1342893,7 +1342893,41 @@
         "download_sec": 584.9,
         "upload_sec": 82.6
       }
+    },
+    {
+      "episode_id": 107808,
+      "series_id": 2690,
+      "display_name": "Rodinka na kousky S01E01 - 1. epizoda CZ Dabing",
+      "source_id": -1236031785044719,
+      "external_id": "68f85cc2cd87c",
+      "url": "https://prehraj.to/rodinka-na-kousky-s01e01-22-2015-cz-dab-400p-pilot/68f85cc2cd87c",
+      "reason": "upload_failed: HTTPError: 502 Server Error: Bad Gateway for url: <upload-url>",
+      "permanent": false,
+      "download_policy_version": 1,
+      "failed_at": "2026-11-21T07:42:14Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 18.0,
+        "upload_sec": 19.0
+      }
+    },
+    {
+      "episode_id": 78575,
+      "series_id": 1835,
+      "display_name": "Neranditelní S03E07 - 7. epizoda CZ Titulky",
+      "source_id": -67537932636281230,
+      "external_id": "36ba31ca3852a932",
+      "url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
+      "reason": "upload_failed: HTTPError: 502 Server Error: Bad Gateway for url: <upload-url>",
+      "permanent": false,
+      "download_policy_version": 1,
+      "failed_at": "2026-11-21T07:45:45Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.2,
+        "upload_sec": 22.1
+      }
     }
   ],
-  "last_updated": "2026-11-21T07:43:00Z"
+  "last_updated": "2026-11-21T07:45:45Z"
 }
