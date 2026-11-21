@@ -922979,6 +922979,58 @@
         "download_sec": 27.5,
         "upload_sec": 34.9
       }
+    },
+    {
+      "episode_id": 123785,
+      "series_id": 3331,
+      "series_title": "Flashpoint",
+      "season": 3,
+      "episode": 5,
+      "episode_code": "S03E05",
+      "display_name": "Flashpoint S03E05 - 5. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -69102594111231729,
+      "external_id": "08ca117b0fc88631",
+      "source_url": "https://prehraj.to/flashpoint-s03e05-5-epizoda-sd-cz-dabing-avi/08ca117b0fc88631",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220826,
+      "size_bytes": 365581718,
+      "uploaded_at": "2026-11-21T05:22:20Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.6,
+        "upload_sec": 38.0
+      }
+    },
+    {
+      "episode_id": 22368,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 13,
+      "episode_code": "S05E13",
+      "display_name": "Alfred Hitchcock uvádí S05E13 - 13. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -68531979638035186,
+      "external_id": "5949973aa2f2d",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e13/5949973aa2f2d",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220835,
+      "size_bytes": 332224501,
+      "uploaded_at": "2026-11-21T05:23:53Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 24.2,
+        "upload_sec": 65.4
+      }
     }
   ],
   "pending_uploads": [
@@ -924103,35 +924155,19 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 123785,
-      "series_id": 3331,
-      "series_title": "Flashpoint",
-      "season": 3,
-      "episode": 5,
-      "display_name": "Flashpoint S03E05 - 5. epizoda CZ Dabing",
-      "intent_id": "83dd2d9b45e34e38b8c1a28abc6fb5a2",
-      "started_at": "2026-11-21T05:21:08Z",
+      "episode_id": 146721,
+      "series_id": 4816,
+      "series_title": "The Listener",
+      "season": 4,
+      "episode": 8,
+      "display_name": "The Listener S04E08 - 8. epizoda CZ Titulky",
+      "intent_id": "efc1e1bde80d4c249a4ff30ba3e9e92c",
+      "started_at": "2026-11-21T05:23:28Z",
       "upload_account": "primary",
-      "source_id": -69102594111231729,
-      "source_url": "https://prehraj.to/flashpoint-s03e05-5-epizoda-sd-cz-dabing-avi/08ca117b0fc88631",
-      "size_bytes": 365581718,
-      "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 22368,
-      "series_id": 105,
-      "series_title": "Alfred Hitchcock uvádí",
-      "season": 5,
-      "episode": 13,
-      "display_name": "Alfred Hitchcock uvádí S05E13 - 13. epizoda CZ Titulky",
-      "intent_id": "b6aa9a64e8e6485f9c65a73d1b6cb239",
-      "started_at": "2026-11-21T05:21:26Z",
-      "upload_account": "primary",
-      "source_id": -68531979638035186,
-      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e13/5949973aa2f2d",
-      "size_bytes": 332224501,
-      "source_container": "mkv",
+      "source_id": -67468518003184805,
+      "source_url": "https://prehraj.to/the-listener-s04e08-eng/5e0531f7e3d95",
+      "size_bytes": 316020811,
+      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1342157,5 +1342193,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:21:26Z"
+  "last_updated": "2026-11-21T05:23:53Z"
 }
