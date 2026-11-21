@@ -924019,6 +924019,32 @@
         "download_sec": 22.2,
         "upload_sec": 38.6
       }
+    },
+    {
+      "episode_id": 17609,
+      "series_id": 771,
+      "series_title": "Basket nebo nic",
+      "season": 1,
+      "episode": 4,
+      "episode_code": "S01E04",
+      "display_name": "Basket nebo nic S01E04 - Nejlepší volba pro Rez CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -60786896036515828,
+      "external_id": "e627a9573b3a9538",
+      "source_url": "https://prehraj.to/basket-nebo-nic-s1e4-epizoda-4-en/e627a9573b3a9538",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31224555,
+      "size_bytes": 362762401,
+      "uploaded_at": "2026-11-21T09:16:59Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 21.3,
+        "upload_sec": 40.5
+      }
     }
   ],
   "pending_uploads": [
@@ -925157,22 +925183,6 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 17609,
-      "series_id": 771,
-      "series_title": "Basket nebo nic",
-      "season": 1,
-      "episode": 4,
-      "display_name": "Basket nebo nic S01E04 - Nejlepší volba pro Rez CZ Titulky",
-      "intent_id": "5accdccaf8ed45dabe5132810f457138",
-      "started_at": "2026-11-21T09:14:50Z",
-      "upload_account": "primary",
-      "source_id": -60786896036515828,
-      "source_url": "https://prehraj.to/basket-nebo-nic-s1e4-epizoda-4-en/e627a9573b3a9538",
-      "size_bytes": 362762401,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343231,5 +1343241,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T09:15:58Z"
+  "last_updated": "2026-11-21T09:16:59Z"
 }
