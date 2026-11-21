@@ -1,24 +1,56 @@
 {
   "counts": {
     "backlog_episodes": 108119,
-    "manifest_upload_ready_episodes": 3,
-    "uploaded_episodes": 83547,
-    "prepared_source_episodes": 67773,
+    "manifest_upload_ready_episodes": 4,
+    "uploaded_episodes": 83548,
+    "prepared_source_episodes": 67782,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 41,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 47,
+    "language_audited_sources": 48,
     "language_whisper_attempted_sources": 47,
     "language_pending_whisper_sources": 2604,
     "whisper_review_sources": 53411,
     "whisper_review_pending_sources": 36087,
-    "upload_pending_checkpoints": 139,
+    "upload_pending_checkpoints": 140,
     "subtitle_followup_sources": 52568,
     "subtitle_followup_pending_sources": 52568
   },
   "workflow_runs": [
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T00:26:15Z",
+      "databaseId": 44843808862,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T00:25:22Z",
+      "databaseId": 44843706739,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T00:25:19Z",
+      "databaseId": 44843700784,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T00:25:03Z",
+      "databaseId": 44843668115,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
     {
       "conclusion": "",
       "createdAt": "2026-11-21T00:24:02Z",
@@ -28,11 +60,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T00:23:50Z",
       "databaseId": 44843537243,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -52,11 +84,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-21T00:12:32Z",
       "databaseId": 44842257948,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -68,11 +100,11 @@
       "workflowName": "process-whisper-review"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T00:12:27Z",
       "databaseId": 44842249087,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-sources"
     },
     {
@@ -146,38 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T00:06:34Z",
-      "databaseId": 44841575559,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T00:06:30Z",
-      "databaseId": 44841569191,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T00:05:10Z",
-      "databaseId": 44841411158,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T00:05:01Z",
-      "databaseId": 44841389850,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -392135,6 +392135,11 @@
         "episode_id": 71891,
         "display_name": "Highlander S05E06 - 6. epizoda CZ Titulky",
         "video_id": 31215933
+      },
+      {
+        "episode_id": 78551,
+        "display_name": "Neranditelní S01E03 - 3. epizoda CZ Dabing",
+        "video_id": 31216201
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -783987,6 +783992,11 @@
         "episode_id": 71891,
         "display_name": "Highlander S05E06 - 6. epizoda CZ Titulky",
         "video_id": 31215933
+      },
+      {
+        "episode_id": 78551,
+        "display_name": "Neranditelní S01E03 - 3. epizoda CZ Dabing",
+        "video_id": 31216201
       }
     ],
     "prepared_not_upload_ready": [
@@ -785150,6 +785160,7 @@
   "language_whisper_statuses": {
     "ok": 45,
     "sample_failed": 1,
+    "disabled": 1,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
