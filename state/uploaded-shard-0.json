@@ -924513,6 +924513,32 @@
         "download_sec": 12.5,
         "upload_sec": 24.7
       }
+    },
+    {
+      "episode_id": 204104,
+      "series_id": 586,
+      "series_title": "Percy Jackson a Olympané",
+      "season": 3,
+      "episode": 2,
+      "episode_code": "S03E02",
+      "display_name": "Percy Jackson a Olympané S03E02 - Návštěva zesnulé staré známé CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -38567465425076627,
+      "external_id": "ac57865df1db4d90",
+      "source_url": "https://prehraj.to/percy-jackson-a-olympane-s03e02-cz-dabing/ac57865df1db4d90",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31227609,
+      "size_bytes": 370764794,
+      "uploaded_at": "2026-11-21T11:50:23Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 11.8,
+        "upload_sec": 39.1
+      }
     }
   ],
   "pending_uploads": [
@@ -925651,22 +925677,6 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 204104,
-      "series_id": 586,
-      "series_title": "Percy Jackson a Olympané",
-      "season": 3,
-      "episode": 2,
-      "display_name": "Percy Jackson a Olympané S03E02 - Návštěva zesnulé staré známé CZ Dabing",
-      "intent_id": "fb43ee2d4e464c7db06c718708014841",
-      "started_at": "2026-11-21T11:48:26Z",
-      "upload_account": "primary",
-      "source_id": -38567465425076627,
-      "source_url": "https://prehraj.to/percy-jackson-a-olympane-s03e02-cz-dabing/ac57865df1db4d90",
-      "size_bytes": 370764794,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343725,5 +1343735,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T11:48:26Z"
+  "last_updated": "2026-11-21T11:50:23Z"
 }
