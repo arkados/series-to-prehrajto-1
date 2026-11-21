@@ -1,19 +1,19 @@
 {
   "counts": {
     "backlog_episodes": 107993,
-    "manifest_upload_ready_episodes": 2,
-    "uploaded_episodes": 83690,
-    "prepared_source_episodes": 67667,
+    "manifest_upload_ready_episodes": 6,
+    "uploaded_episodes": 83691,
+    "prepared_source_episodes": 67687,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 44,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 57,
-    "language_whisper_attempted_sources": 40,
+    "language_audited_sources": 66,
+    "language_whisper_attempted_sources": 49,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53370,
-    "whisper_review_pending_sources": 35943,
+    "whisper_review_sources": 53368,
+    "whisper_review_pending_sources": 35934,
     "upload_pending_checkpoints": 143,
     "subtitle_followup_sources": 52644,
     "subtitle_followup_pending_sources": 52644
@@ -21,10 +21,66 @@
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T10:18:49Z",
+      "databaseId": 44893737448,
+      "headBranch": "main",
+      "status": "pending",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T10:18:09Z",
+      "databaseId": 44893681419,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T10:17:48Z",
+      "databaseId": 44893653817,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "backfill-subtitles"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T10:16:26Z",
+      "databaseId": 44893546454,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T10:16:18Z",
+      "databaseId": 44893536633,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "sync"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T10:15:08Z",
+      "databaseId": 44893438979,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T10:15:04Z",
+      "databaseId": 44893433391,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T10:13:39Z",
       "databaseId": 44893320793,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,19 +100,19 @@
       "workflowName": "prepare-manifest"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T10:11:44Z",
       "databaseId": 44893163631,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "sync"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T10:11:37Z",
       "databaseId": 44893155004,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "backfill-subtitles"
     },
     {
@@ -84,11 +140,11 @@
       "workflowName": "update-descriptions"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T10:04:17Z",
       "databaseId": 44892551468,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "process-whisper-review"
     },
     {
@@ -122,62 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T10:01:20Z",
-      "databaseId": 44892308001,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "process-whisper-review"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-21T10:01:16Z",
-      "databaseId": 44892302603,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T09:59:51Z",
-      "databaseId": 44892169385,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T09:58:55Z",
-      "databaseId": 44892106700,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T09:58:52Z",
-      "databaseId": 44892102703,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T09:58:25Z",
-      "databaseId": 44892071116,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "failure",
-      "createdAt": "2026-11-21T09:58:22Z",
-      "databaseId": 44892067893,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
     }
   ],
   "gaps": {
@@ -205600,6 +205600,11 @@
         "episode_id": 22392,
         "display_name": "Alfred Hitchcock uvádí S05E37 - 37. epizoda CZ Titulky",
         "video_id": 31225447
+      },
+      {
+        "episode_id": 122436,
+        "display_name": "Anno 1790 S01E05 - 5. epizoda CZ Dabing",
+        "video_id": 31225767
       },
       {
         "episode_id": 114182,
@@ -598169,6 +598174,11 @@
         "video_id": 31225447
       },
       {
+        "episode_id": 122436,
+        "display_name": "Anno 1790 S01E05 - 5. epizoda CZ Dabing",
+        "video_id": 31225767
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -786579,12 +786589,13 @@
   "language_verdicts": {},
   "language_whisper_statuses": {
     "disabled": 17,
-    "ok": 39,
+    "sample_failed": 2,
+    "ok": 46,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34653,
-    "whisper_confirmed_cz": 4287,
+    "needs_whisper": 34644,
+    "whisper_confirmed_cz": 4294,
     "whisper_non_cz_needs_subtitles": 13140,
     "whisper_failed": 1290
   },
