@@ -923109,6 +923109,32 @@
         "download_sec": 29.0,
         "upload_sec": 42.1
       }
+    },
+    {
+      "episode_id": 79256,
+      "series_id": 1852,
+      "series_title": "Army Wives",
+      "season": 2,
+      "episode": 9,
+      "episode_code": "S02E09",
+      "display_name": "Army Wives S02E09 - 9. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -8989718332842088,
+      "external_id": "58ff414b8d306",
+      "source_url": "https://prehraj.to/army-wives-s02e09/58ff414b8d306",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221185,
+      "size_bytes": 366068656,
+      "uploaded_at": "2026-11-21T05:44:10Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 29.6,
+        "upload_sec": 34.8
+      }
     }
   ],
   "pending_uploads": [
@@ -924230,22 +924256,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 79256,
-      "series_id": 1852,
-      "series_title": "Army Wives",
-      "season": 2,
-      "episode": 9,
-      "display_name": "Army Wives S02E09 - 9. epizoda CZ Titulky",
-      "intent_id": "7bb4e9d2f34a45fe8a68e4c6d5b7acd7",
-      "started_at": "2026-11-21T05:42:34Z",
-      "upload_account": "primary",
-      "source_id": -8989718332842088,
-      "source_url": "https://prehraj.to/army-wives-s02e09/58ff414b8d306",
-      "size_bytes": 366068656,
-      "source_container": "avi",
       "source_download_kind": "original"
     }
   ],
@@ -1342271,5 +1342281,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:42:34Z"
+  "last_updated": "2026-11-21T05:44:10Z"
 }
