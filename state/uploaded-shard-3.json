@@ -922094,6 +922094,22 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
+    },
+    {
+      "episode_id": 78558,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 1,
+      "episode": 10,
+      "display_name": "Neranditelní S01E10 - 10. epizoda CZ Dabing",
+      "intent_id": "faee21530e1c499a939f4baf8c2c3080",
+      "started_at": "2026-11-21T05:59:52Z",
+      "upload_account": "serialy",
+      "source_id": -40549868383096035,
+      "source_url": "https://prehraj.to/neranditelni-s01e10-10-epizoda-sd-cz-dabing-avi/2bfa8e3099d8837d",
+      "size_bytes": 336950854,
+      "source_container": "avi",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340118,5 +1340134,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T06:03:43Z"
+  "last_updated": "2026-11-21T06:04:22Z"
 }
