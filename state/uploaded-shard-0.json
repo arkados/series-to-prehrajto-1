@@ -922511,6 +922511,32 @@
         "download_sec": 25.8,
         "upload_sec": 29.3
       }
+    },
+    {
+      "episode_id": 22356,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 1,
+      "episode_code": "S05E01",
+      "display_name": "Alfred Hitchcock uvádí S05E01 - 1. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -4031347045265948,
+      "external_id": "594987f190ca0",
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e01/594987f190ca0",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31217915,
+      "size_bytes": 332167719,
+      "uploaded_at": "2026-11-21T02:14:00Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 19.3,
+        "upload_sec": 29.9
+      }
     }
   ],
   "pending_uploads": [
@@ -923632,22 +923658,6 @@
       "source_url": "https://prehraj.to/pozarnik-sam-s06e15-cz-dabing-pro-deti/5c742f650646d",
       "size_bytes": 344321876,
       "source_container": "mp4",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 22356,
-      "series_id": 105,
-      "series_title": "Alfred Hitchcock uvádí",
-      "season": 5,
-      "episode": 1,
-      "display_name": "Alfred Hitchcock uvádí S05E01 - 1. epizoda CZ Titulky",
-      "intent_id": "326916e63a7b4b09ae5e58e27120a61f",
-      "started_at": "2026-11-21T02:12:47Z",
-      "upload_account": "primary",
-      "source_id": -4031347045265948,
-      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e01/594987f190ca0",
-      "size_bytes": 332167719,
-      "source_container": "mkv",
       "source_download_kind": "original"
     }
   ],
@@ -1341673,5 +1341683,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T02:12:47Z"
+  "last_updated": "2026-11-21T02:14:00Z"
 }
