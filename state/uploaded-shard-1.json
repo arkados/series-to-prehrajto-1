@@ -924071,6 +924071,32 @@
         "download_sec": 31.9,
         "upload_sec": 51.3
       }
+    },
+    {
+      "episode_id": 152177,
+      "series_id": 5244,
+      "series_title": "Burnout Syndrome",
+      "season": 1,
+      "episode": 10,
+      "episode_code": "S01E10",
+      "display_name": "Burnout Syndrome S01E10 - 10. epizoda CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -68518019373301944,
+      "external_id": "cd8b3f51d0442b40",
+      "source_url": "https://prehraj.to/burnout-syndrome-s01e10-thai-bl-cz-titulky/cd8b3f51d0442b40",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31224802,
+      "size_bytes": 850761740,
+      "uploaded_at": "2026-11-21T09:30:48Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 29.9,
+        "upload_sec": 44.7
+      }
     }
   ],
   "pending_uploads": [
@@ -925211,18 +925237,18 @@
       "source_download_kind": "original"
     },
     {
-      "episode_id": 152177,
+      "episode_id": 152176,
       "series_id": 5244,
       "series_title": "Burnout Syndrome",
       "season": 1,
-      "episode": 10,
-      "display_name": "Burnout Syndrome S01E10 - 10. epizoda CZ Titulky",
-      "intent_id": "a0606d28081d4adb9921af269c3d6f6e",
-      "started_at": "2026-11-21T09:29:24Z",
+      "episode": 9,
+      "display_name": "Burnout Syndrome S01E09 - 9. epizoda CZ Titulky",
+      "intent_id": "5d2f9472e9bf42798609546a86e1d64f",
+      "started_at": "2026-11-21T09:30:13Z",
       "upload_account": "primary",
-      "source_id": -68518019373301944,
-      "source_url": "https://prehraj.to/burnout-syndrome-s01e10-thai-bl-cz-titulky/cd8b3f51d0442b40",
-      "size_bytes": 850761740,
+      "source_id": -40565874468940102,
+      "source_url": "https://prehraj.to/burnout-syndrome-s01e09-thai-bl/ed63dcfb24750ec8",
+      "size_bytes": 883334495,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1343283,5 +1343309,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T09:29:24Z"
+  "last_updated": "2026-11-21T09:30:48Z"
 }
