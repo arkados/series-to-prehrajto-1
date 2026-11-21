@@ -923915,6 +923915,32 @@
         "download_sec": 17.5,
         "upload_sec": 31.2
       }
+    },
+    {
+      "episode_id": 200092,
+      "series_id": 10111,
+      "series_title": "Štěněcí akademie",
+      "season": 1,
+      "episode": 2,
+      "episode_code": "S01E02",
+      "display_name": "Štěněcí akademie S01E02 - Můj den s páníčkem CZ Titulky",
+      "upload_account": "primary",
+      "source_id": -963637161053205,
+      "external_id": "5f95d894a0602",
+      "source_url": "https://prehraj.to/pup-academy-s01e02-cztit-v-obraze/5f95d894a0602",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223701,
+      "size_bytes": 673940922,
+      "uploaded_at": "2026-11-21T08:28:14Z",
+      "timing": {
+        "resolve_sec": 1.2,
+        "download_sec": 38.5,
+        "upload_sec": 56.6
+      }
     }
   ],
   "pending_uploads": [
@@ -925053,22 +925079,6 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 200092,
-      "series_id": 10111,
-      "series_title": "Štěněcí akademie",
-      "season": 1,
-      "episode": 2,
-      "display_name": "Štěněcí akademie S01E02 - Můj den s páníčkem CZ Titulky",
-      "intent_id": "2503d8931d5e4a74a696934922f926b4",
-      "started_at": "2026-11-21T08:26:20Z",
-      "upload_account": "primary",
-      "source_id": -963637161053205,
-      "source_url": "https://prehraj.to/pup-academy-s01e02-cztit-v-obraze/5f95d894a0602",
-      "size_bytes": 673940922,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343127,5 +1343137,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:26:20Z"
+  "last_updated": "2026-11-21T08:28:14Z"
 }
