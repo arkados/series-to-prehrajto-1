@@ -920026,6 +920026,32 @@
         "download_sec": 15.8,
         "upload_sec": 30.7
       }
+    },
+    {
+      "episode_id": 71891,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 5,
+      "episode": 6,
+      "episode_code": "S05E06",
+      "display_name": "Highlander S05E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -629868712345193,
+      "external_id": "59787b347c94c",
+      "source_url": "https://prehraj.to/highlander-s05e06-cz-tit/59787b347c94c",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31215933,
+      "size_bytes": 363288158,
+      "uploaded_at": "2026-11-21T00:09:34Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 34.8,
+        "upload_sec": 28.8
+      }
     }
   ],
   "pending_uploads": [
@@ -921132,22 +921158,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 71891,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 5,
-      "episode": 6,
-      "display_name": "Highlander S05E06 - 6. epizoda CZ Titulky",
-      "intent_id": "4e649eb7dc52414dbcdd5b6758a7a07b",
-      "started_at": "2026-11-21T00:06:35Z",
-      "upload_account": "serialy",
-      "source_id": -629868712345193,
-      "source_url": "https://prehraj.to/highlander-s05e06-cz-tit/59787b347c94c",
-      "size_bytes": 363288158,
-      "source_container": "mkv",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339172,5 +1339182,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T00:07:54Z"
+  "last_updated": "2026-11-21T00:09:34Z"
 }
