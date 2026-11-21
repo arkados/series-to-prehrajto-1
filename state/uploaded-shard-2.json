@@ -920572,6 +920572,32 @@
         "download_sec": 12.3,
         "upload_sec": 24.6
       }
+    },
+    {
+      "episode_id": 71963,
+      "series_id": 1679,
+      "series_title": "Highlander",
+      "season": 6,
+      "episode": 6,
+      "episode_code": "S06E06",
+      "display_name": "Highlander S06E06 - 6. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -64921048116543909,
+      "external_id": "59787c4139c5f",
+      "source_url": "https://prehraj.to/highlander-s06e06-cz-tit/59787c4139c5f",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31219610,
+      "size_bytes": 335394835,
+      "uploaded_at": "2026-11-21T04:04:19Z",
+      "timing": {
+        "resolve_sec": 2.5,
+        "download_sec": 24.0,
+        "upload_sec": 79.0
+      }
     }
   ],
   "pending_uploads": [
@@ -921680,20 +921706,20 @@
       "source_download_kind": "stream"
     },
     {
-      "episode_id": 71963,
-      "series_id": 1679,
-      "series_title": "Highlander",
-      "season": 6,
-      "episode": 6,
-      "display_name": "Highlander S06E06 - 6. epizoda CZ Titulky",
-      "intent_id": "03ac0b619c354b8ea00d1cdc54fcc02e",
-      "started_at": "2026-11-21T04:02:04Z",
+      "episode_id": 22362,
+      "series_id": 105,
+      "series_title": "Alfred Hitchcock uvádí",
+      "season": 5,
+      "episode": 7,
+      "display_name": "Alfred Hitchcock uvádí S05E07 - 7. epizoda CZ Titulky",
+      "intent_id": "2bea6b56afab4570bf93036c271a5370",
+      "started_at": "2026-11-21T04:09:43Z",
       "upload_account": "serialy",
-      "source_id": -64921048116543909,
-      "source_url": "https://prehraj.to/highlander-s06e06-cz-tit/59787c4139c5f",
-      "size_bytes": 335394835,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
+      "source_id": -21877079463471917,
+      "source_url": "https://prehraj.to/alfred-hitchcock-presents-s05e07/59498845336c2",
+      "size_bytes": 332332381,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339718,5 +1339744,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:03:06Z"
+  "last_updated": "2026-11-21T04:09:43Z"
 }
