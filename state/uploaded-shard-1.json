@@ -923837,6 +923837,58 @@
         "download_sec": 11.8,
         "upload_sec": 27.8
       }
+    },
+    {
+      "episode_id": 187652,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 10,
+      "episode": 11,
+      "episode_code": "S10E11",
+      "display_name": "Požárník Sam S10E11 - Ohnivý fotbal CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -639731199048410,
+      "external_id": "5c75f182c2973",
+      "source_url": "https://prehraj.to/pozarnik-sam-s10e11-cz-dabing-pro-deti/5c75f182c2973",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223409,
+      "size_bytes": 351296632,
+      "uploaded_at": "2026-11-21T08:04:27Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 21.5,
+        "upload_sec": 36.5
+      }
+    },
+    {
+      "episode_id": 193872,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 67,
+      "episode_code": "S01E67",
+      "display_name": "Bing S01E67 - Vybírání CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -23244556779041439,
+      "external_id": "dec6c6b40f35dde7",
+      "source_url": "https://prehraj.to/bing-s01e67-78-2014-cz-dabing-1080p-fhd-vybirani/dec6c6b40f35dde7",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "original",
+      "source_container": "mkv",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31223434,
+      "size_bytes": 334178889,
+      "uploaded_at": "2026-11-21T08:06:49Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 19.7,
+        "upload_sec": 41.1
+      }
     }
   ],
   "pending_uploads": [
@@ -1343033,5 +1343085,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T07:56:39Z"
+  "last_updated": "2026-11-21T08:09:47Z"
 }
