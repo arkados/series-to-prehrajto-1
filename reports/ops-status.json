@@ -1,30 +1,78 @@
 {
   "counts": {
     "backlog_episodes": 108046,
-    "manifest_upload_ready_episodes": 5,
-    "uploaded_episodes": 83627,
-    "prepared_source_episodes": 67684,
+    "manifest_upload_ready_episodes": 1,
+    "uploaded_episodes": 83631,
+    "prepared_source_episodes": 67693,
     "description_series": 60,
     "description_episodes": 753,
     "description_errors": 43,
     "language_audit_rows": 0,
     "language_queue_sources": 2644,
-    "language_audited_sources": 54,
-    "language_whisper_attempted_sources": 54,
+    "language_audited_sources": 63,
+    "language_whisper_attempted_sources": 55,
     "language_pending_whisper_sources": 2604,
-    "whisper_review_sources": 53386,
-    "whisper_review_pending_sources": 35986,
-    "upload_pending_checkpoints": 140,
+    "whisper_review_sources": 53385,
+    "whisper_review_pending_sources": 35985,
+    "upload_pending_checkpoints": 141,
     "subtitle_followup_sources": 52607,
     "subtitle_followup_pending_sources": 52607
   },
   "workflow_runs": [
     {
       "conclusion": "",
+      "createdAt": "2026-11-21T06:30:20Z",
+      "databaseId": 44875851818,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "ops-watchdog"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T06:29:32Z",
+      "databaseId": 44875780684,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "cancelled",
+      "createdAt": "2026-11-21T06:28:18Z",
+      "databaseId": 44875690032,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "prepare-manifest"
+    },
+    {
+      "conclusion": "success",
+      "createdAt": "2026-11-21T06:25:51Z",
+      "databaseId": 44875504296,
+      "headBranch": "main",
+      "status": "completed",
+      "workflowName": "update-descriptions"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T06:25:48Z",
+      "databaseId": 44875499904,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "process-whisper-review"
+    },
+    {
+      "conclusion": "",
+      "createdAt": "2026-11-21T06:25:46Z",
+      "databaseId": 44875496436,
+      "headBranch": "main",
+      "status": "in_progress",
+      "workflowName": "audit-language"
+    },
+    {
+      "conclusion": "success",
       "createdAt": "2026-11-21T06:24:26Z",
       "databaseId": 44875393875,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "ops-watchdog"
     },
     {
@@ -44,11 +92,11 @@
       "workflowName": "backfill-subtitles"
     },
     {
-      "conclusion": "",
+      "conclusion": "cancelled",
       "createdAt": "2026-11-21T06:20:30Z",
       "databaseId": 44875077708,
       "headBranch": "main",
-      "status": "pending",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -84,11 +132,11 @@
       "workflowName": "ops-watchdog"
     },
     {
-      "conclusion": "",
+      "conclusion": "success",
       "createdAt": "2026-11-21T06:13:33Z",
       "databaseId": 44874523826,
       "headBranch": "main",
-      "status": "in_progress",
+      "status": "completed",
       "workflowName": "prepare-manifest"
     },
     {
@@ -130,54 +178,6 @@
       "headBranch": "main",
       "status": "completed",
       "workflowName": "audit-language"
-    },
-    {
-      "conclusion": "",
-      "createdAt": "2026-11-21T06:11:02Z",
-      "databaseId": 44874327342,
-      "headBranch": "main",
-      "status": "in_progress",
-      "workflowName": "prepare-sources"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T06:10:37Z",
-      "databaseId": 44874296680,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "backfill-subtitles"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T06:09:39Z",
-      "databaseId": 44874213518,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "ops-watchdog"
-    },
-    {
-      "conclusion": "cancelled",
-      "createdAt": "2026-11-21T06:06:39Z",
-      "databaseId": 44873980461,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "prepare-manifest"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T06:06:32Z",
-      "databaseId": 44873972892,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "sync"
-    },
-    {
-      "conclusion": "success",
-      "createdAt": "2026-11-21T05:59:11Z",
-      "databaseId": 44873374202,
-      "headBranch": "main",
-      "status": "completed",
-      "workflowName": "update-descriptions"
     }
   ],
   "gaps": {
@@ -205437,6 +205437,21 @@
         "video_id": 31221702
       },
       {
+        "episode_id": 22376,
+        "display_name": "Alfred Hitchcock uvádí S05E21 - 21. epizoda CZ Titulky",
+        "video_id": 31221800
+      },
+      {
+        "episode_id": 78561,
+        "display_name": "Neranditelní S01E13 - 13. epizoda CZ Dabing",
+        "video_id": 31221806
+      },
+      {
+        "episode_id": 78560,
+        "display_name": "Neranditelní S01E12 - 12. epizoda CZ Titulky",
+        "video_id": 31221830
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -392535,6 +392550,11 @@
         "episode_id": 74282,
         "display_name": "About a Boy S01E10 - 10. epizoda CZ Dabing",
         "video_id": 31221567
+      },
+      {
+        "episode_id": 22375,
+        "display_name": "Alfred Hitchcock uvádí S05E20 - 20. epizoda CZ Titulky",
+        "video_id": 31221802
       }
     ],
     "uploaded_not_marked_description_updated": [
@@ -597689,6 +597709,21 @@
         "video_id": 31221702
       },
       {
+        "episode_id": 22376,
+        "display_name": "Alfred Hitchcock uvádí S05E21 - 21. epizoda CZ Titulky",
+        "video_id": 31221800
+      },
+      {
+        "episode_id": 78561,
+        "display_name": "Neranditelní S01E13 - 13. epizoda CZ Dabing",
+        "video_id": 31221806
+      },
+      {
+        "episode_id": 78560,
+        "display_name": "Neranditelní S01E12 - 12. epizoda CZ Titulky",
+        "video_id": 31221830
+      },
+      {
         "episode_id": 114182,
         "display_name": "Three-body S01E30 - 30. epizoda CZ Titulky",
         "video_id": 27840276
@@ -784787,6 +784822,11 @@
         "episode_id": 74282,
         "display_name": "About a Boy S01E10 - 10. epizoda CZ Dabing",
         "video_id": 31221567
+      },
+      {
+        "episode_id": 22375,
+        "display_name": "Alfred Hitchcock uvádí S05E20 - 20. epizoda CZ Titulky",
+        "video_id": 31221802
       }
     ],
     "prepared_not_upload_ready": [
@@ -785948,12 +785988,13 @@
   },
   "language_verdicts": {},
   "language_whisper_statuses": {
-    "ok": 48,
+    "disabled": 8,
+    "ok": 49,
     "sample_failed": 5,
     "resolve_failed": 1
   },
   "whisper_review_statuses": {
-    "needs_whisper": 34706,
+    "needs_whisper": 34705,
     "whisper_confirmed_cz": 4272,
     "whisper_non_cz_needs_subtitles": 13128,
     "whisper_failed": 1280
