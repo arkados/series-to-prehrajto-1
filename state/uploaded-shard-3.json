@@ -922620,6 +922620,22 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 193875,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 71,
+      "display_name": "Bing S01E71 - Krádež CZ Dabing",
+      "intent_id": "99461eaa26dc44dc9eccd9ced58f2cfb",
+      "started_at": "2026-11-21T08:40:53Z",
+      "upload_account": "serialy",
+      "source_id": -71663816065376267,
+      "source_url": "https://prehraj.to/bing-s01e71-78-2014-cz-dabing-1080p-fhd-kradez/a87bd7d24730151f",
+      "size_bytes": 333945501,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1340678,5 +1340694,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:40:04Z"
+  "last_updated": "2026-11-21T08:40:53Z"
 }
