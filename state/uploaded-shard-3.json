@@ -1340451,7 +1340451,24 @@
         "download_sec": 18.0,
         "upload_sec": 19.0
       }
+    },
+    {
+      "episode_id": 78575,
+      "series_id": 1835,
+      "display_name": "Neranditelní S03E07 - 7. epizoda CZ Titulky",
+      "source_id": -67537932636281230,
+      "external_id": "36ba31ca3852a932",
+      "url": "https://prehraj.to/neranditelni-s3e7-tba-en/36ba31ca3852a932",
+      "reason": "upload_failed: HTTPError: 502 Server Error: Bad Gateway for url: <upload-url>",
+      "permanent": false,
+      "download_policy_version": 1,
+      "failed_at": "2026-11-21T07:45:45Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.2,
+        "upload_sec": 22.1
+      }
     }
   ],
-  "last_updated": "2026-11-21T07:44:47Z"
+  "last_updated": "2026-11-21T07:45:45Z"
 }
