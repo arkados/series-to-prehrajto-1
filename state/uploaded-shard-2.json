@@ -920728,6 +920728,32 @@
         "download_sec": 14.8,
         "upload_sec": 33.4
       }
+    },
+    {
+      "episode_id": 78562,
+      "series_id": 1835,
+      "series_title": "Neranditelní",
+      "season": 2,
+      "episode": 1,
+      "episode_code": "S02E01",
+      "display_name": "Neranditelní S02E01 - 1. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -64808557615314544,
+      "external_id": "58bd716514e48",
+      "source_url": "https://prehraj.to/neranditelni-02x01-dvb-t-cz/58bd716514e48",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31220475,
+      "size_bytes": 328440968,
+      "uploaded_at": "2026-11-21T04:58:54Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 18.3,
+        "upload_sec": 31.5
+      }
     }
   ],
   "pending_uploads": [
@@ -921834,22 +921860,6 @@
       "size_bytes": 355065873,
       "source_container": "mp4",
       "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 78562,
-      "series_id": 1835,
-      "series_title": "Neranditelní",
-      "season": 2,
-      "episode": 1,
-      "display_name": "Neranditelní S02E01 - 1. epizoda CZ Dabing",
-      "intent_id": "1af138b105294ba8994c3ff2b1aaf9b2",
-      "started_at": "2026-11-21T04:57:30Z",
-      "upload_account": "serialy",
-      "source_id": -64808557615314544,
-      "source_url": "https://prehraj.to/neranditelni-02x01-dvb-t-cz/58bd716514e48",
-      "size_bytes": 328440968,
-      "source_container": "avi",
-      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1339874,5 +1339884,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T04:57:30Z"
+  "last_updated": "2026-11-21T04:58:54Z"
 }
