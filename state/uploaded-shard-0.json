@@ -925001,6 +925001,22 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 193872,
+      "series_id": 9877,
+      "series_title": "Bing",
+      "season": 1,
+      "episode": 67,
+      "display_name": "Bing S01E67 - Vybírání CZ Dabing",
+      "intent_id": "df7fc98a6c984e0e9d8ff18d913125d0",
+      "started_at": "2026-11-21T08:05:38Z",
+      "upload_account": "primary",
+      "source_id": -23244556779041439,
+      "source_url": "https://prehraj.to/bing-s01e67-78-2014-cz-dabing-1080p-fhd-vybirani/dec6c6b40f35dde7",
+      "size_bytes": 334178889,
+      "source_container": "mkv",
+      "source_download_kind": "original"
     }
   ],
   "failed_attempts": [
@@ -1343059,5 +1343075,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T08:04:27Z"
+  "last_updated": "2026-11-21T08:05:38Z"
 }
