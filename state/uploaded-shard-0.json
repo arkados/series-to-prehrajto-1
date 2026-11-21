@@ -924825,6 +924825,32 @@
         "download_sec": 236.4,
         "upload_sec": 28.7
       }
+    },
+    {
+      "episode_id": 187640,
+      "series_id": 9724,
+      "series_title": "Požárník Sam",
+      "season": 9,
+      "episode": 24,
+      "episode_code": "S09E24",
+      "display_name": "Požárník Sam S09E24 - Zahradní pomocník CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -50700174889953419,
+      "external_id": "5c747360818e2",
+      "source_url": "https://prehraj.to/pozarnik-sam-s09e24-cz-dabing-pro-deti/5c747360818e2",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "720p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31229369,
+      "size_bytes": 339361418,
+      "uploaded_at": "2026-11-21T13:34:09Z",
+      "timing": {
+        "resolve_sec": 0.9,
+        "download_sec": 13.3,
+        "upload_sec": 50.7
+      }
     }
   ],
   "pending_uploads": [
@@ -925962,22 +925988,6 @@
       "source_url": "https://prehraj.to/rodinka-na-kousky-s01e01-22-2015-cz-dab-400p-pilot/68f85cc2cd87c",
       "size_bytes": 331581538,
       "source_container": "avi",
-      "source_download_kind": "original"
-    },
-    {
-      "episode_id": 187640,
-      "series_id": 9724,
-      "series_title": "Požárník Sam",
-      "season": 9,
-      "episode": 24,
-      "display_name": "Požárník Sam S09E24 - Zahradní pomocník CZ Dabing",
-      "intent_id": "97963649b66443cebf7f09a839362024",
-      "started_at": "2026-11-21T13:32:42Z",
-      "upload_account": "primary",
-      "source_id": -50700174889953419,
-      "source_url": "https://prehraj.to/pozarnik-sam-s09e24-cz-dabing-pro-deti/5c747360818e2",
-      "size_bytes": 339361418,
-      "source_container": "mp4",
       "source_download_kind": "original"
     }
   ],
@@ -1344037,5 +1344047,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T13:32:42Z"
+  "last_updated": "2026-11-21T13:34:09Z"
 }
