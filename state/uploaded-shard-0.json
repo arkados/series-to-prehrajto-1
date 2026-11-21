@@ -924669,6 +924669,32 @@
         "download_sec": 21.0,
         "upload_sec": 32.1
       }
+    },
+    {
+      "episode_id": 74280,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "About a Boy S01E08 - 8. epizoda CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -70307949973611437,
+      "external_id": "29317db2d27f70a0",
+      "source_url": "https://prehraj.to/about-a-boy-s01e08-about-a-slopmaster-1080p-cz/29317db2d27f70a0",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31228052,
+      "size_bytes": 697943716,
+      "uploaded_at": "2026-11-21T12:15:31Z",
+      "timing": {
+        "resolve_sec": 1.0,
+        "download_sec": 86.1,
+        "upload_sec": 63.0
+      }
     }
   ],
   "pending_uploads": [
@@ -925807,22 +925833,6 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
-    },
-    {
-      "episode_id": 74280,
-      "series_id": 1738,
-      "series_title": "About a Boy",
-      "season": 1,
-      "episode": 8,
-      "display_name": "About a Boy S01E08 - 8. epizoda CZ Dabing",
-      "intent_id": "28eb6e46febf4963935c24152cc23537",
-      "started_at": "2026-11-21T12:13:57Z",
-      "upload_account": "primary",
-      "source_id": -70307949973611437,
-      "source_url": "https://prehraj.to/about-a-boy-s01e08-about-a-slopmaster-1080p-cz/29317db2d27f70a0",
-      "size_bytes": 697943716,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343881,5 +1343891,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T12:13:57Z"
+  "last_updated": "2026-11-21T12:15:31Z"
 }
