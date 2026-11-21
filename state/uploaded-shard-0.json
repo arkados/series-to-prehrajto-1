@@ -924877,6 +924877,32 @@
         "download_sec": 32.5,
         "upload_sec": 42.2
       }
+    },
+    {
+      "episode_id": 68565,
+      "series_id": 1589,
+      "series_title": "Život beze slov",
+      "season": 2,
+      "episode": 3,
+      "episode_code": "S02E03",
+      "display_name": "Život beze slov S02E03 - JJův sen CZ Dabing",
+      "upload_account": "primary",
+      "source_id": -5227447590873793,
+      "external_id": "5e592bf493d0f",
+      "source_url": "https://prehraj.to/zivot-beze-slov-02x03-dvb-t-cz/5e592bf493d0f",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "avi",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31229862,
+      "size_bytes": 337110776,
+      "uploaded_at": "2026-11-21T14:01:03Z",
+      "timing": {
+        "resolve_sec": 0.8,
+        "download_sec": 84.4,
+        "upload_sec": 25.2
+      }
     }
   ],
   "pending_uploads": [
@@ -1344122,5 +1344148,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T13:54:23Z"
+  "last_updated": "2026-11-21T14:01:03Z"
 }
