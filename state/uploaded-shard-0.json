@@ -925131,6 +925131,22 @@
       "size_bytes": 331581538,
       "source_container": "avi",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 134372,
+      "series_id": 3964,
+      "series_title": "Malory Towers",
+      "season": 7,
+      "episode": 2,
+      "display_name": "Malory Towers S07E02 - 2. epizoda CZ Titulky",
+      "intent_id": "0dc8d03f5b0745a7b93760aca552b89c",
+      "started_at": "2026-11-21T09:14:45Z",
+      "upload_account": "primary",
+      "source_id": -49315107573217181,
+      "source_url": "https://prehraj.to/malory-towers-s07e02-the-champions-1080p-mkv/bd2d4f1be66a8f96",
+      "size_bytes": 637406253,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1343189,5 +1343205,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T09:07:27Z"
+  "last_updated": "2026-11-21T09:14:45Z"
 }
