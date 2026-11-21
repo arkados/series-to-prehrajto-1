@@ -920910,6 +920910,32 @@
         "download_sec": 29.9,
         "upload_sec": 35.7
       }
+    },
+    {
+      "episode_id": 74278,
+      "series_id": 1738,
+      "series_title": "About a Boy",
+      "season": 1,
+      "episode": 6,
+      "episode_code": "S01E06",
+      "display_name": "About a Boy S01E06 - 6. epizoda CZ Dabing",
+      "upload_account": "serialy",
+      "source_id": -32496795790769856,
+      "external_id": "52ec2bd6d939cd7b",
+      "source_url": "https://prehraj.to/about-a-boy-s01e06-about-a-buble-1080p-cz/52ec2bd6d939cd7b",
+      "source_lang_class": "CZ_DUB",
+      "source_resolution": "1080p",
+      "source_download_kind": "stream",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31221323,
+      "size_bytes": 628609703,
+      "uploaded_at": "2026-11-21T05:51:17Z",
+      "timing": {
+        "resolve_sec": 1.4,
+        "download_sec": 33.7,
+        "upload_sec": 50.3
+      }
     }
   ],
   "pending_uploads": [
@@ -922014,22 +922040,6 @@
       "source_id": -10470971129138691,
       "source_url": "https://prehraj.to/elena-z-avaloru-s2e5-a-spy-in-the-palace-cs/ab494743b5b9bd69",
       "size_bytes": 355065873,
-      "source_container": "mp4",
-      "source_download_kind": "stream"
-    },
-    {
-      "episode_id": 74278,
-      "series_id": 1738,
-      "series_title": "About a Boy",
-      "season": 1,
-      "episode": 6,
-      "display_name": "About a Boy S01E06 - 6. epizoda CZ Dabing",
-      "intent_id": "7cc6fb4210104b49bf9508f412d2b4fa",
-      "started_at": "2026-11-21T05:49:50Z",
-      "upload_account": "serialy",
-      "source_id": -32496795790769856,
-      "source_url": "https://prehraj.to/about-a-boy-s01e06-about-a-buble-1080p-cz/52ec2bd6d939cd7b",
-      "size_bytes": 628609703,
       "source_container": "mp4",
       "source_download_kind": "stream"
     }
@@ -1340056,5 +1340066,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T05:49:50Z"
+  "last_updated": "2026-11-21T05:51:17Z"
 }
