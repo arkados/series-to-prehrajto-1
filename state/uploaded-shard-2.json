@@ -922496,6 +922496,32 @@
         "download_sec": 12.7,
         "upload_sec": 26.8
       }
+    },
+    {
+      "episode_id": 81847,
+      "series_id": 1919,
+      "series_title": "Smash",
+      "season": 1,
+      "episode": 8,
+      "episode_code": "S01E08",
+      "display_name": "Smash S01E08 - 8. epizoda CZ Titulky",
+      "upload_account": "serialy",
+      "source_id": -25702157842274349,
+      "external_id": "5bd70aaa08cd6",
+      "source_url": "https://prehraj.to/smash-s01e08/5bd70aaa08cd6",
+      "source_lang_class": "CZ_SUB",
+      "source_resolution": "480p",
+      "source_download_kind": "original",
+      "source_container": "mp4",
+      "description_source": "gemma_episode_or_series",
+      "prehrajto_video_id": 31230837,
+      "size_bytes": 317767910,
+      "uploaded_at": "2026-11-21T15:03:47Z",
+      "timing": {
+        "resolve_sec": 1.1,
+        "download_sec": 675.6,
+        "upload_sec": 42.1
+      }
     }
   ],
   "pending_uploads": [
@@ -923634,6 +923660,22 @@
       "size_bytes": 316469971,
       "source_container": "mp4",
       "source_download_kind": "original"
+    },
+    {
+      "episode_id": 204102,
+      "series_id": 302,
+      "series_title": "Marshals: Příběh z Yellowstonu",
+      "season": 2,
+      "episode": 6,
+      "display_name": "Marshals: Příběh z Yellowstonu S02E06 - 6. epizoda CZ Dabing",
+      "intent_id": "ee99c5de565641ab915b31c0f13353aa",
+      "started_at": "2026-11-21T15:18:37Z",
+      "upload_account": "serialy",
+      "source_id": -13237105336980822,
+      "source_url": "https://prehraj.to/marshals-pribeh-z-yellowstonu-s02e06-cz-dabing-eac3-5-1-h265-hevc-2160p-4k-uhd/3a062175ad7d3858",
+      "size_bytes": 610072752,
+      "source_container": "mp4",
+      "source_download_kind": "stream"
     }
   ],
   "failed_attempts": [
@@ -1341709,5 +1341751,5 @@
       }
     }
   ],
-  "last_updated": "2026-11-21T14:48:19Z"
+  "last_updated": "2026-11-21T15:18:37Z"
 }
